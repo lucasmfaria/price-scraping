@@ -13,3 +13,11 @@ def formata_num_colecao(num_colecao):
     except ValueError:
         retorno = (split[0], split[1])
     return retorno
+
+def checa_colecao(codigo_colecao, codigo_colecao_df):
+    codigo_colecao_aux = codigo_colecao.split('(')[-1].split(')')[0]
+    codigo_colecao_aux = formata_num_colecao(codigo_colecao_aux)
+    if codigo_colecao_aux == codigo_colecao_df:  # caso tenha encontrado o pokemon da linha em questão
+        return True
+    else:
+        return False
