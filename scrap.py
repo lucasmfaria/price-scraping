@@ -1,24 +1,22 @@
 import pandas as pd
-import numpy as np
 from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 import config
-import time
-from utils.dados import formata_num_colecao, carrega_dados, checa_colecao
+from utils.dados import carrega_dados, salva_dados
 from utils.scraper import carrega_driver, busca_nome, clica_exibir_mais, procura_colecao, seleciona_colecao, retorna_lingua_card, retorna_preco
 
 df = carrega_dados(config=config)
 #driver = carrega_driver(config=config, headless=True)
-#df = pd.DataFrame(data=[['Charizard', ('4/102'), 'foil', 'EN', 'NM']], columns=['nome', 'num_colecao', 'extras', 'lingua', 'condicao'])
-#df = pd.DataFrame(data=[['Mew', ('19/165'), 'foil', 'EN', 'NM']], columns=['nome', 'num_colecao', 'extras', 'lingua', 'condicao'])
+#df = pd.DataFrame(data=[['Charizard', ('4/102'), 'foil', 'EN', 'NM']], columns=['nome', 'num_colecao', 'extras', 'lingua', 'condicao']) #testes
+#df = pd.DataFrame(data=[['Mew', ('19/165'), 'foil', 'EN', 'NM']], columns=['nome', 'num_colecao', 'extras', 'lingua', 'condicao']) #testes
 #df.num_colecao = df.num_colecao.map(formata_num_colecao) #testes
 driver = carrega_driver(config=config, headless=False) #testes
 
 timeout = 10
-result_pokemon = list()
+result_pokemon_website_1 = list()
 preco_acumulado = 0
 for idx, row in df.iterrows(): #busca cada 'nome' em df
     #--------------Inicia primeira busca pelo nome----------------------
-    print('Procurando todos os {}'.format(row['nome']))
+    print('Procurando todos os {} coleção {}'.format(row['nome'], row['num_colecao']))
     busca_nome(driver=driver, nome=row['nome'], timeout=timeout)
     # ------------------------------------------------------------------
 
@@ -47,10 +45,15 @@ for idx, row in df.iterrows(): #busca cada 'nome' em df
             except NoSuchElementException:
                 extras = None
 
-            preco = retorna_preco(driver, linha, preco_acumulado)
+            timeout = 6
+            preco = retorna_preco(driver, linha, preco_acumulado, timeout)
             preco_acumulado = preco_acumulado + preco
-            
-            result_pokemon.append(
-                (row['nome'], codigo_colecao, qualidade_card, lingua_card, extras, preco))
+
+            card_info = (row['nome'], codigo_colecao, extras, lingua_card, qualidade_card, round(preco, 2))
+            print(card_info)
+            result_pokemon_website_1.append(card_info)
+            df_result = pd.DataFrame(result_pokemon_website_1, columns=df.columns.append(pd.Index(['preco'])))
+            salva_dados(df=df_result, nome_arquivo=config.CSV_OUTPUT_TODOS)
+            salva_dados(df=df.applymap(lambda x: x.lower() if type(x) == str else x).merge(df_result.applymap(lambda x: x.lower() if type(x) == str else x), how='left', on=['nome', 'num_colecao', 'extras', 'lingua', 'condicao']), nome_arquivo=config.CSV_OUTPUT_MERGE)
     else:
         print('Não foi encontrada esta coleção')

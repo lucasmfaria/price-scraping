@@ -1,87 +1,87 @@
 nome;num_colecao;extras;lingua;condicao
-Machamp;15/110;reverse legendary;EN;HP
-Hitmontop;3/75;;EN;HP
-Unown A;14/75;;EN;SP/MP
-Typhlosion;65/165;;EN;NM
-Ninetales;21/165;;EN;NM
-Combusken;25/106;ex esmeralda foil;PT;NM
-Magby;17/165;;EN;NM
-Camerupt;4/109;;EN;NM
-Camerupt;4/107;;PT;NM
-Camerupt;23/106;;EN;NM
-Blaziken;15/109;;EN;M/NM
-Blaziken;15/109;;EN;M/NM
-Venomoth;29/64;;PT;MP
-Arbok;35/165;;EN;NM
-Roselia;9/97;;EN;M/NM
-Heracross;07/101;;EN;NM
-Dark Crobat;2/105;;EN;M/NM
-Butterfree;19/75;;EN;SP
-Butterfree;33/64;;EN;MP
-Koga's Beedrill;9/132;;EN;HP
-Deoxys;17/107;;PT;SP
-Deoxys;16/107;;PT;NM
-Dark Espeon;4/105;;EN;NM/SP
-Mew;19/165;;EN;NM
-Mew;55/165;;EN;NM
-Alakazam;1/165;;EN;NM
-Alakazam;33/165;;EN;NM
-Alakazam;33/165;;EN;NM
-Vaporeon;12/64;;PT;D
-Mr. Mime;6/64;;EN;HP
-Sabrina Alakazam;16/132;;EN;D
-Delibird;21/109;;EN;NM
-Wailord;14/109;;EN;NM
-Dark Gyarados;25/82;;EN;MP
-Tentacruel;H26/H32;;EN;M/NM
-Suicune;27/64;;EN;SP
-Quagsire;26/109;;PT;NM
-Qwilfish;27/109;;PT;NM
-Milotic EX;96/106;;PT;M/NM
-Lt. Surge's Magneton;8/132;;EN;NM
-Jolteon;4/64;;EN;SP
-Manectric;9/109;;EN;SP
-Manectric;16/106;;PT;NM
-Eevee;38/75;;EN;MP
-Flygon;15/97;;EN;NM
-Flygon;15/97;;EN;NM
-Kangaskhan;5/64;;PT;NM
-Kangaskhan;5/64;;PT;SP
-Kangaskhan;5/64;;PT;MP
-Snorlax;11/64;;PT;HP
-Shiftry;14/101;;EN;M/NM
-Tyranitar;29/165;reverse foil;EN;NM
-Claydol;8/95;reverse foil;EN;NM
-Dark Dragonite;15/109;;PT;NM
-Dark Dragonite;15/109;;PT;NM
-Kyogre;3/95;foil;EN;M/NM
-Scizor;32/147;;EN;NM
-Furret;22/109;;PT;NM
-Dark Magneton;39/109;;PT;NM
-Darkness Energy;93/109;foil;EN;NM
+Machamp;15/110;reverse foil;Inglês;HP
+Hitmontop;3/75;foil;Inglês;HP
+Unown A;14/75;foil;Inglês;SP
+Typhlosion;65/165;;Inglês;NM
+Ninetales;21/165;foil;Inglês;NM
+Combusken;25/106;ex esmeralda foil;Português;NM
+Magby;17/165;;Inglês;NM
+Camerupt;4/109;;Inglês;NM
+Camerupt;4/107;;Português;NM
+Camerupt;23/106;;Inglês;NM
+Blaziken;15/109;;Inglês;NM
+Blaziken;15/109;;Inglês;NM
+Venomoth;29/64;;Português;MP
+Arbok;35/165;;Inglês;NM
+Roselia;9/97;;Inglês;NM
+Heracross;07/101;;Inglês;NM
+Dark Crobat;2/105;;Inglês;NM
+Butterfree;19/75;;Inglês;SP
+Butterfree;33/64;;Inglês;MP
+Koga's Beedrill;9/132;Foil;Inglês;HP
+Deoxys;17/107;;Português;SP
+Deoxys;16/107;;Português;NM
+Dark Espeon;4/105;;Inglês;NM
+Mew;19/165;;Inglês;NM
+Mew;55/165;;Inglês;NM
+Alakazam;1/165;;Inglês;NM
+Alakazam;33/165;;Inglês;NM
+Alakazam;33/165;;Inglês;NM
+Vaporeon;12/64;;Português;D
+Mr. Mime;6/64;;Inglês;HP
+Sabrina Alakazam;16/132;;Inglês;D
+Delibird;21/109;;Inglês;NM
+Wailord;14/109;;Inglês;NM
+Dark Gyarados;25/82;;Inglês;MP
+Tentacruel;H26/H32;;Inglês;NM
+Suicune;27/64;;Inglês;SP
+Quagsire;26/109;;Português;NM
+Qwilfish;27/109;;Português;NM
+Milotic EX;96/106;Foil;Português;NM
+Lt. Surge's Magneton;8/132;Foil;Inglês;NM
+Jolteon;4/64;Foil;Inglês;SP
+Manectric;9/109;;Inglês;SP
+Manectric;16/106;;Português;NM
+Eevee;38/75;;Inglês;MP
+Flygon;15/97;;Inglês;NM
+Flygon;15/97;;Inglês;NM
+Kangaskhan;5/64;Foil;Português;NM
+Kangaskhan;5/64;Foil;Português;SP
+Kangaskhan;5/64;Foil;Português;MP
+Snorlax;11/64;;Português;HP
+Shiftry;14/101;;Inglês;NM
+Tyranitar;29/165;reverse foil;Inglês;NM
+Claydol;8/95;reverse foil;Inglês;NM
+Dark Dragonite;15/109;;Português;NM
+Dark Dragonite;15/109;;Português;NM
+Kyogre;3/95;foil;Inglês;NM
+Scizor;32/147;;Inglês;NM
+Furret;22/109;;Português;NM
+Dark Magneton;39/109;;Português;NM
+Darkness Energy;93/109;foil;Inglês;NM
 Water Energy;103/106;foil;;NM
-Dark metal energy;94/109;reverse foil equipe rocket;PT;NM
-Rainbow Energy;95/109;;EN;NM
-Rainbow Energy;95/109;;EN;NM
-Rainbow Energy;87/106;;PT;NM
-Entei EX;97/109;;PT;NM
-Entei EX;97/109;;PT;NM
-Metal Energy;159/165;;EN;SP
-Wartortle;92/165;;EN;NM
-Light Jolteon;48/105;;EN;NM
-Unown W;29/105;;EN;SP
-Light Vaporeon;52/105;;EN;NM
-Dark Omastar;19/105;;EN;M/NM
-Dark Ursaring;21/105;;EN;NM
-Clefable;41/165;;EN;NM
-Light Flareon;46/105;;EN;NM
-Light Ninetales;50/105;;EN;NM
-Unown H;28/105;;EN;NM
-Dragonair;75/165;reverse holo;EN;SP
-Dark Golbat;34/109;reverse holo;PT;NM
-Cyndaquil;105/165;reverse holo;EN;NM
-Dratini;53/109;reverse holo;PT;NM
-Salamence lv X;98/99;;EN;NM
-Deoxys EX;97/107;;PT;NM
-Shining Kabutops;108/105;;EN;NM
-Shining Steelix;112/105;;EN;NM
+Dark metal energy;94/109;reverse foil equipe rocket;Português;NM
+Rainbow Energy;95/109;;Inglês;NM
+Rainbow Energy;95/109;;Inglês;NM
+Rainbow Energy;87/106;;Português;NM
+Entei EX;97/109;Foil;Português;NM
+Entei EX;97/109;Foil;Português;NM
+Metal Energy;159/165;;Inglês;SP
+Wartortle;92/165;;Inglês;NM
+Light Jolteon;48/105;;Inglês;NM
+Unown W;29/105;;Inglês;SP
+Light Vaporeon;52/105;;Inglês;NM
+Dark Omastar;19/105;;Inglês;NM
+Dark Ursaring;21/105;;Inglês;NM
+Clefable;41/165;;Inglês;NM
+Light Flareon;46/105;;Inglês;NM
+Light Ninetales;50/105;;Inglês;NM
+Unown H;28/105;;Inglês;NM
+Dragonair;75/165;reverse holo;Inglês;SP
+Dark Golbat;34/109;reverse holo;Português;NM
+Cyndaquil;105/165;reverse holo;Inglês;NM
+Dratini;53/109;reverse holo;Português;NM
+Salamence lv X;98/99;;Inglês;NM
+Deoxys EX;97/107;;Português;NM
+Shining Kabutops;108/105;;Inglês;NM
+Shining Steelix;112/105;;Inglês;NM

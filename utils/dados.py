@@ -2,8 +2,12 @@ import pandas as pd
 from pathlib import Path
 
 def carrega_dados(config):
-    df = pd.read_csv(Path('./data') / config.CSV_NAME, sep=';')
+    df = pd.read_csv(Path('./data') / config.CSV_INPUT, sep=';')
     df.num_colecao = df.num_colecao.map(formata_num_colecao)
+    return df
+
+def salva_dados(df, nome_arquivo):
+    df.to_csv(Path('./data') / nome_arquivo, sep=';')
     return df
 
 def formata_num_colecao(num_colecao):

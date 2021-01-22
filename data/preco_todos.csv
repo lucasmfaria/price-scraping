@@ -1,0 +1,108 @@
+;nome;num_colecao;extras;lingua;condicao;preco
+0;Machamp;(15, 110);;Inglês;HP;49.9
+1;Machamp;(15, 110);;Inglês;SP;74.9
+2;Machamp;(15, 110);;Inglês;D;79.9
+3;Machamp;(15, 110);;Inglês;MP;99.9
+4;Hitmontop;(3, 75);;Inglês;D;5.0
+5;Hitmontop;(3, 75);;Inglês;D;24.5
+6;Hitmontop;(3, 75);;Japonês;NM;24.9
+7;Hitmontop;(3, 75);;Inglês;D;29.9
+8;Hitmontop;(3, 75);;Inglês;MP;35.95
+9;Hitmontop;(3, 75);;Japonês;NM;39.95
+10;Hitmontop;(3, 75);;Inglês;MP;40.0
+11;Hitmontop;(3, 75);;Inglês;D;44.9
+12;Hitmontop;(3, 75);;Inglês;MP;45.0
+13;Hitmontop;(3, 75);;Inglês;D;54.5
+14;Hitmontop;(3, 75);;Inglês;MP;54.9
+15;Hitmontop;(3, 75);;Inglês;HP;59.9
+16;Hitmontop;(3, 75);;Inglês;SP;62.9
+17;Unown A;(14, 75);;Inglês;D;4.5
+18;Unown A;(14, 75);;Inglês;D;9.5
+19;Unown A;(14, 75);;Português / Inglês;MP;12.0
+20;Unown A;(14, 75);;Inglês;HP;12.0
+21;Unown A;(14, 75);;Inglês;D;16.9
+22;Unown A;(14, 75);;Inglês;HP;18.9
+23;Unown A;(14, 75);;Inglês;MP;21.9
+24;Unown A;(14, 75);;Inglês;MP;24.5
+25;Unown A;(14, 75);;Japonês;NM;29.9
+26;Unown A;(14, 75);;Inglês;SP;59.9
+27;Typhlosion;(65, 165);;Inglês;D;14.9
+28;Typhlosion;(65, 165);;Inglês;NM;29.99
+29;Typhlosion;(65, 165);;Inglês;NM;39.95
+30;Ninetales;(21, 165);;Inglês;HP;44.5
+31;Ninetales;(21, 165);;Inglês;MP;49.5
+32;Ninetales;(21, 165);;Inglês;HP;239.9
+33;Combusken;(25, 106);;Inglês;HP;0.99
+34;Combusken;(25, 106);;Inglês;SP;1.0
+35;Combusken;(25, 106);;Inglês;NM;1.3
+36;Combusken;(25, 106);;Inglês;SP;1.99
+37;Combusken;(25, 106);;Português / Inglês;MP;4.0
+38;Combusken;(25, 106);;Português;SP;6.9
+39;Combusken;(25, 106);;Português;NM;24.95
+40;Combusken;(25, 106);;Português;NM;59.5
+41;Combusken;(25, 106);;Inglês;NM;120.0
+42;Magby;(17, 165);;Japonês;HP;39.9
+43;Magby;(17, 165);;Inglês;SP;69.9
+44;Camerupt;(4, 109);;Português;HP;2.94
+45;Camerupt;(4, 109);;Português;HP;2.95
+46;Camerupt;(4, 109);;Português;HP;4.0
+47;Camerupt;(4, 109);;Português;HP;4.3
+48;Camerupt;(4, 109);;Português;D;7.9
+49;Camerupt;(4, 109);;Português;HP;8.3
+50;Camerupt;(4, 109);;Inglês;NM;21.21
+51;Camerupt;(23, 106);;Português;HP;0.4
+52;Camerupt;(23, 106);;Inglês;HP;0.4
+53;Camerupt;(23, 106);;Português / Inglês;NM;0.5
+54;Camerupt;(23, 106);;Português;MP;0.5
+55;Camerupt;(23, 106);;Português;SP;0.7
+56;Camerupt;(23, 106);;Inglês;HP;0.99
+57;Camerupt;(23, 106);;Inglês;NM;1.0
+58;Camerupt;(23, 106);;Português;NM;1.0
+59;Camerupt;(23, 106);;Português;MP;1.35
+60;Camerupt;(23, 106);;Inglês;NM;1.5
+61;Camerupt;(23, 106);;Inglês;SP;1.5
+62;Camerupt;(23, 106);;Português;D;1.9
+63;Camerupt;(23, 106);;Português;HP;3.3
+64;Camerupt;(23, 106);;Português;MP;3.5
+65;Camerupt;(23, 106);;Português;SP;3.7
+66;Camerupt;(23, 106);;Inglês;MP;4.0
+67;Camerupt;(23, 106);;Português;HP;5.9
+68;Blaziken;(15, 109);;Inglês;HP;1.0
+69;Blaziken;(15, 109);;Português;D;1.0
+70;Blaziken;(15, 109);;Português;MP;1.3
+71;Blaziken;(15, 109);;Inglês;MP;1.3
+72;Blaziken;(15, 109);;Português;SP;1.5
+73;Blaziken;(15, 109);;Português;SP;1.5
+74;Blaziken;(15, 109);;Português;D;1.79
+75;Blaziken;(15, 109);;Português;SP;1.9
+76;Blaziken;(15, 109);;Inglês;NM;2.0
+77;Blaziken;(15, 109);;Inglês;NM;2.0
+78;Blaziken;(15, 109);;Português;HP;2.0
+79;Blaziken;(15, 109);;Português;HP;2.25
+80;Blaziken;(15, 109);;Português;MP;2.69
+81;Blaziken;(15, 109);;Português;D;3.0
+82;Blaziken;(15, 109);;Português;SP;3.5
+83;Blaziken;(15, 109);;Português;D;3.9
+84;Blaziken;(15, 109);;Inglês;MP;4.0
+85;Blaziken;(15, 109);;Português;HP;4.3
+86;Blaziken;(15, 109);;Português;MP;4.5
+87;Blaziken;(15, 109);;Português;SP;4.7
+88;Blaziken;(15, 109);;Português;NM;4.9
+89;Blaziken;(15, 109);;Inglês;SP;5.0
+90;Blaziken;(15, 109);;Português;MP;5.0
+91;Blaziken;(15, 109);;Inglês;D;5.9
+92;Blaziken;(15, 109);;Português;MP;5.9
+93;Blaziken;(15, 109);;Inglês;MP;6.5
+94;Blaziken;(15, 109);;Português;SP;6.75
+95;Blaziken;(15, 109);;Inglês;NM;7.0
+96;Blaziken;(15, 109);;Inglês;D;10.9
+97;Blaziken;(15, 109);;Português;MP;11.0
+98;Blaziken;(15, 109);;Inglês;SP;12.9
+99;Blaziken;(15, 109);;Inglês;HP;0.0
+100;Blaziken;(15, 109);;Português;D;1.0
+101;Blaziken;(15, 109);;Português;MP;1.3
+102;Blaziken;(15, 109);;Inglês;MP;0.0
+103;Blaziken;(15, 109);;Português;SP;1.5
+104;Blaziken;(15, 109);;Português;SP;1.5
+105;Blaziken;(15, 109);;Português;D;0.0
+106;Blaziken;(15, 109);;Português;SP;0.0

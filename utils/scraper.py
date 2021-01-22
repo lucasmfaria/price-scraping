@@ -55,7 +55,7 @@ def procura_colecao(driver, num_colecao_df):
                 break
     if idx_colecao:
         colecao_encontrada = colecoes[idx_colecao]
-        codigo_colecao_encontrada = codigo_colecao
+        codigo_colecao_encontrada = num_colecao_df
     return colecao_encontrada, codigo_colecao_encontrada
 
 def seleciona_colecao(colecao, driver, timeout=5):
@@ -89,8 +89,7 @@ def retorna_lingua_card(linha, config):
             pass
     return lingua_card
 
-def retorna_preco(driver, linha, preco_acumulado):
-    preco = None
+def retorna_preco(driver, linha, preco_acumulado, timeout=5):
     botao_comprar = linha.find_element_by_class_name('buy')
     botao_comprar.click()
     time.sleep(2)
@@ -98,7 +97,11 @@ def retorna_preco(driver, linha, preco_acumulado):
     botao_carrinho = driver.find_element_by_id('dropdownMenuCart')
     botao_carrinho.click()
     time.sleep(2)
-
+    '''
+    element_present = EC.visibility_of_element_located(
+        (By.CLASS_NAME, 'header-cart-sum'))
+    WebDriverWait(driver, timeout).until(element_present)
+    '''
     preco_total = driver.find_element_by_class_name('header-cart-sum').find_element_by_class_name('price').text
     preco_total = extrai_preco_string(preco_total)
     preco = preco_total - preco_acumulado
