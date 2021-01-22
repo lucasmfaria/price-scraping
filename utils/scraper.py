@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import ElementNotInteractableException, NoSuchElementException, StaleElementReferenceException, TimeoutException
-from utils.dados import checa_colecao
+from utils.dados import checa_colecao, extrai_preco_string
 
 def carrega_driver(config, headless=False):
     if headless == True:
@@ -29,7 +29,7 @@ def busca_nome(driver, nome, timeout=10):
     except TimeoutException:
         print('TIMEOUT')
 
-def carrega_todas_colecoes(driver, timeout=5):
+def clica_exibir_mais(driver, timeout=5):
     try:
         while True:
             driver.find_element_by_class_name('exibir-mais').click()
@@ -77,3 +77,30 @@ def seleciona_colecao(colecao, driver, timeout=5):
         element_present = EC.presence_of_element_located(
             (By.CLASS_NAME, 'estoque-linha.ecom-marketplace'))
         WebDriverWait(driver, timeout).until(element_present)
+
+def retorna_lingua_card(linha, config):
+    lingua_card = None
+    for lingua in config.LINGUAS_POSSIVEIS:  # procura a lingua do card
+        try:
+            innerHTML = linha.find_element_by_class_name('e-col4').get_attribute('innerHTML')
+            if lingua in innerHTML:
+                lingua_card = lingua
+        except NoSuchElementException:
+            pass
+    return lingua_card
+
+def retorna_preco(driver, linha, preco_acumulado):
+    preco = None
+    botao_comprar = linha.find_element_by_class_name('buy')
+    botao_comprar.click()
+    time.sleep(2)
+
+    botao_carrinho = driver.find_element_by_id('dropdownMenuCart')
+    botao_carrinho.click()
+    time.sleep(2)
+
+    preco_total = driver.find_element_by_class_name('header-cart-sum').find_element_by_class_name('price').text
+    preco_total = extrai_preco_string(preco_total)
+    preco = preco_total - preco_acumulado
+
+    return preco

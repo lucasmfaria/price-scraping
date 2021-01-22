@@ -21,3 +21,6 @@ def checa_colecao(codigo_colecao, codigo_colecao_df):
         return True
     else:
         return False
+
+def extrai_preco_string(string):
+    return float(string.split(' ')[-1].replace('.', '').replace(',', '.'))
