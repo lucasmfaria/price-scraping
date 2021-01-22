@@ -1,7 +1,7 @@
 ;nome;num_colecao;extras;lingua;condicao;preco
 0;machamp;(15, 110);reverse foil;inglês;hp;
-1;hitmontop;(3, 75);foil;inglês;hp;
-2;unown a;(14, 75);foil;inglês;sp;
+1;hitmontop;(3, 75);foil;inglês;hp;59.9
+2;unown a;(14, 75);foil;inglês;sp;59.9
 3;typhlosion;(65, 165);;inglês;nm;29.99
 4;typhlosion;(65, 165);;inglês;nm;39.95
 5;ninetales;(21, 165);foil;inglês;nm;
@@ -17,77 +17,90 @@
 15;blaziken;(15, 109);;inglês;nm;2.0
 16;blaziken;(15, 109);;inglês;nm;2.0
 17;blaziken;(15, 109);;inglês;nm;7.0
-18;venomoth;(29, 64);;português;mp;
-19;arbok;(35, 165);;inglês;nm;
-20;roselia;(9, 97);;inglês;nm;
-21;heracross;(7, 101);;inglês;nm;
-22;dark crobat;(2, 105);;inglês;nm;
-23;butterfree;(19, 75);;inglês;sp;
-24;butterfree;(33, 64);;inglês;mp;
-25;koga's beedrill;(9, 132);foil;inglês;hp;
-26;deoxys;(17, 107);;português;sp;
-27;deoxys;(16, 107);;português;nm;
-28;dark espeon;(4, 105);;inglês;nm;
-29;mew;(19, 165);;inglês;nm;
-30;mew;(55, 165);;inglês;nm;
-31;alakazam;(1, 165);;inglês;nm;
-32;alakazam;(33, 165);;inglês;nm;
-33;alakazam;(33, 165);;inglês;nm;
-34;vaporeon;(12, 64);;português;d;
-35;mr. mime;(6, 64);;inglês;hp;
-36;sabrina alakazam;(16, 132);;inglês;d;
-37;delibird;(21, 109);;inglês;nm;
-38;wailord;(14, 109);;inglês;nm;
-39;dark gyarados;(25, 82);;inglês;mp;
-40;tentacruel;('H26', 'H32');;inglês;nm;
-41;suicune;(27, 64);;inglês;sp;
-42;quagsire;(26, 109);;português;nm;
-43;qwilfish;(27, 109);;português;nm;
-44;milotic ex;(96, 106);foil;português;nm;
-45;lt. surge's magneton;(8, 132);foil;inglês;nm;
-46;jolteon;(4, 64);foil;inglês;sp;
-47;manectric;(9, 109);;inglês;sp;
-48;manectric;(16, 106);;português;nm;
-49;eevee;(38, 75);;inglês;mp;
-50;flygon;(15, 97);;inglês;nm;
-51;flygon;(15, 97);;inglês;nm;
-52;kangaskhan;(5, 64);foil;português;nm;
-53;kangaskhan;(5, 64);foil;português;sp;
-54;kangaskhan;(5, 64);foil;português;mp;
-55;snorlax;(11, 64);;português;hp;
-56;shiftry;(14, 101);;inglês;nm;
-57;tyranitar;(29, 165);reverse foil;inglês;nm;
-58;claydol;(8, 95);reverse foil;inglês;nm;
-59;dark dragonite;(15, 109);;português;nm;
-60;dark dragonite;(15, 109);;português;nm;
-61;kyogre;(3, 95);foil;inglês;nm;
-62;scizor;(32, 147);;inglês;nm;
-63;furret;(22, 109);;português;nm;
-64;dark magneton;(39, 109);;português;nm;
-65;darkness energy;(93, 109);foil;inglês;nm;
-66;water energy;(103, 106);foil;;nm;
-67;dark metal energy;(94, 109);reverse foil equipe rocket;português;nm;
-68;rainbow energy;(95, 109);;inglês;nm;
-69;rainbow energy;(95, 109);;inglês;nm;
-70;rainbow energy;(87, 106);;português;nm;
-71;entei ex;(97, 109);foil;português;nm;
-72;entei ex;(97, 109);foil;português;nm;
-73;metal energy;(159, 165);;inglês;sp;
-74;wartortle;(92, 165);;inglês;nm;
-75;light jolteon;(48, 105);;inglês;nm;
-76;unown w;(29, 105);;inglês;sp;
-77;light vaporeon;(52, 105);;inglês;nm;
-78;dark omastar;(19, 105);;inglês;nm;
-79;dark ursaring;(21, 105);;inglês;nm;
-80;clefable;(41, 165);;inglês;nm;
-81;light flareon;(46, 105);;inglês;nm;
-82;light ninetales;(50, 105);;inglês;nm;
-83;unown h;(28, 105);;inglês;nm;
-84;dragonair;(75, 165);reverse holo;inglês;sp;
-85;dark golbat;(34, 109);reverse holo;português;nm;
-86;cyndaquil;(105, 165);reverse holo;inglês;nm;
-87;dratini;(53, 109);reverse holo;português;nm;
-88;salamence lv x;(98, 99);;inglês;nm;
-89;deoxys ex;(97, 107);;português;nm;
-90;shining kabutops;(108, 105);;inglês;nm;
-91;shining steelix;(112, 105);;inglês;nm;
+18;venomoth;(29, 64);;português;mp;5.0
+19;venomoth;(29, 64);;português;mp;6.0
+20;venomoth;(29, 64);;português;mp;6.8
+21;arbok;(35, 165);;inglês;nm;
+22;roselia;(9, 97);;inglês;nm;
+23;heracross;(7, 101);;inglês;nm;
+24;dark crobat;(2, 105);;inglês;nm;
+25;butterfree;(19, 75);;inglês;sp;
+26;butterfree;(33, 64);;inglês;mp;3.0
+27;butterfree;(33, 64);;inglês;mp;4.5
+28;butterfree;(33, 64);;inglês;mp;8.0
+29;koga's beedrill;(9, 132);foil;inglês;hp;
+30;deoxys;(17, 107);;português;sp;
+31;deoxys;(16, 107);;português;nm;
+32;dark espeon;(4, 105);;inglês;nm;
+33;mew;(19, 165);;inglês;nm;
+34;mew;(55, 165);;inglês;nm;
+35;alakazam;(1, 165);;inglês;nm;
+36;alakazam;(33, 165);;inglês;nm;
+37;alakazam;(33, 165);;inglês;nm;
+38;vaporeon;(12, 64);;português;d;
+39;mr. mime;(6, 64);;inglês;hp;
+40;sabrina alakazam;(16, 132);;inglês;d;
+41;delibird;(21, 109);;inglês;nm;
+42;wailord;(14, 109);;inglês;nm;
+43;dark gyarados;(25, 82);;inglês;mp;
+44;tentacruel;('H26', 'H32');;inglês;nm;
+45;suicune;(27, 64);;inglês;sp;
+46;quagsire;(26, 109);;português;nm;
+47;qwilfish;(27, 109);;português;nm;
+48;milotic ex;(96, 106);foil;português;nm;
+49;lt. surge's magneton;(8, 132);foil;inglês;nm;
+50;jolteon;(4, 64);foil;inglês;sp;79.99
+51;jolteon;(4, 64);foil;inglês;sp;249.95
+52;manectric;(9, 109);;inglês;sp;
+53;manectric;(16, 106);;português;nm;1.5
+54;manectric;(16, 106);;português;nm;4.9
+55;manectric;(16, 106);;português;nm;5.5
+56;eevee;(38, 75);;inglês;mp;6.5
+57;eevee;(38, 75);;inglês;mp;7.9
+58;flygon;(15, 97);;inglês;nm;
+59;flygon;(15, 97);;inglês;nm;
+60;kangaskhan;(5, 64);foil;português;nm;
+61;kangaskhan;(5, 64);foil;português;sp;35.91
+62;kangaskhan;(5, 64);foil;português;sp;39.95
+63;kangaskhan;(5, 64);foil;português;sp;49.5
+64;kangaskhan;(5, 64);foil;português;mp;13.5
+65;kangaskhan;(5, 64);foil;português;mp;23.31
+66;kangaskhan;(5, 64);foil;português;mp;25.0
+67;kangaskhan;(5, 64);foil;português;mp;29.9
+68;snorlax;(11, 64);;português;hp;
+69;shiftry;(14, 101);;inglês;nm;
+70;tyranitar;(29, 165);reverse foil;inglês;nm;
+71;claydol;(8, 95);reverse foil;inglês;nm;
+72;dark dragonite;(15, 109);;português;nm;
+73;dark dragonite;(15, 109);;português;nm;
+74;kyogre;(3, 95);foil;inglês;nm;
+75;scizor;(32, 147);;inglês;nm;
+76;furret;(22, 109);;português;nm;
+77;dark magneton;(39, 109);;português;nm;
+78;darkness energy;(93, 109);foil;inglês;nm;
+79;water energy;(103, 106);foil;;nm;
+80;dark metal energy;(94, 109);reverse foil equipe rocket;português;nm;
+81;rainbow energy;(95, 109);;inglês;nm;12.9
+82;rainbow energy;(95, 109);;inglês;nm;12.9
+83;rainbow energy;(87, 106);;português;nm;25.0
+84;entei ex;(97, 109);foil;português;nm;
+85;entei ex;(97, 109);foil;português;nm;
+86;metal energy;(159, 165);;inglês;sp;39.9
+87;wartortle;(92, 165);;inglês;nm;19.99
+88;light jolteon;(48, 105);;inglês;nm;
+89;unown w;(29, 105);;inglês;sp;
+90;light vaporeon;(52, 105);;inglês;nm;
+91;dark omastar;(19, 105);;inglês;nm;
+92;dark ursaring;(21, 105);;inglês;nm;
+93;clefable;(41, 165);;inglês;nm;6.5
+94;light flareon;(46, 105);;inglês;nm;
+95;light ninetales;(50, 105);;inglês;nm;
+96;unown h;(28, 105);;inglês;nm;
+97;dragonair;(75, 165);reverse holo;inglês;sp;
+98;dark golbat;(34, 109);reverse holo;português;nm;
+99;cyndaquil;(105, 165);reverse holo;inglês;nm;
+100;dratini;(53, 109);reverse holo;português;nm;
+101;salamence lv x;(98, 99);;inglês;nm;
+102;deoxys ex;(97, 107);;português;nm;
+103;shining kabutops;(108, 105);;inglês;nm;
+104;shining steelix;(112, 105);;inglês;nm;
