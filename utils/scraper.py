@@ -53,7 +53,7 @@ def procura_colecao(driver, num_colecao_df):
             if checa_colecao(codigo_colecao, num_colecao_df):  # caso tenha encontrado o card em questão
                 idx_colecao = idx
                 break
-    if idx_colecao:
+    if idx_colecao != None:
         colecao_encontrada = colecoes[idx_colecao]
         codigo_colecao_encontrada = num_colecao_df
     return colecao_encontrada, codigo_colecao_encontrada

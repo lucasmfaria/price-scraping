@@ -2,7 +2,12 @@ import pandas as pd
 from pathlib import Path
 
 def carrega_dados(config):
-    df = pd.read_csv(Path('./data') / config.CSV_INPUT, sep=';')
+    dtypes_dict = {
+        'extras': str,
+        'lingua': str,
+        'condicao': str
+    }
+    df = pd.read_csv(Path('./data') / config.CSV_INPUT, sep=';', dtype=dtypes_dict)
     df.num_colecao = df.num_colecao.map(formata_num_colecao)
     return df
 

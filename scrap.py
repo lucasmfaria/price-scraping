@@ -52,6 +52,11 @@ for idx, row in df.iterrows(): #busca cada 'nome' em df
                 result_pokemon_website_1.append(card_info)
                 df_result = pd.DataFrame(result_pokemon_website_1, columns=df.columns.append(pd.Index(['preco'])))
                 salva_dados(df=df_result, nome_arquivo=config.CSV_OUTPUT_TODOS)
-                salva_dados(df=df.applymap(lambda x: x.lower() if type(x) == str else x).merge(df_result.applymap(lambda x: x.lower() if type(x) == str else x), how='left', on=['nome', 'num_colecao', 'extras', 'lingua', 'condicao']), nome_arquivo=config.CSV_OUTPUT_MERGE)
+                dtypes_dict = {
+                    'extras': str,
+                    'lingua': str,
+                    'condicao': str
+                }
+                salva_dados(df=df.applymap(lambda x: x.lower() if type(x) == str else x).astype(dtypes_dict).merge(df_result.applymap(lambda x: x.lower() if type(x) == str else x).astype(dtypes_dict), how='left', on=['nome', 'num_colecao', 'extras', 'lingua', 'condicao']), nome_arquivo=config.CSV_OUTPUT_MERGE)
         else:
             print('Não foi encontrada esta coleção')
