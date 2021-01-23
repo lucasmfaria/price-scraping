@@ -114,239 +114,358 @@
 112;Arbok;(35, 165);;Inglês;MP;22.9
 113;Arbok;(35, 165);;Inglês;SP;24.9
 114;Arbok;(35, 165);Reverse Foil;Inglês;D;39.9
-115;Butterfree;(33, 64);;Inglês;D;0.85
-116;Butterfree;(33, 64);;Português;MP;1.99
-117;Butterfree;(33, 64);;Português;MP;2.7
-118;Butterfree;(33, 64);;Inglês;MP;3.0
-119;Butterfree;(33, 64);;Português;MP;3.0
-120;Butterfree;(33, 64);;Português / Inglês;SP;3.0
-121;Butterfree;(33, 64);;Inglês;HP;3.0
-122;Butterfree;(33, 64);;Inglês;D;3.9
-123;Butterfree;(33, 64);;Português;NM;3.99
-124;Butterfree;(33, 64);;Inglês;MP;4.5
-125;Butterfree;(33, 64);;Inglês;SP;5.2
-126;Butterfree;(33, 64);;Inglês;MP;8.0
-127;Butterfree;(33, 64);;Português;NM;10.0
-128;Butterfree;(33, 64);;Inglês;NM;49.5
-129;Butterfree;(33, 64);;Português;M;72.0
-130;Mew;(19, 165);Reverse Foil;Inglês;D;49.95
-131;Mew;(55, 165);;Inglês;HP;27.0
-132;Mew;(55, 165);;Inglês;SP;73.59
-133;Mew;(55, 165);Reverse Foil;Inglês;MP;139.9
-134;Alakazam;(1, 165);Foil;Inglês;D;323.9
-135;Vaporeon;(12, 64);Foil;Português;D;4.24
-136;Vaporeon;(12, 64);Foil, Alterada;Português;D;4.25
-137;Vaporeon;(12, 64);Foil;Português;D;14.49
-138;Vaporeon;(12, 64);Foil;Português;HP;14.95
-139;Vaporeon;(12, 64);Foil;Português;HP;18.5
-140;Vaporeon;(12, 64);Foil;Português;HP;19.0
-141;Vaporeon;(12, 64);Foil;Inglês;HP;20.0
-142;Vaporeon;(12, 64);Foil;Português;MP;24.95
-143;Vaporeon;(12, 64);Foil;Inglês;MP;34.95
-144;Vaporeon;(12, 64);Foil;Inglês;SP;79.9
-145;Vaporeon;(12, 64);Foil;Inglês;MP;79.9
-146;Vaporeon;(12, 64);Foil;Português / Inglês;SP;80.0
-147;Vaporeon;(12, 64);Foil;Inglês;NM;135.0
-148;Mr. Mime;(6, 64);Foil;Português;HP;21.0
-149;Mr. Mime;(6, 64);Foil;Inglês;D;29.0
-150;Mr. Mime;(6, 64);Foil;Inglês;HP;39.9
-151;Mr. Mime;(6, 64);Foil;Português;HP;45.0
-152;Mr. Mime;(6, 64);Foil;Português;D;45.5
-153;Mr. Mime;(6, 64);Foil;Inglês;MP;51.0
-154;Mr. Mime;(6, 64);Foil;Japonês;NM;68.0
-155;Mr. Mime;(6, 64);Foil;Português;NM;69.89
-156;Mr. Mime;(6, 64);Foil;Inglês;SP;69.9
-157;Wailord;(14, 109);Foil;Português;MP;4.0
-158;Wailord;(14, 109);Reverse Foil;Português;HP;7.0
-159;Wailord;(14, 109);Foil;Português;MP;8.0
-160;Wailord;(14, 109);Reverse Foil;Português;NM;8.0
-161;Wailord;(14, 109);Reverse Foil;Português;HP;9.3
-162;Wailord;(14, 109);Reverse Foil;Português;SP;9.7
-163;Wailord;(14, 109);Foil;Português;D;10.9
-164;Wailord;(14, 109);Reverse Foil;Português;MP;14.95
-165;Dark Gyarados;(25, 82);;Inglês;HP;24.5
-166;Dark Gyarados;(25, 82);;Inglês;D;24.9
-167;Dark Gyarados;(25, 82);;Inglês;NM;44.95
-168;Suicune;(27, 64);;Inglês;D;39.9
-169;Suicune;(27, 64);;Inglês;HP;44.9
-170;Jolteon;(4, 64);Foil;Inglês;D;36.0
-171;Jolteon;(4, 64);Foil;Inglês;D;39.95
-172;Jolteon;(4, 64);Foil;Português;HP;69.95
-173;Jolteon;(4, 64);Foil;Inglês;SP;79.99
-174;Jolteon;(4, 64);Foil;Português;MP;85.9
-175;Jolteon;(4, 64);Foil;Português;MP;99.95
-176;Jolteon;(4, 64);Foil;Inglês;SP;249.95
-177;Jolteon;(4, 64);Foil;Inglês;NM;299.95
-178;Manectric;(9, 109);Foil;Português;D;1.4
-179;Manectric;(9, 109);Foil;Português;D;1.45
-180;Manectric;(9, 109);Foil;Português;MP;2.5
-181;Manectric;(9, 109);Foil;Inglês;SP;2.9
-182;Manectric;(9, 109);Foil;Português;HP;2.99
-183;Manectric;(9, 109);Foil;Português;SP;3.0
-184;Manectric;(9, 109);Foil;Português;SP;3.0
-185;Manectric;(9, 109);Foil;Português;MP;3.0
-186;Manectric;(9, 109);Foil;Português;MP;4.95
-187;Manectric;(9, 109);Foil;Português;D;8.9
-188;Manectric;(9, 109);Reverse Foil;Português;NM;9.0
-189;Manectric;(9, 109);Foil;Português;MP;9.5
-190;Manectric;(9, 109);Foil;Português;SP;9.7
-191;Manectric;(9, 109);Reverse Foil;Português;SP;9.7
-192;Manectric;(9, 109);Reverse Foil;Inglês;NM;10.0
-193;Manectric;(9, 109);Foil;Português;SP;11.66
-194;Manectric;(9, 109);;Português;MP;12.0
-195;Manectric;(9, 109);Reverse Foil;Inglês;SP;36.9
-196;Manectric;(9, 109);Foil;Português;HP;39.5
-197;Manectric;(9, 109);Foil;Inglês;SP;41.9
-198;Manectric;(9, 109);Foil;Português;MP;44.5
-199;Manectric;(9, 109);Foil;Português;SP;49.5
-200;Manectric;(16, 106);;Português;MP;0.7
-201;Manectric;(16, 106);;Português / Inglês;SP;0.99
-202;Manectric;(16, 106);;Português;SP;0.99
-203;Manectric;(16, 106);;Português;SP;1.0
-204;Manectric;(16, 106);;Português / Inglês;MP;1.2
-205;Manectric;(16, 106);;Português;NM;1.5
-206;Manectric;(16, 106);;Português;SP;1.66
-207;Manectric;(16, 106);;Inglês;SP;1.99
-208;Manectric;(16, 106);;Português;HP;1.99
-209;Manectric;(16, 106);;Inglês;HP;1.99
-210;Manectric;(16, 106);;Português;MP;2.0
-211;Manectric;(16, 106);;Português;MP;2.99
-212;Manectric;(16, 106);;Português;SP;3.0
-213;Manectric;(16, 106);;Inglês;SP;3.0
-214;Manectric;(16, 106);;Português;D;3.9
-215;Manectric;(16, 106);;Inglês;SP;3.99
-216;Manectric;(16, 106);;Português;SP;4.7
-217;Manectric;(16, 106);;Português;NM;4.9
-218;Manectric;(16, 106);;Português;NM;5.5
-219;Manectric;(16, 106);Reverse Foil;Inglês;NM;9.99
-220;Manectric;(16, 106);Reverse Foil;Português;SP;15.9
-221;Manectric;(16, 106);Reverse Foil;Português;NM;29.5
-222;Eevee;(38, 75);;Inglês;SP;3.6
-223;Eevee;(38, 75);;Inglês;D;5.9
-224;Eevee;(38, 75);;Inglês;HP;5.9
-225;Eevee;(38, 75);;Inglês;HP;6.3
-226;Eevee;(38, 75);;Inglês;MP;6.5
-227;Eevee;(38, 75);;Inglês;SP;6.7
-228;Eevee;(38, 75);;Inglês;MP;7.9
-229;Eevee;(38, 75);;Inglês;SP;12.9
-230;Eevee;(38, 75);;Inglês;NM;13.49
-231;Eevee;(38, 75);;Japonês;MP;89.9
-232;Kangaskhan;(5, 64);Foil;Japonês;HP;4.8
-233;Kangaskhan;(5, 64);Foil;Português;D;7.99
-234;Kangaskhan;(5, 64);Foil;Português;D;8.0
-235;Kangaskhan;(5, 64);Foil;Japonês;MP;8.4
-236;Kangaskhan;(5, 64);Foil;Português;HP;8.4
-237;Kangaskhan;(5, 64);Foil;Inglês;HP;9.49
-238;Kangaskhan;(5, 64);Foil;Japonês;D;9.95
-239;Kangaskhan;(5, 64);Foil;Inglês;D;11.99
-240;Kangaskhan;(5, 64);Foil;Português;MP;13.5
-241;Kangaskhan;(5, 64);Foil;Português;HP;14.0
-242;Kangaskhan;(5, 64);Foil;Português;HP;14.95
-243;Kangaskhan;(5, 64);Foil;Português;D;14.95
-244;Kangaskhan;(5, 64);Foil;Português;D;15.0
-245;Kangaskhan;(5, 64);Foil;Japonês;MP;17.99
-246;Kangaskhan;(5, 64);;Português / Inglês;HP;19.9
-247;Kangaskhan;(5, 64);Foil;Japonês;D;19.9
-248;Kangaskhan;(5, 64);Foil;Inglês;HP;19.99
-249;Kangaskhan;(5, 64);Foil;Português;MP;23.31
-250;Kangaskhan;(5, 64);Foil;Português;MP;25.0
-251;Kangaskhan;(5, 64);;Português;D;25.5
-252;Kangaskhan;(5, 64);Foil;Português;D;25.9
-253;Kangaskhan;(5, 64);Foil;Português / Inglês;HP;29.5
-254;Kangaskhan;(5, 64);Foil;Português;MP;29.9
-255;Kangaskhan;(5, 64);Foil;Inglês;D;34.9
-256;Kangaskhan;(5, 64);Foil;Inglês;HP;35.9
-257;Kangaskhan;(5, 64);Foil;Português;SP;35.91
-258;Kangaskhan;(5, 64);Foil;Português;HP;39.5
-259;Kangaskhan;(5, 64);Foil;Português;SP;39.95
-260;Kangaskhan;(5, 64);Foil;Português / Inglês;MP;42.5
-261;Kangaskhan;(5, 64);Foil;Inglês;SP;43.9
-262;Kangaskhan;(5, 64);Foil;Português;SP;49.5
-263;Kangaskhan;(5, 64);Foil;Inglês;SP;49.95
-264;Tyranitar;(29, 165);Reverse Foil;Inglês;D;51.0
-265;Tyranitar;(29, 165);Reverse Foil;Inglês;D;396.9
-266;Scizor;(32, 147);;Inglês;D;89.9
-267;Darkness Energy;(93, 109);;Inglês;MP;0.99
-268;Darkness Energy;(93, 109);;Inglês;MP;1.0
-269;Darkness Energy;(93, 109);;Inglês;HP;1.99
-270;Darkness Energy;(93, 109);;Português;SP;2.0
-271;Darkness Energy;(93, 109);;Português;HP;2.5
-272;Darkness Energy;(93, 109);;Português;NM;2.69
-273;Darkness Energy;(93, 109);;Inglês;SP;2.99
-274;Darkness Energy;(93, 109);Foil;Português;SP;10.0
-275;Darkness Energy;(93, 109);Reverse Foil;Português;SP;12.5
-276;Darkness Energy;(93, 109);Reverse Foil;Português;MP;14.5
-277;Darkness Energy;(93, 109);Foil;Inglês;MP;14.95
-278;Darkness Energy;(93, 109);Reverse Foil;Inglês;SP;19.95
-279;Darkness Energy;(93, 109);Reverse Foil;Português;SP;23.39
-280;Darkness Energy;(93, 109);Foil;Inglês;SP;24.95
-281;Darkness Energy;(93, 109);Foil, Promo;Inglês;NM;27.0
-282;Darkness Energy;(93, 109);Promo, Reverse Foil;Inglês;NM;74.5
-283;Water Energy;(103, 106);Foil;Inglês;MP;14.5
-284;Water Energy;(103, 106);Foil;Inglês;SP;15.0
-285;Water Energy;(103, 106);Foil;Português / Inglês;D;19.95
-286;Water Energy;(103, 106);Foil;Português / Inglês;HP;26.95
-287;Water Energy;(103, 106);Foil;Inglês;SP;39.9
-288;Water Energy;(103, 106);Foil;Português / Inglês;SP;39.95
-289;Water Energy;(103, 106);Foil;Português / Inglês;NM;49.95
-290;Rainbow Energy;(95, 109);;Português;MP;1.45
-291;Rainbow Energy;(95, 109);;Inglês;HP;1.5
-292;Rainbow Energy;(95, 109);;Inglês;SP;2.0
-293;Rainbow Energy;(95, 109);;Inglês;MP;3.5
-294;Rainbow Energy;(95, 109);;Português;D;4.9
-295;Rainbow Energy;(95, 109);;Inglês;D;5.9
-296;Rainbow Energy;(95, 109);Reverse Foil;Português;MP;9.95
-297;Rainbow Energy;(95, 109);;Inglês;NM;12.9
-298;Rainbow Energy;(95, 109);Reverse Foil;Inglês;SP;14.95
-299;Rainbow Energy;(95, 109);Reverse Foil;Português;D;20.0
-300;Rainbow Energy;(95, 109);Reverse Foil;Inglês;SP;32.39
-301;Rainbow Energy;(87, 106);;Português;MP;14.5
-302;Rainbow Energy;(87, 106);;Português;D;14.99
-303;Rainbow Energy;(87, 106);;Português;SP;19.5
-304;Rainbow Energy;(87, 106);;Português;MP;19.9
-305;Rainbow Energy;(87, 106);;Português;SP;23.99
-306;Rainbow Energy;(87, 106);;Português;SP;24.99
-307;Rainbow Energy;(87, 106);;Português;NM;25.0
-308;Rainbow Energy;(87, 106);;Português;SP;25.9
-309;Rainbow Energy;(87, 106);;Inglês;SP;26.9
-310;Rainbow Energy;(87, 106);;Inglês;D;44.9
-311;Rainbow Energy;(87, 106);;Português;HP;49.9
-312;Rainbow Energy;(87, 106);;Português;MP;54.9
-313;Rainbow Energy;(87, 106);;Português;SP;59.9
-314;Rainbow Energy;(87, 106);Reverse Foil;Português;NM;99.99
-315;Rainbow Energy;(87, 106);Reverse Foil;Inglês;MP;145.9
-316;Rainbow Energy;(87, 106);Reverse Foil;Português;SP;154.5
-317;Rainbow Energy;(87, 106);Reverse Foil;Inglês;SP;161.9
-318;Metal Energy;(159, 165);;Inglês;MP;19.9
-319;Metal Energy;(159, 165);;Inglês;SP;39.9
-320;Metal Energy;(159, 165);Reverse Foil;Inglês;SP;42.9
-321;Wartortle;(92, 165);;Inglês;HP;7.49
-322;Wartortle;(92, 165);;Inglês;SP;15.0
-323;Wartortle;(92, 165);;Inglês;NM;19.99
-324;Wartortle;(92, 165);Reverse Foil;Inglês;D;51.9
-325;Clefable;(41, 165);;Inglês;D;0.9
-326;Clefable;(41, 165);;Inglês;MP;3.0
-327;Clefable;(41, 165);;Inglês;MP;3.0
-328;Clefable;(41, 165);;Inglês;SP;3.32
-329;Clefable;(41, 165);;Inglês;SP;4.0
-330;Clefable;(41, 165);;Inglês;SP;4.5
-331;Clefable;(41, 165);;Inglês;NM;6.5
-332;Clefable;(41, 165);;Inglês;MP;9.5
-333;Clefable;(41, 165);;Inglês;SP;9.7
-334;Clefable;(41, 165);;Inglês;HP;9.9
-335;Clefable;(41, 165);;Inglês;MP;10.0
-336;Unown H;(28, 105);;Japonês;D;20.0
-337;Unown H;(28, 105);;Inglês;HP;64.9
-338;Unown H;(28, 105);;Inglês;MP;72.9
-339;Dragonair;(75, 165);;;SP;14.5
-340;Dragonair;(75, 165);;Inglês;SP;15.0
-341;Dragonair;(75, 165);;Inglês;SP;16.07
-342;Dragonair;(75, 165);;Inglês;HP;18.9
-343;Cyndaquil;(105, 165);;Inglês;SP;0.75
-344;Cyndaquil;(105, 165);;Inglês;MP;0.99
-345;Cyndaquil;(105, 165);;Inglês;MP;1.0
-346;Cyndaquil;(105, 165);;Inglês;SP;1.7
-347;Cyndaquil;(105, 165);;Inglês;NM;1.99
-348;Cyndaquil;(105, 165);;Inglês;SP;5.9
-349;Cyndaquil;(105, 165);;Inglês;SP;12.5
-350;Cyndaquil;(105, 165);Reverse Foil;Inglês;D;64.5
+115;Dark Crobat;(2, 105);Foil;Inglês;NM;299.95
+116;Dark Crobat;(2, 105);Foil;Inglês;MP;700.0
+117;Butterfree;(19, 75);;Inglês;HP;3.4
+118;Butterfree;(19, 75);;Inglês;MP;7.2
+119;Butterfree;(19, 75);;Inglês;MP;7.49
+120;Butterfree;(19, 75);;Inglês;MP;7.5
+121;Butterfree;(19, 75);;Inglês;MP;10.0
+122;Butterfree;(19, 75);;Inglês;HP;10.0
+123;Butterfree;(19, 75);;Inglês;HP;10.5
+124;Butterfree;(19, 75);;Inglês;HP;10.9
+125;Butterfree;(19, 75);;Inglês;MP;11.9
+126;Butterfree;(19, 75);;Inglês;SP;12.5
+127;Butterfree;(19, 75);;Inglês;SP;12.9
+128;Butterfree;(33, 64);;Inglês;D;0.85
+129;Butterfree;(33, 64);;Português;MP;1.99
+130;Butterfree;(33, 64);;Português;MP;2.7
+131;Butterfree;(33, 64);;Inglês;MP;3.0
+132;Butterfree;(33, 64);;Português;MP;3.0
+133;Butterfree;(33, 64);;Português / Inglês;SP;3.0
+134;Butterfree;(33, 64);;Inglês;HP;3.0
+135;Butterfree;(33, 64);;Inglês;D;3.9
+136;Butterfree;(33, 64);;Português;NM;3.99
+137;Butterfree;(33, 64);;Inglês;MP;4.5
+138;Butterfree;(33, 64);;Inglês;SP;5.2
+139;Butterfree;(33, 64);;Inglês;MP;8.0
+140;Butterfree;(33, 64);;Português;NM;10.0
+141;Butterfree;(33, 64);;Inglês;NM;49.5
+142;Butterfree;(33, 64);;Português;M;72.0
+143;Koga's Beedrill;(9, 132);Foil;Inglês;D;19.5
+144;Koga's Beedrill;(9, 132);Foil;Inglês;D;19.9
+145;Koga's Beedrill;(9, 132);Foil;Inglês;D;21.25
+146;Koga's Beedrill;(9, 132);Foil;Inglês;HP;29.9
+147;Koga's Beedrill;(9, 132);Foil;Inglês;HP;30.0
+148;Koga's Beedrill;(9, 132);Foil;Inglês;D;39.9
+149;Koga's Beedrill;(9, 132);Foil;Inglês;MP;40.0
+150;Koga's Beedrill;(9, 132);Foil;Inglês;MP;49.5
+151;Koga's Beedrill;(9, 132);Foil;Inglês;D;58.9
+152;Koga's Beedrill;(9, 132);Foil;Inglês;MP;59.95
+153;Koga's Beedrill;(9, 132);Foil;Inglês;SP;60.0
+154;Koga's Beedrill;(9, 132);Foil;Inglês;HP;64.9
+155;Koga's Beedrill;(9, 132);Foil;Inglês;SP;74.95
+156;Koga's Beedrill;(9, 132);Foil;Inglês;NM;79.99
+157;Koga's Beedrill;(9, 132);Foil;Inglês;MP;80.0
+158;Koga's Beedrill;(9, 132);Foil;Inglês;SP;81.9
+159;Koga's Beedrill;(9, 132);Foil;Inglês;NM;99.95
+160;Koga's Beedrill;(9, 132);Foil;Inglês;SP;120.0
+161;Koga's Beedrill;(9, 132);Foil, Edition One;Inglês;HP;158.0
+162;Dark Espeon;(4, 105);Foil;Japonês;HP;150.0
+163;Dark Espeon;(4, 105);Foil;Japonês;NM;259.95
+164;Dark Espeon;(4, 105);Foil;Inglês;D;350.0
+165;Dark Espeon;(4, 105);Foil;Inglês;HP;399.9
+166;Dark Espeon;(4, 105);Foil;Inglês;MP;499.9
+167;Dark Espeon;(4, 105);Foil;Inglês;NM;1140.0
+168;Mew;(19, 165);Reverse Foil;Inglês;D;49.95
+169;Mew;(55, 165);;Inglês;HP;27.0
+170;Mew;(55, 165);;Inglês;SP;73.59
+171;Mew;(55, 165);Reverse Foil;Inglês;MP;139.9
+172;Alakazam;(1, 165);Foil;Inglês;D;323.9
+173;Alakazam;(33, 165);;Inglês;D;10.0
+174;Alakazam;(33, 165);;Inglês;HP;12.0
+175;Alakazam;(33, 165);;Inglês;MP;14.5
+176;Alakazam;(33, 165);;Inglês;MP;15.0
+177;Alakazam;(33, 165);;Inglês;SP;20.0
+178;Alakazam;(33, 165);;Inglês;NM;24.5
+179;Alakazam;(33, 165);Reverse Foil;Inglês;NM;106.25
+180;Alakazam;(33, 165);Reverse Foil;Português / Inglês;MP;161.91
+181;Vaporeon;(12, 64);Foil;Português;D;4.24
+182;Vaporeon;(12, 64);Foil, Alterada;Português;D;4.25
+183;Vaporeon;(12, 64);Foil;Português;D;14.49
+184;Vaporeon;(12, 64);Foil;Português;HP;14.95
+185;Vaporeon;(12, 64);Foil;Português;HP;18.5
+186;Vaporeon;(12, 64);Foil;Português;HP;19.0
+187;Vaporeon;(12, 64);Foil;Inglês;HP;20.0
+188;Vaporeon;(12, 64);Foil;Português;MP;24.95
+189;Vaporeon;(12, 64);Foil;Inglês;MP;34.95
+190;Vaporeon;(12, 64);Foil;Inglês;SP;79.9
+191;Vaporeon;(12, 64);Foil;Inglês;MP;79.9
+192;Vaporeon;(12, 64);Foil;Português / Inglês;SP;80.0
+193;Vaporeon;(12, 64);Foil;Inglês;NM;135.0
+194;Mr. Mime;(6, 64);Foil;Português;HP;21.0
+195;Mr. Mime;(6, 64);Foil;Inglês;D;29.0
+196;Mr. Mime;(6, 64);Foil;Inglês;HP;39.9
+197;Mr. Mime;(6, 64);Foil;Português;HP;45.0
+198;Mr. Mime;(6, 64);Foil;Português;D;45.5
+199;Mr. Mime;(6, 64);Foil;Inglês;MP;51.0
+200;Mr. Mime;(6, 64);Foil;Japonês;NM;68.0
+201;Mr. Mime;(6, 64);Foil;Português;NM;69.89
+202;Mr. Mime;(6, 64);Foil;Inglês;SP;69.9
+203;Wailord;(14, 109);Foil;Português;MP;4.0
+204;Wailord;(14, 109);Reverse Foil;Português;HP;7.0
+205;Wailord;(14, 109);Foil;Português;MP;8.0
+206;Wailord;(14, 109);Reverse Foil;Português;NM;8.0
+207;Wailord;(14, 109);Reverse Foil;Português;HP;9.3
+208;Wailord;(14, 109);Reverse Foil;Português;SP;9.7
+209;Wailord;(14, 109);Foil;Português;D;10.9
+210;Wailord;(14, 109);Reverse Foil;Português;MP;14.95
+211;Dark Gyarados;(25, 82);;Inglês;HP;24.5
+212;Dark Gyarados;(25, 82);;Inglês;D;24.9
+213;Dark Gyarados;(25, 82);;Inglês;NM;44.95
+214;Suicune;(27, 64);;Inglês;D;39.9
+215;Suicune;(27, 64);;Inglês;HP;44.9
+216;Suicune;(27, 64);;Inglês;SP;49.9
+217;Suicune;(27, 64);;Inglês;NM;49.9
+218;Milotic EX;(96, 106);Foil;Português;D;59.5
+219;Milotic EX;(96, 106);Foil;Inglês;D;89.9
+220;Milotic EX;(96, 106);Foil;Português;D;200.0
+221;Lt. Surge's Magneton;(8, 132);Foil;Japonês;HP;15.0
+222;Lt. Surge's Magneton;(8, 132);Foil;Japonês;SP;19.2
+223;Lt. Surge's Magneton;(8, 132);Foil;Inglês;D;19.5
+224;Lt. Surge's Magneton;(8, 132);Foil;Inglês;D;19.9
+225;Lt. Surge's Magneton;(8, 132);Foil;Inglês;HP;24.9
+226;Lt. Surge's Magneton;(8, 132);Foil;Inglês;HP;24.9
+227;Lt. Surge's Magneton;(8, 132);Foil;Inglês;HP;24.95
+228;Lt. Surge's Magneton;(8, 132);Foil, Edition One;Inglês;D;34.0
+229;Lt. Surge's Magneton;(8, 132);Foil;Inglês;MP;34.95
+230;Lt. Surge's Magneton;(8, 132);Foil;Inglês;SP;39.9
+231;Lt. Surge's Magneton;(8, 132);Foil;Inglês;SP;42.5
+232;Lt. Surge's Magneton;(8, 132);Foil;Japonês;SP;44.95
+233;Lt. Surge's Magneton;(8, 132);Foil;Inglês;NM;49.94
+234;Lt. Surge's Magneton;(8, 132);Foil;Inglês;SP;49.95
+235;Lt. Surge's Magneton;(8, 132);Foil;Inglês;D;56.9
+236;Lt. Surge's Magneton;(8, 132);Foil;Inglês;SP;60.0
+237;Lt. Surge's Magneton;(8, 132);Foil;Inglês;HP;62.9
+238;Lt. Surge's Magneton;(8, 132);Foil;Inglês;MP;69.5
+239;Lt. Surge's Magneton;(8, 132);Foil;Japonês;SP;72.0
+240;Lt. Surge's Magneton;(8, 132);Foil, Edition One;Inglês;MP;80.0
+241;Lt. Surge's Magneton;(8, 132);Foil;Inglês;SP;83.9
+242;Lt. Surge's Magneton;(8, 132);Foil;Japonês;NM;119.95
+243;Lt. Surge's Magneton;(8, 132);Foil;Inglês;D;279.9
+244;Jolteon;(4, 64);Foil;Inglês;D;36.0
+245;Jolteon;(4, 64);Foil;Inglês;D;39.95
+246;Jolteon;(4, 64);Foil;Português;HP;69.95
+247;Jolteon;(4, 64);Foil;Inglês;SP;79.99
+248;Jolteon;(4, 64);Foil;Português;MP;85.9
+249;Jolteon;(4, 64);Foil;Português;MP;99.95
+250;Jolteon;(4, 64);Foil;Inglês;SP;249.95
+251;Jolteon;(4, 64);Foil;Inglês;NM;299.95
+252;Manectric;(9, 109);Foil;Português;D;1.4
+253;Manectric;(9, 109);Foil;Português;D;1.45
+254;Manectric;(9, 109);Foil;Português;MP;2.5
+255;Manectric;(9, 109);Foil;Inglês;SP;2.9
+256;Manectric;(9, 109);Foil;Português;HP;2.99
+257;Manectric;(9, 109);Foil;Português;SP;3.0
+258;Manectric;(9, 109);Foil;Português;SP;3.0
+259;Manectric;(9, 109);Foil;Português;MP;3.0
+260;Manectric;(9, 109);Foil;Português;MP;4.95
+261;Manectric;(9, 109);Foil;Português;D;8.9
+262;Manectric;(9, 109);Reverse Foil;Português;NM;9.0
+263;Manectric;(9, 109);Foil;Português;MP;9.5
+264;Manectric;(9, 109);Foil;Português;SP;9.7
+265;Manectric;(9, 109);Reverse Foil;Português;SP;9.7
+266;Manectric;(9, 109);Reverse Foil;Inglês;NM;10.0
+267;Manectric;(9, 109);Foil;Português;SP;11.66
+268;Manectric;(9, 109);;Português;MP;12.0
+269;Manectric;(9, 109);Reverse Foil;Inglês;SP;36.9
+270;Manectric;(9, 109);Foil;Português;HP;39.5
+271;Manectric;(9, 109);Foil;Inglês;SP;41.9
+272;Manectric;(9, 109);Foil;Português;MP;44.5
+273;Manectric;(9, 109);Foil;Português;SP;49.5
+274;Manectric;(16, 106);;Português;MP;0.7
+275;Manectric;(16, 106);;Português / Inglês;SP;0.99
+276;Manectric;(16, 106);;Português;SP;0.99
+277;Manectric;(16, 106);;Português;SP;1.0
+278;Manectric;(16, 106);;Português / Inglês;MP;1.2
+279;Manectric;(16, 106);;Português;NM;1.5
+280;Manectric;(16, 106);;Português;SP;1.66
+281;Manectric;(16, 106);;Inglês;SP;1.99
+282;Manectric;(16, 106);;Português;HP;1.99
+283;Manectric;(16, 106);;Inglês;HP;1.99
+284;Manectric;(16, 106);;Português;MP;2.0
+285;Manectric;(16, 106);;Português;MP;2.99
+286;Manectric;(16, 106);;Português;SP;3.0
+287;Manectric;(16, 106);;Inglês;SP;3.0
+288;Manectric;(16, 106);;Português;D;3.9
+289;Manectric;(16, 106);;Inglês;SP;3.99
+290;Manectric;(16, 106);;Português;SP;4.7
+291;Manectric;(16, 106);;Português;NM;4.9
+292;Manectric;(16, 106);;Português;NM;5.5
+293;Manectric;(16, 106);Reverse Foil;Inglês;NM;9.99
+294;Manectric;(16, 106);Reverse Foil;Português;SP;15.9
+295;Manectric;(16, 106);Reverse Foil;Português;NM;29.5
+296;Eevee;(38, 75);;Inglês;SP;3.6
+297;Eevee;(38, 75);;Inglês;D;5.9
+298;Eevee;(38, 75);;Inglês;HP;5.9
+299;Eevee;(38, 75);;Inglês;HP;6.3
+300;Eevee;(38, 75);;Inglês;MP;6.5
+301;Eevee;(38, 75);;Inglês;SP;6.7
+302;Eevee;(38, 75);;Inglês;MP;7.9
+303;Eevee;(38, 75);;Inglês;SP;12.9
+304;Eevee;(38, 75);;Inglês;NM;13.49
+305;Eevee;(38, 75);;Japonês;MP;89.9
+306;Kangaskhan;(5, 64);Foil;Português;D;7.99
+307;Kangaskhan;(5, 64);Foil;Português;D;8.0
+308;Kangaskhan;(5, 64);Foil;Japonês;MP;8.4
+309;Kangaskhan;(5, 64);Foil;Português;HP;8.4
+310;Kangaskhan;(5, 64);Foil;Inglês;HP;9.49
+311;Kangaskhan;(5, 64);Foil;Japonês;D;9.95
+312;Kangaskhan;(5, 64);Foil;Inglês;D;11.99
+313;Kangaskhan;(5, 64);Foil;Português;MP;13.5
+314;Kangaskhan;(5, 64);Foil;Português;HP;14.0
+315;Kangaskhan;(5, 64);Foil;Português;HP;14.95
+316;Kangaskhan;(5, 64);Foil;Português;D;14.95
+317;Kangaskhan;(5, 64);Foil;Português;D;15.0
+318;Kangaskhan;(5, 64);Foil;Japonês;MP;17.99
+319;Kangaskhan;(5, 64);;Português / Inglês;HP;19.9
+320;Kangaskhan;(5, 64);Foil;Japonês;D;19.9
+321;Kangaskhan;(5, 64);Foil;Inglês;HP;19.99
+322;Kangaskhan;(5, 64);Foil;Português;MP;23.31
+323;Kangaskhan;(5, 64);Foil;Português;MP;25.0
+324;Kangaskhan;(5, 64);;Português;D;25.5
+325;Kangaskhan;(5, 64);Foil;Português;D;25.9
+326;Kangaskhan;(5, 64);Foil;Português / Inglês;HP;29.5
+327;Kangaskhan;(5, 64);Foil;Português;MP;29.9
+328;Kangaskhan;(5, 64);Foil;Inglês;D;34.9
+329;Kangaskhan;(5, 64);Foil;Inglês;HP;35.9
+330;Kangaskhan;(5, 64);Foil;Português;SP;35.91
+331;Kangaskhan;(5, 64);Foil;Português;HP;39.5
+332;Kangaskhan;(5, 64);Foil;Português;SP;39.95
+333;Kangaskhan;(5, 64);Foil;Português / Inglês;MP;42.5
+334;Kangaskhan;(5, 64);Foil;Inglês;SP;43.9
+335;Kangaskhan;(5, 64);Foil;Português;SP;49.5
+336;Kangaskhan;(5, 64);Foil;Inglês;SP;49.95
+337;Snorlax;(11, 64);Foil;Inglês;HP;49.9
+338;Snorlax;(11, 64);Foil;Português / Inglês;MP;59.9
+339;Snorlax;(11, 64);Foil;Inglês;MP;79.95
+340;Snorlax;(11, 64);Foil;Português;D;80.91
+341;Snorlax;(11, 64);Foil;Inglês;NM;109.99
+342;Snorlax;(11, 64);Foil;Português / Inglês;SP;110.9
+343;Snorlax;(11, 64);Foil;Inglês;MP;120.0
+344;Snorlax;(11, 64);Foil;Inglês;D;200.0
+345;Tyranitar;(29, 165);Reverse Foil;Inglês;D;51.0
+346;Tyranitar;(29, 165);Reverse Foil;Inglês;D;396.9
+347;Scizor;(32, 147);;Inglês;D;89.9
+348;Darkness Energy;(93, 109);;Inglês;MP;0.99
+349;Darkness Energy;(93, 109);;Inglês;MP;1.0
+350;Darkness Energy;(93, 109);;Inglês;HP;1.99
+351;Darkness Energy;(93, 109);;Português;SP;2.0
+352;Darkness Energy;(93, 109);;Português;HP;2.5
+353;Darkness Energy;(93, 109);;Português;NM;2.69
+354;Darkness Energy;(93, 109);;Inglês;SP;2.99
+355;Darkness Energy;(93, 109);Foil;Português;SP;10.0
+356;Darkness Energy;(93, 109);Reverse Foil;Português;SP;12.5
+357;Darkness Energy;(93, 109);Reverse Foil;Português;MP;14.5
+358;Darkness Energy;(93, 109);Foil;Inglês;MP;14.95
+359;Darkness Energy;(93, 109);Reverse Foil;Inglês;SP;19.95
+360;Darkness Energy;(93, 109);Reverse Foil;Português;SP;23.39
+361;Darkness Energy;(93, 109);Foil;Inglês;SP;24.95
+362;Darkness Energy;(93, 109);Foil, Promo;Inglês;NM;27.0
+363;Darkness Energy;(93, 109);Promo, Reverse Foil;Inglês;NM;74.5
+364;Water Energy;(103, 106);Foil;Inglês;MP;14.5
+365;Water Energy;(103, 106);Foil;Inglês;SP;15.0
+366;Water Energy;(103, 106);Foil;Português / Inglês;D;19.95
+367;Water Energy;(103, 106);Foil;Português / Inglês;HP;26.95
+368;Water Energy;(103, 106);Foil;Inglês;SP;39.9
+369;Water Energy;(103, 106);Foil;Português / Inglês;SP;39.95
+370;Water Energy;(103, 106);Foil;Português / Inglês;NM;49.95
+371;Rainbow Energy;(95, 109);;Português;MP;1.45
+372;Rainbow Energy;(95, 109);;Inglês;HP;1.5
+373;Rainbow Energy;(95, 109);;Inglês;SP;2.0
+374;Rainbow Energy;(95, 109);;Inglês;MP;3.5
+375;Rainbow Energy;(95, 109);;Português;D;4.9
+376;Rainbow Energy;(95, 109);;Inglês;D;5.9
+377;Rainbow Energy;(95, 109);Reverse Foil;Português;MP;9.95
+378;Rainbow Energy;(95, 109);;Inglês;NM;12.9
+379;Rainbow Energy;(95, 109);Reverse Foil;Inglês;SP;14.95
+380;Rainbow Energy;(95, 109);Reverse Foil;Português;D;20.0
+381;Rainbow Energy;(95, 109);Reverse Foil;Inglês;SP;32.39
+382;Rainbow Energy;(87, 106);;Inglês;HP;12.9
+383;Rainbow Energy;(87, 106);;Português;MP;14.5
+384;Rainbow Energy;(87, 106);;Português;D;14.99
+385;Rainbow Energy;(87, 106);;Português;SP;19.5
+386;Rainbow Energy;(87, 106);;Português;MP;19.9
+387;Rainbow Energy;(87, 106);;Português;SP;23.99
+388;Rainbow Energy;(87, 106);;Português;SP;24.99
+389;Rainbow Energy;(87, 106);;Português;NM;25.0
+390;Rainbow Energy;(87, 106);;Português;SP;25.9
+391;Rainbow Energy;(87, 106);;Inglês;SP;26.9
+392;Rainbow Energy;(87, 106);;Inglês;D;44.9
+393;Rainbow Energy;(87, 106);;Português;HP;49.9
+394;Rainbow Energy;(87, 106);;Português;MP;54.9
+395;Rainbow Energy;(87, 106);;Português;SP;59.9
+396;Rainbow Energy;(87, 106);Reverse Foil;Português;NM;99.99
+397;Rainbow Energy;(87, 106);Reverse Foil;Inglês;MP;145.9
+398;Rainbow Energy;(87, 106);Reverse Foil;Português;SP;154.5
+399;Rainbow Energy;(87, 106);Reverse Foil;Inglês;SP;161.9
+400;Metal Energy;(159, 165);;Inglês;MP;19.9
+401;Metal Energy;(159, 165);;Inglês;SP;39.9
+402;Metal Energy;(159, 165);Reverse Foil;Inglês;SP;42.9
+403;Wartortle;(92, 165);;Inglês;HP;7.49
+404;Wartortle;(92, 165);;Inglês;SP;15.0
+405;Wartortle;(92, 165);;Inglês;NM;19.99
+406;Wartortle;(92, 165);Reverse Foil;Inglês;D;51.9
+407;Light Jolteon;(48, 105);;Inglês;HP;32.5
+408;Light Jolteon;(48, 105);;Inglês;MP;39.9
+409;Light Jolteon;(48, 105);;Inglês;MP;44.99
+410;Light Jolteon;(48, 105);;Inglês;MP;59.5
+411;Light Jolteon;(48, 105);;Japonês;NM;60.0
+412;Light Jolteon;(48, 105);;Inglês;SP;69.9
+413;Light Jolteon;(48, 105);;Inglês;NM;76.42
+414;Light Jolteon;(48, 105);;Inglês;D;87.9
+415;Light Jolteon;(48, 105);;Inglês;MP;99.9
+416;Light Jolteon;(48, 105);Edition One;Inglês;HP;239.9
+417;Unown W;(29, 105);;Inglês;SP;36.9
+418;Light Vaporeon;(52, 105);;Inglês;D;28.0
+419;Light Vaporeon;(52, 105);;Inglês;D;31.9
+420;Light Vaporeon;(52, 105);;Inglês;MP;35.9
+421;Light Vaporeon;(52, 105);;Inglês;SP;39.9
+422;Light Vaporeon;(52, 105);;Inglês;MP;39.99
+423;Light Vaporeon;(52, 105);;Inglês;NM;46.75
+424;Light Vaporeon;(52, 105);;Inglês;SP;47.9
+425;Light Vaporeon;(52, 105);;Inglês;NM;54.99
+426;Dark Omastar;(19, 105);;Inglês;HP;29.9
+427;Dark Omastar;(19, 105);;Inglês;MP;35.0
+428;Dark Omastar;(19, 105);;Inglês;SP;49.99
+429;Dark Omastar;(19, 105);;Inglês;MP;50.0
+430;Dark Ursaring;(21, 105);;Inglês;HP;14.9
+431;Dark Ursaring;(21, 105);;Inglês;D;15.0
+432;Dark Ursaring;(21, 105);;Inglês;MP;25.0
+433;Dark Ursaring;(21, 105);;Inglês;SP;31.99
+434;Clefable;(41, 165);;Inglês;D;0.9
+435;Clefable;(41, 165);;Inglês;MP;3.0
+436;Clefable;(41, 165);;Inglês;MP;3.0
+437;Clefable;(41, 165);;Inglês;SP;3.32
+438;Clefable;(41, 165);;Inglês;SP;4.0
+439;Clefable;(41, 165);;Inglês;SP;4.5
+440;Clefable;(41, 165);;Inglês;NM;6.5
+441;Clefable;(41, 165);;Inglês;MP;9.5
+442;Clefable;(41, 165);;Inglês;SP;9.7
+443;Clefable;(41, 165);;Inglês;HP;9.9
+444;Clefable;(41, 165);;Inglês;MP;10.0
+445;Light Flareon;(46, 105);;Inglês;D;16.0
+446;Light Flareon;(46, 105);;Inglês;HP;18.0
+447;Light Flareon;(46, 105);;Inglês;D;29.5
+448;Light Flareon;(46, 105);;Inglês;SP;34.0
+449;Light Flareon;(46, 105);;Inglês;SP;34.9
+450;Light Flareon;(46, 105);;Inglês;HP;39.9
+451;Light Flareon;(46, 105);;Japonês;SP;120.0
+452;Light Ninetales;(50, 105);;Inglês;D;25.9
+453;Light Ninetales;(50, 105);;Japonês;SP;59.9
+454;Unown H;(28, 105);;Japonês;D;20.0
+455;Unown H;(28, 105);;Inglês;HP;64.9
+456;Unown H;(28, 105);;Inglês;MP;72.9
+457;Cyndaquil;(105, 165);;Inglês;SP;0.75
+458;Cyndaquil;(105, 165);;Inglês;MP;0.99
+459;Cyndaquil;(105, 165);;Inglês;MP;1.0
+460;Cyndaquil;(105, 165);;Inglês;SP;1.7
+461;Cyndaquil;(105, 165);;Inglês;NM;1.99
+462;Cyndaquil;(105, 165);;Inglês;SP;5.9
+463;Cyndaquil;(105, 165);;Inglês;SP;12.5
+464;Cyndaquil;(105, 165);Reverse Foil;Inglês;D;64.5
+465;Shining Kabutops;(108, 105);Foil;Inglês;D;699.95
+466;Shining Kabutops;(108, 105);Foil;Inglês;D;1349.9
+467;Shining Kabutops;(108, 105);Foil;Inglês;SP;2199.95
+468;Shining Steelix;(112, 105);Foil;Inglês;MP;1399.95
+469;Shining Steelix;(112, 105);Foil;Inglês;NM;28000.0

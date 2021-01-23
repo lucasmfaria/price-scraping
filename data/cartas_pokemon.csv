@@ -1,11 +1,11 @@
 nome;num_colecao;extras;lingua;condicao
-Machamp;15/110;reverse foil;Inglês;HP
-Hitmontop;3/75;foil;Inglês;HP
-Unown A;14/75;foil;Inglês;SP
+Machamp;15/110;Reverse Foil;Inglês;HP
+Hitmontop;3/75;Foil;Inglês;HP
+Unown A;14/75;Foil;Inglês;SP
 Typhlosion;65/165;;Inglês;NM
-Ninetales;21/165;foil;Inglês;NM
-Combusken;25/106;ex esmeralda foil;Português;NM
-Magby;17/165;;Inglês;NM
+Ninetales;21/165;Foil;Inglês;NM
+Combusken;25/106;Reverse Foil;Português;NM
+Magby;17/165;Foil;Inglês;NM
 Camerupt;4/109;;Inglês;NM
 Camerupt;4/107;;Português;NM
 Camerupt;23/106;;Inglês;NM
@@ -50,17 +50,17 @@ Kangaskhan;5/64;Foil;Português;SP
 Kangaskhan;5/64;Foil;Português;MP
 Snorlax;11/64;;Português;HP
 Shiftry;14/101;;Inglês;NM
-Tyranitar;29/165;reverse foil;Inglês;NM
-Claydol;8/95;reverse foil;Inglês;NM
+Tyranitar;29/165;Reverse Foil;Inglês;NM
+Claydol;8/95;Reverse Foil;Inglês;NM
 Dark Dragonite;15/109;;Português;NM
 Dark Dragonite;15/109;;Português;NM
-Kyogre;3/95;foil;Inglês;NM
+Kyogre;3/95;Foil;Inglês;NM
 Scizor;32/147;;Inglês;NM
 Furret;22/109;;Português;NM
 Dark Magneton;39/109;;Português;NM
-Darkness Energy;93/109;foil;Inglês;NM
-Water Energy;103/106;foil;;NM
-Dark metal energy;94/109;reverse foil equipe rocket;Português;NM
+Darkness Energy;93/109;Foil;Inglês;NM
+Water Energy;103/106;Foil;;NM
+Dark metal energy;94/109;Reverse Foil;Português;NM
 Rainbow Energy;95/109;;Inglês;NM
 Rainbow Energy;95/109;;Inglês;NM
 Rainbow Energy;87/106;;Português;NM
@@ -77,11 +77,11 @@ Clefable;41/165;;Inglês;NM
 Light Flareon;46/105;;Inglês;NM
 Light Ninetales;50/105;;Inglês;NM
 Unown H;28/105;;Inglês;NM
-Dragonair;75/165;reverse holo;Inglês;SP
-Dark Golbat;34/109;reverse holo;Português;NM
-Cyndaquil;105/165;reverse holo;Inglês;NM
-Dratini;53/109;reverse holo;Português;NM
-Salamence lv X;98/99;;Inglês;NM
-Deoxys EX;97/107;;Português;NM
-Shining Kabutops;108/105;;Inglês;NM
-Shining Steelix;112/105;;Inglês;NM
+Dragonair;75/165;Reverse Foil;Inglês;SP
+Dark Golbat;34/109;Reverse Foil;Português;NM
+Cyndaquil;105/165;Reverse Foil;Inglês;NM
+Dratini;53/109;Reverse Foil;Português;NM
+Salamence lv.X;98/99;Foil;Inglês;NM
+Deoxys EX;97/107;Foil;Português;NM
+Shining Kabutops;108/105;Foil;Inglês;NM
+Shining Steelix;112/105;Foil;Inglês;NM
