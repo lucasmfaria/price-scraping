@@ -1,0 +1,2162 @@
+;nome;num_colecao;extras;lingua;condicao;preco_unitario
+0;Gyarados;(6, 102);Foil;Português;HP;11.0
+1;Gyarados;(6, 102);Foil;Português;HP;19.0
+2;Gyarados;(6, 102);Foil;Português;D;19.9
+3;Gyarados;(6, 102);Foil;Português;HP;19.9
+4;Gyarados;(6, 102);Foil;Português;HP;19.99
+5;Gyarados;(6, 102);Foil;Português;MP;22.5
+6;Gyarados;(6, 102);Foil;Português;MP;24.9
+7;Gyarados;(6, 102);Foil;Português;MP;24.99
+8;Gyarados;(6, 102);Foil;Português;MP;34.9
+9;Gyarados;(6, 102);Foil;Português;HP;35.9
+10;Gyarados;(6, 102);Foil;Português;HP;36.89
+11;Gyarados;(6, 102);Foil;Inglês;D;39.95
+12;Gyarados;(6, 102);Foil;Português;HP;49.95
+13;Gyarados;(6, 102);Foil;Português;SP;51.0
+14;Gyarados;(6, 102);Foil;Inglês;D;54.9
+15;Gyarados;(6, 102);Foil;Português;NM;59.9
+16;Gyarados;(6, 102);Foil;Português;MP;59.9
+17;Gyarados;(6, 102);Foil;Português;SP;61.63
+18;Gyarados;(6, 102);Foil;Inglês;HP;61.9
+19;Gyarados;(6, 102);Foil;Português;SP;72.89
+20;Gyarados;(6, 102);Foil;Português;MP;89.95
+21;Gyarados;(6, 102);Foil;Inglês;MP;120.0
+22;Gyarados;(6, 102);Foil;Português;SP;124.95
+23;Gyarados;(6, 102);Foil;Inglês;SP;127.5
+24;Gyarados;(6, 102);Foil;Inglês;MP;129.95
+25;Gyarados;(6, 102);Foil;Português;SP;135.0
+26;Gyarados;(6, 102);Foil, Edition One;Português;HP;179.9
+27;Gyarados;(6, 102);Foil;Japonês;MP;199.9
+28;Gyarados;(6, 102);Foil, Edition One;Português;MP;199.9
+29;Gyarados;(6, 102);Foil, Edition One;Português;D;199.99
+30;Gyarados;(6, 102);Foil, Edition One;Português;HP;220.0
+31;Machamp;(8, 102);Foil, Edition One;Português;HP;5.95
+32;Machamp;(8, 102);Foil, Edition One;Português;D;6.5
+33;Machamp;(8, 102);Foil, Edition One;Português;D;7.0
+34;Machamp;(8, 102);Foil, Edition One;Português;D;7.9
+35;Machamp;(8, 102);Foil, Edition One;Português;D;7.99
+36;Machamp;(8, 102);Foil, Edition One;Português;D;8.99
+37;Machamp;(8, 102);Foil, Edition One;Português;HP;9.5
+38;Machamp;(8, 102);Foil, Edition One;Português;D;9.9
+39;Machamp;(8, 102);Foil, Edition One;Português;D;9.9
+40;Machamp;(8, 102);Foil, Edition One;Português;HP;12.9
+41;Machamp;(8, 102);Foil, Edition One;Inglês;D;14.9
+42;Machamp;(8, 102);Foil, Edition One;Inglês;D;15.9
+43;Machamp;(8, 102);Foil, Edition One;Inglês;HP;16.9
+44;Machamp;(8, 102);Foil, Edition One;Português;D;18.9
+45;Machamp;(8, 102);Foil, Edition One;Espanhol;SP;19.9
+46;Machamp;(8, 102);Foil, Edition One;Francês;D;19.95
+47;Machamp;(8, 102);Foil, Edition One;Português;HP;19.99
+48;Machamp;(8, 102);Foil, Edition One;Inglês;D;34.95
+49;Machamp;(8, 102);Foil, Edition One;Português;MP;35.0
+50;Machamp;(8, 102);Edition One;Português;SP;42.5
+51;Machamp;(8, 102);Foil, Edition One;Português;HP;49.95
+52;Machamp;(8, 102);Foil;Japonês;NM;79.95
+53;Mewtwo;(10, 102);Foil;Português;D;20.89
+54;Mewtwo;(10, 102);Foil;Português;HP;29.9
+55;Mewtwo;(10, 102);Foil;Português;MP;34.99
+56;Mewtwo;(10, 102);Foil;Português;HP;39.9
+57;Mewtwo;(10, 102);Foil;Português;MP;39.9
+58;Mewtwo;(10, 102);Foil;Inglês;MP;42.5
+59;Mewtwo;(10, 102);Foil;Inglês;HP;44.5
+60;Mewtwo;(10, 102);Foil;Português;MP;49.9
+61;Mewtwo;(10, 102);Foil;Português;D;51.9
+62;Mewtwo;(10, 102);Foil;Português;HP;57.9
+63;Mewtwo;(10, 102);Foil;Português;MP;59.42
+64;Mewtwo;(10, 102);Foil;Português;HP;59.9
+65;Mewtwo;(10, 102);Foil;Inglês;D;69.9
+66;Mewtwo;(10, 102);Foil;Português;D;69.95
+67;Mewtwo;(10, 102);Foil;Francês;D;69.95
+68;Mewtwo;(10, 102);Foil;Português;D;79.99
+69;Mewtwo;(10, 102);Foil;Alemão;NM;89.9
+70;Mewtwo;(10, 102);Foil;Português;HP;119.95
+71;Mewtwo;(10, 102);Foil;Inglês;MP;129.9
+72;Mewtwo;(10, 102);Foil;Japonês;NM;149.9
+73;Mewtwo;(10, 102);Foil;Português;MP;149.95
+74;Mewtwo;(10, 102);Foil;Português;MP;169.9
+75;Mewtwo;(10, 102);Foil;Português;NM;199.9
+76;Mewtwo;(10, 102);Foil;Português;SP;219.99
+77;Mewtwo;(10, 102);Foil;Inglês;SP;239.95
+78;Mewtwo;(10, 102);Foil, Edition One;Inglês;D;399.9
+79;Mewtwo;(10, 102);Foil, Shadowless;Inglês;HP;699.95
+80;Mewtwo;(10, 102);Foil, Edition One;Português;SP;719.99
+81;Mewtwo;(10, 102);Foil, Edition One;Francês;MP;799.9
+82;Mewtwo;(10, 102);Foil, Edition One, Shadowless;Inglês;HP;4999.9
+83;Beedrill;(17, 102);;Português;D;2.0
+84;Beedrill;(17, 102);;Português;D;2.45
+85;Beedrill;(17, 102);;Português;HP;2.55
+86;Beedrill;(17, 102);;Português;HP;2.99
+87;Beedrill;(17, 102);;Inglês;HP;3.0
+88;Beedrill;(17, 102);;Inglês;HP;3.4
+89;Beedrill;(17, 102);;Português;D;4.0
+90;Beedrill;(17, 102);;Português;MP;5.0
+91;Beedrill;(17, 102);;Português;HP;6.0
+92;Beedrill;(17, 102);;Português;D;6.9
+93;Beedrill;(17, 102);;Inglês;HP;7.0
+94;Beedrill;(17, 102);;Português / Inglês;MP;7.65
+95;Beedrill;(17, 102);;Português;MP;8.0
+96;Beedrill;(17, 102);;Inglês;MP;8.2
+97;Beedrill;(17, 102);;Português;MP;8.4
+98;Beedrill;(17, 102);;Inglês;MP;8.91
+99;Beedrill;(17, 102);;Português;HP;9.9
+100;Beedrill;(17, 102);;Português;MP;11.48
+101;Beedrill;(17, 102);;Português;MP;11.9
+102;Beedrill;(17, 102);;Português;SP;12.0
+103;Beedrill;(17, 102);;Português;SP;12.99
+104;Beedrill;(17, 102);;Português;MP;13.9
+105;Beedrill;(17, 102);;Português;SP;14.9
+106;Beedrill;(17, 102);;Inglês;MP;14.9
+107;Beedrill;(17, 102);;Inglês;SP;17.0
+108;Beedrill;(17, 102);;Português;SP;18.0
+109;Beedrill;(17, 102);;Português;NM;23.39
+110;Beedrill;(17, 102);Edition One;Português;MP;42.5
+111;Beedrill;(17, 102);;Português;M;45.0
+112;Beedrill;(17, 102);Edition One;Português;HP;74.9
+113;Beedrill;(17, 102);Edition One;Português;D;109.9
+114;Beedrill;(17, 102);Edition One;Português;HP;119.9
+115;Beedrill;(17, 102);Edition One;Português;MP;139.9
+116;Beedrill;(17, 102);Edition One;Português;NM;149.9
+117;Dragonair;(18, 102);;Português;HP;6.0
+118;Dragonair;(18, 102);;Português;HP;6.5
+119;Dragonair;(18, 102);;Português;MP;14.95
+120;Dragonair;(18, 102);;Inglês;SP;14.99
+121;Dragonair;(18, 102);;Português / Inglês;MP;16.9
+122;Dragonair;(18, 102);;Português;HP;16.92
+123;Dragonair;(18, 102);Edition One;Português;SP;159.9
+124;Electabuzz;(20, 102);;Português;MP;7.0
+125;Electabuzz;(20, 102);;Inglês;HP;7.5
+126;Electabuzz;(20, 102);;Português;MP;8.5
+127;Electabuzz;(20, 102);;Português;D;9.9
+128;Electabuzz;(20, 102);;Português;HP;9.9
+129;Electabuzz;(20, 102);;Português;MP;10.0
+130;Electabuzz;(20, 102);;Português;HP;11.9
+131;Electabuzz;(20, 102);;Português / Inglês;MP;12.9
+132;Electabuzz;(20, 102);;Português;HP;14.9
+133;Electabuzz;(20, 102);;Inglês;SP;19.99
+134;Electabuzz;(20, 102);;Português / Inglês;SP;25.0
+135;Electabuzz;(20, 102);Edition One;Português;D;29.9
+136;Electabuzz;(20, 102);;Inglês;HP;30.9
+137;Electabuzz;(20, 102);Edition One;Português;HP;35.9
+138;Electabuzz;(20, 102);Edition One;Português / Inglês;MP;99.0
+139;Electabuzz;(20, 102);Edition One;Português;MP;120.0
+140;Pidgeotto;(22, 102);;Inglês;D;4.0
+141;Pidgeotto;(22, 102);;Português;D;4.0
+142;Pidgeotto;(22, 102);;Inglês;D;4.99
+143;Pidgeotto;(22, 102);;Português;D;12.5
+144;Pidgeotto;(22, 102);;Português / Inglês;MP;14.9
+145;Pidgeotto;(22, 102);;Português;D;17.9
+146;Pidgeotto;(22, 102);;Português;HP;19.9
+147;Pidgeotto;(22, 102);;Inglês;SP;21.25
+148;Pidgeotto;(22, 102);;Inglês;D;23.9
+149;Pidgeotto;(22, 102);;Português / Inglês;MP;25.9
+150;Pidgeotto;(22, 102);;Inglês;D;25.9
+151;Pidgeotto;(22, 102);Edition One;Português;SP;30.0
+152;Pidgeotto;(22, 102);;Inglês;MP;45.0
+153;Pidgeotto;(22, 102);;Inglês;SP;49.9
+154;Pidgeotto;(22, 102);;Português;M;81.0
+155;Pidgeotto;(22, 102);Shadowless;Inglês;HP;99.5
+156;Arcanine;(23, 102);;Português;HP;3.98
+157;Arcanine;(23, 102);;Português;MP;7.0
+158;Arcanine;(23, 102);;Português;MP;7.98
+159;Arcanine;(23, 102);;Português;SP;14.9
+160;Arcanine;(23, 102);Edition One;Português;D;14.9
+161;Arcanine;(23, 102);;Inglês;SP;15.9
+162;Arcanine;(23, 102);;Português;NM;16.9
+163;Arcanine;(23, 102);;Português;SP;17.91
+164;Arcanine;(23, 102);;Português;SP;19.99
+165;Arcanine;(23, 102);;Português;NM;26.91
+166;Arcanine;(23, 102);;Português;M;53.1
+167;Arcanine;(23, 102);Edition One, Shadowless;Inglês;D;199.5
+168;Charmeleon;(24, 102);;Português;HP;0.49
+169;Charmeleon;(24, 102);;Português;HP;0.49
+170;Charmeleon;(24, 102);;Português;MP;0.99
+171;Charmeleon;(24, 102);;Português;D;0.99
+172;Charmeleon;(24, 102);;Português;HP;1.02
+173;Charmeleon;(24, 102);;Português;D;1.9
+174;Charmeleon;(24, 102);;Português;SP;2.0
+175;Charmeleon;(24, 102);;Português;HP;2.0
+176;Charmeleon;(24, 102);;Português;SP;2.2
+177;Charmeleon;(24, 102);;Português;HP;2.3
+178;Charmeleon;(24, 102);;Português;D;2.5
+179;Charmeleon;(24, 102);;Inglês;D;2.5
+180;Charmeleon;(24, 102);;Português;D;2.5
+181;Charmeleon;(24, 102);;Português;MP;2.7
+182;Charmeleon;(24, 102);;Português;SP;3.4
+183;Charmeleon;(24, 102);;Português;HP;3.59
+184;Charmeleon;(24, 102);;Inglês;D;3.9
+185;Charmeleon;(24, 102);;Inglês;HP;4.3
+186;Charmeleon;(24, 102);;Inglês;MP;4.5
+187;Charmeleon;(24, 102);;Português;HP;4.9
+188;Charmeleon;(24, 102);;Português;HP;4.99
+189;Charmeleon;(24, 102);;Português;MP;5.0
+190;Charmeleon;(24, 102);Edition One;Português;D;5.0
+191;Charmeleon;(24, 102);;Inglês;SP;5.1
+192;Charmeleon;(24, 102);;Português;MP;6.29
+193;Charmeleon;(24, 102);;Inglês;MP;7.99
+194;Charmeleon;(24, 102);;Português;HP;8.9
+195;Charmeleon;(24, 102);;Português;SP;9.81
+196;Charmeleon;(24, 102);;Português;SP;9.99
+197;Charmeleon;(24, 102);;Português;SP;11.25
+198;Charmeleon;(24, 102);;Português;MP;12.9
+199;Charmeleon;(24, 102);;Inglês;SP;13.95
+200;Charmeleon;(24, 102);;Português;SP;15.0
+201;Charmeleon;(24, 102);;Inglês;MP;15.9
+202;Charmeleon;(24, 102);;Inglês;NM;17.0
+203;Charmeleon;(24, 102);;Português;HP;17.9
+204;Charmeleon;(24, 102);;Português;NM;17.91
+205;Charmeleon;(24, 102);;Português;SP;17.91
+206;Charmeleon;(24, 102);;Português;MP;18.9
+207;Charmeleon;(24, 102);;Inglês;NM;19.99
+208;Charmeleon;(24, 102);;Inglês;NM;22.49
+209;Charmeleon;(24, 102);;Português;SP;24.9
+210;Charmeleon;(24, 102);;Inglês;SP;24.9
+211;Charmeleon;(24, 102);;Português;NM;32.39
+212;Charmeleon;(24, 102);;Português;NM;34.9
+213;Charmeleon;(24, 102);;Inglês;NM;36.0
+214;Charmeleon;(24, 102);;Português;NM;39.9
+215;Charmeleon;(24, 102);;Português;M;72.0
+216;Charmeleon;(24, 102);Edition One;Português;HP;89.9
+217;Charmeleon;(24, 102);Edition One;Português;MP;89.9
+218;Charmeleon;(24, 102);Edition One;Português;SP;189.9
+219;Dratini;(26, 102);;Português;D;0.25
+220;Dratini;(26, 102);;Português;HP;0.5
+221;Dratini;(26, 102);;Português;SP;0.6
+222;Dratini;(26, 102);;Português;HP;0.72
+223;Dratini;(26, 102);;Português;D;0.79
+224;Dratini;(26, 102);;Inglês;SP;0.85
+225;Dratini;(26, 102);;Português;HP;0.99
+226;Dratini;(26, 102);;Inglês;MP;1.0
+227;Dratini;(26, 102);;Português;HP;1.02
+228;Dratini;(26, 102);;Português;MP;1.26
+229;Dratini;(26, 102);;Português;HP;1.29
+230;Dratini;(26, 102);;Português;HP;1.58
+231;Dratini;(26, 102);;Português / Inglês;MP;1.79
+232;Dratini;(26, 102);;Português;D;1.9
+233;Dratini;(26, 102);;Português;MP;1.98
+234;Dratini;(26, 102);;Inglês;MP;1.99
+235;Dratini;(26, 102);;Português;MP;2.25
+236;Dratini;(26, 102);;Português;HP;2.3
+237;Dratini;(26, 102);;Português;MP;2.5
+238;Dratini;(26, 102);;Português;HP;2.5
+239;Dratini;(26, 102);;Italiano;NM;2.9
+240;Dratini;(26, 102);;Português;HP;3.5
+241;Dratini;(26, 102);;Inglês;D;3.9
+242;Dratini;(26, 102);;Inglês;MP;4.0
+243;Dratini;(26, 102);;Inglês;MP;4.5
+244;Dratini;(26, 102);;Português;SP;4.99
+245;Dratini;(26, 102);;Português;SP;5.99
+246;Dratini;(26, 102);;Português;SP;6.29
+247;Dratini;(26, 102);;Inglês;SP;14.39
+248;Dratini;(26, 102);;Inglês;SP;15.9
+249;Dratini;(26, 102);;Português;NM;20.25
+250;Dratini;(26, 102);;Japonês;MP;25.0
+251;Dratini;(26, 102);Edition One;Português;MP;29.5
+252;Dratini;(26, 102);;Português;M;49.5
+253;Dratini;(26, 102);Edition One;Português;M;108.0
+254;Growlithe;(28, 102);;Português;HP;0.2
+255;Growlithe;(28, 102);;Português;HP;0.5
+256;Growlithe;(28, 102);;Português;HP;0.5
+257;Growlithe;(28, 102);Alterada;Português;SP;0.59
+258;Growlithe;(28, 102);;Português;MP;0.72
+259;Growlithe;(28, 102);;Português;HP;1.02
+260;Growlithe;(28, 102);;Português;D;1.13
+261;Growlithe;(28, 102);;Português;HP;1.35
+262;Growlithe;(28, 102);;Inglês;MP;1.5
+263;Growlithe;(28, 102);;Português;MP;1.58
+264;Growlithe;(28, 102);;Português;D;1.9
+265;Growlithe;(28, 102);;Português;D;1.9
+266;Growlithe;(28, 102);;Português;HP;1.99
+267;Growlithe;(28, 102);;Português;MP;2.0
+268;Growlithe;(28, 102);;Português;HP;2.1
+269;Growlithe;(28, 102);;Português;MP;2.5
+270;Growlithe;(28, 102);;Português;SP;2.7
+271;Growlithe;(28, 102);;Português;SP;3.59
+272;Growlithe;(28, 102);;Italiano;SP;3.9
+273;Growlithe;(28, 102);;Inglês;MP;3.9
+274;Growlithe;(28, 102);;Português;HP;3.98
+275;Growlithe;(28, 102);;Inglês;HP;4.3
+276;Growlithe;(28, 102);;Inglês;MP;4.5
+277;Growlithe;(28, 102);;Inglês;SP;4.7
+278;Growlithe;(28, 102);;Português;SP;4.99
+279;Growlithe;(28, 102);;Português;MP;6.9
+280;Growlithe;(28, 102);;Inglês;MP;6.9
+281;Growlithe;(28, 102);;Português;SP;6.9
+282;Growlithe;(28, 102);;Japonês;NM;8.01
+283;Growlithe;(28, 102);;Português;SP;8.01
+284;Growlithe;(28, 102);;Inglês;SP;8.01
+285;Growlithe;(28, 102);;Português;SP;9.9
+286;Growlithe;(28, 102);;Inglês;SP;9.9
+287;Growlithe;(28, 102);;Português;NM;14.31
+288;Growlithe;(28, 102);Edition One;Português;D;14.9
+289;Growlithe;(28, 102);;Português;NM;17.91
+290;Growlithe;(28, 102);;Português;NM;19.9
+291;Growlithe;(28, 102);Edition One;Português;MP;21.25
+292;Growlithe;(28, 102);;Inglês;NM;22.5
+293;Growlithe;(28, 102);Edition One;Português;D;29.5
+294;Growlithe;(28, 102);Shadowless;Inglês;MP;29.5
+295;Growlithe;(28, 102);;Português;M;35.91
+296;Growlithe;(28, 102);Edition One;Português;SP;49.9
+297;Growlithe;(28, 102);Edition One;Português;NM;98.9
+298;Growlithe;(28, 102);Edition One;Português;M;135.0
+299;Haunter;(29, 102);;Inglês;HP;1.9
+300;Haunter;(29, 102);;Português;MP;2.13
+301;Haunter;(29, 102);;Português;HP;2.99
+302;Haunter;(29, 102);;Português;MP;3.5
+303;Haunter;(29, 102);;Inglês;D;3.9
+304;Haunter;(29, 102);;Inglês;MP;4.5
+305;Haunter;(29, 102);;Inglês;SP;7.0
+306;Haunter;(29, 102);;Português;MP;7.98
+307;Haunter;(29, 102);;Inglês;MP;8.99
+308;Haunter;(29, 102);;Português;MP;8.99
+309;Haunter;(29, 102);;Português;SP;8.99
+310;Haunter;(29, 102);;Português;SP;9.99
+311;Haunter;(29, 102);;Português;SP;11.69
+312;Haunter;(29, 102);;Alemão;SP;14.5
+313;Haunter;(29, 102);;Português;SP;14.9
+314;Haunter;(29, 102);;Português;NM;17.09
+315;Haunter;(29, 102);;Português;NM;17.91
+316;Haunter;(29, 102);;Japonês;HP;29.99
+317;Haunter;(29, 102);Edition One;Português;M;135.0
+318;Ivysaur;(30, 102);;Inglês;HP;0.53
+319;Ivysaur;(30, 102);;Português;D;1.8
+320;Ivysaur;(30, 102);;Inglês;MP;2.0
+321;Ivysaur;(30, 102);;Português;SP;2.5
+322;Ivysaur;(30, 102);;Inglês;SP;2.55
+323;Ivysaur;(30, 102);;Português;SP;2.69
+324;Ivysaur;(30, 102);;Português;MP;3.9
+325;Ivysaur;(30, 102);;Inglês;MP;4.5
+326;Ivysaur;(30, 102);;Português;SP;4.9
+327;Ivysaur;(30, 102);;Inglês;MP;6.75
+328;Ivysaur;(30, 102);;Português;HP;8.9
+329;Ivysaur;(30, 102);;Português;MP;15.9
+330;Ivysaur;(30, 102);;Inglês;MP;15.9
+331;Ivysaur;(30, 102);;Português;NM;17.91
+332;Ivysaur;(30, 102);;Inglês;MP;19.5
+333;Ivysaur;(30, 102);;Português;SP;22.9
+334;Ivysaur;(30, 102);;Português;SP;24.5
+335;Ivysaur;(30, 102);;Japonês;SP;29.99
+336;Ivysaur;(30, 102);Edition One;Português;HP;30.0
+337;Ivysaur;(30, 102);Edition One;Português;HP;34.0
+338;Ivysaur;(30, 102);;Inglês;NM;44.9
+339;Ivysaur;(30, 102);Edition One;Português;D;50.0
+340;Ivysaur;(30, 102);Edition One;Português;HP;50.0
+341;Ivysaur;(30, 102);;Português;M;53.91
+342;Ivysaur;(30, 102);Edition One;Português;HP;55.0
+343;Ivysaur;(30, 102);;Português;M;62.91
+344;Jynx;(31, 102);;Português;MP;0.18
+345;Jynx;(31, 102);;Português;MP;0.4
+346;Jynx;(31, 102);;Português;MP;0.43
+347;Jynx;(31, 102);;Português;HP;0.51
+348;Jynx;(31, 102);;Português;D;0.99
+349;Jynx;(31, 102);;Português;MP;1.5
+350;Jynx;(31, 102);;Português;D;1.9
+351;Jynx;(31, 102);;Português;D;1.9
+352;Jynx;(31, 102);;Português;MP;2.25
+353;Jynx;(31, 102);;Português;HP;2.3
+354;Jynx;(31, 102);;Português;MP;2.5
+355;Jynx;(31, 102);;Português;HP;2.99
+356;Jynx;(31, 102);;Português;MP;3.0
+357;Jynx;(31, 102);;Português;MP;3.98
+358;Jynx;(31, 102);;Inglês;MP;3.98
+359;Jynx;(31, 102);;Inglês;HP;4.3
+360;Jynx;(31, 102);;Inglês;MP;4.5
+361;Jynx;(31, 102);;Português;SP;6.29
+362;Jynx;(31, 102);;Português;SP;7.98
+363;Jynx;(31, 102);;Português;SP;8.91
+364;Jynx;(31, 102);;Português;SP;9.99
+365;Jynx;(31, 102);;Inglês;SP;9.99
+366;Jynx;(31, 102);;Português;NM;13.5
+367;Jynx;(31, 102);;Inglês;SP;15.9
+368;Jynx;(31, 102);;Português;NM;17.91
+369;Jynx;(31, 102);;Português;NM;25.0
+370;Jynx;(31, 102);;Português;M;36.0
+371;Jynx;(31, 102);Shadowless;Inglês;MP;39.99
+372;Jynx;(31, 102);Edition One;Português;SP;47.9
+373;Jynx;(31, 102);Edition One;Português;NM;68.0
+374;Jynx;(31, 102);Edition One;Português;M;90.0
+375;Kadabra;(32, 102);;Português;HP;3.5
+376;Kadabra;(32, 102);;Português;HP;3.9
+377;Kadabra;(32, 102);;Português / Inglês;MP;4.95
+378;Kadabra;(32, 102);;Inglês;MP;8.0
+379;Kadabra;(32, 102);;Português;MP;8.9
+380;Kadabra;(32, 102);;Português;HP;9.9
+381;Kadabra;(32, 102);;Português;HP;9.99
+382;Kadabra;(32, 102);;Português;SP;10.0
+383;Kadabra;(32, 102);;Português;SP;13.9
+384;Kadabra;(32, 102);;Português;SP;14.9
+385;Kadabra;(32, 102);;Português;MP;15.0
+386;Kadabra;(32, 102);;Português / Inglês;SP;15.21
+387;Kadabra;(32, 102);;Português;MP;16.9
+388;Kadabra;(32, 102);;Inglês;MP;16.9
+389;Kadabra;(32, 102);;Português / Inglês;NM;19.98
+390;Kadabra;(32, 102);;Inglês;SP;20.0
+391;Kadabra;(32, 102);;Português;SP;24.9
+392;Kadabra;(32, 102);;Português;SP;24.99
+393;Kadabra;(32, 102);;Inglês;SP;24.99
+394;Kadabra;(32, 102);;Inglês;NM;31.5
+395;Kadabra;(32, 102);Edition One;Português;HP;34.5
+396;Kadabra;(32, 102);;Português;NM;39.9
+397;Kadabra;(32, 102);Edition One;Português;MP;109.9
+398;Kadabra;(32, 102);Edition One;Português;M;139.5
+399;Kadabra;(32, 102);Edition One;Português;M;180.0
+400;Kakuna;(33, 102);;Português / Inglês;HP;0.17
+401;Kakuna;(33, 102);;Português;MP;0.4
+402;Kakuna;(33, 102);;Inglês;MP;0.98
+403;Kakuna;(33, 102);;Inglês;HP;0.98
+404;Kakuna;(33, 102);;Português;HP;1.0
+405;Kakuna;(33, 102);;Português;MP;1.35
+406;Kakuna;(33, 102);;Português;D;1.9
+407;Kakuna;(33, 102);;Italiano;D;1.9
+408;Kakuna;(33, 102);;Português;MP;1.98
+409;Kakuna;(33, 102);;Inglês;HP;1.99
+410;Kakuna;(33, 102);;Português;HP;2.3
+411;Kakuna;(33, 102);;Português;MP;2.5
+412;Kakuna;(33, 102);;Português;SP;2.7
+413;Kakuna;(33, 102);;Português;NM;2.9
+414;Kakuna;(33, 102);;Italiano;NM;2.9
+415;Kakuna;(33, 102);;Português;SP;2.98
+416;Kakuna;(33, 102);;Alemão;SP;2.98
+417;Kakuna;(33, 102);;Português;SP;3.0
+418;Kakuna;(33, 102);Edition One;Português;HP;3.4
+419;Kakuna;(33, 102);;Inglês;MP;4.5
+420;Kakuna;(33, 102);;Inglês;SP;4.7
+421;Kakuna;(33, 102);;Português;SP;4.99
+422;Kakuna;(33, 102);;Português;NM;5.98
+423;Kakuna;(33, 102);;Português;SP;6.29
+424;Kakuna;(33, 102);;Português;SP;8.09
+425;Kakuna;(33, 102);;Português;SP;8.91
+426;Kakuna;(33, 102);;Inglês;SP;12.9
+427;Kakuna;(33, 102);Edition One;Português;MP;39.9
+428;Kakuna;(33, 102);;Português;M;44.91
+429;Kakuna;(33, 102);Edition One;Português;NM;89.9
+430;Machoke;(34, 102);;Inglês;HP;0.1
+431;Machoke;(34, 102);;Português;HP;0.1
+432;Machoke;(34, 102);;Inglês;HP;0.1
+433;Machoke;(34, 102);;Português;HP;0.1
+434;Machoke;(34, 102);;Português;D;0.1
+435;Machoke;(34, 102);;Inglês;HP;0.15
+436;Machoke;(34, 102);;Português;HP;0.23
+437;Machoke;(34, 102);;Português;MP;0.26
+438;Machoke;(34, 102);;Português;MP;0.29
+439;Machoke;(34, 102);;Português;D;0.45
+440;Machoke;(34, 102);;Português;HP;0.45
+441;Machoke;(34, 102);;Português;D;0.7
+442;Machoke;(34, 102);;Inglês;D;0.7
+443;Machoke;(34, 102);;Português;HP;0.71
+444;Machoke;(34, 102);;Português;MP;0.94
+445;Machoke;(34, 102);;Inglês;MP;0.94
+446;Machoke;(34, 102);;Inglês;HP;0.99
+447;Machoke;(34, 102);;Português;HP;1.0
+448;Machoke;(34, 102);;Português;MP;1.13
+449;Machoke;(34, 102);;Inglês;MP;1.5
+450;Machoke;(34, 102);;Português;SP;1.7
+451;Machoke;(34, 102);Alterada;Português;SP;1.79
+452;Machoke;(34, 102);;Português;D;1.9
+453;Machoke;(34, 102);;Português;MP;1.98
+454;Machoke;(34, 102);;Inglês;MP;1.98
+455;Machoke;(34, 102);;Português;MP;2.0
+456;Machoke;(34, 102);;Inglês;SP;2.08
+457;Machoke;(34, 102);;Português;HP;2.3
+458;Machoke;(34, 102);;Português;MP;2.5
+459;Machoke;(34, 102);;Português;MP;2.5
+460;Machoke;(34, 102);;Português;SP;2.7
+461;Machoke;(34, 102);;Português / Inglês;MP;3.0
+462;Machoke;(34, 102);;Inglês;D;3.9
+463;Machoke;(34, 102);;Português;SP;3.9
+464;Machoke;(34, 102);;Alemão;SP;3.9
+465;Machoke;(34, 102);;Italiano;NM;3.9
+466;Machoke;(34, 102);;Inglês;HP;4.3
+467;Machoke;(34, 102);;Inglês;MP;4.5
+468;Machoke;(34, 102);;Inglês;SP;4.7
+469;Machoke;(34, 102);;Português;SP;4.99
+470;Machoke;(34, 102);;Português / Inglês;SP;5.39
+471;Machoke;(34, 102);;Inglês;NM;5.99
+472;Machoke;(34, 102);;Português;NM;8.9
+473;Machoke;(34, 102);;Português;NM;13.95
+474;Machoke;(34, 102);Alterada;Português;M;18.0
+475;Machoke;(34, 102);Edition One;Português;HP;25.5
+476;Machoke;(34, 102);;Português;M;63.0
+477;Machoke;(34, 102);Edition One;Português;SP;89.9
+478;Machoke;(34, 102);Edition One;Português;M;112.68
+479;Magikarp;(35, 102);;Português;HP;0.94
+480;Magikarp;(35, 102);;Português;D;1.9
+481;Magikarp;(35, 102);;Português;D;1.9
+482;Magikarp;(35, 102);;Português;HP;2.3
+483;Magikarp;(35, 102);;Português;MP;2.5
+484;Magikarp;(35, 102);;Italiano;NM;3.9
+485;Magikarp;(35, 102);;Inglês;HP;4.3
+486;Magikarp;(35, 102);;Inglês;MP;4.5
+487;Magikarp;(35, 102);;Português;MP;5.0
+488;Magikarp;(35, 102);;Português;MP;5.9
+489;Magikarp;(35, 102);;Português;MP;9.99
+490;Magikarp;(35, 102);;Português;SP;14.31
+491;Magikarp;(35, 102);;Português;MP;14.99
+492;Magikarp;(35, 102);;Português;SP;19.9
+493;Magikarp;(35, 102);;Inglês;SP;19.99
+494;Magikarp;(35, 102);;Português;SP;19.99
+495;Magikarp;(35, 102);;Português;SP;19.99
+496;Magikarp;(35, 102);;Inglês;SP;19.99
+497;Magikarp;(35, 102);Shadowless;Inglês;D;24.5
+498;Magikarp;(35, 102);;Português;NM;32.39
+499;Magikarp;(35, 102);Shadowless;Inglês;HP;39.5
+500;Magikarp;(35, 102);;Japonês;HP;39.99
+501;Magikarp;(35, 102);;Português;NM;44.91
+502;Magikarp;(35, 102);Edition One;Português;D;49.9
+503;Magikarp;(35, 102);Edition One;Português;HP;55.0
+504;Magikarp;(35, 102);;Português;M;72.0
+505;Magikarp;(35, 102);Edition One;Português;MP;150.0
+506;Magikarp;(35, 102);Edition One;Português;M;225.0
+507;Magikarp;(35, 102);Edition One;Português;NM;380.0
+508;Magmar;(36, 102);;Português;D;0.7
+509;Magmar;(36, 102);;Português;D;1.9
+510;Magmar;(36, 102);;Português;HP;1.9
+511;Magmar;(36, 102);;Português;MP;2.0
+512;Magmar;(36, 102);;Português;HP;2.3
+513;Magmar;(36, 102);;Português;MP;2.5
+514;Magmar;(36, 102);;Português;HP;2.99
+515;Magmar;(36, 102);;Português;SP;4.5
+516;Magmar;(36, 102);;Português;MP;7.9
+517;Magmar;(36, 102);;Português;SP;9.99
+518;Magmar;(36, 102);;Inglês;SP;13.95
+519;Magmar;(36, 102);;Japonês;NM;20.25
+520;Magmar;(36, 102);Edition One;Português;HP;34.9
+521;Magmar;(36, 102);Edition One;Português;MP;39.5
+522;Magmar;(36, 102);Shadowless;Inglês;D;39.5
+523;Magmar;(36, 102);Edition One;Português;HP;39.9
+524;Magmar;(36, 102);;Português;M;72.0
+525;Magmar;(36, 102);Edition One;Português;NM;119.9
+526;Nidorino;(37, 102);;Português;MP;0.51
+527;Nidorino;(37, 102);;Inglês;SP;0.85
+528;Nidorino;(37, 102);;Português;MP;2.69
+529;Nidorino;(37, 102);;Português;MP;5.98
+530;Nidorino;(37, 102);;Português;SP;8.9
+531;Nidorino;(37, 102);Edition One;Português;HP;14.9
+532;Nidorino;(37, 102);;;N/A;17.09
+533;Nidorino;(37, 102);;Português / Inglês;M;17.91
+534;Nidorino;(37, 102);;Inglês;NM;24.9
+535;Nidorino;(37, 102);;Inglês;M;26.91
+536;Nidorino;(37, 102);Shadowless;Inglês;HP;39.5
+537;Poliwhirl;(38, 102);;Português;HP;1.02
+538;Poliwhirl;(38, 102);;Português;D;1.9
+539;Poliwhirl;(38, 102);;Inglês;D;1.9
+540;Poliwhirl;(38, 102);;Português;HP;1.98
+541;Poliwhirl;(38, 102);;Português / Inglês;MP;2.0
+542;Poliwhirl;(38, 102);;Português / Inglês;SP;2.0
+543;Poliwhirl;(38, 102);;Português;HP;2.3
+544;Poliwhirl;(38, 102);;Português;MP;2.47
+545;Poliwhirl;(38, 102);;Português;MP;2.5
+546;Poliwhirl;(38, 102);;Inglês;D;3.9
+547;Poliwhirl;(38, 102);;Inglês;SP;4.1
+548;Poliwhirl;(38, 102);;Inglês;SP;4.25
+549;Poliwhirl;(38, 102);;Inglês;HP;4.3
+550;Poliwhirl;(38, 102);;Inglês;MP;4.5
+551;Poliwhirl;(38, 102);;Inglês;SP;4.7
+552;Poliwhirl;(38, 102);;Português;MP;4.99
+553;Poliwhirl;(38, 102);;Português;MP;5.99
+554;Poliwhirl;(38, 102);;Português;MP;6.98
+555;Poliwhirl;(38, 102);;Inglês;SP;7.65
+556;Poliwhirl;(38, 102);;Português;SP;8.98
+557;Poliwhirl;(38, 102);Edition One;Português;MP;8.99
+558;Poliwhirl;(38, 102);;Inglês;SP;9.99
+559;Poliwhirl;(38, 102);;Português;SP;9.99
+560;Poliwhirl;(38, 102);;Português;SP;9.99
+561;Poliwhirl;(38, 102);Edition One;Português;SP;10.0
+562;Poliwhirl;(38, 102);Edition One;Português;SP;10.0
+563;Poliwhirl;(38, 102);;Português;SP;10.79
+564;Poliwhirl;(38, 102);;Português;NM;17.91
+565;Poliwhirl;(38, 102);;Português;NM;19.98
+566;Poliwhirl;(38, 102);Shadowless;Inglês;HP;49.5
+567;Poliwhirl;(38, 102);;Português;M;59.39
+568;Poliwhirl;(38, 102);;Inglês;M;67.5
+569;Seel;(41, 102);;Inglês;D;0.47
+570;Seel;(41, 102);;Português;HP;0.71
+571;Seel;(41, 102);;Português;MP;0.79
+572;Seel;(41, 102);;Português;HP;1.0
+573;Seel;(41, 102);;Português;SP;1.0
+574;Seel;(41, 102);;Português;MP;1.5
+575;Seel;(41, 102);;Português;D;1.9
+576;Seel;(41, 102);;Português;SP;2.0
+577;Seel;(41, 102);;Inglês;SP;2.0
+578;Seel;(41, 102);;Português / Inglês;MP;2.25
+579;Seel;(41, 102);;Português;HP;2.3
+580;Seel;(41, 102);;Português;MP;2.5
+581;Seel;(41, 102);;Inglês;D;2.9
+582;Seel;(41, 102);;Inglês;HP;3.3
+583;Seel;(41, 102);;Inglês;MP;3.5
+584;Seel;(41, 102);;Português;MP;3.99
+585;Seel;(41, 102);;Inglês;MP;3.99
+586;Seel;(41, 102);;Inglês;SP;4.99
+587;Seel;(41, 102);;Português;SP;8.99
+588;Seel;(41, 102);;Português;MP;9.98
+589;Seel;(41, 102);;Português / Inglês;SP;10.35
+590;Seel;(41, 102);Shadowless;Inglês;HP;12.5
+591;Seel;(41, 102);;Inglês;SP;12.9
+592;Seel;(41, 102);Edition One;Português / Inglês;SP;38.25
+593;Seel;(41, 102);Edition One;Português;MP;43.61
+594;Seel;(41, 102);;Inglês;NM;49.5
+595;Seel;(41, 102);;Português;M;54.0
+596;Seel;(41, 102);Shadowless;Inglês;SP;59.5
+597;Seel;(41, 102);Edition One;Português;SP;75.9
+598;Seel;(41, 102);Edition One;Português;M;112.5
+599;Seel;(41, 102);Shadowless;Inglês;NM;450.0
+600;Abra;(43, 102);;Português;HP;0.1
+601;Abra;(43, 102);;Inglês;HP;0.1
+602;Abra;(43, 102);;Português;D;0.1
+603;Abra;(43, 102);;Português / Inglês;HP;0.4
+604;Abra;(43, 102);;Português;MP;0.5
+605;Abra;(43, 102);;Inglês;MP;0.5
+606;Abra;(43, 102);;Inglês;D;0.5
+607;Abra;(43, 102);;Português;MP;0.5
+608;Abra;(43, 102);;Português;MP;0.85
+609;Abra;(43, 102);;Português;HP;0.9
+610;Abra;(43, 102);;Inglês;HP;0.9
+611;Abra;(43, 102);;Português;HP;0.99
+612;Abra;(43, 102);;Português;MP;1.0
+613;Abra;(43, 102);;Português;MP;1.0
+614;Abra;(43, 102);;Português;SP;1.2
+615;Abra;(43, 102);;Português;SP;1.25
+616;Abra;(43, 102);;Inglês;SP;1.28
+617;Abra;(43, 102);;Português;HP;1.3
+618;Abra;(43, 102);;Inglês;MP;1.4
+619;Abra;(43, 102);;Português;MP;1.5
+620;Abra;(43, 102);Edition One;Português;D;1.7
+621;Abra;(43, 102);;Inglês;HP;3.3
+622;Abra;(43, 102);;Inglês;MP;3.5
+623;Abra;(43, 102);;Português / Inglês;MP;4.0
+624;Abra;(43, 102);;Português;MP;4.99
+625;Abra;(43, 102);;Português;SP;9.9
+626;Abra;(43, 102);;Português;SP;9.99
+627;Abra;(43, 102);;Inglês;NM;13.95
+628;Abra;(43, 102);;Português;NM;15.9
+629;Abra;(43, 102);Shadowless;Inglês;HP;19.5
+630;Abra;(43, 102);Edition One;Português;D;19.9
+631;Abra;(43, 102);Edition One;Português;MP;21.25
+632;Abra;(43, 102);Edition One;Português;HP;23.9
+633;Abra;(43, 102);;Português;M;26.91
+634;Abra;(43, 102);;Inglês;M;26.91
+635;Abra;(43, 102);;Inglês;M;32.39
+636;Abra;(43, 102);Edition One;Português;SP;46.75
+637;Abra;(43, 102);Edition One;Português;M;112.5
+638;Abra;(43, 102);Edition One;Português;M;135.0
+639;Bulbasaur;(44, 102);;Português / Inglês;D;0.14
+640;Bulbasaur;(44, 102);;Português;D;0.25
+641;Bulbasaur;(44, 102);;Português;D;0.25
+642;Bulbasaur;(44, 102);;Português;D;0.26
+643;Bulbasaur;(44, 102);;Português / Inglês;HP;0.34
+644;Bulbasaur;(44, 102);;Português;HP;0.45
+645;Bulbasaur;(44, 102);;Português;D;0.5
+646;Bulbasaur;(44, 102);;Português;HP;0.53
+647;Bulbasaur;(44, 102);;Inglês;MP;0.85
+648;Bulbasaur;(44, 102);;Português;MP;1.0
+649;Bulbasaur;(44, 102);;Português;HP;1.3
+650;Bulbasaur;(44, 102);;Português;MP;1.49
+651;Bulbasaur;(44, 102);;Português;MP;1.5
+652;Bulbasaur;(44, 102);;Português;SP;1.7
+653;Bulbasaur;(44, 102);;Português;SP;1.7
+654;Bulbasaur;(44, 102);;Português;MP;1.9
+655;Bulbasaur;(44, 102);;Português / Inglês;MP;2.0
+656;Bulbasaur;(44, 102);;Português / Inglês;MP;2.0
+657;Bulbasaur;(44, 102);;Português;SP;2.5
+658;Bulbasaur;(44, 102);;Inglês;SP;2.55
+659;Bulbasaur;(44, 102);;Português;MP;2.69
+660;Bulbasaur;(44, 102);;Inglês;D;3.9
+661;Bulbasaur;(44, 102);;Português;HP;3.98
+662;Bulbasaur;(44, 102);;Português;MP;4.05
+663;Bulbasaur;(44, 102);;Inglês;HP;4.3
+664;Bulbasaur;(44, 102);;Português;MP;5.39
+665;Bulbasaur;(44, 102);;Português;SP;11.69
+666;Bulbasaur;(44, 102);;Português;SP;17.09
+667;Bulbasaur;(44, 102);;Português;MP;19.9
+668;Bulbasaur;(44, 102);;Japonês;MP;19.9
+669;Bulbasaur;(44, 102);;Português / Inglês;NM;25.2
+670;Bulbasaur;(44, 102);Edition One;Português;D;26.78
+671;Bulbasaur;(44, 102);Edition One;Português;MP;29.0
+672;Bulbasaur;(44, 102);;Português;SP;29.9
+673;Bulbasaur;(44, 102);;Inglês;SP;29.9
+674;Bulbasaur;(44, 102);;Português;NM;39.98
+675;Bulbasaur;(44, 102);;Português;M;72.0
+676;Bulbasaur;(44, 102);Edition One;Português;MP;78.9
+677;Bulbasaur;(44, 102);Edition One;Português;HP;99.9
+678;Bulbasaur;(44, 102);Edition One;Português;MP;105.9
+679;Bulbasaur;(44, 102);Edition One;Português;SP;117.9
+680;Bulbasaur;(44, 102);Edition One;Português;SP;119.9
+681;Bulbasaur;(44, 102);Edition One;Português;SP;245.9
+682;Caterpie;(45, 102);;Inglês;D;0.17
+683;Caterpie;(45, 102);Alterada;Inglês;NM;0.32
+684;Caterpie;(45, 102);;Inglês;SP;0.43
+685;Caterpie;(45, 102);;Português;MP;0.5
+686;Caterpie;(45, 102);;Inglês;MP;0.75
+687;Caterpie;(45, 102);;Português;D;0.9
+688;Caterpie;(45, 102);;Português;MP;1.0
+689;Caterpie;(45, 102);;Português;HP;1.3
+690;Caterpie;(45, 102);;Português;MP;1.5
+691;Caterpie;(45, 102);;Inglês;D;1.9
+692;Caterpie;(45, 102);;Português / Inglês;MP;2.0
+693;Caterpie;(45, 102);;Inglês;MP;2.5
+694;Caterpie;(45, 102);;Inglês;SP;2.7
+695;Caterpie;(45, 102);;Português;HP;2.98
+696;Caterpie;(45, 102);;Português;MP;3.98
+697;Caterpie;(45, 102);;Português;SP;4.98
+698;Caterpie;(45, 102);;Japonês;NM;8.09
+699;Caterpie;(45, 102);Edition One;Português;HP;9.9
+700;Caterpie;(45, 102);;Português;SP;9.99
+701;Caterpie;(45, 102);;Português;NM;11.9
+702;Caterpie;(45, 102);Edition One;Português;SP;12.5
+703;Caterpie;(45, 102);;Português / Inglês;NM;14.31
+704;Caterpie;(45, 102);;Português;NM;19.9
+705;Caterpie;(45, 102);;Português / Inglês;M;23.39
+706;Caterpie;(45, 102);Edition One;Português;SP;24.9
+707;Caterpie;(45, 102);;Inglês;NM;25.9
+708;Caterpie;(45, 102);Edition One;Português;MP;30.0
+709;Caterpie;(45, 102);;Português;M;44.91
+710;Caterpie;(45, 102);;Inglês;M;45.81
+711;Caterpie;(45, 102);Edition One;Português;MP;49.9
+712;Caterpie;(45, 102);Edition One;Português;SP;69.9
+713;Caterpie;(45, 102);Edition One;Português;SP;109.5
+714;Caterpie;(45, 102);Edition One;Português;SP;119.59
+715;Caterpie;(45, 102);Edition One;Português;NM;119.9
+716;Charmander;(46, 102);;Português / Inglês;D;0.21
+717;Charmander;(46, 102);;Inglês;D;0.25
+718;Charmander;(46, 102);;Português;D;0.25
+719;Charmander;(46, 102);;Português;D;0.25
+720;Charmander;(46, 102);;Português;D;0.35
+721;Charmander;(46, 102);;Português / Inglês;HP;0.4
+722;Charmander;(46, 102);;Português;HP;0.4
+723;Charmander;(46, 102);;Português;HP;0.45
+724;Charmander;(46, 102);;Português;D;0.47
+725;Charmander;(46, 102);;Português;MP;0.5
+726;Charmander;(46, 102);;Português;MP;0.5
+727;Charmander;(46, 102);;Português;HP;0.71
+728;Charmander;(46, 102);;Português / Inglês;HP;0.75
+729;Charmander;(46, 102);;Português;MP;1.37
+730;Charmander;(46, 102);;Português;HP;1.39
+731;Charmander;(46, 102);;Português;D;1.9
+732;Charmander;(46, 102);;Inglês;MP;1.98
+733;Charmander;(46, 102);;Português;MP;1.99
+734;Charmander;(46, 102);;Português;HP;2.3
+735;Charmander;(46, 102);;Português;SP;2.3
+736;Charmander;(46, 102);;Português;SP;2.39
+737;Charmander;(46, 102);;Português;MP;2.5
+738;Charmander;(46, 102);;Português;HP;2.5
+739;Charmander;(46, 102);;Português;SP;2.7
+740;Charmander;(46, 102);;Inglês;MP;2.99
+741;Charmander;(46, 102);;Inglês;SP;3.4
+742;Charmander;(46, 102);;Inglês;D;3.9
+743;Charmander;(46, 102);;Português;HP;3.98
+744;Charmander;(46, 102);;Português;MP;4.5
+745;Charmander;(46, 102);;Português;SP;5.5
+746;Charmander;(46, 102);;Inglês;MP;5.5
+747;Charmander;(46, 102);;Inglês;HP;5.9
+748;Charmander;(46, 102);;Inglês;SP;7.19
+749;Charmander;(46, 102);;Português;MP;7.99
+750;Charmander;(46, 102);;Inglês;MP;7.99
+751;Charmander;(46, 102);;Inglês;MP;8.9
+752;Charmander;(46, 102);;Português;NM;8.9
+753;Charmander;(46, 102);;Português;NM;8.9
+754;Charmander;(46, 102);;Português;SP;8.99
+755;Charmander;(46, 102);;Português;SP;11.99
+756;Charmander;(46, 102);;Português;SP;12.9
+757;Charmander;(46, 102);;Inglês;SP;19.9
+758;Charmander;(46, 102);;Italiano;M;26.91
+759;Charmander;(46, 102);;Português / Inglês;NM;26.91
+760;Charmander;(46, 102);;Português;SP;29.9
+761;Charmander;(46, 102);;Português;SP;29.91
+762;Charmander;(46, 102);;Italiano;M;41.39
+763;Charmander;(46, 102);;Português;NM;45.9
+764;Charmander;(46, 102);;Português;NM;49.9
+765;Charmander;(46, 102);;Português;NM;49.95
+766;Charmander;(46, 102);;Inglês;NM;79.99
+767;Charmander;(46, 102);;Italiano;M;81.0
+768;Charmander;(46, 102);Edition One;Português;MP;85.0
+769;Charmander;(46, 102);Shadowless;Inglês;HP;99.5
+770;Charmander;(46, 102);;Português;M;108.0
+771;Charmander;(46, 102);Edition One;Português;M;225.0
+772;Diglett;(47, 102);;Português;D;0.1
+773;Diglett;(47, 102);;Inglês;D;0.15
+774;Diglett;(47, 102);;Português;D;0.15
+775;Diglett;(47, 102);;Português / Inglês;HP;0.17
+776;Diglett;(47, 102);;Português / Inglês;MP;0.2
+777;Diglett;(47, 102);;Português;D;0.2
+778;Diglett;(47, 102);;Português;HP;0.25
+779;Diglett;(47, 102);;Português;MP;0.25
+780;Diglett;(47, 102);;Português;MP;0.35
+781;Diglett;(47, 102);;Português;D;0.35
+782;Diglett;(47, 102);;Inglês;D;0.35
+783;Diglett;(47, 102);;Português;HP;0.4
+784;Diglett;(47, 102);;Inglês;HP;0.4
+785;Diglett;(47, 102);;Português;MP;0.4
+786;Diglett;(47, 102);;Português;HP;0.45
+787;Diglett;(47, 102);;Português;HP;0.5
+788;Diglett;(47, 102);;Português;MP;0.5
+789;Diglett;(47, 102);;Inglês;MP;0.5
+790;Diglett;(47, 102);;Português;HP;0.51
+791;Diglett;(47, 102);;Português;MP;0.63
+792;Diglett;(47, 102);;Inglês;MP;0.63
+793;Diglett;(47, 102);;Português;D;0.9
+794;Diglett;(47, 102);;Português;D;0.9
+795;Diglett;(47, 102);;Inglês;SP;0.95
+796;Diglett;(47, 102);;Português;MP;0.98
+797;Diglett;(47, 102);;Inglês;MP;0.98
+798;Diglett;(47, 102);;Português;SP;0.99
+799;Diglett;(47, 102);;Português;HP;1.0
+800;Diglett;(47, 102);;Português;MP;1.13
+801;Diglett;(47, 102);;Português;HP;1.3
+802;Diglett;(47, 102);;Inglês;SP;1.49
+803;Diglett;(47, 102);;Português;MP;1.5
+804;Diglett;(47, 102);;Português;SP;1.7
+805;Diglett;(47, 102);;Inglês;D;1.9
+806;Diglett;(47, 102);;Português;SP;2.0
+807;Diglett;(47, 102);;Inglês;MP;2.0
+808;Diglett;(47, 102);;Português / Inglês;SP;2.25
+809;Diglett;(47, 102);;Inglês;HP;2.3
+810;Diglett;(47, 102);;Inglês;MP;2.5
+811;Diglett;(47, 102);;Inglês;SP;2.7
+812;Diglett;(47, 102);;Português;MP;3.0
+813;Diglett;(47, 102);;Português;SP;3.98
+814;Diglett;(47, 102);;Português;SP;3.98
+815;Diglett;(47, 102);;Inglês;SP;3.98
+816;Diglett;(47, 102);;Português;NM;7.98
+817;Diglett;(47, 102);;Inglês;NM;7.98
+818;Diglett;(47, 102);;Português;NM;13.95
+819;Diglett;(47, 102);Edition One;Português;D;16.9
+820;Diglett;(47, 102);;Português;NM;19.9
+821;Diglett;(47, 102);;Português;M;23.39
+822;Diglett;(47, 102);;Inglês;M;26.91
+823;Diglett;(47, 102);;Português;M;31.5
+824;Diglett;(47, 102);;Inglês;M;40.5
+825;Diglett;(47, 102);Edition One;Português;SP;59.9
+826;Diglett;(47, 102);Edition One;Português;SP;60.63
+827;Diglett;(47, 102);Edition One;Português;M;67.5
+828;Diglett;(47, 102);Edition One;Português;NM;78.9
+829;Diglett;(47, 102);Edition One;Português;M;80.1
+830;Drowzee;(49, 102);;Português;D;0.17
+831;Drowzee;(49, 102);;Inglês;MP;0.2
+832;Drowzee;(49, 102);;Português;MP;0.3
+833;Drowzee;(49, 102);;Português;SP;0.4
+834;Drowzee;(49, 102);;Inglês;SP;0.5
+835;Drowzee;(49, 102);;Português;HP;0.51
+836;Drowzee;(49, 102);;Português / Inglês;MP;0.77
+837;Drowzee;(49, 102);;Português;D;0.9
+838;Drowzee;(49, 102);;Português;MP;0.98
+839;Drowzee;(49, 102);;Inglês;MP;0.98
+840;Drowzee;(49, 102);;Português;MP;1.0
+841;Drowzee;(49, 102);;Português;HP;1.0
+842;Drowzee;(49, 102);;Português;SP;1.0
+843;Drowzee;(49, 102);;Português;HP;1.3
+844;Drowzee;(49, 102);;Português;MP;1.5
+845;Drowzee;(49, 102);;Inglês;D;1.9
+846;Drowzee;(49, 102);;Inglês;SP;2.3
+847;Drowzee;(49, 102);;Inglês;MP;2.5
+848;Drowzee;(49, 102);;Português;SP;2.98
+849;Drowzee;(49, 102);;Inglês;SP;2.98
+850;Drowzee;(49, 102);;Português;MP;2.99
+851;Drowzee;(49, 102);;Português;MP;4.0
+852;Drowzee;(49, 102);;Português;SP;4.99
+853;Drowzee;(49, 102);;Inglês;SP;4.99
+854;Drowzee;(49, 102);;Português / Inglês;SP;6.29
+855;Drowzee;(49, 102);;Português;SP;8.09
+856;Drowzee;(49, 102);;Português;NM;9.98
+857;Drowzee;(49, 102);Shadowless;Inglês;HP;12.5
+858;Drowzee;(49, 102);;Português / Inglês;NM;14.31
+859;Drowzee;(49, 102);;Inglês;NM;23.39
+860;Drowzee;(49, 102);;Português;NM;26.91
+861;Drowzee;(49, 102);Edition One;Português;MP;34.0
+862;Drowzee;(49, 102);;Português;M;36.0
+863;Drowzee;(49, 102);;Inglês;M;54.0
+864;Drowzee;(49, 102);Edition One;Português;SP;89.9
+865;Drowzee;(49, 102);Edition One;Português;M;90.0
+866;Drowzee;(49, 102);Edition One;Português;NM;119.9
+867;Drowzee;(49, 102);Edition One;Português;M;135.0
+868;Gastly;(50, 102);;Português;D;0.1
+869;Gastly;(50, 102);;Português;HP;0.15
+870;Gastly;(50, 102);;Português;HP;0.17
+871;Gastly;(50, 102);;Português;MP;0.2
+872;Gastly;(50, 102);;Português;D;0.31
+873;Gastly;(50, 102);;Português;MP;0.4
+874;Gastly;(50, 102);;Português;MP;0.45
+875;Gastly;(50, 102);;Português;HP;0.5
+876;Gastly;(50, 102);;Português;D;0.9
+877;Gastly;(50, 102);;Português;MP;0.98
+878;Gastly;(50, 102);;Português;HP;1.3
+879;Gastly;(50, 102);;Português;MP;1.5
+880;Gastly;(50, 102);;Português;MP;1.5
+881;Gastly;(50, 102);;Português;MP;2.0
+882;Gastly;(50, 102);;Inglês;HP;2.3
+883;Gastly;(50, 102);;Inglês;SP;2.7
+884;Gastly;(50, 102);;Português;SP;4.95
+885;Gastly;(50, 102);;Português;SP;5.98
+886;Gastly;(50, 102);;Português / Inglês;SP;7.19
+887;Gastly;(50, 102);;Inglês;MP;7.99
+888;Gastly;(50, 102);;Português;MP;7.99
+889;Gastly;(50, 102);;Português;SP;8.01
+890;Gastly;(50, 102);;Português;NM;9.98
+891;Gastly;(50, 102);;Português;SP;9.99
+892;Gastly;(50, 102);;Inglês;SP;9.99
+893;Gastly;(50, 102);Edition One;Português;HP;11.9
+894;Gastly;(50, 102);Edition One;Português;MP;12.9
+895;Gastly;(50, 102);;Português;NM;13.95
+896;Gastly;(50, 102);;Português / Inglês;NM;14.31
+897;Gastly;(50, 102);;Inglês;SP;25.9
+898;Gastly;(50, 102);;Português;M;49.95
+899;Koffing;(51, 102);;Português;D;0.15
+900;Koffing;(51, 102);;Português;D;0.2
+901;Koffing;(51, 102);;Português;HP;0.23
+902;Koffing;(51, 102);;Inglês;HP;0.34
+903;Koffing;(51, 102);Edition One;Português;HP;0.41
+904;Koffing;(51, 102);;Inglês;MP;0.43
+905;Koffing;(51, 102);;Português;HP;0.51
+906;Koffing;(51, 102);;Português;D;0.9
+907;Koffing;(51, 102);;Português;HP;0.98
+908;Koffing;(51, 102);;Inglês;SP;1.0
+909;Koffing;(51, 102);;Português;SP;1.0
+910;Koffing;(51, 102);;Inglês;MP;1.13
+911;Koffing;(51, 102);;Português;HP;1.3
+912;Koffing;(51, 102);;Português;MP;1.5
+913;Koffing;(51, 102);;Português;SP;1.7
+914;Koffing;(51, 102);;Português;MP;1.98
+915;Koffing;(51, 102);;Inglês;MP;1.98
+916;Koffing;(51, 102);;Português / Inglês;SP;2.25
+917;Koffing;(51, 102);;Inglês;HP;2.3
+918;Koffing;(51, 102);;Inglês;NM;2.34
+919;Koffing;(51, 102);;Inglês;MP;2.5
+920;Koffing;(51, 102);;Inglês;SP;2.55
+921;Koffing;(51, 102);;Português / Inglês;SP;2.69
+922;Koffing;(51, 102);;Inglês;SP;2.7
+923;Koffing;(51, 102);;Português;SP;3.98
+924;Koffing;(51, 102);;Inglês;SP;3.98
+925;Koffing;(51, 102);;Português;NM;5.98
+926;Koffing;(51, 102);;Inglês;NM;5.98
+927;Koffing;(51, 102);;Português;NM;6.75
+928;Koffing;(51, 102);;Português / Inglês;NM;8.99
+929;Koffing;(51, 102);;Inglês;SP;12.99
+930;Koffing;(51, 102);Edition One;Português;D;17.9
+931;Koffing;(51, 102);;Português;M;17.99
+932;Koffing;(51, 102);;Japonês;SP;19.99
+933;Koffing;(51, 102);;Inglês;M;26.91
+934;Koffing;(51, 102);;Português;M;31.5
+935;Koffing;(51, 102);Edition One;Português;SP;35.9
+936;Koffing;(51, 102);Edition One;Português;NM;38.9
+937;Koffing;(51, 102);Edition One;Português;NM;39.9
+938;Koffing;(51, 102);;Inglês;M;45.0
+939;Koffing;(51, 102);Edition One;Português;SP;79.0
+940;Machop;(52, 102);;Português;HP;0.09
+941;Machop;(52, 102);;Português;HP;0.1
+942;Machop;(52, 102);;Português;MP;0.13
+943;Machop;(52, 102);;Português;D;0.14
+944;Machop;(52, 102);;Inglês;HP;0.15
+945;Machop;(52, 102);;Português;MP;0.2
+946;Machop;(52, 102);;Inglês;HP;0.2
+947;Machop;(52, 102);;Português;MP;0.2
+948;Machop;(52, 102);;Português;D;0.23
+949;Machop;(52, 102);;Inglês;MP;0.3
+950;Machop;(52, 102);;Inglês;SP;0.43
+951;Machop;(52, 102);;Português;HP;0.45
+952;Machop;(52, 102);;Português / Inglês;NM;0.49
+953;Machop;(52, 102);;Inglês;SP;0.5
+954;Machop;(52, 102);;Português;HP;0.5
+955;Machop;(52, 102);;Português;HP;0.51
+956;Machop;(52, 102);;Inglês;HP;0.51
+957;Machop;(52, 102);;Português;MP;0.63
+958;Machop;(52, 102);;Inglês;MP;0.63
+959;Machop;(52, 102);;Português;MP;0.68
+960;Machop;(52, 102);;Português;D;0.9
+961;Machop;(52, 102);;Português;HP;0.98
+962;Machop;(52, 102);;Português;MP;1.0
+963;Machop;(52, 102);;Português;MP;1.0
+964;Machop;(52, 102);;Inglês;MP;1.0
+965;Machop;(52, 102);;Português / Inglês;SP;1.06
+966;Machop;(52, 102);;Português / Inglês;MP;1.08
+967;Machop;(52, 102);;Português;HP;1.3
+968;Machop;(52, 102);;Português;MP;1.5
+969;Machop;(52, 102);;Português;SP;1.7
+970;Machop;(52, 102);;Português / Inglês;SP;1.79
+971;Machop;(52, 102);;Alemão;SP;1.98
+972;Machop;(52, 102);;Português;MP;1.98
+973;Machop;(52, 102);;Inglês;MP;1.98
+974;Machop;(52, 102);;Português / Inglês;MP;1.98
+975;Machop;(52, 102);;Português;MP;2.0
+976;Machop;(52, 102);;Inglês;HP;2.3
+977;Machop;(52, 102);;Inglês;MP;2.5
+978;Machop;(52, 102);;Inglês;SP;2.7
+979;Machop;(52, 102);;Português / Inglês;SP;3.59
+980;Machop;(52, 102);;Inglês;SP;3.59
+981;Machop;(52, 102);;Português;MP;3.99
+982;Machop;(52, 102);;Português;SP;4.9
+983;Machop;(52, 102);;Inglês;SP;4.9
+984;Machop;(52, 102);;Português;SP;4.99
+985;Machop;(52, 102);;Inglês;SP;4.99
+986;Machop;(52, 102);Edition One;Português;HP;7.0
+987;Machop;(52, 102);Edition One;Português;HP;7.0
+988;Machop;(52, 102);Shadowless;Inglês;MP;7.5
+989;Machop;(52, 102);;Português / Inglês;NM;8.09
+990;Machop;(52, 102);Shadowless;Inglês;MP;9.5
+991;Machop;(52, 102);;Português;NM;9.9
+992;Machop;(52, 102);;Português;SP;9.9
+993;Machop;(52, 102);;Português;NM;9.98
+994;Machop;(52, 102);;Português;NM;11.25
+995;Machop;(52, 102);Edition One;Português;MP;12.9
+996;Machop;(52, 102);Edition One;Português;SP;15.0
+997;Machop;(52, 102);;Inglês;NM;25.9
+998;Machop;(52, 102);;Inglês;M;35.91
+999;Machop;(52, 102);Edition One;Português;M;49.9
+1000;Machop;(52, 102);Edition One;Português;SP;58.9
+1001;Magnemite;(53, 102);;Português;D;0.2
+1002;Magnemite;(53, 102);;Português / Inglês;HP;0.23
+1003;Magnemite;(53, 102);;Português;MP;0.4
+1004;Magnemite;(53, 102);;Português / Inglês;SP;0.5
+1005;Magnemite;(53, 102);;Português;HP;0.51
+1006;Magnemite;(53, 102);;Português;MP;0.53
+1007;Magnemite;(53, 102);;Português;D;0.9
+1008;Magnemite;(53, 102);;Português;SP;0.9
+1009;Magnemite;(53, 102);;Inglês;NM;1.0
+1010;Magnemite;(53, 102);;Inglês;SP;1.08
+1011;Magnemite;(53, 102);;Português;HP;1.3
+1012;Magnemite;(53, 102);;Português;MP;1.5
+1013;Magnemite;(53, 102);;Português;SP;1.7
+1014;Magnemite;(53, 102);;Português;MP;1.79
+1015;Magnemite;(53, 102);;Inglês;D;1.9
+1016;Magnemite;(53, 102);;Português;HP;1.98
+1017;Magnemite;(53, 102);;Português / Inglês;MP;2.0
+1018;Magnemite;(53, 102);;Inglês;HP;2.3
+1019;Magnemite;(53, 102);;Inglês;MP;2.5
+1020;Magnemite;(53, 102);;Inglês;SP;2.7
+1021;Magnemite;(53, 102);;Português;SP;3.59
+1022;Magnemite;(53, 102);;Português;SP;4.49
+1023;Magnemite;(53, 102);;Português;MP;4.9
+1024;Magnemite;(53, 102);;Inglês;MP;4.9
+1025;Magnemite;(53, 102);;Português;SP;7.9
+1026;Magnemite;(53, 102);;Português;NM;9.89
+1027;Magnemite;(53, 102);;Português;NM;11.69
+1028;Magnemite;(53, 102);;Inglês;NM;14.39
+1029;Magnemite;(53, 102);Edition One;Português;D;20.0
+1030;Magnemite;(53, 102);;Português;M;23.39
+1031;Magnemite;(53, 102);;Português;NM;25.9
+1032;Magnemite;(53, 102);;Inglês;M;35.91
+1033;Magnemite;(53, 102);Edition One;Português;MP;49.0
+1034;Magnemite;(53, 102);;Português;M;59.39
+1035;Magnemite;(53, 102);Edition One;Português;NM;59.9
+1036;Magnemite;(53, 102);;Português;M;62.91
+1037;Magnemite;(53, 102);Edition One;Português;HP;69.9
+1038;Magnemite;(53, 102);;Inglês;M;72.0
+1039;Magnemite;(53, 102);Edition One;Português;SP;79.0
+1040;Magnemite;(53, 102);Edition One;Português;M;81.0
+1041;Magnemite;(53, 102);Edition One;Português;M;119.9
+1042;Magnemite;(53, 102);Edition One;Português;M;135.0
+1043;Metapod;(54, 102);;Português;HP;0.23
+1044;Metapod;(54, 102);;Português;D;0.25
+1045;Metapod;(54, 102);;Português;HP;0.5
+1046;Metapod;(54, 102);;Inglês;SP;0.75
+1047;Metapod;(54, 102);;Português;MP;1.0
+1048;Metapod;(54, 102);;Português;HP;1.3
+1049;Metapod;(54, 102);;Português;MP;1.5
+1050;Metapod;(54, 102);;Inglês;SP;2.5
+1051;Metapod;(54, 102);;Inglês;MP;2.5
+1052;Metapod;(54, 102);;Inglês;HP;2.5
+1053;Metapod;(54, 102);;Português;SP;5.31
+1054;Metapod;(54, 102);Edition One;Português;D;7.9
+1055;Metapod;(54, 102);;Português;NM;7.98
+1056;Metapod;(54, 102);Edition One;Português;HP;8.9
+1057;Metapod;(54, 102);;Português;SP;9.9
+1058;Metapod;(54, 102);Edition One;Português;MP;9.9
+1059;Metapod;(54, 102);;Inglês;SP;12.9
+1060;Metapod;(54, 102);;Português / Inglês;NM;14.39
+1061;Metapod;(54, 102);Edition One;Português;MP;19.9
+1062;Metapod;(54, 102);Edition One;Português;SP;24.9
+1063;Metapod;(54, 102);;Português;M;26.91
+1064;Metapod;(54, 102);Edition One;Português;SP;39.9
+1065;Metapod;(54, 102);;Português;M;45.0
+1066;Metapod;(54, 102);Edition One;Português;SP;66.41
+1067;Metapod;(54, 102);Edition One;Português;NM;78.9
+1068;Nidoran Macho;(55, 102);;Português;D;0.15
+1069;Nidoran Macho;(55, 102);;Inglês;D;0.15
+1070;Nidoran Macho;(55, 102);;Português / Inglês;HP;0.17
+1071;Nidoran Macho;(55, 102);;Inglês;HP;0.2
+1072;Nidoran Macho;(55, 102);;Português;MP;0.21
+1073;Nidoran Macho;(55, 102);;Japonês;SP;0.3
+1074;Nidoran Macho;(55, 102);;Português;MP;0.3
+1075;Nidoran Macho;(55, 102);;Inglês;MP;0.3
+1076;Nidoran Macho;(55, 102);;Inglês;SP;0.34
+1077;Nidoran Macho;(55, 102);;Português;SP;0.5
+1078;Nidoran Macho;(55, 102);;Português;SP;0.5
+1079;Nidoran Macho;(55, 102);;Português;HP;0.51
+1080;Nidoran Macho;(55, 102);;Português;MP;0.68
+1081;Nidoran Macho;(55, 102);;Português;HP;0.98
+1082;Nidoran Macho;(55, 102);;Português;HP;1.3
+1083;Nidoran Macho;(55, 102);;Português;MP;1.5
+1084;Nidoran Macho;(55, 102);;Português;HP;1.5
+1085;Nidoran Macho;(55, 102);;Português;SP;1.7
+1086;Nidoran Macho;(55, 102);;Inglês;D;1.9
+1087;Nidoran Macho;(55, 102);;Português;MP;1.98
+1088;Nidoran Macho;(55, 102);;Português;MP;2.0
+1089;Nidoran Macho;(55, 102);;Português;SP;2.0
+1090;Nidoran Macho;(55, 102);;Inglês;HP;2.3
+1091;Nidoran Macho;(55, 102);;Inglês;MP;2.5
+1092;Nidoran Macho;(55, 102);;Inglês;SP;2.7
+1093;Nidoran Macho;(55, 102);;Português;MP;2.99
+1094;Nidoran Macho;(55, 102);;Português;SP;3.98
+1095;Nidoran Macho;(55, 102);;Português;SP;4.05
+1096;Nidoran Macho;(55, 102);;Inglês;SP;4.49
+1097;Nidoran Macho;(55, 102);;Português;NM;7.98
+1098;Nidoran Macho;(55, 102);;Português;NM;8.09
+1099;Nidoran Macho;(55, 102);;Português;SP;8.5
+1100;Nidoran Macho;(55, 102);Edition One;Português;D;9.9
+1101;Nidoran Macho;(55, 102);Edition One;Português;MP;11.9
+1102;Nidoran Macho;(55, 102);Shadowless;Inglês;HP;14.5
+1103;Nidoran Macho;(55, 102);;Português;M;15.29
+1104;Nidoran Macho;(55, 102);;Português / Inglês;NM;17.91
+1105;Nidoran Macho;(55, 102);Edition One;Português;MP;19.9
+1106;Nidoran Macho;(55, 102);;Português;M;23.39
+1107;Nidoran Macho;(55, 102);;Italiano;M;26.1
+1108;Nidoran Macho;(55, 102);;Inglês;M;31.5
+1109;Nidoran Macho;(55, 102);Edition One;Português;SP;32.5
+1110;Nidoran Macho;(55, 102);Edition One;Português;SP;39.9
+1111;Nidoran Macho;(55, 102);Edition One;Português;NM;79.9
+1112;Onix;(56, 102);;Português;HP;0.09
+1113;Onix;(56, 102);;Português;HP;0.2
+1114;Onix;(56, 102);;Português;MP;0.3
+1115;Onix;(56, 102);;Inglês;MP;0.3
+1116;Onix;(56, 102);;Português;SP;0.5
+1117;Onix;(56, 102);;Inglês;SP;0.5
+1118;Onix;(56, 102);;Português;HP;0.5
+1119;Onix;(56, 102);;Português;D;0.9
+1120;Onix;(56, 102);;Português;HP;0.94
+1121;Onix;(56, 102);;Português;HP;0.98
+1122;Onix;(56, 102);;Inglês;HP;0.98
+1123;Onix;(56, 102);;Espanhol;SP;1.0
+1124;Onix;(56, 102);;Português;MP;1.0
+1125;Onix;(56, 102);;Espanhol;HP;1.1
+1126;Onix;(56, 102);;Português;HP;1.3
+1127;Onix;(56, 102);;Português;MP;1.5
+1128;Onix;(56, 102);;Português;MP;1.5
+1129;Onix;(56, 102);;Português;MP;1.57
+1130;Onix;(56, 102);;Português;SP;1.7
+1131;Onix;(56, 102);;Português;SP;1.79
+1132;Onix;(56, 102);;Inglês;D;1.9
+1133;Onix;(56, 102);;Português;MP;1.98
+1134;Onix;(56, 102);;Inglês;MP;1.98
+1135;Onix;(56, 102);;Português;MP;1.99
+1136;Onix;(56, 102);;Inglês;MP;2.5
+1137;Onix;(56, 102);;Inglês;SP;2.7
+1138;Onix;(56, 102);;Português;SP;2.99
+1139;Onix;(56, 102);;Português / Inglês;SP;3.42
+1140;Onix;(56, 102);;Português / Inglês;MP;5.0
+1141;Onix;(56, 102);Edition One;Português;MP;5.0
+1142;Onix;(56, 102);;Português;SP;5.98
+1143;Onix;(56, 102);Edition One;Português;MP;8.0
+1144;Onix;(56, 102);;Português;NM;8.09
+1145;Onix;(56, 102);Edition One;Português;MP;9.9
+1146;Onix;(56, 102);;Português;NM;9.98
+1147;Onix;(56, 102);Edition One;Português;SP;15.0
+1148;Onix;(56, 102);;Português / Inglês;M;17.91
+1149;Onix;(56, 102);;Português;NM;17.91
+1150;Onix;(56, 102);;Português;NM;26.91
+1151;Onix;(56, 102);;Português;M;35.91
+1152;Onix;(56, 102);Edition One;Português;SP;39.9
+1153;Onix;(56, 102);;Português;M;45.0
+1154;Onix;(56, 102);;Inglês;M;49.5
+1155;Onix;(56, 102);Edition One;Português;SP;49.9
+1156;Onix;(56, 102);;Inglês;M;58.95
+1157;Pidgey;(57, 102);;Português;MP;0.14
+1158;Pidgey;(57, 102);;Português;HP;0.14
+1159;Pidgey;(57, 102);;Português;HP;0.17
+1160;Pidgey;(57, 102);;Inglês;D;0.25
+1161;Pidgey;(57, 102);;Português;HP;0.3
+1162;Pidgey;(57, 102);;Português;HP;0.45
+1163;Pidgey;(57, 102);;Inglês;SP;0.47
+1164;Pidgey;(57, 102);;Português;HP;0.51
+1165;Pidgey;(57, 102);;Português;MP;0.53
+1166;Pidgey;(57, 102);;Português;SP;1.71
+1167;Pidgey;(57, 102);;Português;SP;1.98
+1168;Pidgey;(57, 102);;Português / Inglês;MP;2.0
+1169;Pidgey;(57, 102);;Inglês;SP;2.69
+1170;Pidgey;(57, 102);Edition One;Português;HP;5.0
+1171;Pidgey;(57, 102);Edition One;Português;D;5.0
+1172;Pidgey;(57, 102);;Português;SP;8.96
+1173;Pidgey;(57, 102);Edition One;Português;HP;9.9
+1174;Pidgey;(57, 102);Edition One;Português;D;10.9
+1175;Pidgey;(57, 102);Edition One;Português;MP;19.9
+1176;Pidgey;(57, 102);;Português;M;26.91
+1177;Pidgey;(57, 102);;Inglês;M;32.39
+1178;Poliwag;(59, 102);;Português;D;0.16
+1179;Poliwag;(59, 102);;Português / Inglês;HP;0.17
+1180;Poliwag;(59, 102);;Inglês;HP;0.18
+1181;Poliwag;(59, 102);;Inglês;HP;0.18
+1182;Poliwag;(59, 102);;Português;HP;0.2
+1183;Poliwag;(59, 102);;Português;MP;0.25
+1184;Poliwag;(59, 102);;Japonês;M;0.5
+1185;Poliwag;(59, 102);;Português;D;0.9
+1186;Poliwag;(59, 102);;Português;NM;1.0
+1187;Poliwag;(59, 102);;Inglês;SP;1.19
+1188;Poliwag;(59, 102);;Português;HP;1.3
+1189;Poliwag;(59, 102);;Português;MP;1.5
+1190;Poliwag;(59, 102);;Inglês;NM;1.5
+1191;Poliwag;(59, 102);;Português;SP;1.7
+1192;Poliwag;(59, 102);;Inglês;D;1.9
+1193;Poliwag;(59, 102);;Português;HP;1.98
+1194;Poliwag;(59, 102);;Português;SP;2.0
+1195;Poliwag;(59, 102);;Inglês;HP;2.3
+1196;Poliwag;(59, 102);;Inglês;MP;2.5
+1197;Poliwag;(59, 102);;Inglês;SP;2.7
+1198;Poliwag;(59, 102);;Português;MP;3.9
+1199;Poliwag;(59, 102);;Português;SP;3.99
+1200;Poliwag;(59, 102);;Inglês;SP;3.99
+1201;Poliwag;(59, 102);Edition One;Português / Inglês;D;4.25
+1202;Poliwag;(59, 102);;Português;SP;4.99
+1203;Poliwag;(59, 102);;Inglês;SP;5.99
+1204;Poliwag;(59, 102);Edition One;Português;SP;6.0
+1205;Poliwag;(59, 102);;Português / Inglês;SP;6.29
+1206;Poliwag;(59, 102);Edition One;Português;SP;8.0
+1207;Poliwag;(59, 102);;Inglês;SP;8.1
+1208;Poliwag;(59, 102);;Português;SP;8.99
+1209;Poliwag;(59, 102);Shadowless;Inglês;D;9.5
+1210;Poliwag;(59, 102);;Português;SP;9.9
+1211;Poliwag;(59, 102);Edition One;Português;MP;10.9
+1212;Poliwag;(59, 102);Shadowless;Inglês;HP;12.5
+1213;Poliwag;(59, 102);Edition One;Português;HP;12.9
+1214;Poliwag;(59, 102);Edition One;Português;MP;12.9
+1215;Poliwag;(59, 102);Edition One;Português;MP;13.9
+1216;Poliwag;(59, 102);;Português;SP;14.39
+1217;Poliwag;(59, 102);Edition One;Português;SP;14.9
+1218;Poliwag;(59, 102);;Inglês;NM;17.91
+1219;Poliwag;(59, 102);;Português;NM;17.91
+1220;Poliwag;(59, 102);;Inglês;NM;26.91
+1221;Poliwag;(59, 102);;Inglês;M;35.91
+1222;Poliwag;(59, 102);;Inglês;M;53.6
+1223;Poliwag;(59, 102);;Português;M;54.0
+1224;Ponyta;(60, 102);;Português;D;0.09
+1225;Ponyta;(60, 102);;Português;HP;0.1
+1226;Ponyta;(60, 102);;Português;HP;0.15
+1227;Ponyta;(60, 102);;Português;MP;0.2
+1228;Ponyta;(60, 102);;Português;HP;0.25
+1229;Ponyta;(60, 102);;Português;MP;0.32
+1230;Ponyta;(60, 102);;Português;D;0.35
+1231;Ponyta;(60, 102);;Italiano;D;0.35
+1232;Ponyta;(60, 102);;Português;HP;0.4
+1233;Ponyta;(60, 102);;Português;HP;0.51
+1234;Ponyta;(60, 102);;Inglês;MP;0.63
+1235;Ponyta;(60, 102);;Português;MP;0.63
+1236;Ponyta;(60, 102);;Português;D;0.9
+1237;Ponyta;(60, 102);;Português;HP;0.98
+1238;Ponyta;(60, 102);;Inglês;HP;0.98
+1239;Ponyta;(60, 102);;Português;NM;1.0
+1240;Ponyta;(60, 102);;Português;HP;1.3
+1241;Ponyta;(60, 102);;Inglês;HP;1.35
+1242;Ponyta;(60, 102);;Português;MP;1.5
+1243;Ponyta;(60, 102);;Português;MP;1.5
+1244;Ponyta;(60, 102);;Português;SP;1.7
+1245;Ponyta;(60, 102);;Português;MP;1.99
+1246;Ponyta;(60, 102);;Inglês;MP;1.99
+1247;Ponyta;(60, 102);;Português / Inglês;MP;2.0
+1248;Ponyta;(60, 102);;Inglês;HP;2.3
+1249;Ponyta;(60, 102);;Inglês;MP;2.5
+1250;Ponyta;(60, 102);;Inglês;MP;2.5
+1251;Ponyta;(60, 102);;Inglês;MP;2.69
+1252;Ponyta;(60, 102);;Inglês;SP;2.7
+1253;Ponyta;(60, 102);;Português;MP;2.98
+1254;Ponyta;(60, 102);;Inglês;MP;2.98
+1255;Ponyta;(60, 102);;Português / Inglês;SP;4.95
+1256;Ponyta;(60, 102);;Português;SP;4.98
+1257;Ponyta;(60, 102);;Inglês;SP;4.98
+1258;Ponyta;(60, 102);Edition One;Português;D;6.0
+1259;Ponyta;(60, 102);;Português;SP;6.5
+1260;Ponyta;(60, 102);Edition One;Português;MP;8.0
+1261;Ponyta;(60, 102);;Português;NM;8.09
+1262;Ponyta;(60, 102);Shadowless;Inglês;D;9.5
+1263;Ponyta;(60, 102);;Inglês;NM;9.9
+1264;Ponyta;(60, 102);;Português;NM;9.9
+1265;Ponyta;(60, 102);;Português / Inglês;NM;14.39
+1266;Ponyta;(60, 102);;Japonês;M;17.91
+1267;Ponyta;(60, 102);;Inglês;M;26.91
+1268;Ponyta;(60, 102);Edition One;Português;SP;34.0
+1269;Ponyta;(60, 102);Edition One;Português;MP;39.9
+1270;Ponyta;(60, 102);Edition One;Português;SP;52.5
+1271;Ponyta;(60, 102);Edition One;Português;SP;69.9
+1272;Ponyta;(60, 102);Edition One;Português;M;89.9
+1273;Ponyta;(60, 102);Edition One;Português;NM;98.9
+1274;Rattata;(61, 102);;Português;HP;0.4
+1275;Rattata;(61, 102);;Português;HP;0.45
+1276;Rattata;(61, 102);;Inglês;HP;0.48
+1277;Rattata;(61, 102);;Português;HP;0.48
+1278;Rattata;(61, 102);;Português;HP;0.51
+1279;Rattata;(61, 102);;Português;MP;0.63
+1280;Rattata;(61, 102);;Inglês;MP;0.63
+1281;Rattata;(61, 102);;Português;HP;0.68
+1282;Rattata;(61, 102);;Português;MP;0.75
+1283;Rattata;(61, 102);;Português;D;0.9
+1284;Rattata;(61, 102);;Português / Inglês;MP;1.0
+1285;Rattata;(61, 102);;Português / Inglês;MP;1.08
+1286;Rattata;(61, 102);;Português;HP;1.3
+1287;Rattata;(61, 102);;Português;MP;1.5
+1288;Rattata;(61, 102);;Português;SP;1.98
+1289;Rattata;(61, 102);;Português;MP;2.03
+1290;Rattata;(61, 102);;Inglês;HP;2.3
+1291;Rattata;(61, 102);;Inglês;MP;2.5
+1292;Rattata;(61, 102);;Português;MP;2.69
+1293;Rattata;(61, 102);;Inglês;SP;2.7
+1294;Rattata;(61, 102);;Português;SP;2.99
+1295;Rattata;(61, 102);;Inglês;SP;2.99
+1296;Rattata;(61, 102);;Português;SP;4.05
+1297;Rattata;(61, 102);;Português;SP;4.05
+1298;Rattata;(61, 102);;Português;SP;4.95
+1299;Rattata;(61, 102);;Inglês;SP;4.95
+1300;Rattata;(61, 102);;Português;NM;8.09
+1301;Rattata;(61, 102);;Português;NM;8.09
+1302;Rattata;(61, 102);Edition One;Português;SP;8.9
+1303;Rattata;(61, 102);;Português;SP;9.99
+1304;Rattata;(61, 102);;Inglês;NM;11.25
+1305;Rattata;(61, 102);;Inglês;NM;17.91
+1306;Rattata;(61, 102);Edition One;Português;HP;69.9
+1307;Rattata;(61, 102);Shadowless;Inglês;SP;76.5
+1308;Rattata;(61, 102);Edition One;Português;M;80.91
+1309;Sandshrew;(62, 102);;Português;HP;0.13
+1310;Sandshrew;(62, 102);;Português;HP;0.2
+1311;Sandshrew;(62, 102);;Inglês;HP;0.2
+1312;Sandshrew;(62, 102);;Português / Inglês;HP;0.23
+1313;Sandshrew;(62, 102);;Português;HP;0.25
+1314;Sandshrew;(62, 102);;Português;MP;0.26
+1315;Sandshrew;(62, 102);;Português;MP;0.5
+1316;Sandshrew;(62, 102);;Inglês;MP;0.5
+1317;Sandshrew;(62, 102);;Português;SP;0.51
+1318;Sandshrew;(62, 102);;Português;HP;0.51
+1319;Sandshrew;(62, 102);;Português;MP;0.63
+1320;Sandshrew;(62, 102);;Inglês;SP;0.68
+1321;Sandshrew;(62, 102);;Português;SP;0.71
+1322;Sandshrew;(62, 102);;Japonês;M;0.8
+1323;Sandshrew;(62, 102);;Inglês;D;0.8
+1324;Sandshrew;(62, 102);;Português / Inglês;MP;0.89
+1325;Sandshrew;(62, 102);;Português;D;0.9
+1326;Sandshrew;(62, 102);;Português;MP;0.98
+1327;Sandshrew;(62, 102);;Inglês;MP;0.98
+1328;Sandshrew;(62, 102);;Português;HP;1.3
+1329;Sandshrew;(62, 102);;Português;SP;1.7
+1330;Sandshrew;(62, 102);;Inglês;D;1.9
+1331;Sandshrew;(62, 102);;Português;MP;1.99
+1332;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1333;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1334;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1335;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1336;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1337;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1338;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1339;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1340;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1341;Sandshrew;(62, 102);;Português / Inglês;MP;2.0
+1342;Sandshrew;(62, 102);;Inglês;HP;2.3
+1343;Sandshrew;(62, 102);;Português;MP;2.5
+1344;Sandshrew;(62, 102);;Inglês;MP;2.5
+1345;Sandshrew;(62, 102);;Inglês;SP;2.7
+1346;Sandshrew;(62, 102);;Inglês;SP;2.99
+1347;Sandshrew;(62, 102);;Inglês;SP;3.98
+1348;Sandshrew;(62, 102);;Inglês;SP;3.98
+1349;Sandshrew;(62, 102);;Português;SP;4.49
+1350;Sandshrew;(62, 102);;Inglês;SP;4.95
+1351;Sandshrew;(62, 102);;Português;SP;5.39
+1352;Sandshrew;(62, 102);;Português;SP;6.75
+1353;Sandshrew;(62, 102);;Inglês;SP;8.09
+1354;Sandshrew;(62, 102);Shadowless;Inglês;D;9.5
+1355;Sandshrew;(62, 102);;Português;NM;9.9
+1356;Sandshrew;(62, 102);;Inglês;NM;9.98
+1357;Sandshrew;(62, 102);;Português;NM;13.68
+1358;Sandshrew;(62, 102);;Português;NM;19.9
+1359;Sandshrew;(62, 102);;Português;M;35.55
+1360;Sandshrew;(62, 102);;Inglês;M;36.0
+1361;Sandshrew;(62, 102);Edition One;Português;SP;38.5
+1362;Sandshrew;(62, 102);Edition One;Português;SP;59.9
+1363;Sandshrew;(62, 102);Edition One;Português;M;72.0
+1364;Sandshrew;(62, 102);Edition One;Português;M;85.5
+1365;Squirtle;(63, 102);;Português;D;0.45
+1366;Squirtle;(63, 102);;Inglês;D;0.45
+1367;Squirtle;(63, 102);;Português;D;0.5
+1368;Squirtle;(63, 102);;Português;HP;0.6
+1369;Squirtle;(63, 102);;Português;D;0.9
+1370;Squirtle;(63, 102);;Português;HP;1.3
+1371;Squirtle;(63, 102);;Português;MP;1.5
+1372;Squirtle;(63, 102);;Português;MP;1.5
+1373;Squirtle;(63, 102);;Inglês;D;1.9
+1374;Squirtle;(63, 102);;Português / Inglês;MP;2.3
+1375;Squirtle;(63, 102);;Inglês;HP;2.3
+1376;Squirtle;(63, 102);;Inglês;SP;2.7
+1377;Squirtle;(63, 102);;Inglês;SP;3.4
+1378;Squirtle;(63, 102);;Português / Inglês;MP;4.0
+1379;Squirtle;(63, 102);;Português;HP;4.98
+1380;Squirtle;(63, 102);;Inglês;HP;4.98
+1381;Squirtle;(63, 102);;Português;MP;5.99
+1382;Squirtle;(63, 102);;Italiano;MP;5.99
+1383;Squirtle;(63, 102);;Inglês;MP;7.5
+1384;Squirtle;(63, 102);;Português;SP;7.99
+1385;Squirtle;(63, 102);;Português;MP;8.9
+1386;Squirtle;(63, 102);;Português / Inglês;SP;8.99
+1387;Squirtle;(63, 102);;Português / Inglês;NM;11.69
+1388;Squirtle;(63, 102);;Português;NM;14.39
+1389;Squirtle;(63, 102);;Português;SP;15.9
+1390;Squirtle;(63, 102);;Português;MP;18.9
+1391;Squirtle;(63, 102);;Inglês;MP;18.9
+1392;Squirtle;(63, 102);Edition One;Português;D;25.5
+1393;Squirtle;(63, 102);;Português;SP;39.9
+1394;Squirtle;(63, 102);;Português;NM;39.99
+1395;Squirtle;(63, 102);;Português;M;54.0
+1396;Squirtle;(63, 102);;Português;NM;58.9
+1397;Squirtle;(63, 102);Edition One;Português;D;59.9
+1398;Squirtle;(63, 102);Edition One;Português;MP;139.9
+1399;Squirtle;(63, 102);Edition One;Português;M;219.9
+1400;Squirtle;(63, 102);Shadowless;Inglês;SP;219.9
+1401;Squirtle;(63, 102);Edition One;Português;M;225.0
+1402;Squirtle;(63, 102);Edition One;Português;SP;245.9
+1403;Squirtle;(63, 102);Edition One;Português;M;270.0
+1404;Starmie;(64, 102);;Português;HP;0.51
+1405;Starmie;(64, 102);;Inglês;HP;0.51
+1406;Starmie;(64, 102);;Italiano;HP;0.51
+1407;Starmie;(64, 102);;Português;SP;0.85
+1408;Starmie;(64, 102);;Português;D;0.9
+1409;Starmie;(64, 102);;Português;HP;1.3
+1410;Starmie;(64, 102);;Português;MP;1.5
+1411;Starmie;(64, 102);;Inglês;MP;1.5
+1412;Starmie;(64, 102);;Português;MP;1.5
+1413;Starmie;(64, 102);;Português;SP;1.7
+1414;Starmie;(64, 102);;Inglês;D;1.9
+1415;Starmie;(64, 102);;Português;MP;1.98
+1416;Starmie;(64, 102);;Inglês;MP;1.98
+1417;Starmie;(64, 102);;Inglês;HP;1.99
+1418;Starmie;(64, 102);;Português;HP;1.99
+1419;Starmie;(64, 102);;Português;SP;2.0
+1420;Starmie;(64, 102);;Inglês;HP;2.3
+1421;Starmie;(64, 102);;Inglês;MP;2.5
+1422;Starmie;(64, 102);;Inglês;SP;2.7
+1423;Starmie;(64, 102);;Português / Inglês;MP;3.15
+1424;Starmie;(64, 102);;Português;SP;3.99
+1425;Starmie;(64, 102);;Inglês;SP;3.99
+1426;Starmie;(64, 102);;Português;MP;4.68
+1427;Starmie;(64, 102);;Português;SP;7.19
+1428;Starmie;(64, 102);;Inglês;SP;7.65
+1429;Starmie;(64, 102);;Português;SP;8.98
+1430;Starmie;(64, 102);;Português;SP;8.99
+1431;Starmie;(64, 102);;Português;NM;14.39
+1432;Starmie;(64, 102);;Português;NM;15.29
+1433;Starmie;(64, 102);;Português;SP;15.99
+1434;Starmie;(64, 102);;Inglês;M;17.91
+1435;Starmie;(64, 102);;Português;NM;19.9
+1436;Starmie;(64, 102);;Inglês;NM;19.9
+1437;Starmie;(64, 102);Edition One;Português;MP;27.9
+1438;Starmie;(64, 102);;Português;M;32.39
+1439;Starmie;(64, 102);;Português;M;45.0
+1440;Starmie;(64, 102);Edition One;Português;SP;55.9
+1441;Starmie;(64, 102);Edition One;Português;SP;58.9
+1442;Starmie;(64, 102);;Português;M;72.0
+1443;Starmie;(64, 102);;Inglês;M;81.0
+1444;Staryu;(65, 102);;Português / Inglês;HP;0.09
+1445;Staryu;(65, 102);;Português;D;0.1
+1446;Staryu;(65, 102);;Português;D;0.13
+1447;Staryu;(65, 102);;Português;HP;0.15
+1448;Staryu;(65, 102);;Inglês;HP;0.18
+1449;Staryu;(65, 102);;Português;MP;0.2
+1450;Staryu;(65, 102);;Inglês;MP;0.2
+1451;Staryu;(65, 102);;Português;HP;0.2
+1452;Staryu;(65, 102);;Português;D;0.23
+1453;Staryu;(65, 102);;Português;SP;0.3
+1454;Staryu;(65, 102);;Português;MP;0.3
+1455;Staryu;(65, 102);;Português;SP;0.5
+1456;Staryu;(65, 102);;Inglês;HP;0.51
+1457;Staryu;(65, 102);;Português;HP;0.51
+1458;Staryu;(65, 102);;Português;MP;0.63
+1459;Staryu;(65, 102);;Português;D;0.9
+1460;Staryu;(65, 102);;Português;MP;0.98
+1461;Staryu;(65, 102);;Português;MP;0.98
+1462;Staryu;(65, 102);;Inglês;MP;0.98
+1463;Staryu;(65, 102);;Inglês;SP;1.0
+1464;Staryu;(65, 102);;Inglês;NM;1.23
+1465;Staryu;(65, 102);;Português;HP;1.3
+1466;Staryu;(65, 102);;Português;MP;1.5
+1467;Staryu;(65, 102);;Português;SP;1.7
+1468;Staryu;(65, 102);;Português;MP;1.79
+1469;Staryu;(65, 102);;Português;MP;1.99
+1470;Staryu;(65, 102);;Inglês;MP;1.99
+1471;Staryu;(65, 102);;Português;SP;2.0
+1472;Staryu;(65, 102);;Espanhol;SP;2.0
+1473;Staryu;(65, 102);;Inglês;D;2.3
+1474;Staryu;(65, 102);;Inglês;MP;2.5
+1475;Staryu;(65, 102);;Português / Inglês;SP;2.69
+1476;Staryu;(65, 102);;Inglês;SP;2.7
+1477;Staryu;(65, 102);;Português;SP;2.99
+1478;Staryu;(65, 102);;Português;SP;3.98
+1479;Staryu;(65, 102);;Português;NM;4.05
+1480;Staryu;(65, 102);;Português;M;7.19
+1481;Staryu;(65, 102);;Inglês;M;7.65
+1482;Staryu;(65, 102);;Português;NM;8.98
+1483;Staryu;(65, 102);;Inglês;NM;8.98
+1484;Staryu;(65, 102);Shadowless;Inglês;D;9.5
+1485;Staryu;(65, 102);Edition One;Português;D;12.9
+1486;Staryu;(65, 102);Edition One;Português;SP;13.9
+1487;Staryu;(65, 102);Edition One;Português;SP;32.5
+1488;Staryu;(65, 102);Edition One;Português;SP;39.9
+1489;Staryu;(65, 102);Edition One;Português;NM;78.9
+1490;Tangela;(66, 102);;Português;D;0.1
+1491;Tangela;(66, 102);;Português;D;0.13
+1492;Tangela;(66, 102);;Português;HP;0.14
+1493;Tangela;(66, 102);;Português;D;0.18
+1494;Tangela;(66, 102);;Português;MP;0.3
+1495;Tangela;(66, 102);;Português;MP;0.34
+1496;Tangela;(66, 102);;Português;HP;0.5
+1497;Tangela;(66, 102);;Português;D;0.9
+1498;Tangela;(66, 102);;Português;HP;0.98
+1499;Tangela;(66, 102);;Português / Inglês;MP;1.0
+1500;Tangela;(66, 102);;Inglês;MP;1.0
+1501;Tangela;(66, 102);;Português;HP;1.3
+1502;Tangela;(66, 102);;Português;MP;1.5
+1503;Tangela;(66, 102);;Português;SP;1.7
+1504;Tangela;(66, 102);;Inglês;D;1.9
+1505;Tangela;(66, 102);;Português;SP;2.0
+1506;Tangela;(66, 102);;Inglês;HP;2.3
+1507;Tangela;(66, 102);;Inglês;MP;2.5
+1508;Tangela;(66, 102);;Inglês;SP;2.7
+1509;Tangela;(66, 102);;Português;SP;2.99
+1510;Tangela;(66, 102);;Português;MP;3.98
+1511;Tangela;(66, 102);;Português;SP;4.1
+1512;Tangela;(66, 102);;Português;SP;7.98
+1513;Tangela;(66, 102);;Português;SP;9.99
+1514;Tangela;(66, 102);;Português;NM;11.25
+1515;Tangela;(66, 102);;Português;NM;12.9
+1516;Tangela;(66, 102);;Inglês;SP;12.99
+1517;Tangela;(66, 102);;Português / Inglês;NM;14.39
+1518;Tangela;(66, 102);;Inglês;M;25.2
+1519;Tangela;(66, 102);Edition One;Português;MP;25.5
+1520;Tangela;(66, 102);;Português;M;26.91
+1521;Tangela;(66, 102);Edition One;Português;MP;28.9
+1522;Tangela;(66, 102);;Italiano;M;31.5
+1523;Tangela;(66, 102);;Português;M;35.91
+1524;Tangela;(66, 102);;Inglês;M;35.91
+1525;Tangela;(66, 102);Edition One;Português;SP;39.9
+1526;Tangela;(66, 102);Edition One;Português;SP;55.5
+1527;Tangela;(66, 102);Edition One;Português;NM;79.9
+1528;Voltorb;(67, 102);;Inglês;HP;0.34
+1529;Voltorb;(67, 102);;Português;HP;0.45
+1530;Voltorb;(67, 102);;Japonês;D;0.5
+1531;Voltorb;(67, 102);;Português;HP;0.5
+1532;Voltorb;(67, 102);;Inglês;SP;0.85
+1533;Voltorb;(67, 102);;Português;D;0.9
+1534;Voltorb;(67, 102);;Português;HP;1.02
+1535;Voltorb;(67, 102);;Português;HP;1.3
+1536;Voltorb;(67, 102);;Português;MP;1.5
+1537;Voltorb;(67, 102);;Português;SP;1.7
+1538;Voltorb;(67, 102);;Inglês;D;1.9
+1539;Voltorb;(67, 102);;Inglês;NM;2.0
+1540;Voltorb;(67, 102);;Inglês;MP;2.5
+1541;Voltorb;(67, 102);;Inglês;HP;2.5
+1542;Voltorb;(67, 102);;Inglês;SP;2.7
+1543;Voltorb;(67, 102);;Português / Inglês;MP;3.0
+1544;Voltorb;(67, 102);;Inglês;HP;3.98
+1545;Voltorb;(67, 102);;Inglês;SP;5.39
+1546;Voltorb;(67, 102);;Português;MP;8.9
+1547;Voltorb;(67, 102);;Português;SP;8.99
+1548;Voltorb;(67, 102);Edition One;Português;SP;10.9
+1549;Voltorb;(67, 102);;Inglês;SP;11.9
+1550;Voltorb;(67, 102);;Português;SP;11.9
+1551;Voltorb;(67, 102);;Português;NM;17.91
+1552;Voltorb;(67, 102);;Inglês;NM;19.9
+1553;Voltorb;(67, 102);;Português;NM;19.9
+1554;Vulpix;(68, 102);;Português / Inglês;MP;0.26
+1555;Vulpix;(68, 102);;Português;D;0.35
+1556;Vulpix;(68, 102);;Português;HP;0.45
+1557;Vulpix;(68, 102);;Português;HP;0.51
+1558;Vulpix;(68, 102);;Português / Inglês;MP;0.89
+1559;Vulpix;(68, 102);;Português;D;0.9
+1560;Vulpix;(68, 102);;Português;NM;1.0
+1561;Vulpix;(68, 102);;Português;MP;1.0
+1562;Vulpix;(68, 102);;Inglês;SP;1.06
+1563;Vulpix;(68, 102);;Português;HP;1.3
+1564;Vulpix;(68, 102);;Português;MP;1.5
+1565;Vulpix;(68, 102);;Português;SP;2.03
+1566;Vulpix;(68, 102);;Português;SP;2.25
+1567;Vulpix;(68, 102);;Inglês;HP;2.3
+1568;Vulpix;(68, 102);;Inglês;MP;2.5
+1569;Vulpix;(68, 102);;Português;SP;2.7
+1570;Vulpix;(68, 102);;Inglês;SP;2.7
+1571;Vulpix;(68, 102);;Português / Inglês;MP;3.0
+1572;Vulpix;(68, 102);;Português;HP;3.9
+1573;Vulpix;(68, 102);;Inglês;SP;4.95
+1574;Vulpix;(68, 102);;Inglês;SP;5.39
+1575;Vulpix;(68, 102);;Português / Inglês;SP;6.29
+1576;Vulpix;(68, 102);;Português;SP;7.9
+1577;Vulpix;(68, 102);;Inglês;SP;9.99
+1578;Vulpix;(68, 102);Edition One;Português;D;10.2
+1579;Vulpix;(68, 102);Shadowless;Inglês;D;12.5
+1580;Vulpix;(68, 102);Edition One;Português;D;15.0
+1581;Vulpix;(68, 102);;Português;NM;17.55
+1582;Vulpix;(68, 102);Edition One;Português;HP;20.0
+1583;Vulpix;(68, 102);Edition One;Português;D;22.9
+1584;Vulpix;(68, 102);Edition One;Português;HP;24.9
+1585;Vulpix;(68, 102);Edition One;Português;MP;26.9
+1586;Vulpix;(68, 102);Edition One;Português;MP;27.9
+1587;Vulpix;(68, 102);;Português / Inglês;M;35.91
+1588;Vulpix;(68, 102);Edition One;Português;MP;38.9
+1589;Vulpix;(68, 102);;Português;M;45.0
+1590;Vulpix;(68, 102);Edition One;Português;SP;49.5
+1591;Vulpix;(68, 102);Edition One;Português;SP;58.9
+1592;Vulpix;(68, 102);;Inglês;M;63.0
+1593;Vulpix;(68, 102);Edition One;Português;M;81.0
+1594;Weedle;(69, 102);;Português / Inglês;HP;0.1
+1595;Weedle;(69, 102);;Português;HP;0.13
+1596;Weedle;(69, 102);;Português;HP;0.15
+1597;Weedle;(69, 102);;Inglês;HP;0.15
+1598;Weedle;(69, 102);;Português / Inglês;SP;0.2
+1599;Weedle;(69, 102);;Português;D;0.23
+1600;Weedle;(69, 102);;Inglês;MP;0.23
+1601;Weedle;(69, 102);;Português;HP;0.25
+1602;Weedle;(69, 102);;Inglês;HP;0.26
+1603;Weedle;(69, 102);;Português;SP;0.3
+1604;Weedle;(69, 102);;Português;MP;0.3
+1605;Weedle;(69, 102);;Inglês;MP;0.3
+1606;Weedle;(69, 102);;Inglês;SP;0.34
+1607;Weedle;(69, 102);;Português;D;0.35
+1608;Weedle;(69, 102);;Inglês;D;0.35
+1609;Weedle;(69, 102);Alterada;Inglês;SP;0.5
+1610;Weedle;(69, 102);;Português;SP;0.5
+1611;Weedle;(69, 102);;Inglês;SP;0.5
+1612;Weedle;(69, 102);;Português;D;0.9
+1613;Weedle;(69, 102);;Português;HP;0.98
+1614;Weedle;(69, 102);;Português;NM;1.0
+1615;Weedle;(69, 102);;Português;HP;1.0
+1616;Weedle;(69, 102);;Português;HP;1.3
+1617;Weedle;(69, 102);;Português;MP;1.49
+1618;Weedle;(69, 102);;Português;MP;1.49
+1619;Weedle;(69, 102);;Inglês;MP;1.5
+1620;Weedle;(69, 102);;Português;SP;1.7
+1621;Weedle;(69, 102);;Inglês;D;1.9
+1622;Weedle;(69, 102);;Português;MP;1.98
+1623;Weedle;(69, 102);;Inglês;MP;1.98
+1624;Weedle;(69, 102);;Português;SP;1.99
+1625;Weedle;(69, 102);;Português / Inglês;HP;2.0
+1626;Weedle;(69, 102);;Inglês;HP;2.3
+1627;Weedle;(69, 102);;Inglês;MP;2.5
+1628;Weedle;(69, 102);Alterada;Português;NM;2.69
+1629;Weedle;(69, 102);;Português;NM;5.39
+1630;Weedle;(69, 102);;Inglês;NM;5.39
+1631;Weedle;(69, 102);;Português;SP;6.98
+1632;Weedle;(69, 102);;Português;M;8.09
+1633;Weedle;(69, 102);;Português;SP;8.9
+1634;Weedle;(69, 102);;Português;NM;11.98
+1635;Weedle;(69, 102);Edition One;Português;MP;14.9
+1636;Weedle;(69, 102);Edition One;Português;D;17.9
+1637;Weedle;(69, 102);;Português;NM;25.9
+1638;Weedle;(69, 102);Edition One;Português;SP;55.9
+1639;Computer Search;(71, 102);;Português;D;3.0
+1640;Computer Search;(71, 102);;Português;HP;4.0
+1641;Computer Search;(71, 102);;Português;HP;4.0
+1642;Computer Search;(71, 102);;Português / Inglês;MP;9.9
+1643;Computer Search;(71, 102);;Inglês;D;9.99
+1644;Computer Search;(71, 102);;Português;D;12.99
+1645;Computer Search;(71, 102);;Português;D;15.0
+1646;Computer Search;(71, 102);;Português;D;15.9
+1647;Computer Search;(71, 102);;Português;HP;15.95
+1648;Computer Search;(71, 102);;Português;HP;15.99
+1649;Computer Search;(71, 102);;Português;HP;16.9
+1650;Computer Search;(71, 102);;Português;MP;18.99
+1651;Computer Search;(71, 102);;Português;SP;19.5
+1652;Computer Search;(71, 102);;Inglês;D;19.9
+1653;Computer Search;(71, 102);;Português / Inglês;NM;19.9
+1654;Computer Search;(71, 102);;Inglês;HP;20.9
+1655;Computer Search;(71, 102);;Português;HP;21.95
+1656;Computer Search;(71, 102);;Português;MP;23.95
+1657;Computer Search;(71, 102);Edition One;Português;SP;24.5
+1658;Computer Search;(71, 102);;Português;HP;25.0
+1659;Computer Search;(71, 102);;Português / Inglês;MP;29.0
+1660;Computer Search;(71, 102);;Português;NM;29.9
+1661;Computer Search;(71, 102);;Português;MP;29.9
+1662;Computer Search;(71, 102);;Português;SP;29.95
+1663;Computer Search;(71, 102);;Inglês;MP;29.95
+1664;Computer Search;(71, 102);;Português;SP;29.99
+1665;Computer Search;(71, 102);;Inglês;SP;29.99
+1666;Computer Search;(71, 102);;Inglês;SP;34.95
+1667;Computer Search;(71, 102);;Português;NM;39.95
+1668;Computer Search;(71, 102);Edition One;Português;D;41.9
+1669;Computer Search;(71, 102);Edition One;Português;SP;48.5
+1670;Computer Search;(71, 102);;Português;SP;49.9
+1671;Computer Search;(71, 102);;Inglês;NM;49.95
+1672;Computer Search;(71, 102);;Inglês;NM;54.0
+1673;Computer Search;(71, 102);;Português;SP;54.0
+1674;Computer Search;(71, 102);Edition One;Português;HP;59.95
+1675;Computer Search;(71, 102);;Francês;MP;69.9
+1676;Computer Search;(71, 102);Edition One;Português;NM;129.95
+1677;Computer Search;(71, 102);;Português;M;171.0
+1678;Computer Search;(71, 102);Edition One;Português;SP;180.0
+1679;Computer Search;(71, 102);Edition One;Português;M;621.0
+1680;Lass;(75, 102);;Português;HP;1.99
+1681;Lass;(75, 102);;Português;MP;3.0
+1682;Lass;(75, 102);;Português;NM;4.0
+1683;Lass;(75, 102);;Inglês;D;4.5
+1684;Lass;(75, 102);;Português / Inglês;HP;8.0
+1685;Lass;(75, 102);;Português;MP;8.5
+1686;Lass;(75, 102);;Português;HP;8.5
+1687;Lass;(75, 102);;Português;D;8.5
+1688;Lass;(75, 102);;Português / Inglês;MP;8.5
+1689;Lass;(75, 102);;Português;SP;8.9
+1690;Lass;(75, 102);;Português;SP;8.99
+1691;Lass;(75, 102);;Inglês;HP;9.9
+1692;Lass;(75, 102);;Inglês;D;11.9
+1693;Lass;(75, 102);;Inglês;MP;12.9
+1694;Lass;(75, 102);;Português;MP;12.9
+1695;Lass;(75, 102);;Inglês;SP;13.9
+1696;Lass;(75, 102);;Português;SP;15.9
+1697;Lass;(75, 102);;Inglês;MP;15.9
+1698;Lass;(75, 102);;Inglês;SP;18.9
+1699;Lass;(75, 102);;Português;MP;18.95
+1700;Lass;(75, 102);;Português;SP;23.95
+1701;Lass;(75, 102);;Português;NM;26.91
+1702;Lass;(75, 102);;Inglês;NM;29.95
+1703;Lass;(75, 102);Edition One;Português;HP;44.9
+1704;Lass;(75, 102);Edition One;Português;HP;78.0
+1705;Lass;(75, 102);Edition One;Português;MP;79.8
+1706;Lass;(75, 102);Edition One;Português;D;79.9
+1707;Lass;(75, 102);Edition One;Português;MP;79.9
+1708;Lass;(75, 102);Edition One;Português;HP;79.95
+1709;Lass;(75, 102);Edition One;Português;MP;109.95
+1710;Lass;(75, 102);Edition One;Português;HP;124.5
+1711;Lass;(75, 102);Edition One;Português;SP;139.95
+1712;Lass;(75, 102);Edition One;Português;NM;149.5
+1713;Scoop Up;(78, 102);;Japonês;NM;9.5
+1714;Scoop Up;(78, 102);;Português;D;15.0
+1715;Scoop Up;(78, 102);;Português;D;17.9
+1716;Scoop Up;(78, 102);;Inglês;D;18.9
+1717;Scoop Up;(78, 102);;Português;HP;20.0
+1718;Scoop Up;(78, 102);;Português;MP;29.9
+1719;Scoop Up;(78, 102);Edition One;Português;HP;30.0
+1720;Scoop Up;(78, 102);;Japonês;D;35.0
+1721;Scoop Up;(78, 102);;Português;SP;39.99
+1722;Scoop Up;(78, 102);;Português;M;45.0
+1723;Scoop Up;(78, 102);;Português;SP;45.5
+1724;Scoop Up;(78, 102);;Inglês;SP;53.9
+1725;Scoop Up;(78, 102);Edition One;Português;M;180.0
+1726;Scoop Up;(78, 102);Edition One;Português;MP;189.9
+1727;Defender;(80, 102);;Inglês;SP;0.6
+1728;Defender;(80, 102);;Inglês;SP;1.7
+1729;Defender;(80, 102);;Português;D;1.9
+1730;Defender;(80, 102);;Português;HP;2.3
+1731;Defender;(80, 102);;Português;MP;2.5
+1732;Defender;(80, 102);;Português;MP;2.55
+1733;Defender;(80, 102);;Inglês;SP;2.69
+1734;Defender;(80, 102);;Português;SP;2.7
+1735;Defender;(80, 102);;Português / Inglês;MP;7.0
+1736;Defender;(80, 102);;Inglês;D;7.9
+1737;Defender;(80, 102);;Inglês;HP;8.9
+1738;Defender;(80, 102);;Português;D;9.5
+1739;Defender;(80, 102);Shadowless;Inglês;MP;9.5
+1740;Defender;(80, 102);;Português;HP;12.5
+1741;Defender;(80, 102);;Inglês;MP;13.5
+1742;Defender;(80, 102);;Inglês;SP;14.5
+1743;Defender;(80, 102);Edition One;Português;D;14.9
+1744;Defender;(80, 102);Edition One;Português;SP;14.99
+1745;Defender;(80, 102);;Inglês;NM;18.0
+1746;Defender;(80, 102);Edition One;Português;SP;19.9
+1747;Defender;(80, 102);;Português;M;31.5
+1748;Defender;(80, 102);;Português;NM;49.9
+1749;Defender;(80, 102);Edition One;Português;M;135.0
+1750;Defender;(80, 102);Edition One;Português;M;270.0
+1751;Energy Retrieval;(81, 102);;Português;HP;0.5
+1752;Energy Retrieval;(81, 102);;Português;HP;0.51
+1753;Energy Retrieval;(81, 102);;Inglês;SP;0.85
+1754;Energy Retrieval;(81, 102);;Português / Inglês;SP;1.28
+1755;Energy Retrieval;(81, 102);;Português;NM;1.5
+1756;Energy Retrieval;(81, 102);;Português;SP;1.5
+1757;Energy Retrieval;(81, 102);;Inglês;SP;1.5
+1758;Energy Retrieval;(81, 102);;Português;D;1.9
+1759;Energy Retrieval;(81, 102);;Português / Inglês;MP;2.0
+1760;Energy Retrieval;(81, 102);;Português;MP;2.5
+1761;Energy Retrieval;(81, 102);;Inglês;MP;2.5
+1762;Energy Retrieval;(81, 102);;Português;SP;2.7
+1763;Energy Retrieval;(81, 102);;Inglês;D;2.9
+1764;Energy Retrieval;(81, 102);;Inglês;HP;3.3
+1765;Energy Retrieval;(81, 102);;Inglês;MP;3.5
+1766;Energy Retrieval;(81, 102);;Inglês;SP;3.7
+1767;Energy Retrieval;(81, 102);;Inglês;MP;3.9
+1768;Energy Retrieval;(81, 102);;Português;SP;5.9
+1769;Energy Retrieval;(81, 102);Edition One;Português;MP;9.9
+1770;Energy Retrieval;(81, 102);Edition One;Português;MP;11.9
+1771;Energy Retrieval;(81, 102);;Português;M;36.0
+1772;Energy Retrieval;(81, 102);Edition One;Português;M;171.0
+1773;Maintenance;(83, 102);;Português;D;0.5
+1774;Maintenance;(83, 102);;Português;MP;4.5
+1775;Maintenance;(83, 102);;Português;HP;4.9
+1776;Maintenance;(83, 102);;Português;D;8.5
+1777;Maintenance;(83, 102);;Inglês;HP;9.9
+1778;Maintenance;(83, 102);;Português;SP;13.95
+1779;Maintenance;(83, 102);Edition One;Português;HP;29.9
+1780;Maintenance;(83, 102);;Português;M;31.5
+1781;Maintenance;(83, 102);Edition One;Português;M;108.0
+1782;PlusPower;(84, 102);;Português;HP;0.53
+1783;PlusPower;(84, 102);;Português;MP;1.0
+1784;PlusPower;(84, 102);;Português;NM;1.5
+1785;PlusPower;(84, 102);;Português;HP;1.7
+1786;PlusPower;(84, 102);;Português;D;1.9
+1787;PlusPower;(84, 102);;Português;HP;2.3
+1788;PlusPower;(84, 102);;Português;MP;2.5
+1789;PlusPower;(84, 102);;Português;MP;2.69
+1790;PlusPower;(84, 102);;Português;SP;2.7
+1791;PlusPower;(84, 102);;Espanhol;SP;2.7
+1792;PlusPower;(84, 102);;Inglês;D;3.9
+1793;PlusPower;(84, 102);;Inglês;HP;4.3
+1794;PlusPower;(84, 102);;Inglês;MP;4.5
+1795;PlusPower;(84, 102);;Inglês;SP;4.7
+1796;PlusPower;(84, 102);;Inglês;SP;6.21
+1797;PlusPower;(84, 102);;Inglês;SP;7.65
+1798;PlusPower;(84, 102);;Inglês;NM;9.89
+1799;PlusPower;(84, 102);Edition One;Português;MP;18.0
+1800;PlusPower;(84, 102);;Japonês;SP;19.9
+1801;PlusPower;(84, 102);;Português;M;22.5
+1802;PlusPower;(84, 102);Edition One;Português;MP;29.9
+1803;PlusPower;(84, 102);;Português;M;36.0
+1804;PlusPower;(84, 102);Edition One;Português;NM;39.9
+1805;PlusPower;(84, 102);Edition One;Espanhol;MP;89.9
+1806;PlusPower;(84, 102);Edition One;Português;MP;99.5
+1807;PlusPower;(84, 102);Edition One;Português;MP;99.9
+1808;PlusPower;(84, 102);Edition One;Português;M;270.0
+1809;Pokémon Center;(85, 102);;Português;MP;3.5
+1810;Pokémon Center;(85, 102);;Português;HP;3.5
+1811;Pokémon Center;(85, 102);;Português;HP;7.9
+1812;Pokémon Center;(85, 102);;Português;MP;12.9
+1813;Pokémon Center;(85, 102);;Português;SP;19.9
+1814;Pokémon Center;(85, 102);;Japonês;MP;25.0
+1815;Pokémon Center;(85, 102);Edition One;Português;M;90.0
+1816;Pokédex;(87, 102);;Português;HP;0.35
+1817;Pokédex;(87, 102);;Português;MP;0.4
+1818;Pokédex;(87, 102);;Português;MP;0.5
+1819;Pokédex;(87, 102);;Português;HP;0.51
+1820;Pokédex;(87, 102);;Português;SP;0.85
+1821;Pokédex;(87, 102);;Inglês;SP;1.0
+1822;Pokédex;(87, 102);;Português;SP;1.0
+1823;Pokédex;(87, 102);;Português;D;1.9
+1824;Pokédex;(87, 102);;Inglês;SP;1.98
+1825;Pokédex;(87, 102);;Português;HP;2.3
+1826;Pokédex;(87, 102);;Português;MP;2.5
+1827;Pokédex;(87, 102);;Português;SP;3.15
+1828;Pokédex;(87, 102);;Inglês;SP;3.2
+1829;Pokédex;(87, 102);;Inglês;HP;3.3
+1830;Pokédex;(87, 102);;Inglês;MP;3.5
+1831;Pokédex;(87, 102);;Inglês;SP;3.7
+1832;Pokédex;(87, 102);;Inglês;MP;5.9
+1833;Pokédex;(87, 102);;Português;D;6.5
+1834;Pokédex;(87, 102);;Português;NM;9.5
+1835;Pokédex;(87, 102);;Inglês;SP;9.9
+1836;Pokédex;(87, 102);;Português / Inglês;MP;10.0
+1837;Pokédex;(87, 102);Edition One;Português;SP;10.0
+1838;Pokédex;(87, 102);;Japonês;SP;19.9
+1839;Pokédex;(87, 102);;Português;NM;35.0
+1840;Pokédex;(87, 102);Edition One;Português;M;72.0
+1841;Pokédex;(87, 102);Edition One;Português;MP;120.0
+1842;Professor Oak;(88, 102);;Português;D;1.28
+1843;Professor Oak;(88, 102);;Inglês;HP;1.7
+1844;Professor Oak;(88, 102);;Português;D;2.0
+1845;Professor Oak;(88, 102);;Inglês;D;2.0
+1846;Professor Oak;(88, 102);;Português;MP;2.5
+1847;Professor Oak;(88, 102);;Português;D;2.9
+1848;Professor Oak;(88, 102);;Português;HP;3.0
+1849;Professor Oak;(88, 102);;Português;SP;3.32
+1850;Professor Oak;(88, 102);;Português;HP;3.5
+1851;Professor Oak;(88, 102);;Português;MP;3.9
+1852;Professor Oak;(88, 102);;Inglês;D;3.9
+1853;Professor Oak;(88, 102);;Português / Inglês;HP;3.9
+1854;Professor Oak;(88, 102);;Inglês;SP;4.0
+1855;Professor Oak;(88, 102);;Português;SP;4.0
+1856;Professor Oak;(88, 102);;Inglês;HP;4.3
+1857;Professor Oak;(88, 102);;Português;SP;4.5
+1858;Professor Oak;(88, 102);;Inglês;MP;4.5
+1859;Professor Oak;(88, 102);;Inglês;D;4.5
+1860;Professor Oak;(88, 102);;Português;HP;4.9
+1861;Professor Oak;(88, 102);;Português;HP;6.5
+1862;Professor Oak;(88, 102);;Português;MP;7.5
+1863;Professor Oak;(88, 102);;Português;MP;7.99
+1864;Professor Oak;(88, 102);;Português;SP;8.5
+1865;Professor Oak;(88, 102);;Português / Inglês;MP;8.9
+1866;Professor Oak;(88, 102);;Português;MP;8.9
+1867;Professor Oak;(88, 102);;Inglês;MP;9.9
+1868;Professor Oak;(88, 102);;Português;SP;9.99
+1869;Professor Oak;(88, 102);;Português;SP;13.79
+1870;Professor Oak;(88, 102);;Português;SP;15.9
+1871;Professor Oak;(88, 102);;Inglês;SP;19.9
+1872;Professor Oak;(88, 102);Edition One;Português;MP;24.9
+1873;Professor Oak;(88, 102);Edition One;Português;MP;30.0
+1874;Professor Oak;(88, 102);;Japonês;HP;39.9
+1875;Professor Oak;(88, 102);Edition One;Português;NM;53.9
+1876;Professor Oak;(88, 102);;Português;M;72.0
+1877;Super Potion;(90, 102);;Português;D;0.09
+1878;Super Potion;(90, 102);;Inglês;MP;0.2
+1879;Super Potion;(90, 102);;Português;MP;0.2
+1880;Super Potion;(90, 102);;Português;MP;0.25
+1881;Super Potion;(90, 102);;Inglês;HP;0.26
+1882;Super Potion;(90, 102);;Português;MP;0.3
+1883;Super Potion;(90, 102);;Inglês;MP;0.3
+1884;Super Potion;(90, 102);;Português;D;0.31
+1885;Super Potion;(90, 102);;Português;SP;0.4
+1886;Super Potion;(90, 102);;Português;MP;0.43
+1887;Super Potion;(90, 102);;Inglês;SP;0.49
+1888;Super Potion;(90, 102);;Português;SP;0.49
+1889;Super Potion;(90, 102);;Japonês;D;0.5
+1890;Super Potion;(90, 102);;Português;SP;0.5
+1891;Super Potion;(90, 102);;Inglês;SP;0.5
+1892;Super Potion;(90, 102);;Português;HP;0.51
+1893;Super Potion;(90, 102);;Português;SP;0.77
+1894;Super Potion;(90, 102);;Português / Inglês;SP;0.85
+1895;Super Potion;(90, 102);;Inglês;SP;0.85
+1896;Super Potion;(90, 102);;Português;NM;0.91
+1897;Super Potion;(90, 102);;Espanhol;NM;1.5
+1898;Super Potion;(90, 102);;Português;MP;1.5
+1899;Super Potion;(90, 102);;Inglês;MP;1.5
+1900;Super Potion;(90, 102);;Português;D;1.9
+1901;Super Potion;(90, 102);;Inglês;D;1.9
+1902;Super Potion;(90, 102);;Português / Inglês;MP;1.9
+1903;Super Potion;(90, 102);;Português;HP;1.99
+1904;Super Potion;(90, 102);;Inglês;SP;2.0
+1905;Super Potion;(90, 102);;Português;SP;2.0
+1906;Super Potion;(90, 102);;Português;HP;2.3
+1907;Super Potion;(90, 102);;Inglês;HP;2.3
+1908;Super Potion;(90, 102);;Inglês;MP;2.5
+1909;Super Potion;(90, 102);;Espanhol;MP;2.5
+1910;Super Potion;(90, 102);;Inglês;SP;2.7
+1911;Super Potion;(90, 102);;Português;SP;2.7
+1912;Super Potion;(90, 102);;Português;MP;2.7
+1913;Super Potion;(90, 102);;Português;SP;2.98
+1914;Super Potion;(90, 102);;Português / Inglês;SP;3.15
+1915;Super Potion;(90, 102);Shadowless;Inglês;SP;4.7
+1916;Super Potion;(90, 102);;Português;SP;4.99
+1917;Super Potion;(90, 102);;Inglês;SP;5.5
+1918;Super Potion;(90, 102);;Português;NM;5.98
+1919;Super Potion;(90, 102);;Inglês;NM;8.91
+1920;Super Potion;(90, 102);;Alemão;SP;10.0
+1921;Super Potion;(90, 102);;Português;NM;13.95
+1922;Super Potion;(90, 102);Edition One;Português;HP;16.9
+1923;Super Potion;(90, 102);Edition One;Português;SP;20.0
+1924;Super Potion;(90, 102);Edition One;Português;SP;20.9
+1925;Super Potion;(90, 102);;Japonês;SP;25.0
+1926;Super Potion;(90, 102);Edition One;Português;NM;25.0
+1927;Super Potion;(90, 102);Edition One;Português;SP;25.5
+1928;Super Potion;(90, 102);;Português;M;26.91
+1929;Bill;(91, 102);;Português;HP;0.15
+1930;Bill;(91, 102);;Português;HP;0.17
+1931;Bill;(91, 102);;Português;HP;0.2
+1932;Bill;(91, 102);;Português;HP;0.2
+1933;Bill;(91, 102);;Português;HP;0.2
+1934;Bill;(91, 102);;Português;D;0.31
+1935;Bill;(91, 102);;Português;MP;0.4
+1936;Bill;(91, 102);;Inglês;MP;0.5
+1937;Bill;(91, 102);;Português;MP;0.5
+1938;Bill;(91, 102);;Inglês;D;0.5
+1939;Bill;(91, 102);;Português;D;0.5
+1940;Bill;(91, 102);;Português;HP;0.51
+1941;Bill;(91, 102);;Português;MP;0.63
+1942;Bill;(91, 102);;Inglês;SP;0.85
+1943;Bill;(91, 102);;Português;MP;0.89
+1944;Bill;(91, 102);;Japonês;M;0.9
+1945;Bill;(91, 102);;Português;MP;0.99
+1946;Bill;(91, 102);;Português;SP;1.0
+1947;Bill;(91, 102);;Português;SP;1.0
+1948;Bill;(91, 102);;Português;MP;1.0
+1949;Bill;(91, 102);;Inglês;MP;1.0
+1950;Bill;(91, 102);;Português / Inglês;SP;1.45
+1951;Bill;(91, 102);;Português;D;1.9
+1952;Bill;(91, 102);;Português;D;1.9
+1953;Bill;(91, 102);;Espanhol;D;1.9
+1954;Bill;(91, 102);;Português;SP;2.0
+1955;Bill;(91, 102);;Português;HP;2.3
+1956;Bill;(91, 102);;Português;HP;2.3
+1957;Bill;(91, 102);;Português;MP;2.5
+1958;Bill;(91, 102);;Português;SP;2.7
+1959;Bill;(91, 102);;Português;SP;2.7
+1960;Bill;(91, 102);;Inglês;D;2.9
+1961;Bill;(91, 102);;Inglês;HP;3.3
+1962;Bill;(91, 102);;Inglês;MP;3.5
+1963;Bill;(91, 102);;Inglês;SP;3.7
+1964;Bill;(91, 102);;Português;SP;4.9
+1965;Bill;(91, 102);;Português;SP;4.95
+1966;Bill;(91, 102);;Inglês;MP;4.95
+1967;Bill;(91, 102);;Inglês;SP;5.9
+1968;Bill;(91, 102);;Inglês;NM;8.91
+1969;Bill;(91, 102);;Português;NM;8.91
+1970;Bill;(91, 102);;Alemão;NM;10.5
+1971;Bill;(91, 102);;Japonês;SP;19.9
+1972;Bill;(91, 102);Edition One;Português;HP;23.9
+1973;Bill;(91, 102);;Português;M;27.0
+1974;Bill;(91, 102);;Português;M;45.0
+1975;Bill;(91, 102);Edition One;Português;SP;47.5
+1976;Bill;(91, 102);Edition One;Português;NM;59.9
+1977;Bill;(91, 102);Edition One;Português;M;108.0
+1978;Energy Removal;(92, 102);;Português;D;0.08
+1979;Energy Removal;(92, 102);;Português;HP;0.2
+1980;Energy Removal;(92, 102);;Português;HP;0.2
+1981;Energy Removal;(92, 102);;Português;D;0.43
+1982;Energy Removal;(92, 102);;Inglês;HP;0.5
+1983;Energy Removal;(92, 102);;Português;D;0.5
+1984;Energy Removal;(92, 102);;Inglês;D;0.5
+1985;Energy Removal;(92, 102);;Português;HP;0.51
+1986;Energy Removal;(92, 102);;Português;MP;0.63
+1987;Energy Removal;(92, 102);;Português;HP;0.85
+1988;Energy Removal;(92, 102);;Português;MP;0.89
+1989;Energy Removal;(92, 102);;Inglês;MP;1.0
+1990;Energy Removal;(92, 102);;Português;MP;1.0
+1991;Energy Removal;(92, 102);;Inglês;MP;1.0
+1992;Energy Removal;(92, 102);;Português;SP;1.1
+1993;Energy Removal;(92, 102);;Espanhol;SP;1.5
+1994;Energy Removal;(92, 102);;Inglês;SP;1.5
+1995;Energy Removal;(92, 102);;Português / Inglês;SP;1.5
+1996;Energy Removal;(92, 102);;Português;MP;1.7
+1997;Energy Removal;(92, 102);;Português / Inglês;D;1.8
+1998;Energy Removal;(92, 102);;Português;D;1.9
+1999;Energy Removal;(92, 102);;Português / Inglês;MP;2.0
+2000;Energy Removal;(92, 102);;Português;HP;2.3
+2001;Energy Removal;(92, 102);;Português;MP;2.5
+2002;Energy Removal;(92, 102);;Português;SP;2.7
+2003;Energy Removal;(92, 102);;Inglês;D;2.9
+2004;Energy Removal;(92, 102);;Português;HP;2.99
+2005;Energy Removal;(92, 102);;Inglês;HP;3.3
+2006;Energy Removal;(92, 102);;Inglês;MP;3.5
+2007;Energy Removal;(92, 102);;Português;MP;4.99
+2008;Energy Removal;(92, 102);;Português;NM;13.95
+2009;Energy Removal;(92, 102);;Japonês;MP;19.9
+2010;Energy Removal;(92, 102);Edition One;Português;MP;27.9
+2011;Energy Removal;(92, 102);;Português;M;31.5
+2012;Energy Removal;(92, 102);Edition One;Português;M;90.0
+2013;Gust of Wind;(93, 102);;Português;D;0.1
+2014;Gust of Wind;(93, 102);;Inglês;D;0.1
+2015;Gust of Wind;(93, 102);;Português;D;0.17
+2016;Gust of Wind;(93, 102);;Português;HP;0.2
+2017;Gust of Wind;(93, 102);;Português;HP;0.2
+2018;Gust of Wind;(93, 102);;Inglês;D;0.25
+2019;Gust of Wind;(93, 102);;Português / Inglês;HP;0.26
+2020;Gust of Wind;(93, 102);;Português;MP;0.4
+2021;Gust of Wind;(93, 102);;Português / Inglês;SP;0.49
+2022;Gust of Wind;(93, 102);;Português / Inglês;SP;0.5
+2023;Gust of Wind;(93, 102);;Inglês;HP;0.5
+2024;Gust of Wind;(93, 102);;Português;D;0.5
+2025;Gust of Wind;(93, 102);;Português;SP;0.5
+2026;Gust of Wind;(93, 102);;Inglês;SP;0.5
+2027;Gust of Wind;(93, 102);;Português;SP;0.51
+2028;Gust of Wind;(93, 102);;Português;D;0.63
+2029;Gust of Wind;(93, 102);;Português;HP;0.79
+2030;Gust of Wind;(93, 102);;Inglês;SP;0.85
+2031;Gust of Wind;(93, 102);;Inglês;MP;0.94
+2032;Gust of Wind;(93, 102);;Inglês;MP;1.0
+2033;Gust of Wind;(93, 102);;Português;MP;1.0
+2034;Gust of Wind;(93, 102);;Inglês;MP;1.0
+2035;Gust of Wind;(93, 102);;Inglês;MP;1.0
+2036;Gust of Wind;(93, 102);;Português;NM;1.38
+2037;Gust of Wind;(93, 102);;Português / Inglês;SP;1.45
+2038;Gust of Wind;(93, 102);;Português;SP;1.5
+2039;Gust of Wind;(93, 102);;Espanhol;SP;1.5
+2040;Gust of Wind;(93, 102);;Português;MP;1.5
+2041;Gust of Wind;(93, 102);;Português;MP;1.5
+2042;Gust of Wind;(93, 102);;Português;D;1.9
+2043;Gust of Wind;(93, 102);;Português;SP;1.98
+2044;Gust of Wind;(93, 102);;Alemão;SP;1.98
+2045;Gust of Wind;(93, 102);;Português;HP;2.3
+2046;Gust of Wind;(93, 102);;Português;MP;2.5
+2047;Gust of Wind;(93, 102);;Português;SP;2.7
+2048;Gust of Wind;(93, 102);;Inglês;D;2.9
+2049;Gust of Wind;(93, 102);;Inglês;HP;3.3
+2050;Gust of Wind;(93, 102);;Inglês;MP;3.5
+2051;Gust of Wind;(93, 102);;Inglês;SP;3.7
+2052;Gust of Wind;(93, 102);;Português;NM;3.98
+2053;Gust of Wind;(93, 102);;Português;SP;5.39
+2054;Gust of Wind;(93, 102);;Português;SP;6.5
+2055;Gust of Wind;(93, 102);;Inglês;SP;7.5
+2056;Gust of Wind;(93, 102);Shadowless;Inglês;SP;7.7
+2057;Gust of Wind;(93, 102);;Português;NM;9.45
+2058;Gust of Wind;(93, 102);;Alemão;SP;9.5
+2059;Gust of Wind;(93, 102);;Português;D;19.9
+2060;Gust of Wind;(93, 102);;Português;NM;29.9
+2061;Gust of Wind;(93, 102);;Português;M;36.0
+2062;Gust of Wind;(93, 102);;Inglês;NM;39.9
+2063;Gust of Wind;(93, 102);;Japonês;NM;79.9
+2064;Gust of Wind;(93, 102);Edition One;Português;M;90.0
+2065;Potion;(94, 102);;Português;HP;0.05
+2066;Potion;(94, 102);;Português;D;0.09
+2067;Potion;(94, 102);;Português;HP;0.1
+2068;Potion;(94, 102);;Português;D;0.1
+2069;Potion;(94, 102);;Inglês;HP;0.1
+2070;Potion;(94, 102);;Português;HP;0.1
+2071;Potion;(94, 102);;Português;HP;0.17
+2072;Potion;(94, 102);;Português / Inglês;SP;0.2
+2073;Potion;(94, 102);;Francês;SP;0.2
+2074;Potion;(94, 102);;Inglês;HP;0.2
+2075;Potion;(94, 102);;Português;HP;0.24
+2076;Potion;(94, 102);;Inglês;HP;0.24
+2077;Potion;(94, 102);;Português / Inglês;MP;0.26
+2078;Potion;(94, 102);;Português;MP;0.3
+2079;Potion;(94, 102);;Inglês;MP;0.3
+2080;Potion;(94, 102);;Português;MP;0.31
+2081;Potion;(94, 102);;Inglês;MP;0.31
+2082;Potion;(94, 102);;Inglês;SP;0.43
+2083;Potion;(94, 102);;Português;MP;0.5
+2084;Potion;(94, 102);;Português;SP;0.5
+2085;Potion;(94, 102);;Inglês;SP;0.5
+2086;Potion;(94, 102);;Português;MP;0.5
+2087;Potion;(94, 102);;Inglês;MP;0.5
+2088;Potion;(94, 102);;Português;SP;0.75
+2089;Potion;(94, 102);;Inglês;SP;0.75
+2090;Potion;(94, 102);;Português / Inglês;SP;0.98
+2091;Potion;(94, 102);;Português;NM;1.0
+2092;Potion;(94, 102);;Espanhol;NM;1.0
+2093;Potion;(94, 102);;Inglês;NM;1.0
+2094;Potion;(94, 102);;Alemão;NM;1.0
+2095;Potion;(94, 102);;Português;HP;1.75
+2096;Potion;(94, 102);;Português;D;1.9
+2097;Potion;(94, 102);;Alemão;D;1.9
+2098;Potion;(94, 102);;Português / Inglês;MP;1.9
+2099;Potion;(94, 102);;Português;SP;1.98
+2100;Potion;(94, 102);;Português / Inglês;MP;2.03
+2101;Potion;(94, 102);;Português;HP;2.3
+2102;Potion;(94, 102);;Português;SP;2.48
+2103;Potion;(94, 102);;Português;MP;2.5
+2104;Potion;(94, 102);;Espanhol;MP;2.5
+2105;Potion;(94, 102);;Português;SP;2.7
+2106;Potion;(94, 102);;Inglês;D;2.9
+2107;Potion;(94, 102);;Português;SP;2.93
+2108;Potion;(94, 102);;Português;NM;2.98
+2109;Potion;(94, 102);;Inglês;HP;3.3
+2110;Potion;(94, 102);;Português;NM;3.49
+2111;Potion;(94, 102);;Inglês;MP;3.5
+2112;Potion;(94, 102);;Português;SP;3.5
+2113;Potion;(94, 102);;Português;NM;3.59
+2114;Potion;(94, 102);;Inglês;SP;3.7
+2115;Potion;(94, 102);;Português;NM;19.9
+2116;Potion;(94, 102);;Japonês;SP;19.9
+2117;Potion;(94, 102);;Português;MP;24.8
+2118;Potion;(94, 102);Edition One;Português;D;24.9
+2119;Potion;(94, 102);Edition One;Português;HP;26.9
+2120;Potion;(94, 102);Edition One;Português;SP;29.5
+2121;Potion;(94, 102);;Inglês;NM;29.9
+2122;Switch;(95, 102);;Português;D;0.16
+2123;Switch;(95, 102);;Português;HP;0.17
+2124;Switch;(95, 102);;Português;HP;0.24
+2125;Switch;(95, 102);;Inglês;HP;0.26
+2126;Switch;(95, 102);;Português;HP;0.3
+2127;Switch;(95, 102);;Inglês;SP;0.34
+2128;Switch;(95, 102);;Português;SP;0.34
+2129;Switch;(95, 102);;Português;MP;0.4
+2130;Switch;(95, 102);;Inglês;NM;0.43
+2131;Switch;(95, 102);;Português;SP;0.49
+2132;Switch;(95, 102);;Português;SP;0.5
+2133;Switch;(95, 102);;Inglês;MP;0.6
+2134;Switch;(95, 102);;Português;SP;0.6
+2135;Switch;(95, 102);;Português / Inglês;NM;1.11
+2136;Switch;(95, 102);;Português;D;1.9
+2137;Switch;(95, 102);;Alemão;D;1.9
+2138;Switch;(95, 102);;Espanhol;D;1.9
+2139;Switch;(95, 102);;Português;HP;2.3
+2140;Switch;(95, 102);;Português;MP;2.5
+2141;Switch;(95, 102);;Português;SP;2.7
+2142;Switch;(95, 102);;Inglês;D;2.9
+2143;Switch;(95, 102);;Inglês;HP;3.3
+2144;Switch;(95, 102);;Inglês;MP;3.5
+2145;Switch;(95, 102);;Português;MP;3.5
+2146;Switch;(95, 102);;Inglês;SP;3.7
+2147;Switch;(95, 102);;Português / Inglês;SP;4.0
+2148;Switch;(95, 102);;Português;SP;4.95
+2149;Switch;(95, 102);;Português;NM;5.98
+2150;Switch;(95, 102);;Português;SP;6.9
+2151;Switch;(95, 102);;Inglês;SP;7.9
+2152;Switch;(95, 102);;Japonês;SP;7.9
+2153;Switch;(95, 102);;Inglês;NM;8.91
+2154;Switch;(95, 102);;Alemão;SP;9.5
+2155;Switch;(95, 102);Edition One;Português;MP;24.5
+2156;Switch;(95, 102);;Francês;HP;25.0
+2157;Switch;(95, 102);Edition One;Português;MP;26.9
+2158;Switch;(95, 102);;Português;NM;29.9
+2159;Switch;(95, 102);;Japonês;NM;49.9
+2160;Switch;(95, 102);Edition One;Português;M;108.0

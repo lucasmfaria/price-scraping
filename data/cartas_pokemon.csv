@@ -1,37 +1,39 @@
 nome;num_colecao;extras;lingua;condicao
-Machamp;15/110;Reverse Foil;Inglês;HP
-Hitmontop;3/75;Foil;Inglês;HP
-Unown A;14/75;Foil;Inglês;SP
+Machamp;15/110;Reverse Foil;Inglês;D
+Hitmontop;3/75;Foil;Inglês;D
+Unown A;14/75;Foil;Inglês;MP
 Typhlosion;65/165;;Inglês;NM
 Ninetales;21/165;Foil;Inglês;NM
 Combusken;25/106;Reverse Foil;Português;NM
 Magby;17/165;Foil;Inglês;NM
-Camerupt;4/109;;Inglês;NM
-Camerupt;4/107;;Português;NM
+Camerupt;4/109;Foil;Inglês;NM
+Camerupt;4/107;Foil;Português;NM
 Camerupt;23/106;;Inglês;NM
 Blaziken;15/109;;Inglês;NM
 Blaziken;15/109;;Inglês;NM
 Venomoth;29/64;;Português;MP
 Arbok;35/165;;Inglês;NM
-Roselia;9/97;;Inglês;NM
-Heracross;07/101;;Inglês;NM
-Dark Crobat;2/105;;Inglês;NM
+Roselia;9/97;Foil;Inglês;NM
+Heracross;07/101;Foil;Inglês;NM
+Dark Crobat;2/105;Foil;Inglês;NM
 Butterfree;19/75;;Inglês;SP
 Butterfree;33/64;;Inglês;MP
 Koga's Beedrill;9/132;Foil;Inglês;HP
 Deoxys;17/107;;Português;SP
 Deoxys;16/107;;Português;NM
-Dark Espeon;4/105;;Inglês;NM
-Mew;19/165;;Inglês;NM
+Dark Espeon;4/105;Foil;Inglês;NM
+Mew;19/165;Foil;Inglês;NM
 Mew;55/165;;Inglês;NM
-Alakazam;1/165;;Inglês;NM
+Alakazam;1/165;Foil;Inglês;NM
 Alakazam;33/165;;Inglês;NM
 Alakazam;33/165;;Inglês;NM
-Vaporeon;12/64;;Português;D
-Mr. Mime;6/64;;Inglês;HP
-Sabrina Alakazam;16/132;;Inglês;D
+Vaporeon;12/64;Foil;Português;D
+Vaporeon;12/64;Foil;Português;SP
+Vaporeon;12/64;Foil;Português;SP
+Mr. Mime;6/64;Foil;Inglês;HP
+Sabrina's Alakazam;16/132;Foil;Inglês;D
 Delibird;21/109;;Inglês;NM
-Wailord;14/109;;Inglês;NM
+Wailord;14/109;Foil;Inglês;NM
 Dark Gyarados;25/82;;Inglês;MP
 Tentacruel;H26/H32;;Inglês;NM
 Suicune;27/64;;Inglês;SP
@@ -40,7 +42,7 @@ Qwilfish;27/109;;Português;NM
 Milotic EX;96/106;Foil;Português;NM
 Lt. Surge's Magneton;8/132;Foil;Inglês;NM
 Jolteon;4/64;Foil;Inglês;SP
-Manectric;9/109;;Inglês;SP
+Manectric;9/109;Foil;Inglês;SP
 Manectric;16/106;;Português;NM
 Eevee;38/75;;Inglês;MP
 Flygon;15/97;;Inglês;NM
@@ -48,8 +50,8 @@ Flygon;15/97;;Inglês;NM
 Kangaskhan;5/64;Foil;Português;NM
 Kangaskhan;5/64;Foil;Português;SP
 Kangaskhan;5/64;Foil;Português;MP
-Snorlax;11/64;;Português;HP
-Shiftry;14/101;;Inglês;NM
+Snorlax;11/64;Foil;Português;HP
+Shiftry;14/101;Foil;Inglês;NM
 Tyranitar;29/165;Reverse Foil;Inglês;NM
 Claydol;8/95;Reverse Foil;Inglês;NM
 Dark Dragonite;15/109;;Português;NM
@@ -59,7 +61,7 @@ Scizor;32/147;;Inglês;NM
 Furret;22/109;;Português;NM
 Dark Magneton;39/109;;Português;NM
 Darkness Energy;93/109;Foil;Inglês;NM
-Water Energy;103/106;Foil;;NM
+Water Energy;103/106;Foil;Inglês;NM
 Dark metal energy;94/109;Reverse Foil;Português;NM
 Rainbow Energy;95/109;;Inglês;NM
 Rainbow Energy;95/109;;Inglês;NM

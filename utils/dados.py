@@ -9,6 +9,7 @@ def carrega_dados(config):
     }
     df = pd.read_csv(Path('./data') / config.CSV_INPUT, sep=';', dtype=dtypes_dict)
     df.num_colecao = df.num_colecao.map(formata_num_colecao)
+    df = df.where(pd.notnull(df), None) #substitui NaN por None
     return df
 
 def salva_dados(df, nome_arquivo):

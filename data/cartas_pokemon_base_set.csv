@@ -1,0 +1,331 @@
+nome;num_colecao;extras;lingua;condicao
+Alakazam;1/102;Foil;;
+Blastoise;2/102;Foil;;
+Chansey;3/102;Foil;;
+Charizard;4/102;Foil;;
+Clefairy;5/102;Foil;;
+Gyarados;6/102;Foil;Português;SP
+Hitmonchan;7/102;Foil;;
+Machamp;8/102;Foil, Edition One;Português;SP
+Magneton;9/102;Foil;;
+Mewtwo;10/102;Foil;Português;SP
+Nidoking;11/102;Foil;;
+Ninetales;12/102;Foil;;
+Poliwrath;13/102;Foil;;
+Raichu;14/102;Foil;;
+Venusaur;15/102;Foil;;
+Zapdos;16/102;Foil;;
+Beedrill;17/102;;Português;SP
+Beedrill;17/102;;Português;HP
+Dragonair;18/102;;Português;MP
+Dugtrio;19/102;;;
+Electabuzz;20/102;;Inglês;MP
+Electrode;21/102;;;
+Pidgeotto;22/102;;Português;MP
+Arcanine;23/102;;Português;MP
+Arcanine;23/102;;Português;D
+Charmeleon;24/102;;Português;SP
+Charmeleon;24/102;;Português;SP
+Charmeleon;24/102;;Português;SP
+Charmeleon;24/102;;Português;HP
+Charmeleon;24/102;;Português;D
+Charmeleon;24/102;;Português;D
+Charmeleon;24/102;;Inglês;SP
+Dewgong;25/102;;;
+Dratini;26/102;;Português;SP
+Dratini;26/102;;Português;MP
+Dratini;26/102;;Português;HP
+Dratini;26/102;;Português;HP
+Farfetch'd;27/102;;;
+Growlithe;28/102;;Português;SP
+Growlithe;28/102;;Português;SP
+Growlithe;28/102;;Português;MP
+Growlithe;28/102;;Português;HP
+Haunter;29/102;;Português;SP
+Ivysaur;30/102;;Português;SP
+Ivysaur;30/102;;Português;SP
+Ivysaur;30/102;;Português;MP
+Ivysaur;30/102;;Inglês;HP
+Jynx;31/102;;Português;NM
+Jynx;31/102;;Português;SP
+Jynx;31/102;;Português;SP
+Jynx;31/102;;Português;SP
+Jynx;31/102;;Português;MP
+Kadabra;32/102;;Português;NM
+Kadabra;32/102;;Português;NM
+Kadabra;32/102;;Português;SP
+Kadabra;32/102;;Português;SP
+Kadabra;32/102;;Português;SP
+Kadabra;32/102;;Português;SP
+Kakuna;33/102;;Português;SP
+Kakuna;33/102;;Português;SP
+Machoke;34/102;;Português;NM
+Machoke;34/102;;Português;NM
+Machoke;34/102;;Português;D
+Machoke;34/102;;Português;D
+Magikarp;35/102;;Português;SP
+Magikarp;35/102;;Português;SP
+Magikarp;35/102;;Português;MP
+Magikarp;35/102;;Português;MP
+Magikarp;35/102;;Português;MP
+Magikarp;35/102;;Português;D
+Magmar;36/102;;Português;SP
+Magmar;36/102;;Português;SP
+Magmar;36/102;;Português;HP
+Nidorino;37/102;;Português;HP
+Poliwhirl;38/102;;Português;NM
+Poliwhirl;38/102;;Português;NM
+Poliwhirl;38/102;;Português;NM
+Poliwhirl;38/102;;Português;SP
+Poliwhirl;38/102;;Português;D
+Porygon;39/102;;;
+Raticate;40/102;;;
+Seel;41/102;;Português;NM
+Seel;41/102;;Português;SP
+Wartortle;42/102;;;
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;SP
+Abra;43/102;;Português;SP
+Abra;43/102;;Português;SP
+Abra;43/102;;Português;MP
+Abra;43/102;;Português;MP
+Abra;43/102;;Português;MP
+Abra;43/102;;Português;HP
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Caterpie;45/102;;Português;NM
+Charmander;46/102;;Português;NM
+Charmander;46/102;;Português;NM
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;MP
+Charmander;46/102;;Português;MP
+Charmander;46/102;;Português;MP
+Charmander;46/102;;Português;MP
+Charmander;46/102;;Português;HP
+Charmander;46/102;;Português;D
+Diglett;47/102;;Português;SP
+Diglett;47/102;;Português;SP
+Diglett;47/102;;Português;MP
+Diglett;47/102;;Português;HP
+Diglett;47/102;;Português;HP
+Diglett;47/102;;Português;HP
+Doduo;48/102;;;
+Drowzee;49/102;;Português;MP
+Drowzee;49/102;;Português;MP
+Gastly;50/102;;Português;NM
+Gastly;50/102;;Português;SP
+Gastly;50/102;;Português;SP
+Gastly;50/102;;Português;SP
+Koffing;51/102;;Português;NM
+Koffing;51/102;;Português;NM
+Koffing;51/102;;Português;NM
+Koffing;51/102;;Português;NM
+Koffing;51/102;;Português;SP
+Koffing;51/102;;Português;MP
+Koffing;51/102;;Português;MP
+Machop;52/102;;Português;NM
+Machop;52/102;;Português;NM
+Machop;52/102;;Português;NM
+Machop;52/102;;Português;SP
+Machop;52/102;;Português;SP
+Machop;52/102;;Português;SP
+Machop;52/102;;Português;SP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;HP
+Magnemite;53/102;;Português;NM
+Magnemite;53/102;;Português;SP
+Metapod;54/102;;Português;SP
+Nidoran Macho;55/102;;Português;NM
+Nidoran Macho;55/102;;Português;SP
+Nidoran Macho;55/102;;Inglês;MP
+Onix;56/102;;Português;NM
+Pidgey;57/102;;Português;D
+Pikachu;58/102;;Português;NM
+Pikachu;58/102;;Português;NM
+Pikachu;58/102;;Português;NM
+Pikachu;58/102;;Português;SP
+Pikachu;58/102;;Português;MP
+Poliwag;59/102;;Português;NM
+Poliwag;59/102;;Português;NM
+Poliwag;59/102;;Português;NM
+Poliwag;59/102;;Português;NM
+Poliwag;59/102;;Português;SP
+Poliwag;59/102;;Português;SP
+Poliwag;59/102;;Português;MP
+Poliwag;59/102;;Português;MP
+Poliwag;59/102;;Português;MP
+Poliwag;59/102;;Português;D
+Ponyta;60/102;;Português;NM
+Ponyta;60/102;;Português;NM
+Ponyta;60/102;;Português;NM
+Ponyta;60/102;;Português;SP
+Ponyta;60/102;;Português;HP
+Ponyta;60/102;;Português;HP
+Ponyta;60/102;;Português;HP
+Ponyta;60/102;;Português;HP
+Ponyta;60/102;;Português;HP
+Rattata;61/102;;Português;NM
+Rattata;61/102;;Português;NM
+Rattata;61/102;;Português;SP
+Rattata;61/102;;Português;MP
+Sandshrew;62/102;;Português;SP
+Squirtle;63/102;;Português;NM
+Squirtle;63/102;;Português;SP
+Starmie;64/102;;Português;SP
+Starmie;64/102;;Português;SP
+Starmie;64/102;;Português;MP
+Staryu;65/102;;Português;NM
+Staryu;65/102;;Português;SP
+Staryu;65/102;;Português;SP
+Staryu;65/102;;Português;SP
+Staryu;65/102;;Português;MP
+Staryu;65/102;;Português;MP
+Staryu;65/102;;Português;MP
+Tangela;66/102;;Português;SP
+Tangela;66/102;;Português;SP
+Voltorb;67/102;;Português;NM
+Vulpix;68/102;;Português;NM
+Vulpix;68/102;;Português;NM
+Vulpix;68/102;;Português;SP
+Vulpix;68/102;;Português;D
+Weedle;69/102;;Português;SP
+Weedle;69/102;;Português;MP
+Weedle;69/102;;Português;MP
+Weedle;69/102;;Português;MP
+Clefairy Doll;70/102;;;
+Computer Search;71/102;;Português;SP
+Devolution Spray;72/102;;;
+Imposter Professor Oak;73/102;;;
+Item Finder;74/102;;;
+Lass;75/102;;Português;SP
+Lass;75/102;;Português;D
+Pokémon Breeder;76/102;;;
+Pokémon Trader;77/102;;;
+Scoop Up;78/102;;Português;SP
+Super Energy Removal;79/102;;;
+Defender;80/102;;Português;SP
+Energy Retrieval;81/102;;Português;MP
+Energy Retrieval;81/102;;Português;MP
+Energy Retrieval;81/102;;Português;MP
+Full Heal;82/102;;;
+Maintenance;83/102;;Português;SP
+PlusPower;84/102;;Português;MP
+Pokémon Center;85/102;;Português;NM
+Pokémon Center;85/102;;Português;NM
+Pokémon Center;85/102;;Português;MP
+Pokémon Flute;86/102;;;
+Pokédex;87/102;;Português;NM
+Pokédex;87/102;;Português;SP
+Pokédex;87/102;;Português;SP
+Pokédex;87/102;;Português;MP
+Pokédex;87/102;;Português;HP
+Professor Oak;88/102;;Português;NM
+Professor Oak;88/102;;Português;NM
+Professor Oak;88/102;;Português;NM
+Professor Oak;88/102;;Português;SP
+Professor Oak;88/102;;Português;MP
+Professor Oak;88/102;;Português;HP
+Revive;89/102;;;
+Super Potion;90/102;;Português;NM
+Super Potion;90/102;;Português;NM
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;MP
+Super Potion;90/102;;Português;MP
+Super Potion;90/102;;Português;MP
+Super Potion;90/102;;Português;D
+Super Potion;90/102;;Português;D
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;MP
+Bill;91/102;;Português;MP
+Bill;91/102;;Português;MP
+Bill;91/102;;Português;MP
+Bill;91/102;;Português;HP
+Bill;91/102;;Português;D
+Energy Removal;92/102;;Português;D
+Gust of Wind;93/102;;Português;NM
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;MP
+Gust of Wind;93/102;;Português;MP
+Gust of Wind;93/102;;Português;MP
+Gust of Wind;93/102;;Português;MP
+Gust of Wind;93/102;;Português;D
+Gust of Wind;93/102;;Português;D
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;MP
+Potion;94/102;;Português;MP
+Potion;94/102;;Português;MP
+Potion;94/102;;Português;D
+Potion;94/102;;Português;D
+Potion;94/102;;Português;D
+Switch;95/102;;Português;NM
+Switch;95/102;;Português;NM
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;MP
+Switch;95/102;;Português;D
+Switch;95/102;;Português;D
+Double Colorless Energy;96/102;;;
+Fighting Energy;97/102;;;
+Fire Energy;98/102;;;
+Grass Energy;99/102;;;
+Lightning Energy;100/102;;;
+Psychic Energy;101/102;;;
+Water Energy;102/102;;;
