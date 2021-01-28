@@ -29,7 +29,7 @@
 27;kadabra;(32, 102);;português;nm;2;39.9;79.8
 28;kadabra;(32, 102);;português;sp;4;17.74;70.96
 29;kakuna;(33, 102);;português;sp;2;5.28;10.56
-30;machoke;(34, 102);;português;nm;2;11.43;22.86
+30;machoke;(34, 102);;português;nm;2;11.42;22.84
 31;machoke;(34, 102);;português;d;2;0.79;1.58
 32;magikarp;(35, 102);;português;sp;2;18.55;37.1
 33;magikarp;(35, 102);;português;mp;3;7.68;23.04
@@ -43,7 +43,7 @@
 41;seel;(41, 102);;português;nm;1;;
 42;seel;(41, 102);;português;sp;1;4.0;4.0
 43;abra;(43, 102);;português;nm;6;15.9;95.4
-44;abra;(43, 102);;português;sp;3;5.59;16.77
+44;abra;(43, 102);;português;sp;3;5.58;16.74
 45;abra;(43, 102);;português;mp;3;1.48;4.44
 46;abra;(43, 102);;português;hp;1;0.82;0.82
 47;bulbasaur;(44, 102);;português;nm;7;39.98;279.86
@@ -69,15 +69,15 @@
 67;magnemite;(53, 102);;português;nm;1;15.83;15.83
 68;magnemite;(53, 102);;português;sp;1;3.72;3.72
 69;metapod;(54, 102);;português;sp;1;7.61;7.61
-70;nidoran macho;(55, 102);;português;nm;1;8.03;8.03
+70;nidoran macho;(55, 102);;português;nm;1;8.04;8.04
 71;nidoran macho;(55, 102);;português;sp;1;3.03;3.03
 72;nidoran macho;(55, 102);;inglês;mp;1;1.4;1.4
 73;onix;(56, 102);;português;nm;1;15.72;15.72
 74;pidgey;(57, 102);;português;d;1;;
-75;pikachu;(58, 102);;português;nm;3;;
-76;pikachu;(58, 102);;português;sp;1;;
-77;pikachu;(58, 102);;português;mp;1;;
-78;poliwag;(59, 102);;português;nm;4;9.45;37.8
+75;pikachu;(58, 102);;português;nm;3;41.66;124.98
+76;pikachu;(58, 102);;português;sp;1;16.17;16.17
+77;pikachu;(58, 102);;português;mp;1;6.06;6.06
+78;poliwag;(59, 102);;português;nm;4;9.46;37.84
 79;poliwag;(59, 102);;português;sp;2;6.57;13.14
 80;poliwag;(59, 102);;português;mp;3;1.88;5.64
 81;poliwag;(59, 102);;português;d;1;0.53;0.53
@@ -91,21 +91,21 @@
 89;squirtle;(63, 102);;português;nm;1;37.76;37.76
 90;squirtle;(63, 102);;português;sp;1;21.26;21.26
 91;starmie;(64, 102);;português;sp;2;6.21;12.42
-92;starmie;(64, 102);;português;mp;1;2.41;2.41
+92;starmie;(64, 102);;português;mp;1;2.42;2.42
 93;staryu;(65, 102);;português;nm;1;6.52;6.52
 94;staryu;(65, 102);;português;sp;3;1.91;5.73
 95;staryu;(65, 102);;português;mp;3;1.05;3.15
 96;tangela;(66, 102);;português;sp;2;4.79;9.58
 97;voltorb;(67, 102);;português;nm;1;18.9;18.9
-98;vulpix;(68, 102);;português;nm;2;9.27;18.54
+98;vulpix;(68, 102);;português;nm;2;9.28;18.56
 99;vulpix;(68, 102);;português;sp;1;3.72;3.72
-100;vulpix;(68, 102);;português;d;1;0.63;0.63
-101;weedle;(69, 102);;português;sp;1;3.4;3.4
-102;weedle;(69, 102);;português;mp;3;1.31;3.93
+100;vulpix;(68, 102);;português;d;1;0.62;0.62
+101;weedle;(69, 102);;português;sp;1;3.39;3.39
+102;weedle;(69, 102);;português;mp;3;1.32;3.96
 103;computer search;(71, 102);;português;sp;1;36.67;36.67
 104;lass;(75, 102);;português;sp;1;14.43;14.43
 105;lass;(75, 102);;português;d;1;8.5;8.5
-106;scoop up;(78, 102);;português;sp;1;42.75;42.75
+106;scoop up;(78, 102);;português;sp;1;42.74;42.74
 107;defender;(80, 102);;português;sp;1;2.7;2.7
 108;energy retrieval;(81, 102);;português;mp;3;2.5;7.5
 109;maintenance;(83, 102);;português;sp;1;13.95;13.95

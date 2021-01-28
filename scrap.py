@@ -25,68 +25,71 @@ if config.BUSCA_WEBSITE_1:
         if (row['nome'], row['num_colecao']) not in cards_ja_buscados:
             cards_ja_buscados.add((row['nome'], row['num_colecao']))
 
-            #--------------Inicia primeira busca pelo nome----------------------------
-            print('Procurando todos os {} coleção {}'.format(row['nome'], row['num_colecao']))
-            busca_nome(driver=driver, nome=row['nome'], timeout=config.TIMEOUT_BUSCA_PRINCIPAL)
-            # ------------------------------------------------------------------------
-            # -------------Loop para carregar todos na página ("Exibir mais")---------
-            clica_exibir_mais(driver=driver, timeout=config.TIMEOUT_EXIBIR_MAIS)
-            # ------------------------------------------------------------------------
-            #--------------Procura dentre as coleções que apareceram no site----------
-            colecao, codigo_colecao = procura_colecao(driver, row['num_colecao'])
-            # ------------------------------------------------------------------------
-
-            if colecao: #caso tenha encontrado alguma igual ao df
-                seleciona_colecao(colecao=colecao, driver=driver, timeout=config.TIMEOUT_SELECIONA_CARD)
+            n_tentativas_colecao = 0
+            colecao = None
+            while (colecao == None) and (n_tentativas_colecao <= config.N_MAX_TENTATIVAS_COLECAO):
+                #--------------Inicia primeira busca pelo nome----------------------------
+                print('Procurando todos os {} coleção {}'.format(row['nome'], row['num_colecao']))
+                busca_nome(driver=driver, nome=row['nome'], timeout=config.TIMEOUT_BUSCA_PRINCIPAL)
+                # ------------------------------------------------------------------------
+                # -------------Loop para carregar todos na página ("Exibir mais")---------
                 clica_exibir_mais(driver=driver, timeout=config.TIMEOUT_EXIBIR_MAIS)
+                # ------------------------------------------------------------------------
+                #--------------Procura dentre as coleções que apareceram no site----------
+                colecao, codigo_colecao = procura_colecao(driver, row['num_colecao'])
+                # ------------------------------------------------------------------------
+                n_tentativas_colecao = n_tentativas_colecao + 1
+                if colecao: #caso tenha encontrado alguma igual ao df
+                    seleciona_colecao(colecao=colecao, driver=driver, timeout=config.TIMEOUT_SELECIONA_CARD)
+                    clica_exibir_mais(driver=driver, timeout=config.TIMEOUT_EXIBIR_MAIS)
 
-                linhas = driver.find_elements_by_class_name('estoque-linha.ecom-marketplace')
-                for linha in linhas:
-                    qualidade_card = linha.find_element_by_class_name('e-col4').text
-                    lingua_card = retorna_lingua_card(linha=linha)
-                    try:
-                        extras = linha.find_element_by_class_name('e-mob-extranw').get_attribute('innerHTML')
-                    except NoSuchElementException:
-                        extras = ''
+                    linhas = driver.find_elements_by_class_name('estoque-linha.ecom-marketplace')
+                    for linha in linhas:
+                        qualidade_card = linha.find_element_by_class_name('e-col4').text
+                        lingua_card = retorna_lingua_card(linha=linha)
+                        try:
+                            extras = linha.find_element_by_class_name('e-mob-extranw').get_attribute('innerHTML')
+                        except NoSuchElementException:
+                            extras = ''
 
-                    aperta_comprar(linha=linha, espera_botao_comprar=config.ESPERA_BOTAO_COMPRAR)
-                    preco_unitario = retorna_preco_liga(driver, preco_acumulado, timeout=config.TIMEOUT_BOTAO_CARRINHO)
-                    count = 0
-                    while (preco_unitario == 0) and (count < config.N_MAX_TENTATIVAS_PRECO):
-                        print('preco_unitario = {}, tentando coletar preço novamente'.format(preco_unitario))
+                        aperta_comprar(linha=linha, espera_botao_comprar=config.ESPERA_BOTAO_COMPRAR)
                         preco_unitario = retorna_preco_liga(driver, preco_acumulado, timeout=config.TIMEOUT_BOTAO_CARRINHO)
-                        count = count + 1
-                    if preco_unitario == 0:
-                        preco_unitario = np.nan
-                    else:
-                        preco_acumulado = preco_acumulado + preco_unitario
+                        n_tentativas_preco = 0
+                        while (preco_unitario == 0) and (n_tentativas_preco <= config.N_MAX_TENTATIVAS_PRECO):
+                            print('preco_unitario = {}, tentando coletar preço novamente'.format(preco_unitario))
+                            preco_unitario = retorna_preco_liga(driver, preco_acumulado, timeout=config.TIMEOUT_BOTAO_CARRINHO)
+                            n_tentativas_preco = n_tentativas_preco + 1
+                        if preco_unitario == 0:
+                            preco_unitario = np.nan
+                        else:
+                            preco_acumulado = preco_acumulado + preco_unitario
 
-                    card_info = (row['nome'], codigo_colecao, extras, lingua_card, qualidade_card, preco_unitario)
-                    print((card_info[:-1]) + (round(card_info[-1], 2),)) #print na tela arredondando o último valor ("preco_unitario")
-                    result_pokemon_website_1.append(card_info)
-                df_result = pd.DataFrame(result_pokemon_website_1, columns=df.columns.drop('size').append(pd.Index(['preco_unitario'])))
-                salva_dados(df=df_result.assign(preco_unitario=df_result.preco_unitario.round(2)), nome_arquivo=config.CSV_OUTPUT_TODOS)
-                dtypes_dict = {
-                    'extras': str,
-                    'lingua': str,
-                    'condicao': str
-                }
-                #TODO - fazer com que a média use linguas como Portugues / Ingles para portugues por exemplo
-                df_result_media = df_result.groupby(df_result.columns.drop('preco_unitario').to_list(), as_index=False, sort=False).mean()
-                df_result_media = df_result_media.applymap(lambda x: x.lower() if type(x) == str else x).astype(dtypes_dict)
-                df_result_media.preco_unitario = df_result_media.preco_unitario.round(2)
-                df_merge = df.applymap(lambda x: x.lower() if type(x) == str else x).astype(dtypes_dict).merge(df_result_media,
-                                                                                                    how='left',
-                                                                                                    on=['nome',
-                                                                                                        'num_colecao',
-                                                                                                        'extras',
-                                                                                                        'lingua',
-                                                                                                        'condicao'])
-                df_merge['preco_total'] = df_merge['preco_unitario'] * df_merge['size']
-                df_merge.preco_total = df_merge.preco_total.round(2)
-                salva_dados(df=df_merge, nome_arquivo=config.CSV_OUTPUT_MERGE)
-            else:
-                print('Não foi encontrada esta coleção')
+                        card_info = (row['nome'], codigo_colecao, extras, lingua_card, qualidade_card, preco_unitario)
+                        print((card_info[:-1]) + (round(card_info[-1], 2),)) #print na tela arredondando o último valor ("preco_unitario")
+                        result_pokemon_website_1.append(card_info)
+                    df_result = pd.DataFrame(result_pokemon_website_1, columns=df.columns.drop('size').append(pd.Index(['preco_unitario'])))
+                    salva_dados(df=df_result.assign(preco_unitario=df_result.preco_unitario.round(2)), nome_arquivo=config.CSV_OUTPUT_TODOS)
+                    dtypes_dict = {
+                        'extras': str,
+                        'lingua': str,
+                        'condicao': str
+                    }
+                    #TODO - fazer com que a média use linguas como Portugues / Ingles para portugues por exemplo
+                    df_result_media = df_result.groupby(df_result.columns.drop('preco_unitario').to_list(), as_index=False, sort=False).mean()
+                    df_result_media = df_result_media.applymap(lambda x: x.lower() if type(x) == str else x).astype(dtypes_dict)
+                    df_result_media.preco_unitario = df_result_media.preco_unitario.round(2)
+                    df_merge = df.applymap(lambda x: x.lower() if type(x) == str else x).astype(dtypes_dict).merge(df_result_media,
+                                                                                                        how='left',
+                                                                                                        on=['nome',
+                                                                                                            'num_colecao',
+                                                                                                            'extras',
+                                                                                                            'lingua',
+                                                                                                            'condicao'])
+                    df_merge['preco_total'] = df_merge['preco_unitario'] * df_merge['size']
+                    df_merge.preco_total = df_merge.preco_total.round(2)
+                    salva_dados(df=df_merge, nome_arquivo=config.CSV_OUTPUT_MERGE)
+                else:
+                    print('Não foi encontrada esta coleção')
 #-----------------------------------------------------------------------------------------
 
 #-------------------------------Depois busca no Ebay--------------------------------------
