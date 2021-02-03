@@ -4,8 +4,32 @@ from selenium.common.exceptions import NoSuchElementException
 import config
 from utils.dados import carrega_dados, salva_dados, formata_num_colecao
 from utils.scraper import carrega_driver, busca_nome, clica_exibir_mais, procura_colecao, seleciona_colecao, retorna_lingua_card, retorna_preco_liga, carrega_busca_avancada, retorna_preco_ebay, verifica_psa, verifica_nome, aperta_comprar
+from pathlib import Path
 
 df = carrega_dados(config=config)
+df_result_aux = None
+if config.CONTINUAR_DE_ONDE_PAROU:
+    def formata_num_colecao_teste(num_colecao):
+        split = str(num_colecao).split('(')[-1].split(')')[0].split(', ')
+        if len(split) > 1:
+            try:
+                retorno = (int(split[0]), int(split[1]))
+            except ValueError:
+                retorno = (split[0], split[1])
+            return retorno
+        else:
+            return num_colecao
+    dtypes_dict = {
+        'extras': str,
+        'lingua': str,
+        'condicao': str
+    }
+    df_result_aux = pd.read_csv(Path('./data') / config.CSV_OUTPUT_TODOS, sep=';', dtype=dtypes_dict, index_col=0)
+    df_result_aux.num_colecao = df_result_aux.num_colecao.map(formata_num_colecao_teste)
+    df_result_aux = df_result_aux.fillna('')
+    chave = (df_result_aux.nome + df_result_aux.num_colecao.map(lambda x: str(x)))
+    df_result_aux = df_result_aux[chave != chave.iloc[-1]] #remove último card procurado
+
 if config.DEBUG:
     df = pd.DataFrame(data=[['Charizard', ('4/102'), 'foil', 'EN', 'NM']], columns=['nome', 'num_colecao', 'extras', 'lingua', 'condicao']) #testes
     #df = pd.DataFrame(data=[['Mew', ('19/165'), 'foil', 'EN', 'NM']], columns=['nome', 'num_colecao', 'extras', 'lingua', 'condicao']) #testes
@@ -18,6 +42,8 @@ else:
 result_pokemon_website_1 = list()
 preco_acumulado = 0
 cards_ja_buscados = set() #rastreia os cards das coleções já buscadas para não duplicar
+if df_result_aux is not None:
+    cards_ja_buscados = set(df_result_aux[['nome', 'num_colecao']].apply(lambda x: (x.nome, x.num_colecao), axis=1)) #inicializa caso va reutilizar um resultado anterior
 df = df[~df.condicao.isna()].groupby(df.columns.to_list(), dropna=False, as_index=False, sort=False).size()
 df = df.fillna('')
 if config.BUSCA_WEBSITE_1:
@@ -67,7 +93,12 @@ if config.BUSCA_WEBSITE_1:
                         card_info = (row['nome'], codigo_colecao, extras, lingua_card, qualidade_card, preco_unitario)
                         print((card_info[:-1]) + (round(card_info[-1], 2),)) #print na tela arredondando o último valor ("preco_unitario")
                         result_pokemon_website_1.append(card_info)
-                    df_result = pd.DataFrame(result_pokemon_website_1, columns=df.columns.drop('size').append(pd.Index(['preco_unitario'])))
+                    df_result_complemento = pd.DataFrame(result_pokemon_website_1,
+                                             columns=df.columns.drop('size').append(pd.Index(['preco_unitario'])))
+                    if df_result_aux is not None:
+                        df_result = df_result_aux.append(df_result_complemento, ignore_index=True)
+                    else:
+                        df_result = df_result_complemento.copy()
                     salva_dados(df=df_result.assign(preco_unitario=df_result.preco_unitario.round(2)), nome_arquivo=config.CSV_OUTPUT_TODOS)
                     dtypes_dict = {
                         'extras': str,
@@ -75,7 +106,8 @@ if config.BUSCA_WEBSITE_1:
                         'condicao': str
                     }
                     #TODO - fazer com que a média use linguas como Portugues / Ingles para portugues por exemplo
-                    df_result_media = df_result.groupby(df_result.columns.drop('preco_unitario').to_list(), as_index=False, sort=False).mean()
+                    #df_result_media = df_result.groupby(df_result.columns.drop('preco_unitario').to_list(), as_index=False, sort=False).mean()
+                    df_result_media = df_result.groupby(df_result.columns.drop('preco_unitario').to_list(), as_index=False, sort=False).min()
                     df_result_media = df_result_media.applymap(lambda x: x.lower() if type(x) == str else x).astype(dtypes_dict)
                     df_result_media.preco_unitario = df_result_media.preco_unitario.round(2)
                     df_merge = df.applymap(lambda x: x.lower() if type(x) == str else x).astype(dtypes_dict).merge(df_result_media,

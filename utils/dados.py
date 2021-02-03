@@ -18,11 +18,14 @@ def salva_dados(df, nome_arquivo):
 
 def formata_num_colecao(num_colecao):
     split = str(num_colecao).split('/')
-    try:
-        retorno = (int(split[0]), int(split[1]))
-    except ValueError:
-        retorno = (split[0], split[1])
-    return retorno
+    if len(split) > 1:
+        try:
+            retorno = (int(split[0]), int(split[1]))
+        except ValueError:
+            retorno = (split[0], split[1])
+        return retorno
+    else:
+        return num_colecao
 
 def checa_colecao(codigo_colecao, codigo_colecao_df):
     codigo_colecao_aux = codigo_colecao.split('(')[-1].split(')')[0]

@@ -78,6 +78,7 @@ def seleciona_colecao(colecao, driver, timeout=5):
         element_present = EC.presence_of_element_located(
             (By.CLASS_NAME, 'estoque-linha.ecom-marketplace'))
         WebDriverWait(driver, timeout).until(element_present)
+        #TODO - tratar exception
 
 def retorna_lingua_card(linha):
     lingua_card = ''
