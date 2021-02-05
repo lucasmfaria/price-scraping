@@ -43,7 +43,7 @@ def clica_exibir_mais(driver, timeout=5):
     except TimeoutException:
         pass
 
-def procura_colecao(driver, num_colecao_df):
+def procura_colecao(driver, num_colecao_df, config):
     colecoes = driver.find_elements_by_class_name('mtg-single')
     colecao_encontrada = None
     idx_colecao = None
@@ -54,6 +54,20 @@ def procura_colecao(driver, num_colecao_df):
             if checa_colecao(codigo_colecao, num_colecao_df):  # caso tenha encontrado o card em questão
                 idx_colecao = idx
                 break
+
+    if idx_colecao == None: #busca denovo com as correções de identificador de coleção
+        for idx, colecao in enumerate(colecoes):
+            if len(colecao.find_elements_by_class_name('mtg-numeric-code')) > 0:
+                codigo_colecao = colecao.find_elements_by_class_name('mtg-numeric-code')[0].text
+                try:
+                    num_colecao_df_corrigido = (num_colecao_df[0], config.CORRECOES_NUMERO_COLECAO[num_colecao_df[1]])
+                    if checa_colecao(codigo_colecao,
+                                     num_colecao_df_corrigido):  # caso tenha encontrado o card em questão
+                        idx_colecao = idx
+                        break
+                except KeyError:
+                    print('AQUI----------------------------')
+
     if idx_colecao != None:
         colecao_encontrada = colecoes[idx_colecao]
         codigo_colecao_encontrada = num_colecao_df
@@ -75,10 +89,13 @@ def seleciona_colecao(colecao, driver, timeout=5):
     except TimeoutException:
         pass
     except StaleElementReferenceException:
-        element_present = EC.presence_of_element_located(
-            (By.CLASS_NAME, 'estoque-linha.ecom-marketplace'))
-        WebDriverWait(driver, timeout).until(element_present)
-        #TODO - tratar exception
+        try:
+            element_present = EC.presence_of_element_located(
+                (By.CLASS_NAME, 'estoque-linha.ecom-marketplace'))
+            WebDriverWait(driver, timeout).until(element_present)
+        except TimeoutException:
+            pass
+            #TODO - tratar exception
 
 def retorna_lingua_card(linha):
     lingua_card = ''

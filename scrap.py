@@ -26,7 +26,7 @@ if config.CONTINUAR_DE_ONDE_PAROU:
     }
     df_result_aux = pd.read_csv(Path('./data') / config.CSV_OUTPUT_TODOS, sep=';', dtype=dtypes_dict, index_col=0)
     df_result_aux.num_colecao = df_result_aux.num_colecao.map(formata_num_colecao_teste)
-    df_result_aux = df_result_aux.fillna('')
+    df_result_aux = df_result_aux.fillna({'extras':'', 'lingua':''})
     chave = (df_result_aux.nome + df_result_aux.num_colecao.map(lambda x: str(x)))
     df_result_aux = df_result_aux[chave != chave.iloc[-1]] #remove último card procurado
 
@@ -62,7 +62,7 @@ if config.BUSCA_WEBSITE_1:
                 clica_exibir_mais(driver=driver, timeout=config.TIMEOUT_EXIBIR_MAIS)
                 # ------------------------------------------------------------------------
                 #--------------Procura dentre as coleções que apareceram no site----------
-                colecao, codigo_colecao = procura_colecao(driver, row['num_colecao'])
+                colecao, codigo_colecao = procura_colecao(driver, row['num_colecao'], config)
                 # ------------------------------------------------------------------------
                 n_tentativas_colecao = n_tentativas_colecao + 1
                 if colecao: #caso tenha encontrado alguma igual ao df
@@ -99,6 +99,15 @@ if config.BUSCA_WEBSITE_1:
                         df_result = df_result_aux.append(df_result_complemento, ignore_index=True)
                     else:
                         df_result = df_result_complemento.copy()
+                    #trata lingua multipla, com condicao por exemplo "Português / Inglês"
+                    aux_lingua = df_result[df_result.lingua.map(lambda x: '/' in x)].lingua.map(lambda x: x.split('/'))
+                    idx_copias = aux_lingua.index
+                    df_result.loc[idx_copias, ('lingua')] = aux_lingua.map(lambda x: x[0].strip()) #altera para a primeira lingua
+                    aux_df = df_result.loc[idx_copias].copy()
+                    aux_df.loc[idx_copias, ('lingua')] = aux_lingua.map(lambda x: x[1].strip()) #altera para a segunda lingua
+                    df_result = df_result.append(aux_df, ignore_index=True) #adiciona as linhas da segunda lingua
+                    df_result = df_result.sort_values(['num_colecao', 'preco_unitario']).reset_index(drop=True)
+
                     salva_dados(df=df_result.assign(preco_unitario=df_result.preco_unitario.round(2)), nome_arquivo=config.CSV_OUTPUT_TODOS)
                     dtypes_dict = {
                         'extras': str,

@@ -6,7 +6,33 @@ WEBSITE_1 = 'https://www.ligapokemon.com.br/'
 CSV_INPUT = 'cartas_pokemon.csv'
 CSV_OUTPUT_TODOS = 'preco_todos_ligapokemon.csv'
 CSV_OUTPUT_MERGE = 'preco_input_ligapokemon.csv'
-CONTINUAR_DE_ONDE_PAROU = True
+CONTINUAR_DE_ONDE_PAROU = False
+
+'''
+Team Aqua vs Team Magma /95 -> /97
+Aquapolis -> H32 -> /147
+Ex Dragon /97 -> /100
+Arceus /99 -> /111
+Delta Species /113 -> /114
+Platinum /127 -> /133
+Hidden Legends /101 -> /102
+Rising Rivals /111 -> /120
+Supreme Victors /147 -> 153
+
+Rocket returns /109 -> /111
+'''
+CORRECOES_NUMERO_COLECAO = {
+    95:97,
+    'H32':147,
+    97:100,
+    99:111,
+    113:114,
+    127:133,
+    101:102,
+    111:120,
+    147:153,
+    109:111,
+}
 
 WEBSITE_2 = 'https://www.ebay.com/'
 CSV_OUTPUT_EBAY = 'preco_todos_ebay.csv'
