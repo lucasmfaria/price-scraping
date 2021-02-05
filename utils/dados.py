@@ -54,3 +54,50 @@ def checa_colecao(codigo_colecao, codigo_colecao_df):
 
 def extrai_preco_string(string):
     return float(string.split(' ')[-1].replace('.', '').replace(',', '.'))
+
+def constroi_resultados(precos_list, df_precos_parcial, df_cards, config):
+    df_precos_complemento = pd.DataFrame(precos_list,
+                                         columns=df_cards.columns.drop('size').append(
+                                             pd.Index(['preco_unitario'])))
+    if df_precos_parcial is not None:
+        df_precos = df_precos_parcial.append(df_precos_complemento, ignore_index=True)
+    else:
+        df_precos = df_precos_complemento.copy()
+    # trata lingua multipla, com condicao por exemplo "Português / Inglês"
+    aux_lingua = df_precos[df_precos.lingua.map(lambda x: '/' in x)].lingua.map(lambda x: x.split('/'))
+    idx_copias = aux_lingua.index
+    df_precos.loc[idx_copias, ('lingua')] = aux_lingua.map(
+        lambda x: x[0].strip())  # altera para a primeira lingua
+    aux_df = df_precos.loc[idx_copias].copy()
+    aux_df.loc[idx_copias, ('lingua')] = aux_lingua.map(
+        lambda x: x[1].strip())  # altera para a segunda lingua
+    df_precos = df_precos.append(aux_df, ignore_index=True)  # adiciona as linhas da segunda lingua
+    df_precos = df_precos.sort_values(['num_colecao', 'preco_unitario']).reset_index(drop=True)
+
+    salva_dados(df=df_precos.assign(preco_unitario=df_precos.preco_unitario.round(2)),
+                nome_arquivo=config.CSV_OUTPUT_TODOS)
+    dtypes_dict = {
+        'extras': str,
+        'lingua': str,
+        'condicao': str
+    }
+    if config.ESTATISTICA == 'media':
+        df_precos_estatistica = df_precos.groupby(df_precos.columns.drop('preco_unitario').to_list(), as_index=False,
+                                                  sort=False).mean()
+    elif config.ESTATISTICA == 'minimo':
+        df_precos_estatistica = df_precos.groupby(df_precos.columns.drop('preco_unitario').to_list(), as_index=False,
+                                                  sort=False).min()
+    df_precos_estatistica = df_precos_estatistica.applymap(lambda x: x.lower() if type(x) == str else x).astype(
+        dtypes_dict)
+    df_precos_estatistica.preco_unitario = df_precos_estatistica.preco_unitario.round(2)
+    df_merge = df_cards.applymap(lambda x: x.lower() if type(x) == str else x).astype(dtypes_dict).merge(
+        df_precos_estatistica,
+        how='left',
+        on=['nome',
+            'num_colecao',
+            'extras',
+            'lingua',
+            'condicao'])
+    df_merge['preco_total'] = df_merge['preco_unitario'] * df_merge['size']
+    df_merge.preco_total = df_merge.preco_total.round(2)
+    salva_dados(df=df_merge, nome_arquivo=config.CSV_OUTPUT_MERGE)
