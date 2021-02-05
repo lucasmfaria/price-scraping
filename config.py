@@ -7,8 +7,27 @@ CSV_INPUT = 'cartas_pokemon.csv'
 CSV_OUTPUT_TODOS = 'preco_todos_ligapokemon.csv'
 CSV_OUTPUT_MERGE = 'preco_input_ligapokemon.csv'
 CONTINUAR_DE_ONDE_PAROU = False
+TIMEOUT_BUSCA_PRINCIPAL = 10
+TIMEOUT_EXIBIR_MAIS = 8
+TIMEOUT_SELECIONA_CARD = 8
+TIMEOUT_BOTAO_CARRINHO = 4
+ESPERA_BOTAO_COMPRAR = 1
+N_MAX_TENTATIVAS_PRECO = 16
+N_MAX_TENTATIVAS_COLECAO = 3
+DEBUG = False
+#ESTATISTICA = 'media'
+ESTATISTICA = 'minimo'
 
-'''
+DTYPES_DICT = {
+        'nome': str,
+        'num_colecao': str,
+        'extras': str,
+        'lingua': str,
+        'condicao': str,
+        'preco_unitario': float,
+    }
+
+''' Lista de correções do número de cada coleção
 Team Aqua vs Team Magma /95 -> /97
 Aquapolis -> H32 -> /147
 Ex Dragon /97 -> /100
@@ -36,18 +55,6 @@ CORRECOES_NUMERO_COLECAO = {
 
 WEBSITE_2 = 'https://www.ebay.com/'
 CSV_OUTPUT_EBAY = 'preco_todos_ebay.csv'
-
-LINGUAS_POSSIVEIS = ['Inglês', 'Português', 'Português / Inglês', 'Japonês', 'Espanhol']
-
-TIMEOUT_BUSCA_PRINCIPAL = 10
-TIMEOUT_EXIBIR_MAIS = 8
-TIMEOUT_SELECIONA_CARD = 8
-TIMEOUT_BOTAO_CARRINHO = 4
-ESPERA_BOTAO_COMPRAR = 1
-N_MAX_TENTATIVAS_PRECO = 16
-N_MAX_TENTATIVAS_COLECAO = 3
-
-DEBUG = False
 
 DICT_LINGUA = {
         'português': 'portuguese',
