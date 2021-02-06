@@ -13,5 +13,9 @@ Funcionalidades:
 - Correção do número da coleção conforme utilizado no site da Liga Pokémon (via config.py), caso contrário não encontraria coleções com números alterados
 
 TODO:
-- JOIN entre base input e output dos preços - melhorar
+- Contabilizar não apenas os preços, mas as unidades disponiveis também, e com isso considerar a média dos menores preços que cobrem a quantidade desejada
 - Busca no Ebay
+
+Obs:
+- Qualquer mudança no layout do site da Liga Pokémon pode ocasionar erro neste utilitário.
+- Não me responsabilizarei por possíveis preços errados retornados pelo utilitário. O intuito é ajudar a extrair apenas, portanto antes de fazer qualquer negócio é necessária a supervisão dos preços por parte do usuário.

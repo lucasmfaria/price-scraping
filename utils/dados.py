@@ -42,7 +42,7 @@ def checa_colecao(codigo_colecao, codigo_colecao_df):
 def extrai_preco_string(string):
     return float(string.split(' ')[-1].replace('.', '').replace(',', '.'))
 
-def constroi_resultados(precos_list, df_precos_parcial, df_cards, config, path):
+def constroi_resultados(precos_list, df_precos_parcial, df_cards, estatistica, path):
     df_precos_complemento = pd.DataFrame(precos_list,
                                          columns=df_cards.columns.drop('size').append(
                                              pd.Index(['preco_unitario'])))
@@ -67,10 +67,10 @@ def constroi_resultados(precos_list, df_precos_parcial, df_cards, config, path):
         'lingua': str,
         'condicao': str
     }
-    if config.ESTATISTICA == 'media':
+    if estatistica == 'media':
         df_precos_estatistica = df_precos.groupby(df_precos.columns.drop('preco_unitario').to_list(), as_index=False,
                                                   sort=False).mean()
-    elif config.ESTATISTICA == 'minimo':
+    elif estatistica == 'minimo':
         df_precos_estatistica = df_precos.groupby(df_precos.columns.drop('preco_unitario').to_list(), as_index=False,
                                                   sort=False).min()
     df_precos_estatistica = df_precos_estatistica.applymap(lambda x: x.lower() if type(x) == str else x).astype(

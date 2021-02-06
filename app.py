@@ -23,6 +23,9 @@ class App:
 
         botao_column = [
             [
+                sg.Combo(['Preços Mínimos', 'Preços Médios'], key='-COMBO-')
+            ],
+            [
                 sg.Button("BUSCA", key='-BUSCA-')
             ]
         ]
@@ -77,8 +80,12 @@ class App:
                 else:
                     self.window["-PRECOS LIST-"].update(self.df_precos_parcial.to_numpy().tolist())
 
-            elif event == "-BUSCA-":
+            elif (event == "-BUSCA-") and (values['-COMBO-'] != ''):
                 try:
+                    if values['-COMBO-'] == 'Preços Mínimos':
+                        estatistica = 'minimo'
+                    elif values['-COMBO-'] == 'Preços Médios':
+                        estatistica = 'media'
                     precos_website_1 = list()
                     preco_acumulado = 0
                     cards_ja_buscados = set()  # rastreia os cards das coleções já buscadas para não duplicar
@@ -126,7 +133,7 @@ class App:
                                         round(card_info[-1],
                                               2),))  # print na tela arredondando o último valor ("preco_unitario")
                                     precos_website_1.append(card_info)
-                                constroi_resultados(precos_website_1, self.df_precos_parcial, df_cards, config,
+                                constroi_resultados(precos_website_1, self.df_precos_parcial, df_cards, estatistica,
                                                     Path(csv_input_path))
                             else:
                                 print('Não foi encontrada esta coleção')
