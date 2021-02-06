@@ -8,8 +8,9 @@ Testado apenas com Python 3.7.9. Versões das bibliotecas no "requirements.txt".
 
 Funcionalidades:
 - Busca na Liga Pokémon (https://www.ligapokemon.com.br/)
-- Opção de continuar de onde parou em uma rodada anterior (via config.py)
-- Correção do número da coleção conforme utilizado no site da Liga Pokémon, caso contrário não encontraria coleções com números alterados
+- Interface gráfica
+- Opção de continuar de onde parou em uma rodada anterior
+- Correção do número da coleção conforme utilizado no site da Liga Pokémon (via config.py), caso contrário não encontraria coleções com números alterados
 
 TODO:
 - JOIN entre base input e output dos preços - melhorar

@@ -3,10 +3,6 @@ import numpy as np
 BUSCA_WEBSITE_1 = True
 BUSCA_WEBSITE_2 = False
 WEBSITE_1 = 'https://www.ligapokemon.com.br/'
-CSV_INPUT = 'cartas_pokemon.csv'
-CSV_OUTPUT_TODOS = 'preco_todos_ligapokemon.csv'
-CSV_OUTPUT_MERGE = 'preco_input_ligapokemon.csv'
-CONTINUAR_DE_ONDE_PAROU = False
 TIMEOUT_BUSCA_PRINCIPAL = 10
 TIMEOUT_EXIBIR_MAIS = 8
 TIMEOUT_SELECIONA_CARD = 8

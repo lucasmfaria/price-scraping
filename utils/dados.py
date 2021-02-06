@@ -1,34 +1,4 @@
 import pandas as pd
-from pathlib import Path
-
-def carrega_lista_cards(config):
-    if config.DEBUG == False:
-        df = pd.read_csv(Path('./data') / config.CSV_INPUT, sep=';', dtype=config.DTYPES_DICT)
-    elif config.DEBUG == True: #testes
-        df = pd.DataFrame(data=[['Charizard', ('4/102'), 'foil', 'EN', 'NM']],
-                          columns=['nome', 'num_colecao', 'extras', 'lingua', 'condicao'])
-        #df = pd.DataFrame(data=[['Mew', ('19/165'), 'foil', 'EN', 'NM']], columns=['nome', 'num_colecao', 'extras', 'lingua', 'condicao'])
-    df = df.applymap(lambda x: x.strip() if type(x) == str else x)
-    df.num_colecao = df.num_colecao.map(formata_num_colecao)
-    #df = df.where(pd.notnull(df), None) #substitui NaN por None
-    df = df[~df.condicao.isna()].groupby(df.columns.to_list(), dropna=False, as_index=False, sort=False).size()
-    df = df.fillna('')
-    return df
-
-def carrega_lista_precos(config):
-    if config.CONTINUAR_DE_ONDE_PAROU:
-        df = pd.read_csv(Path('./data') / config.CSV_OUTPUT_TODOS, sep=';', dtype=config.DTYPES_DICT, index_col=0)
-        df.num_colecao = df.num_colecao.map(lambda x: formata_num_colecao(x, com_parenteses=True))
-        df = df.fillna({'extras': '', 'lingua': ''})
-        chave = (df.nome + df.num_colecao.map(lambda x: str(x)))
-        df = df[chave != chave.iloc[-1]]  # remove último card procurado (pois pode ter parado no meio da busca e não ter completado aquele card
-    else:
-        df = None
-    return df
-
-def salva_dados(df, nome_arquivo):
-    df.to_csv(Path('./data') / nome_arquivo, sep=';')
-    return df
 
 def formata_num_colecao(num_colecao, com_parenteses=False):
     if com_parenteses == False:
@@ -44,6 +14,23 @@ def formata_num_colecao(num_colecao, com_parenteses=False):
     else: #trata casos sem "/" no meio, exemplo "SH10"
         return num_colecao
 
+def carrega_lista_cards(path, config):
+    df = pd.read_csv(path, sep=';', dtype=config.DTYPES_DICT)
+    df = df.applymap(lambda x: x.strip() if type(x) == str else x)
+    df.num_colecao = df.num_colecao.map(formata_num_colecao)
+    #df = df.where(pd.notnull(df), None) #substitui NaN por None
+    df = df[~df.condicao.isna()].groupby(df.columns.to_list(), dropna=False, as_index=False, sort=False).size()
+    df = df.fillna('')
+    return df
+
+def carrega_lista_precos(path, config):
+    df = pd.read_csv(path, sep=';', dtype=config.DTYPES_DICT, index_col=0)
+    df.num_colecao = df.num_colecao.map(lambda x: formata_num_colecao(x, com_parenteses=True))
+    df = df.fillna({'extras': '', 'lingua': ''})
+    chave = (df.nome + df.num_colecao.map(lambda x: str(x)))
+    df = df[chave != chave.iloc[-1]]  # remove último card procurado (pois pode ter parado no meio da busca e não ter completado aquele card
+    return df
+
 def checa_colecao(codigo_colecao, codigo_colecao_df):
     codigo_colecao_aux = codigo_colecao.split('(')[-1].split(')')[0]
     codigo_colecao_aux = formata_num_colecao(codigo_colecao_aux) #formata para transformar em numeros (caso compare em string pode ocorrer zero a esquerda)
@@ -55,7 +42,7 @@ def checa_colecao(codigo_colecao, codigo_colecao_df):
 def extrai_preco_string(string):
     return float(string.split(' ')[-1].replace('.', '').replace(',', '.'))
 
-def constroi_resultados(precos_list, df_precos_parcial, df_cards, config):
+def constroi_resultados(precos_list, df_precos_parcial, df_cards, config, path):
     df_precos_complemento = pd.DataFrame(precos_list,
                                          columns=df_cards.columns.drop('size').append(
                                              pd.Index(['preco_unitario'])))
@@ -74,8 +61,7 @@ def constroi_resultados(precos_list, df_precos_parcial, df_cards, config):
     df_precos = df_precos.append(aux_df, ignore_index=True)  # adiciona as linhas da segunda lingua
     df_precos = df_precos.sort_values(['num_colecao', 'preco_unitario']).reset_index(drop=True)
 
-    salva_dados(df=df_precos.assign(preco_unitario=df_precos.preco_unitario.round(2)),
-                nome_arquivo=config.CSV_OUTPUT_TODOS)
+    df_precos.assign(preco_unitario=df_precos.preco_unitario.round(2)).to_csv(path.parent / (path.stem + '_preco_todos.csv'), sep=';')
     dtypes_dict = {
         'extras': str,
         'lingua': str,
@@ -100,4 +86,4 @@ def constroi_resultados(precos_list, df_precos_parcial, df_cards, config):
             'condicao'])
     df_merge['preco_total'] = df_merge['preco_unitario'] * df_merge['size']
     df_merge.preco_total = df_merge.preco_total.round(2)
-    salva_dados(df=df_merge, nome_arquivo=config.CSV_OUTPUT_MERGE)
+    df_merge.to_csv(path.parent / (path.stem + '_preco_input.csv'), sep=';')
