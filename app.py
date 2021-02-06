@@ -48,11 +48,15 @@ class App:
             [
                 sg.Column(cards_input_column),
                 sg.Column(botao_column),
-                sg.Column(precos_input_column),
+                sg.Column(precos_input_column)
+            ],
+            [
+                sg.ProgressBar(1, orientation='h', size=(100, 20), key='-PROGRESS-')
             ]
         ]
 
         self.window = sg.Window("Card Scraper", layout)
+        self.progress_bar = self.window.FindElement('-PROGRESS-')
         self.df_precos_parcial = None
 
     def run(self):
@@ -68,8 +72,8 @@ class App:
                     df_cards = carrega_lista_cards(Path(csv_input_path), config)
                 except:
                     print("Não foi possível ler o arquivo .csv")
-
-                self.window["-CARDS LIST-"].update(df_cards.to_numpy().tolist())
+                else:
+                    self.window["-CARDS LIST-"].update(df_cards.to_numpy().tolist())
 
             if event == "-PRECOS FILENAME-":
                 precos_input_path = values["-PRECOS FILENAME-"]
@@ -105,6 +109,7 @@ class App:
                                                  n_max_tentativas_colecao=config.N_MAX_TENTATIVAS_COLECAO,
                                                  debug=config.DEBUG)
                     for idx, row in df_cards.iterrows():  # busca cada 'nome' em df_cards
+                        self.progress_bar.UpdateBar(len(cards_ja_buscados), df_cards.shape[0])
                         if (row['nome'], row['num_colecao']) not in cards_ja_buscados:
                             cards_ja_buscados.add((row['nome'], row['num_colecao']))
 
