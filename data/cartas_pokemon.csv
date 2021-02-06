@@ -1,89 +1,5124 @@
 nome;num_colecao;extras;lingua;condicao
-Machamp;15/110;Reverse Foil;Inglês;D
-Hitmontop;3/75;Foil;Inglês;D
-Unown A;14/75;Foil;Inglês;MP
-Typhlosion;65/165;;Inglês;NM
-Ninetales;21/165;Foil;Inglês;NM
-Combusken;25/106;Reverse Foil;Português;NM
-Magby;17/165;Foil;Inglês;NM
-Camerupt;4/109;Foil;Inglês;NM
-Camerupt;4/107;Foil;Português;NM
-Camerupt;23/106;;Inglês;NM
-Blaziken;15/109;;Inglês;NM
-Blaziken;15/109;;Inglês;NM
-Venomoth;29/64;;Português;MP
-Arbok;35/165;;Inglês;NM
-Roselia;9/97;Foil;Inglês;NM
-Heracross;07/101;Foil;Inglês;NM
-Dark Crobat;2/105;Foil;Inglês;NM
-Butterfree;19/75;;Inglês;SP
-Butterfree;33/64;;Inglês;MP
-Koga's Beedrill;9/132;Foil;Inglês;HP
-Deoxys;17/107;;Português;SP
-Deoxys;16/107;;Português;NM
-Dark Espeon;4/105;Foil;Inglês;NM
-Mew;19/165;Foil;Inglês;NM
-Mew;55/165;;Inglês;NM
-Alakazam;1/165;Foil;Inglês;NM
-Alakazam;33/165;;Inglês;NM
-Alakazam;33/165;;Inglês;NM
-Vaporeon;12/64;Foil;Português;D
-Vaporeon;12/64;Foil;Português;SP
-Vaporeon;12/64;Foil;Português;SP
-Mr. Mime;6/64;Foil;Inglês;HP
-Sabrina's Alakazam;16/132;Foil;Inglês;D
-Delibird;21/109;;Inglês;NM
-Wailord;14/109;Foil;Inglês;NM
-Dark Gyarados;25/82;;Inglês;MP
-Tentacruel;H26/H32;;Inglês;NM
-Suicune;27/64;;Inglês;SP
-Quagsire;26/109;;Português;NM
-Qwilfish;27/109;;Português;NM
-Milotic EX;96/106;Foil;Português;NM
-Lt. Surge's Magneton;8/132;Foil;Inglês;NM
-Jolteon;4/64;Foil;Inglês;SP
-Manectric;9/109;Foil;Inglês;SP
-Manectric;16/106;;Português;NM
-Eevee;38/75;;Inglês;MP
-Flygon;15/97;;Inglês;NM
-Flygon;15/97;;Inglês;NM
-Kangaskhan;5/64;Foil;Português;NM
+Alakazam;1/102;Foil;;
+Blastoise;2/102;Foil;;
+Chansey;3/102;Foil;;
+Charizard;4/102;Foil;;
+Clefairy;5/102;Foil;;
+Gyarados;6/102;Foil;Português;SP
+Hitmonchan;7/102;Foil;;
+Machamp;8/102;Foil, Edition One;Português;SP
+Magneton;9/102;Foil;;
+Mewtwo;10/102;Foil;Português;SP
+Nidoking;11/102;Foil;;
+Ninetales;12/102;Foil;;
+Poliwrath;13/102;Foil;;
+Raichu;14/102;Foil;;
+Venusaur;15/102;Foil;;
+Zapdos;16/102;Foil;;
+Beedrill;17/102;;Português;SP
+Beedrill;17/102;;Português;HP
+Dragonair;18/102;;Português;MP
+Dugtrio;19/102;;;
+Electabuzz;20/102;;Inglês;MP
+Electrode;21/102;;;
+Pidgeotto;22/102;;Português;MP
+Arcanine;23/102;;Português;MP
+Arcanine;23/102;;Português;D
+Charmeleon;24/102;;Português;SP
+Charmeleon;24/102;;Português;SP
+Charmeleon;24/102;;Português;SP
+Charmeleon;24/102;;Português;HP
+Charmeleon;24/102;;Português;D
+Charmeleon;24/102;;Português;D
+Charmeleon;24/102;;Inglês;SP
+Dewgong;25/102;;;
+Dratini;26/102;;Português;SP
+Dratini;26/102;;Português;MP
+Dratini;26/102;;Português;HP
+Dratini;26/102;;Português;HP
+Farfetch'd;27/102;;;
+Growlithe;28/102;;Português;SP
+Growlithe;28/102;;Português;SP
+Growlithe;28/102;;Português;MP
+Growlithe;28/102;;Português;HP
+Haunter;29/102;;Português;SP
+Haunter;29/102;;Português;SP
+Ivysaur;30/102;;Português;SP
+Ivysaur;30/102;;Português;SP
+Ivysaur;30/102;;Português;MP
+Ivysaur;30/102;;Inglês;HP
+Jynx;31/102;;Português;NM
+Jynx;31/102;;Português;SP
+Jynx;31/102;;Português;SP
+Jynx;31/102;;Português;SP
+Jynx;31/102;;Português;MP
+Kadabra;32/102;;Português;NM
+Kadabra;32/102;;Português;NM
+Kadabra;32/102;;Português;SP
+Kadabra;32/102;;Português;SP
+Kadabra;32/102;;Português;SP
+Kadabra;32/102;;Português;SP
+Kakuna;33/102;;Português;SP
+Kakuna;33/102;;Português;SP
+Machoke;34/102;;Português;NM
+Machoke;34/102;;Português;NM
+Machoke;34/102;;Português;D
+Machoke;34/102;;Português;D
+Magikarp;35/102;;Português;SP
+Magikarp;35/102;;Português;SP
+Magikarp;35/102;;Português;MP
+Magikarp;35/102;;Português;MP
+Magikarp;35/102;;Português;MP
+Magikarp;35/102;;Português;D
+Magmar;36/102;;Português;SP
+Magmar;36/102;;Português;SP
+Magmar;36/102;;Português;HP
+Nidorino;37/102;;Português;HP
+Poliwhirl;38/102;;Português;NM
+Poliwhirl;38/102;;Português;NM
+Poliwhirl;38/102;;Português;NM
+Poliwhirl;38/102;;Português;SP
+Poliwhirl;38/102;;Português;D
+Porygon;39/102;;;
+Raticate;40/102;;;
+Seel;41/102;;Português;NM
+Seel;41/102;;Português;SP
+Wartortle;42/102;;;
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;NM
+Abra;43/102;;Português;SP
+Abra;43/102;;Português;SP
+Abra;43/102;;Português;SP
+Abra;43/102;;Português;MP
+Abra;43/102;;Português;MP
+Abra;43/102;;Português;MP
+Abra;43/102;;Português;HP
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;NM
+Bulbasaur;44/102;;Português;SP
+Caterpie;45/102;;Português;NM
+Charmander;46/102;;Português;NM
+Charmander;46/102;;Português;NM
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;SP
+Charmander;46/102;;Português;MP
+Charmander;46/102;;Português;MP
+Charmander;46/102;;Português;MP
+Charmander;46/102;;Português;MP
+Charmander;46/102;;Português;HP
+Charmander;46/102;;Português;D
+Diglett;47/102;;Português;SP
+Diglett;47/102;;Português;SP
+Diglett;47/102;;Português;MP
+Diglett;47/102;;Português;HP
+Diglett;47/102;;Português;HP
+Diglett;47/102;;Português;HP
+Doduo;48/102;;;
+Drowzee;49/102;;Português;MP
+Drowzee;49/102;;Português;MP
+Gastly;50/102;;Português;NM
+Gastly;50/102;;Português;SP
+Gastly;50/102;;Português;SP
+Gastly;50/102;;Português;SP
+Koffing;51/102;;Português;NM
+Koffing;51/102;;Português;NM
+Koffing;51/102;;Português;NM
+Koffing;51/102;;Português;NM
+Koffing;51/102;;Português;SP
+Koffing;51/102;;Português;MP
+Koffing;51/102;;Português;MP
+Koffing;51/102;;Português;SP
+Machop;52/102;;Português;NM
+Machop;52/102;;Português;NM
+Machop;52/102;;Português;NM
+Machop;52/102;;Português;SP
+Machop;52/102;;Português;SP
+Machop;52/102;;Português;SP
+Machop;52/102;;Português;SP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;MP
+Machop;52/102;;Português;HP
+Magnemite;53/102;;Português;NM
+Magnemite;53/102;;Português;SP
+Metapod;54/102;;Português;SP
+Nidoran Macho;55/102;;Português;NM
+Nidoran Macho;55/102;;Português;SP
+Nidoran Macho;55/102;;Inglês;MP
+Onix;56/102;;Português;NM
+Onix;56/102;;Português;SP
+Pidgey;57/102;;Português;D
+Pikachu;58/102;;Português;NM
+Pikachu;58/102;;Português;NM
+Pikachu;58/102;;Português;NM
+Pikachu;58/102;;Português;SP
+Pikachu;58/102;;Português;MP
+Poliwag;59/102;;Português;NM
+Poliwag;59/102;;Português;NM
+Poliwag;59/102;;Português;NM
+Poliwag;59/102;;Português;NM
+Poliwag;59/102;;Português;SP
+Poliwag;59/102;;Português;SP
+Poliwag;59/102;;Português;MP
+Poliwag;59/102;;Português;MP
+Poliwag;59/102;;Português;MP
+Poliwag;59/102;;Português;D
+Ponyta;60/102;;Português;NM
+Ponyta;60/102;;Português;NM
+Ponyta;60/102;;Português;NM
+Ponyta;60/102;;Português;SP
+Ponyta;60/102;;Português;HP
+Ponyta;60/102;;Português;HP
+Ponyta;60/102;;Português;HP
+Ponyta;60/102;;Português;HP
+Ponyta;60/102;;Português;HP
+Rattata;61/102;;Português;NM
+Rattata;61/102;;Português;NM
+Rattata;61/102;;Português;SP
+Rattata;61/102;;Português;MP
+Sandshrew;62/102;;Português;SP
+Squirtle;63/102;;Português;NM
+Squirtle;63/102;;Português;SP
+Starmie;64/102;;Português;SP
+Starmie;64/102;;Português;SP
+Starmie;64/102;;Português;MP
+Staryu;65/102;;Português;NM
+Staryu;65/102;;Português;SP
+Staryu;65/102;;Português;SP
+Staryu;65/102;;Português;SP
+Staryu;65/102;;Português;MP
+Staryu;65/102;;Português;MP
+Staryu;65/102;;Português;MP
+Tangela;66/102;;Português;SP
+Tangela;66/102;;Português;SP
+Voltorb;67/102;;Português;NM
+Vulpix;68/102;;Português;NM
+Vulpix;68/102;;Português;NM
+Vulpix;68/102;;Português;SP
+Vulpix;68/102;;Português;D
+Vulpix;68/102;;Inglês;MP
+Weedle;69/102;;Português;SP
+Weedle;69/102;;Português;MP
+Weedle;69/102;;Português;MP
+Weedle;69/102;;Português;MP
+Clefairy Doll;70/102;;;
+Computer Search;71/102;;Português;SP
+Devolution Spray;72/102;;;
+Imposter Professor Oak;73/102;;;
+Item Finder;74/102;;;
+Lass;75/102;;Português;SP
+Lass;75/102;;Português;D
+Pokémon Breeder;76/102;;;
+Pokémon Trader;77/102;;;
+Scoop Up;78/102;;Português;SP
+Super Energy Removal;79/102;;;
+Defender;80/102;;Português;SP
+Energy Retrieval;81/102;;Português;MP
+Energy Retrieval;81/102;;Português;MP
+Energy Retrieval;81/102;;Português;MP
+Full Heal;82/102;;;
+Maintenance;83/102;;Português;SP
+PlusPower;84/102;;Português;MP
+Pokémon Center;85/102;;Português;NM
+Pokémon Center;85/102;;Português;NM
+Pokémon Center;85/102;;Português;MP
+Pokémon Flute;86/102;;;
+Pokédex;87/102;;Português;NM
+Pokédex;87/102;;Português;SP
+Pokédex;87/102;;Português;SP
+Pokédex;87/102;;Português;MP
+Pokédex;87/102;;Português;HP
+Professor Oak;88/102;;Português;NM
+Professor Oak;88/102;;Português;NM
+Professor Oak;88/102;;Português;NM
+Professor Oak;88/102;;Português;SP
+Professor Oak;88/102;;Português;MP
+Professor Oak;88/102;;Português;HP
+Revive;89/102;;;
+Super Potion;90/102;;Português;NM
+Super Potion;90/102;;Português;NM
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;SP
+Super Potion;90/102;;Português;MP
+Super Potion;90/102;;Português;MP
+Super Potion;90/102;;Português;MP
+Super Potion;90/102;;Português;D
+Super Potion;90/102;;Português;D
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;SP
+Bill;91/102;;Português;MP
+Bill;91/102;;Português;MP
+Bill;91/102;;Português;MP
+Bill;91/102;;Português;MP
+Bill;91/102;;Português;HP
+Bill;91/102;;Português;D
+Energy Removal;92/102;;Português;D
+Gust of Wind;93/102;;Português;NM
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;SP
+Gust of Wind;93/102;;Português;MP
+Gust of Wind;93/102;;Português;MP
+Gust of Wind;93/102;;Português;MP
+Gust of Wind;93/102;;Português;MP
+Gust of Wind;93/102;;Português;D
+Gust of Wind;93/102;;Português;D
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;NM
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;SP
+Potion;94/102;;Português;MP
+Potion;94/102;;Português;MP
+Potion;94/102;;Português;MP
+Potion;94/102;;Português;D
+Potion;94/102;;Português;D
+Potion;94/102;;Português;D
+Switch;95/102;;Português;NM
+Switch;95/102;;Português;NM
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;SP
+Switch;95/102;;Português;MP
+Switch;95/102;;Português;D
+Switch;95/102;;Português;D
+Double Colorless Energy;96/102;;;
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;MP
+Fighting Energy;97/102;;Português;HP
+Fighting Energy;97/102;;Português;HP
+Fighting Energy;97/102;;Português;HP
+Fighting Energy;97/102;;Português;HP
+Fighting Energy;97/102;;Português;HP
+Fighting Energy;97/102;;Português;HP
+Fighting Energy;97/102;;Português;HP
+Fighting Energy;97/102;;Português;HP
+Fighting Energy;97/102;;Português;D
+Fighting Energy;97/102;;Português;D
+Fighting Energy;97/102;;Português;D
+Fighting Energy;97/102;;Português;D
+Fighting Energy;97/102;;Português;D
+Fighting Energy;97/102;;Português;D
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;SP
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fighting Energy;97/102;;Português;NM
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;MP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Fire Energy;98/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;MP
+Grass Energy;99/102;;Português;HP
+Grass Energy;99/102;;Português;HP
+Grass Energy;99/102;;Português;HP
+Grass Energy;99/102;;Português;D
+Grass Energy;99/102;;Português;D
+Grass Energy;99/102;;Português;D
+Grass Energy;99/102;;Português;D
+Grass Energy;99/102;;Português;NM
+Grass Energy;99/102;;Português;NM
+Grass Energy;99/102;;Português;NM
+Grass Energy;99/102;;Português;NM
+Grass Energy;99/102;;Português;NM
+Grass Energy;99/102;;Português;NM
+Grass Energy;99/102;;Português;NM
+Grass Energy;99/102;;Português;NM
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Grass Energy;99/102;;Português;SP
+Lightning Energy;100/102;;Português;SP
+Lightning Energy;100/102;;Português;SP
+Lightning Energy;100/102;;Português;SP
+Lightning Energy;100/102;;Português;SP
+Lightning Energy;100/102;;Português;SP
+Lightning Energy;100/102;;Português;SP
+Lightning Energy;100/102;;Português;MP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;SP
+Psychic Energy;101/102;;Português;MP
+Psychic Energy;101/102;;Português;MP
+Psychic Energy;101/102;;Português;MP
+Psychic Energy;101/102;;Português;MP
+Psychic Energy;101/102;;Português;MP
+Psychic Energy;101/102;;Português;MP
+Psychic Energy;101/102;;Português;D
+Psychic Energy;101/102;;Português;D
+Psychic Energy;101/102;;Português;D
+Psychic Energy;101/102;;Português;D
+Psychic Energy;101/102;;Português;NM
+Psychic Energy;101/102;;Português;NM
+Psychic Energy;101/102;;Português;NM
+Psychic Energy;101/102;;Português;NM
+Psychic Energy;101/102;;Português;NM
+Psychic Energy;101/102;;Português;NM
+Psychic Energy;101/102;;Português;NM
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;SP
+Water Energy;102/102;;Português;NM
+Water Energy;102/102;;Português;NM
+Water Energy;102/102;;Português;NM
+Aerodactyl;1/62;;;
+Articuno;2/62;Foil;Português;SP
+Ditto;3/62;;;
+Dragonite;4/62;;;
+Gengar;5/62;;;
+Haunter;6/62;Foil, Edition One;Português;NM
+Hitmonlee;7/62;Foil;Português;SP
+Hypno;8/62;Foil;Português;SP
+Kabutops;9/62;Foil;Português;SP
+Lapras;10/62;Foil;Português;SP
+Magneton;11/62;Foil;Inglês;MP
+Moltres;12/62;;;
+Muk;13/62;Foil;Português;NM
+Muk;13/62;Foil;Português;SP
+Raichu;14/62;;;
+Zapdos;15/62;;;
+Aerodactyl;16/62;;;
+Articuno;17/62;;;
+Ditto;18/62;;Português;SP
+Ditto;18/62;;Português;MP
+Dragonite;19/62;;Português;SP
+Gengar;20/62;;Português;D
+Haunter;21/62;;;
+Hitmonlee;22/62;;;
+Hypno;23/62;;;
+Kabutops;24/62;;Português;MP
+Lapras;25/62;;;
+Magneton;26/62;;;
+Moltres;27/62;;;
+Muk;28/62;;;
+Raichu;29/62;;;
+Zapdos;30/62;;;
+Arbok;31/62;;Português;SP
+Cloyster;32/62;;Português;SP
+Gastly;33/62;;Português;SP
+Gastly;33/62;;Português;SP
+Gastly;33/62;;Português;NM
+Golbat;34/62;;Português;NM
+Golbat;34/62;;Português;NM
+Golbat;34/62;;Português;SP
+Golbat;34/62;;Português;SP
+Golbat;34/62;;Português;MP
+Golbat;34/62;;Português;D
+Golduck;35/62;;Português;NM
+Golduck;35/62;Edition One;Português;D
+Golem;36/62;;;
+Graveler;37/62;;Português;NM
+Graveler;37/62;;Português;NM
+Graveler;37/62;;Português;NM
+Graveler;37/62;;Português;SP
+Graveler;37/62;;Português;SP
+Graveler;37/62;Edition One;Português;D
+Kingler;38/62;;Português;NM
+Kingler;38/62;;Português;SP
+Magmar;39/62;;Português;SP
+Omastar;40/62;;Português;NM
+Omastar;40/62;;Português;NM
+Sandslash;41/62;;Português;MP
+Sandslash;41/62;;Português;D
+Seadra;42/62;;Português;NM
+Seadra;42/62;;Português;NM
+Seadra;42/62;;Português;NM
+Seadra;42/62;;Português;MP
+Slowbro;43/62;;Português;SP
+Tentacruel;44/62;;Português;NM
+Tentacruel;44/62;;Português;NM
+Tentacruel;44/62;;Português;NM
+Tentacruel;44/62;;Português;SP
+Tentacruel;44/62;Edition One;Português;HP
+Weezing;45/62;Edition One;Português;HP
+Ekans;46/62;;Português;NM
+Ekans;46/62;;Português;NM
+Ekans;46/62;;Português;NM
+Geodude;47/62;;Português;NM
+Geodude;47/62;;Português;NM
+Geodude;47/62;;Português;NM
+Geodude;47/62;;Português;NM
+Geodude;47/62;;Português;SP
+Geodude;47/62;;Português;SP
+Geodude;47/62;;Português;MP
+Geodude;47/62;;Português;MP
+Geodude;47/62;;Português;MP
+Geodude;47/62;Edition One;Português;D
+Grimer;48/62;;Português;NM
+Grimer;48/62;;Português;NM
+Grimer;48/62;;Português;NM
+Grimer;48/62;;Português;NM
+Grimer;48/62;;Português;NM
+Grimer;48/62;;Português;NM
+Grimer;48/62;;Português;SP
+Grimer;48/62;;Português;SP
+Grimer;48/62;;Português;SP
+Grimer;48/62;;Português;SP
+Grimer;48/62;;Português;MP
+Horsea;49/62;;Português;NM
+Horsea;49/62;;Português;NM
+Horsea;49/62;;Português;SP
+Horsea;49/62;Edition One;Português;HP
+Kabuto;50/62;;Português;NM
+Kabuto;50/62;;Português;NM
+Kabuto;50/62;;Português;NM
+Kabuto;50/62;;Português;SP
+Kabuto;50/62;Edition One;Português;HP
+Kabuto;50/62;Edition One;Português;D
+Krabby;51/62;;Português;NM
+Krabby;51/62;;Português;NM
+Krabby;51/62;;Português;SP
+Krabby;51/62;;Português;SP
+Krabby;51/62;;Português;SP
+Omanyte;52/62;;Português;NM
+Omanyte;52/62;;Português;SP
+Omanyte;52/62;;Português;SP
+Omanyte;52/62;;Português;SP
+Psyduck;53/62;;Português;NM
+Psyduck;53/62;;Português;NM
+Psyduck;53/62;;Inglês;SP
+Psyduck;53/62;;Português;SP
+Psyduck;53/62;;Português;SP
+Shellder;54/62;;Português;NM
+Shellder;54/62;;Português;SP
+Shellder;54/62;;Português;SP
+Shellder;54/62;;Português;SP
+Shellder;54/62;;Português;SP
+Shellder;54/62;Edition One;Português;D
+Shellder;54/62;;Português;D
+Slowpoke;55/62;;Português;SP
+Slowpoke;55/62;;Português;SP
+Slowpoke;55/62;;Português;SP
+Slowpoke;55/62;;Português;SP
+Slowpoke;55/62;Edition One;Inglês;SP
+Tentacool;56/62;;Português;SP
+Tentacool;56/62;;Português;SP
+Tentacool;56/62;;Português;MP
+Tentacool;56/62;;Português;MP
+Tentacool;56/62;Edition One;Português;HP
+Zubat;57/62;;Português;NM
+Zubat;57/62;;Português;NM
+Zubat;57/62;;Português;NM
+Zubat;57/62;;Português;SP
+Zubat;57/62;;Português;SP
+Zubat;57/62;;Português;SP
+Zubat;57/62;;Português;MP
+Zubat;57/62;;Português;MP
+Zubat;57/62;;Português;MP
+Zubat;57/62;;Português;D
+Zubat;57/62;Edition One;Português;D
+Mr. Fuji;58/62;;Português;NM
+Mr. Fuji;58/62;;Português;SP
+Mr. Fuji;58/62;;Português;D
+Energy Search;59/62;;Português;SP
+Energy Search;59/62;;Português;SP
+Energy Search;59/62;;Português;SP
+Energy Search;59/62;;Português;SP
+Gambler;60/62;;Português;SP
+Gambler;60/62;;Português;SP
+Gambler;60/62;;Inglês;D
+Recycle;61/62;;Português;SP
+Recycle;61/62;;Português;SP
+Recycle;61/62;;Português;SP
+Recycle;61/62;;Português;SP
+Recycle;61/62;;Português;SP
+Recycle;61/62;;Português;MP
+Mysterious Fossil;62/62;;Português;NM
+Mysterious Fossil;62/62;;Português;SP
+Mysterious Fossil;62/62;;Português;SP
+Mysterious Fossil;62/62;;Português;SP
+Mysterious Fossil;62/62;;Português;D
+Clefable;1/64;;;
+Electrode;2/64;;;
+Flareon;3/64;;;
+Jolteon;4/64;Foil;Inglês;MP
+Kangaskhan;5/64;Foil;Português;SP
 Kangaskhan;5/64;Foil;Português;SP
 Kangaskhan;5/64;Foil;Português;MP
-Snorlax;11/64;Foil;Português;HP
-Shiftry;14/101;Foil;Inglês;NM
-Tyranitar;29/165;Reverse Foil;Inglês;NM
-Claydol;8/95;Reverse Foil;Inglês;NM
-Dark Dragonite;15/109;;Português;NM
-Dark Dragonite;15/109;;Português;NM
-Kyogre;3/95;Foil;Inglês;NM
-Scizor;32/147;;Inglês;NM
-Furret;22/109;;Português;NM
-Dark Magneton;39/109;;Português;NM
-Darkness Energy;93/109;Foil;Inglês;NM
-Water Energy;103/106;Foil;Inglês;NM
-Dark metal energy;94/109;Reverse Foil;Português;NM
-Rainbow Energy;95/109;;Inglês;NM
-Rainbow Energy;95/109;;Inglês;NM
-Rainbow Energy;87/106;;Português;NM
-Entei EX;97/109;Foil;Português;NM
-Entei EX;97/109;Foil;Português;NM
-Metal Energy;159/165;;Inglês;SP
-Wartortle;92/165;;Inglês;NM
-Light Jolteon;48/105;;Inglês;NM
-Unown W;29/105;;Inglês;SP
-Light Vaporeon;52/105;;Inglês;NM
-Dark Omastar;19/105;;Inglês;NM
+Mr. Mime;6/64;Foil;Inglês;D
+Nidoqueen;7/64;;;
+Pidgeot;8/64;;;
+Pinsir;9/64;;;
+Scyther;10/64;;;
+Snorlax;11/64;Foil;Português;D
+Vaporeon;12/64;Foil;Português;D
+Vaporeon;12/64;Foil;Português;SP
+Vaporeon;12/64;Foil;Português;MP
+Venomoth;13/64;;;
+Victreebel;14/64;;;
+Vileplume;15/64;;;
+Wigglytuff;16/64;;;
+Clefable;17/64;;;
+Electrode;18/64;;;
+Flareon;19/64;;;
+Jolteon;20/64;;;
+Kangaskhan;21/64;;;
+Mr. Mime;22/64;;;
+Nidoqueen;23/64;;;
+Pidgeot;24/64;;;
+Pinsir;25/64;;;
+Scyther;26/64;;;
+Snorlax;27/64;;;
+Vaporeon;28/64;;;
+Venomoth;29/64;;Português;MP
+Victreebel;30/64;;;
+Vileplume;31/64;;;
+Wigglytuff;32/64;;;
+Butterfree;33/64;;Inglês;HP
+Dodrio;34/64;;Português;SP
+Exeggutor;35/64;;;
+Fearow;36/64;;;
+Gloom;37/64;;Português;NM
+Gloom;37/64;;Português;SP
+Gloom;37/64;;Português;SP
+Lickitung;38/64;;;
+Marowak;39/64;;;
+Nidorina;40/64;;Português;NM
+Nidorina;40/64;;Português;NM
+Nidorina;40/64;;Português;SP
+Nidorina;40/64;;Português;SP
+Nidorina;40/64;;Português;D
+Nidorina;40/64;;Português;SP
+Parasect;41/64;;;
+Persian;42/64;;Português;NM
+Persian;42/64;;Português;NM
+Persian;42/64;;Português;NM
+Persian;42/64;;Português;SP
+Persian;42/64;;Inglês;HP
+Primeape;43/64;;;
+Rapidash;44/64;;;
+Rhydon;45/64;;Português;SP
+Rhydon;45/64;;Português;SP
+Rhydon;45/64;;Inglês;HP
+Seaking;46/64;;;
+Tauros;47/64;;Português;HP
+Weepinbell;48/64;;Português;NM
+Weepinbell;48/64;;Português;NM
+Weepinbell;48/64;;Português;NM
+Weepinbell;48/64;;Português;SP
+Weepinbell;48/64;;Português;SP
+Weepinbell;48/64;;Português;SP
+Bellsprout;49/64;;Português;NM
+Bellsprout;49/64;;Português;NM
+Bellsprout;49/64;;Português;NM
+Bellsprout;49/64;;Português;NM
+Bellsprout;49/64;;Português;NM
+Bellsprout;49/64;;Português;NM
+Bellsprout;49/64;;Português;NM
+Bellsprout;49/64;;Português;NM
+Bellsprout;49/64;;Português;NM
+Bellsprout;49/64;;Português;D
+Bellsprout;49/64;;Português;D
+Bellsprout;49/64;;Português;SP
+Cubone;50/64;;Inglês;D
+Eevee;51/64;;Português;NM
+Eevee;51/64;;Português;NM
+Eevee;51/64;;Português;NM
+Eevee;51/64;;Português;NM
+Eevee;51/64;;Português;SP
+Eevee;51/64;;Português;SP
+Eevee;51/64;;Português;SP
+Eevee;51/64;;Português;MP
+Eevee;51/64;;Inglês;MP
+Exeggcute;52/64;;;
+Goldeen;53/64;;;
+Jigglypuff;54/64;;Português;NM
+Jigglypuff;54/64;;Inglês;MP
+Mankey;55/64;;Português;D
+Meowth;56/64;;Português;NM
+Meowth;56/64;;Português;NM
+Meowth;56/64;;Português;NM
+Meowth;56/64;;Português;NM
+Meowth;56/64;;Português;NM
+Meowth;56/64;;Português;NM
+Meowth;56/64;;Português;SP
+Meowth;56/64;;Português;SP
+Meowth;56/64;;Português;SP
+Nidoran Fêmea;57/64;;Português;NM
+Nidoran Fêmea;57/64;;Português;NM
+Nidoran Fêmea;57/64;;Português;NM
+Nidoran Fêmea;57/64;;Português;NM
+Nidoran Fêmea;57/64;;Português;SP
+Nidoran Fêmea;57/64;;Português;SP
+Nidoran Fêmea;57/64;;Português;SP
+Nidoran Fêmea;57/64;;Português;SP
+Nidoran Fêmea;57/64;;Português;SP
+Nidoran Fêmea;57/64;;Português;SP
+Nidoran Fêmea;57/64;;Português;SP
+Nidoran Fêmea;57/64;;Inglês;MP
+Nidoran Fêmea;57/64;;Português;D
+Oddish;58/64;;Português;NM
+Oddish;58/64;;Português;NM
+Oddish;58/64;;Português;SP
+Oddish;58/64;;Português;SP
+Oddish;58/64;;Português;SP
+Oddish;58/64;;Português;D
+Paras;59/64;;;
+Pikachu;60/64;;;
+Rhyhorn;61/64;;Português;NM
+Rhyhorn;61/64;;Português;NM
+Rhyhorn;61/64;;Português;NM
+Rhyhorn;61/64;;Português;NM
+Rhyhorn;61/64;;Português;NM
+Rhyhorn;61/64;;Português;SP
+Rhyhorn;61/64;;Português;SP
+Rhyhorn;61/64;;Português;SP
+Spearow;62/64;;Inglês;HP
+Venonat;63/64;;Inglês;D
+PokéBall;64/64;;Português;SP
+Blaine's Moltres ;1/132;;;
+Brock's Rhydon ;2/132;;;
+Erika's Clefable ;3/132;;;
+Erika's Dragonair;4/132;;;
+Erika's Vileplume;5/132;;;
+Lt. Surge's Electabuzz ;6/132;;;
+Lt. Surge's Fearow ;7/132;;;
+Lt. Surge's Magneton ;8/132;Foil;Inglês;NM
+Misty's Seadra ;9/132;;;
+Misty's Tentacruel ;10/132;;;
+Rocket's Hitmonchan;11/132;;;
+Rocket's Moltres ;12/132;;;
+Rocket's Scyther ;13/132;;;
+Sabrina's Gengar ;14/132;;;
+Brock;15/132;;;
+Erika;16/132;;;
+Lt. Surge;17/132;;;
+Misty;18/132;;;
+The Rocket's Trap;19/132;;;
+Brock's Golem;20/132;;;
+Brock's Onix ;21/132;;;
+Brock's Rhyhorn;22/132;;;
+Brock's Sandslash;23/132;;;
+Brock's Zubat;24/132;;;
+Erika's Clefairy ;25/132;;;
+Erika's Victreebel ;26/132;;;
+Lt. Surge's Electabuzz ;27/132;;;
+Lt. Surge's Raichu ;28/132;;;
+Misty's Cloyster ;29/132;;;
+Misty's Goldeen;30/132;;;
+Misty's Poliwrath;31/132;;;
+Misty's Tentacool;32/132;;;
+Rocket's Snorlax ;33/132;;;
+Sabrina's Venomoth ;34/132;;;
+Blaine's Growlithe ;35/132;;;
+Blaine's Kangaskhan;36/132;;;
+Blaine's Magmar;37/132;;;
+Brock's Geodude;38/132;;;
+Brock's Golbat ;39/132;;;
+Brock's Graveler ;40/132;;;
+Brock's Lickitung;41/132;;;
+Erika's Dratini;42/132;;;
+Erika's Exeggcute;43/132;;;
+Erika's Exeggutor;44/132;;;
+Erika's Gloom;45/132;;;
+Erika's Gloom;46/132;;;
+Erika's Oddish ;47/132;;;
+Erika's Weepinbell ;48/132;;;
+Erika's Weepinbell ;49/132;;;
+Lt. Surge's Magnemite;50/132;;;
+Lt. Surge's Raticate ;51/132;;Inglês;NM
+Lt. Surge's Raticate ;51/132;;Inglês;SP
+Lt. Surge's Spearow;52/132;;Inglês;NM
+Lt. Surge's Spearow;52/132;;Inglês;NM
+Misty's Poliwhirl;53/132;;;
+Misty's Psyduck;54/132;;;
+Misty's Seaking;55/132;;;
+Misty's Starmie;56/132;;;
+Misty's Tentacool;57/132;;;
+Sabrina's Haunter;58/132;;;
+Sabrina's Jynx ;59/132;;;
+Sabrina's Slowbro;60/132;;Inglês;D
+Blaine's Charmander;61/132;;;
+Blaine's Growlithe ;62/132;;;
+Blaine's Ponyta;63/132;;;
+Blaine's Tauros;64/132;;;
+Blaine's Vulpix;65/132;;;
+Brock's Geodude;66/132;;;
+Brock's Mankey ;67/132;;;
+Brock's Mankey ;68/132;;;
+Brock's Onix ;69/132;;;
+Brock's Rhyhorn;70/132;;;
+Brock's Sandshrew;71/132;;;
+Brock's Sandshrew;72/132;;;
+Brock's Vulpix ;73/132;;;
+Brock's Zubat;74/132;;;
+Erika's Bellsprout ;75/132;;;
+Erika's Bellsprout ;76/132;;;
+Erika's Exeggcute;77/132;;;
+Erika's Oddish ;78/132;;;
+Erika's Tangela;79/132;;;
+Lt. Surge's Magnemite;80/132;;Inglês;NM
+Lt. Surge's Magnemite;80/132;;Inglês;NM
+Lt. Surge's Magnemite;80/132;;Inglês;NM
+Lt. Surge's Magnemite;80/132;;Inglês;SP
+Lt. Surge's Pikachu;81/132;;Inglês;NM
+Lt. Surge's Pikachu;81/132;;Inglês;NM
+Lt. Surge's Pikachu;81/132;;Inglês;NM
+Lt. Surge's Pikachu;81/132;;Inglês;SP
+Lt. Surge's Pikachu;81/132;;Inglês;D
+Lt. Surge's Rattata;82/132;;Inglês;NM
+Lt. Surge's Rattata;82/132;;Inglês;SP
+Lt. Surge's Rattata;82/132;;Inglês;NM
+Lt. Surge's Rattata;82/132;;Inglês;SP
+Lt. Surge's Spearow;83/132;;Inglês;NM
+Lt. Surge's Spearow;83/132;;Inglês;NM
+Lt. Surge's Voltorb;84/132;;Inglês;NM
+Lt. Surge's Voltorb;84/132;;Inglês;NM
+Lt. Surge's Voltorb;84/132;;Inglês;SP
+Misty's Goldeen;85/132;;;
+Misty's Horsea ;86/132;;;
+Misty's Poliwag;87/132;;;
+Misty's Seel ;88/132;;;
+Misty's Shellder ;89/132;;;
+Misty's Staryu ;90/132;;;
+Sabrina's Abra ;91/132;;;
+Sabrina's Drowzee;92/132;;;
+Sabrina's Gastly ;93/132;;;
+Sabrina's Mr. Mime ;94/132;;;
+Sabrina's Slowpoke ;95/132;;;
+Sabrina's Venonat;96/132;;;
+Blaine's Quiz #1 ;97/132;;;
+Brock;98/132;;;
+Charity;99/132;;;
+Erika;100/132;;;
+Lt. Surge;101/132;;Inglês;SP
+Misty;102/132;;;
+No Removal Gym ;103/132;;;
+The Rocket's Training Gym;104/132;;;
+Blaine's Last Resort ;105/132;;;
+Brock's Training Method;106/132;;;
+Celadon City Gym ;107/132;;;
+Cerulean City Gym;108/132;;;
+Erika's Maids;109/132;;;
+Erika's Perfume;110/132;;;
+Good Manners ;111/132;;;
+Lt. Surge's Treaty ;112/132;;;
+Minion of Team Rocket;113/132;;;
+Misty's Wrath;114/132;;;
+Pewter City Gym;115/132;;;
+Recall ;116/132;;;
+Sabrina's ESP;117/132;;;
+Secret Mission ;118/132;;Inglês;SP
+Secret Mission ;118/132;;Inglês;SP
+Tickling Machine ;119/132;;;
+Vermilion City Gym ;120/132;;Inglês;NM
+Blaine's Gamble;121/132;;;
+Energy Flow;122/132;;;
+Misty's Duel ;123/132;;;
+Narrow Gym ;124/132;;;
+Sabrina's Gaze ;125/132;;Inglês;SP
+Sabrina's Gaze ;125/132;;Inglês;MP
+Trash Exchange ;126/132;;;
+Fighting Energy;127/132;;;
+Fire Energy;128/132;;;
+Grass Energy ;129/132;;;
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;NM
+Lightning Energy ;130/132;;Inglês;SP
+Lightning Energy ;130/132;;Inglês;SP
+Lightning Energy ;130/132;;Inglês;SP
+Lightning Energy ;130/132;;Inglês;SP
+Psychic Energy ;131/132;;;
+Water Energy ;132/132;;;
+Blaine's Arcanine ;1/132;;;
+Blaine's Charizard;2/132;;;
+Brock's Ninetales ;3/132;;;
+Erika's Venusaur;4/132;;;
+Giovanni's Gyarados ;5/132;;;
+Giovanni's Machamp;6/132;;;
+Giovanni's Nidoking ;7/132;;;
+Giovanni's Persian;8/132;;;
+Koga's Beedrill ;9/132;Foil;Inglês;D
+Koga's Ditto;10/132;;;
+Lt. Surge's Raichu;11/132;;;
+Misty's Golduck ;12/132;;;
+Misty's Gyarados;13/132;;;
+Rocket's Mewtwo ;14/132;;;
+Rocket's Zapdos ;15/132;;;
+Sabrina's Alakazam;16/132;Foil;Inglês;D
+Blaine;17/132;;;
+Giovanni;18/132;;;
+Koga;19/132;;;
+Sabrina ;20/132;;;
+Blaine's Ninetales;21/132;;;
+Brock's Dugtrio ;22/132;;;
+Giovanni's Nidoqueen;23/132;;;
+Giovanni's Pinsir ;24/132;;;
+Koga's Arbok;25/132;;;
+Koga's Muk;26/132;;;
+Koga's Pidgeotto;27/132;;;
+Lt. Surge's Jolteon ;28/132;;;
+Sabrina's Gengar;29/132;;;
+Sabrina's Golduck ;30/132;;;
+Blaine's Charmeleon ;31/132;;Inglês;D
+Blaine's Dodrio ;32/132;;;
+Blaine's Rapidash ;33/132;;;
+Brock's Graveler;34/132;;;
+Brock's Primeape;35/132;;;
+Brock's Sandslash ;36/132;;;
+Brock's Vulpix;37/132;;;
+Erika's Bellsprout;38/132;;;
+Erika's Bulbasaur ;39/132;;;
+Erika's Clefairy;40/132;;;
+Erika's Ivysaur ;41/132;;;
+Giovanni's Machoke;42/132;;;
+Giovanni's Meowth ;43/132;;;
+Giovanni's Nidorina ;44/132;;;
+Giovanni's Nidorino ;45/132;;;
+Koga's Golbat ;46/132;;;
+Koga's Kakuna ;47/132;;Inglês;SP
+Koga's Koffing;48/132;;Inglês;SP
+Koga's Pidgey ;49/132;;;
+Koga's Weezing;50/132;;Inglês;SP
+Koga's Weezing;50/132;;Inglês;SP
+Koga's Weezing;50/132;;Inglês;SP
+Lt. Surge's Eevee ;51/132;;;
+Lt. Surge's Electrode ;52/132;;;
+Lt. Surge's Raticate;53/132;;;
+Misty's Dewgong ;54/132;;;
+Sabrina's Haunter ;55/132;;Inglês;SP
+Sabrina's Hypno ;56/132;;;
+Sabrina's Jynx;57/132;;Inglês;SP
+Sabrina's Jynx;57/132;;Inglês;SP
+Sabrina's Kadabra ;58/132;;Inglês;SP
+Sabrina's Mr. Mime;59/132;;;
+Blaine's Charmander ;60/132;;Inglês;D
+Blaine's Charmander ;60/132;;Inglês;D
+Blaine's Doduo;61/132;;;
+Blaine's Growlithe;62/132;;;
+Blaine's Mankey ;63/132;;Inglês;D
+Blaine's Ponyta ;64/132;;;
+Blaine's Rhyhorn;65/132;;;
+Blaine's Vulpix ;66/132;;;
+Brock's Diglett ;67/132;;;
+Brock's Geodude ;68/132;;;
+Erika's Jigglypuff;69/132;;;
+Erika's Oddish;70/132;;;
+Erika's Paras ;71/132;;;
+Giovanni's Machop ;72/132;;Inglês;MP
+Giovanni's Magikarp ;73/132;;;
+Giovanni's Meowth ;74/132;;;
+Giovanni's Nidoran Female;75/132;;;
+Giovanni's Nidoran Male;76/132;;;
+Koga's Ekans;77/132;;Inglês;SP
+Koga's Ekans;77/132;;Inglês;SP
+Koga's Ekans;77/132;;Inglês;SP
+Koga's Grimer ;78/132;;Inglês;SP
+Koga's Grimer ;78/132;;Inglês;SP
+Koga's Grimer ;78/132;;Inglês;SP
+Koga's Grimer ;78/132;Edition One;Inglês;HP
+Koga's Koffing;79/132;;Inglês;SP
+Koga's Koffing;79/132;;Inglês;SP
+Koga's Koffing;79/132;;Inglês;SP
+Koga's Koffing;79/132;;Inglês;MP
+Koga's Pidgey ;80/132;;Inglês;SP
+Koga's Pidgey ;80/132;;Inglês;SP
+Koga's Pidgey ;80/132;;Inglês;SP
+Koga's Tangela;81/132;;;
+Koga's Weedle ;82/132;;Inglês;SP
+Koga's Weedle ;82/132;;Inglês;SP
+Koga's Weedle ;82/132;;Inglês;D
+Koga's Weedle ;82/132;;Inglês;D
+Koga's Zubat;83/132;;;
+Lt. Surge's Pikachu ;84/132;;;
+Lt. Surge's Rattata ;85/132;;;
+Lt. Surge's Voltorb ;86/132;;;
+Misty's Horsea;87/132;;;
+Misty's Magikarp;88/132;;;
+Misty's Poliwag ;89/132;;Inglês;MP
+Misty's Psyduck ;90/132;;;
+Misty's Seel;91/132;;;
+Misty's Staryu;92/132;;;
+Sabrina's Abra;93/132;;Inglês;SP
+Sabrina's Abra;93/132;;Inglês;SP
+Sabrina's Abra;94/132;;Inglês;SP
+Sabrina's Drowzee ;95/132;;Inglês;SP
+Sabrina's Drowzee ;95/132;;Inglês;SP
+Sabrina's Gastly;96/132;;Inglês;SP
+Sabrina's Gastly;96/132;;Inglês;SP
+Sabrina's Gastly;97/132;;;
+Sabrina's Porygon ;98/132;;Inglês;SP
+Sabrina's Porygon ;98/132;;Inglês;SP
+Sabrina's Porygon ;98/132;;Inglês;SP
+Sabrina's Porygon ;98/132;;Inglês;SP
+Sabrina's Psyduck ;99/132;;;
+Blaine;100/132;;;
+Brock's Protection;101/132;;;
+Chaos Gym ;102/132;;;
+Erika's Kindness;103/132;;;
+Giovanni;104/132;;;
+Giovanni's Last Resort;105/132;;;
+Koga;106/132;;Inglês;SP
+Lt. Surge's Secret Plan ;107/132;;;
+Misty's Wish;108/132;;;
+Resistance Gym;109/132;;;
+Sabrina ;110/132;;Inglês;SP
+Blaine's Quiz #2;111/132;;;
+Blaine's Quiz #3;112/132;;;
+Cinnabar City Gym ;113/132;;;
+Fuchsia City Gym;114/132;;Inglês;SP
+Koga's Ninja Trick;115/132;;;
+Master Ball ;116/132;;;
+Max Revive;117/132;;;
+Misty's Tears ;118/132;;;
+Rocket's Minefield Gym;119/132;;;
+Rocket's Secret Experiment;120/132;;;
+Sabrina's Psychic Control ;121/132;;Inglês;SP
+Saffron City Gym;122/132;;;
+Viridian City Gym ;123/132;;Inglês;MP
+Fervor;124/132;;;
+Transparent Walls ;125/132;;;
+Warp Point;126/132;;;
+Fighting Energy ;127/132;;;
+Fire Energy ;128/132;;;
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;SP
+Grass Energy;129/132;;Inglês;MP
+Grass Energy;129/132;;Inglês;MP
+Grass Energy;129/132;;Inglês;MP
+Grass Energy;129/132;;Inglês;MP
+Grass Energy;129/132;;Inglês;MP
+Grass Energy;129/132;;Inglês;MP
+Grass Energy;129/132;;Inglês;D
+Grass Energy;129/132;;Inglês;D
+Lightning Energy;130/132;;;
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;SP
+Psychic Energy;131/132;;Inglês;MP
+Psychic Energy;131/132;;Inglês;MP
+Psychic Energy;131/132;;Inglês;MP
+Psychic Energy;131/132;;Inglês;MP
+Psychic Energy;131/132;;Inglês;MP
+Psychic Energy;131/132;;Inglês;MP
+Psychic Energy;131/132;;Inglês;MP
+Psychic Energy;131/132;;Inglês;D
+Psychic Energy;131/132;;Inglês;D
+Water Energy;132/132;;;
+Dark Ampharos;1/105;;;
+Dark Crobat;2/105;Foil;Inglês;NM
+Dark Donphan ;3/105;;;
+Dark Espeon;4/105;Foil;Inglês;NM
+Dark Feraligatr;5/105;;;
+Dark Gengar;6/105;;;
+Dark Houndoom;7/105;;;
+Dark Porygon2;8/105;;;
+Dark Scizor;9/105;;;
+Dark Typhlosion;10/105;Foil;Inglês;NM
+Dark Tyranitar ;11/105;;;
+Light Arcanine ;12/105;;;
+Light Azumarill;13/105;;;
+Light Dragonite;14/105;;;
+Light Togetic;15/105;;;
+Miracle Energy ;16/105;;;
+Dark Ariados ;17/105;;;
+Dark Magcargo;18/105;;Inglês;NM
+Dark Magcargo;18/105;;Inglês;SP
+Dark Omastar ;19/105;;Inglês;M
+Dark Slowking;20/105;;;
 Dark Ursaring;21/105;;Inglês;NM
-Clefable;41/165;;Inglês;NM
-Light Flareon;46/105;;Inglês;NM
-Light Ninetales;50/105;;Inglês;NM
+Light Dragonair;22/105;;;
+Light Lanturn;23/105;;;
+Light Ledian ;24/105;;;
+Light Machamp;25/105;;;
+Light Piloswine;26/105;;;
+Unown G;27/105;;;
 Unown H;28/105;;Inglês;NM
-Dragonair;75/165;Reverse Foil;Inglês;SP
-Dark Golbat;34/109;Reverse Foil;Português;NM
-Cyndaquil;105/165;Reverse Foil;Inglês;NM
-Dratini;53/109;Reverse Foil;Português;NM
-Salamence lv.X;98/99;Foil;Inglês;NM
-Deoxys EX;97/107;Foil;Português;NM
-Shining Kabutops;108/105;Foil;Inglês;NM
+Unown W;29/105;;Inglês;NM
+Unown X;30/105;;;
+Chansey;31/105;;;
+Dark Croconaw;32/105;;Inglês;SP
+Dark Exeggutor ;33/105;;Inglês;NM
+Dark Flaaffy ;34/105;;Inglês;SP
+Dark Forretress;35/105;;Inglês;NM
+Dark Forretress;35/105;;Inglês;NM
+Dark Haunter ;36/105;;Inglês;M
+Dark Haunter ;36/105;;Inglês;NM
+Dark Omanyte ;37/105;;Inglês;NM
+Dark Pupitar ;38/105;;Inglês;NM
+Dark Quilava ;39/105;;Inglês;NM
+Dark Quilava ;39/105;;Inglês;NM
+Dark Quilava ;39/105;;Inglês;NM
+Dark Quilava ;39/105;;Inglês;NM
+Dark Quilava ;39/105;;Inglês;SP
+Dark Wigglytuff;40/105;;Inglês;M
+Dark Wigglytuff;40/105;;Inglês;NM
+Heracross;41/105;;Inglês;NM
+Hitmonlee;42/105;;;
+Houndour ;43/105;;Inglês;NM
+Houndour ;43/105;;Inglês;NM
+Jigglypuff ;44/105;;Inglês;M
+Jigglypuff ;44/105;;Inglês;D
+Light Dewgong;45/105;;;
+Light Flareon;46/105;;Inglês;NM
+Light Golduck;47/105;;;
+Light Jolteon;48/105;;Inglês;NM
+Light Machoke;49/105;;;
+Light Ninetales;50/105;;Inglês;NM
+Light Slowbro;51/105;;Inglês;NM
+Light Slowbro;51/105;;Inglês;NM
+Light Vaporeon ;52/105;;Inglês;NM
+Light Venomoth ;53/105;;;
+Light Wigglytuff ;54/105;;;
+Scyther;55/105;;;
+Togepi ;56/105;;Inglês;NM
+Unown C;57/105;;;
+Unown P;58/105;;Inglês;M
+Unown Q;59/105;;;
+Unown Z;60/105;;Inglês;NM
+Cyndaquil;61/105;;Inglês;NM
+Cyndaquil;61/105;;Inglês;NM
+Cyndaquil;61/105;;Inglês;NM
+Cyndaquil;61/105;;Inglês;NM
+Cyndaquil;61/105;;Inglês;NM
+Cyndaquil;61/105;;Inglês;NM
+Dark Octillery ;62/105;;Inglês;NM
+Dark Octillery ;62/105;;Inglês;SP
+Dratini;63/105;;Inglês;M
+Dratini;63/105;;Inglês;M
+Dratini;63/105;;Inglês;NM
+Exeggcute;64/105;;Inglês;M
+Exeggcute;64/105;;Inglês;NM
+Exeggcute;64/105;;Inglês;NM
+Exeggcute;64/105;;Inglês;D
+Gastly ;65/105;;Inglês;M
+Gastly ;65/105;;Inglês;NM
+Gastly ;65/105;;Inglês;NM
+Girafarig;66/105;;Inglês;NM
+Gligar ;67/105;;Inglês;M
+Gligar ;67/105;;Inglês;NM
+Gligar ;67/105;;Inglês;NM
+Growlithe;68/105;;Inglês;M
+Growlithe;68/105;;Inglês;NM
+Growlithe;68/105;;Inglês;NM
+Growlithe;68/105;;Inglês;SP
+Hitmonchan ;69/105;;Inglês;SP
+Larvitar ;70/105;;Inglês;M
+Larvitar ;70/105;;Inglês;M
+Ledyba ;71/105;;Inglês;M
+Ledyba ;71/105;;Inglês;SP
+Light Sunflora ;72/105;;Inglês;NM
+Machop ;73/105;;Inglês;NM
+Machop ;73/105;;Inglês;NM
+Mantine;74/105;;Inglês;NM
+Mantine;74/105;;Inglês;MP
+Mareep ;75/105;;Inglês;SP
+Mareep ;75/105;;Inglês;MP
+Phanpy ;76/105;;Inglês;M
+Pineco ;77/105;;Inglês;D
+Porygon;78/105;;Inglês;M
+Porygon;78/105;;Inglês;SP
+Psyduck;79/105;;Inglês;SP
+Psyduck;79/105;;Inglês;MP
+Remoraid ;80/105;;Inglês;M
+Remoraid ;80/105;;Inglês;SP
+Remoraid ;80/105;;Inglês;SP
+Remoraid ;80/105;;Inglês;SP
+Seel ;81/105;;Inglês;M
+Seel ;81/105;;Inglês;NM
+Seel ;81/105;;Inglês;NM
+Seel ;81/105;;Inglês;NM
+Seel ;81/105;;Inglês;SP
+Slugma ;82/105;;Inglês;NM
+Slugma ;82/105;;Inglês;NM
+Slugma ;82/105;;Inglês;NM
+Slugma ;82/105;;Inglês;NM
+Slugma ;82/105;;Inglês;NM
+Slugma ;82/105;;Inglês;SP
+Sunkern;83/105;;Inglês;NM
+Sunkern;83/105;;Inglês;NM
+Swinub ;84/105;;Inglês;NM
+Swinub ;84/105;;Inglês;MP
+Totodile ;85/105;;Inglês;NM
+Unown L;86/105;;Inglês;NM
+Unown L;86/105;;Inglês;NM
+Unown L;86/105;;Inglês;NM
+Unown S;87/105;;Inglês;M
+Unown S;87/105;;Inglês;NM
+Unown S;87/105;;Inglês;NM
+Unown T;88/105;;Inglês;M
+Unown T;88/105;;Inglês;NM
+Unown T;88/105;;Inglês;NM
+Unown V;89/105;;;
+Venonat;90/105;;Inglês;NM
+Venonat;90/105;;Inglês;NM
+Venonat;90/105;;Inglês;NM
+Venonat;90/105;;Inglês;NM
+Venonat;90/105;;Inglês;MP
+Vulpix ;91/105;;Inglês;M
+Vulpix ;91/105;;Inglês;M
+Vulpix ;91/105;;Inglês;NM
+Vulpix ;91/105;;Inglês;NM
+Broken Ground Gym;92/105;;;
+EXP.ALL;93/105;;;
+Impostor Professor Oak's Invention;94/105;;Inglês;M
+Impostor Professor Oak's Invention;94/105;;Inglês;NM
+Radio Tower;95/105;;;
+Thought Wave Machine ;96/105;;;
+Counterattack Claws;97/105;;Inglês;NM
+Energy Amplifier ;98/105;;Inglês;NM
+Energy Stadium ;99/105;;Inglês;NM
+Energy Stadium ;99/105;;Inglês;NM
+Lucky Stadium;100/105;;;
+Magnifier;101/105;;Inglês;NM
+Pokémon Personality Test ;102/105;;;
+Team Rocket's Evil Deeds ;103/105;;Inglês;SP
+Team Rocket's Evil Deeds ;103/105;;Inglês;SP
+Heal Powder;104/105;;Inglês;NM
+Heal Powder;104/105;;Inglês;NM
+Heal Powder;104/105;;Inglês;MP
+Mail from Bill ;105/105;;Inglês;NM
+Mail from Bill ;105/105;;Inglês;NM
+Shining Celebi ;106/105;;;
+Shining Charizard;107/105;;;
+Shining Kabutops ;108/105;Foil;Inglês;NM
+Shining Mewtwo ;109/105;;;
+Shining Noctowl;110/105;;;
+Shining Raichu ;111/105;;;
 Shining Steelix;112/105;Foil;Inglês;NM
+Shining Tyranitar;113/105;;;
+Ampharos;1/111;;;
+Azumarill ;2/111;;;
+Bellossom ;3/111;;;
+Feraligatr;4/111;;;
+Feraligatr;5/111;;;
+Heracross ;6/111;;;
+Jumpluff;7/111;;;
+Kingdra ;8/111;;;
+Lugia ;9/111;;;
+Meganium;10/111;Foil;Inglês;D
+Meganium;11/111;;;
+Pichu ;12/111;;;
+Skarmory;13/111;;;
+Slowking;14/111;;;
+Steelix ;15/111;;;
+Togetic ;16/111;;;
+Typhlosion;17/111;;;
+Typhlosion;18/111;;;
+Metal Energy;19/111;;;
+Cleffa;20/111;;;
+Donphan ;21/111;Edition One;Inglês;M
+Elekid;22/111;;;
+Magby ;23/111;;Inglês;SP
+Murkrow ;24/111;;Inglês;NM
+Sneasel ;25/111;;;
+Aipom ;26/111;;Inglês;NM
+Ariados ;27/111;;;
+Bayleef ;28/111;;Inglês;SP
+Bayleef ;29/111;;;
+Clefairy;30/111;Edition One;Inglês;NM
+Croconaw;31/111;;;
+Croconaw;32/111;;;
+Electabuzz;33/111;;Inglês;SP
+Flaaffy ;34/111;;;
+Furret;35/111;;;
+Gloom ;36/111;;;
+Granbull;37/111;;;
+Lanturn ;38/111;;;
+Ledian;39/111;Edition One;Inglês;M
+Magmar;40/111;;Inglês;NM
+Miltank ;41/111;;;
+Noctowl ;42/111;;;
+Phanpy;43/111;;;
+Piloswine ;44/111;;Inglês;SP
+Piloswine ;44/111;;Inglês;SP
+Quagsire;45/111;;;
+Quilava ;46/111;;Inglês;NM
+Quilava ;47/111;;;
+Seadra;48/111;;;
+Skiploom;49/111;;;
+Sunflora;50/111;;;
+Togepi;51/111;;;
+Xatu;52/111;Edition One;Inglês;NM
+Chikorita ;53/111;;Inglês;NM
+Chikorita ;54/111;;Inglês;SP
+Chinchou;55/111;;Inglês;NM
+Cyndaquil ;56/111;;Inglês;NM
+Cyndaquil ;56/111;;Inglês;D
+Cyndaquil ;57/111;;Inglês;NM
+Cyndaquil ;57/111;;Inglês;NM
+Cyndaquil ;57/111;;Inglês;NM
+Girafarig ;58/111;;Inglês;SP
+Girafarig ;58/111;;Inglês;SP
+Girafarig ;58/111;;Inglês;D
+Girafarig ;58/111;;Inglês;D
+Gligar;59/111;Edition One;Inglês;NM
+Hoothoot;60/111;;Inglês;SP
+Hoppip;61/111;;;
+Horsea;62/111;;;
+Ledyba;63/111;;Inglês;SP
+Mantine ;64/111;;Inglês;SP
+Mantine ;64/111;;Inglês;SP
+Mareep;65/111;;;
+Marill;66/111;;Inglês;NM
+Marill;66/111;;Inglês;SP
+Natu;67/111;;;
+Oddish;68/111;;;
+Onix;69/111;;Inglês;SP
+Pikachu ;70/111;Edition One;Inglês;NM
+Pikachu ;70/111;;Inglês;SP
+Sentret ;71/111;;;
+Shuckle ;72/111;;;
+Slowpoke;73/111;Edition One;Inglês;M
+Snubbull;74/111;;;
+Spinarak;75/111;;;
+Stantler;76/111;;;
+Sudowoodo ;77/111;Edition One;Inglês;NM
+Sunkern ;78/111;;;
+Swinub;79/111;;;
+Totodile;80/111;;;
+Totodile;81/111;;Inglês;NM
+Wooper;82/111;Edition One;Inglês;NM
+Arcade Game ;83/111;;;
+Ecogym;84/111;;;
+Energy Charge ;85/111;;;
+Focus Band;86/111;;;
+Mary;87/111;;;
+PokéGear;88/111;;;
+Super Energy Retrieval;89/111;;;
+Time Capsule;90/111;;;
+Bill's Teleporter ;91/111;;;
+Card-Flip Game;92/111;;;
+Gold Berry;93/111;;Inglês;NM
+Miracle Berry ;94/111;;;
+New Pokédex ;95/111;;;
+Professor Elm ;96/111;;Inglês;SP
+Professor Elm ;96/111;;Inglês;MP
+Sprout Tower;97/111;;;
+Super Scoop Up;98/111;;;
+Berry ;99/111;;Inglês;NM
+Berry ;99/111;;Inglês;NM
+Berry ;99/111;;Inglês;SP
+Double Gust ;100/111;;Inglês;SP
+Moo-Moo Milk;101/111;;Inglês;SP
+Moo-Moo Milk;101/111;;Inglês;MP
+Moo-Moo Milk;101/111;;Inglês;MP
+Moo-Moo Milk;101/111;;Inglês;D
+Moo-Moo Milk;101/111;;Inglês;D
+Pokémon March ;102/111;;;
+Super Rod ;103/111;;Inglês;M
+Super Rod ;103/111;;Inglês;NM
+Super Rod ;103/111;;Inglês;NM
+Super Rod ;103/111;;Inglês;SP
+Super Rod ;103/111;;Inglês;SP
+Super Rod ;103/111;;Inglês;SP
+Darkness Energy ;104/111;;;
+Recycle Energy;105/111;;;
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;SP
+Fighting Energy ;106/111;;Inglês;MP
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;NM
+Fire Energy ;107/111;;Inglês;SP
+Fire Energy ;107/111;;Inglês;SP
+Fire Energy ;107/111;;Inglês;MP
+Grass Energy;108/111;Edition One;Inglês;NM
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;SP
+Grass Energy;108/111;;Inglês;D
+Grass Energy;108/111;;Inglês;D
+Grass Energy;108/111;;Inglês;D
+Grass Energy;108/111;;Inglês;D
+Lightning Energy;109/111;;Inglês;NM
+Lightning Energy;109/111;;Inglês;MP
+Psychic Energy;110/111;;Inglês;M
+Psychic Energy;110/111;;Inglês;M
+Psychic Energy;110/111;;Inglês;M
+Psychic Energy;110/111;;Inglês;NM
+Psychic Energy;110/111;;Inglês;NM
+Psychic Energy;110/111;;Inglês;NM
+Psychic Energy;110/111;;Inglês;NM
+Psychic Energy;110/111;;Inglês;NM
+Psychic Energy;110/111;;Inglês;SP
+Psychic Energy;110/111;;Inglês;SP
+Psychic Energy;110/111;;Inglês;SP
+Psychic Energy;110/111;;Inglês;SP
+Psychic Energy;110/111;;Inglês;SP
+Psychic Energy;110/111;;Inglês;SP
+Psychic Energy;110/111;;Inglês;SP
+Psychic Energy;110/111;;Inglês;SP
+Psychic Energy;110/111;;Inglês;MP
+Psychic Energy;110/111;;Inglês;MP
+Psychic Energy;110/111;;Inglês;MP
+Psychic Energy;110/111;;Inglês;D
+Psychic Energy;110/111;;Inglês;D
+Psychic Energy;110/111;;Inglês;D
+Psychic Energy;110/111;;Inglês;D
+Psychic Energy;110/111;;Inglês;D
+Water Energy;111/111;;Inglês;SP
+Water Energy;111/111;;Inglês;SP
+Water Energy;111/111;;Inglês;SP
+Water Energy;111/111;;Inglês;SP
+Water Energy;111/111;;Inglês;SP
+Water Energy;111/111;;Inglês;SP
+Water Energy;111/111;;Inglês;SP
+Water Energy;111/111;;Inglês;MP
+Water Energy;111/111;;Inglês;MP
+Water Energy;111/111;;Inglês;D
+Water Energy;111/111;;Inglês;D
+Espeon ;1/75;;;
+Forretress ;2/75;;;
+Hitmontop;3/75;Foil;Inglês;D
+Houndoom ;4/75;;;
+Houndour ;5/75;;;
+Kabutops ;6/75;;;
+Magnemite;7/75;;;
+Politoed ;8/75;;;
+Poliwrath;9/75;;;
+Scizor ;10/75;;;
+Smeargle ;11/75;;;
+Tyranitar;12/75;;;
+Umbreon;13/75;;;
+Unown A;14/75;Foil;Inglês;D
+Ursaring ;15/75;;;
+Wobbuffet;16/75;;;
+Yanma;17/75;;;
+Beedrill ;18/75;;;
+Butterfree ;19/75;;Inglês;SP
+Espeon ;20/75;;Inglês;HP
+Forretress ;21/75;;;
+Hitmontop;22/75;;;
+Houndoom ;23/75;;;
+Houndour ;24/75;;;
+Kabutops ;25/75;;;
+Magnemite;26/75;;;
+Politoed ;27/75;;;
+Poliwrath;28/75;;;
+Scizor ;29/75;;;
+Smeargle ;30/75;;;
+Tyranitar;31/75;;;
+Umbreon;32/75;;;
+Unown A;33/75;;;
+Ursaring ;34/75;;;
+Wobbuffet;35/75;;;
+Yanma;36/75;;;
+Corsola;37/75;;;
+Eevee;38/75;;Inglês;D
+Houndour ;39/75;;;
+Igglybuff;40/75;;;
+Kakuna ;41/75;;;
+Metapod;42/75;;Inglês;SP
+Metapod;42/75;;Inglês;SP
+Omastar;43/75;;Inglês;D
+Omastar;43/75;;Inglês;D
+Poliwhirl;44/75;;;
+Pupitar;45/75;;Inglês;SP
+Pupitar;45/75;;Inglês;SP
+Scyther;46/75;;Inglês;SP
+Scyther;46/75;;Inglês;SP
+Scyther;46/75;;Inglês;MP
+Unown D;47/75;;;
+Unown F;48/75;;;
+Unown M;49/75;;;
+Unown N;50/75;;Inglês;MP
+Unown U;51/75;;;
+Xatu ;52/75;;Inglês;D
+Caterpie ;53/75;;Inglês;SP
+Caterpie ;53/75;;Inglês;SP
+Caterpie ;53/75;;Inglês;SP
+Caterpie ;53/75;;Inglês;SP
+Dunsparce;54/75;;;
+Hoppip ;55/75;;;
+Kabuto ;56/75;;;
+Larvitar ;57/75;;Inglês;SP
+Larvitar ;57/75;;Inglês;SP
+Larvitar ;57/75;;Inglês;SP
+Mareep ;58/75;;;
+Natu ;59/75;;Inglês;SP
+Natu ;59/75;;Inglês;MP
+Omanyte;60/75;;Inglês;SP
+Omanyte;60/75;;Inglês;SP
+Omanyte;60/75;;Inglês;MP
+Pineco ;61/75;;;
+Poliwag;62/75;;;
+Sentret;63/75;;Inglês;SP
+Sentret;63/75;;Inglês;SP
+Sentret;63/75;;Inglês;SP
+Sentret;63/75;;Inglês;SP
+Spinarak ;64/75;;;
+Teddiursa;65/75;;Inglês;D
+Teddiursa;65/75;;Inglês;D
+Tyrogue;66/75;;Inglês;SP
+Tyrogue;66/75;;Inglês;SP
+Tyrogue;66/75;;Inglês;MP
+Tyrogue;66/75;;Inglês;MP
+Unown E;67/75;;Inglês;NM
+Unown I;68/75;;Inglês;SP
+Unown I;68/75;;Inglês;SP
+Unown O;69/75;;;
+Weedle ;70/75;;;
+Wooper ;71/75;;;
+Fossil Egg ;72/75;;Inglês;SP
+Fossil Egg ;72/75;;Inglês;MP
+Hyper Devolution Spray ;73/75;;Inglês;SP
+Ruin Wall;74/75;;;
+Energy Ark ;75/75;;Inglês;SP
+Energy Ark ;75/75;;Inglês;MP
+Energy Ark ;75/75;;Inglês;MP
+Energy Ark ;75/75;;Inglês;D
+Ampharos ;1/64;;;
+Blissey;2/64;;;
+Celebi ;3/64;;;
+Crobat ;4/64;;;
+Delibird ;5/64;;;
+Entei;6/64;;;
+Ho-Oh;7/64;;;
+Houndoom ;8/64;;;
+Jumpluff ;9/64;;;
+Magneton ;10/64;;;
+Misdreavus ;11/64;;;
+Porygon2 ;12/64;;;
+Raikou ;13/64;;;
+Suicune;14/64;;;
+Aerodactyl ;15/64;;;
+Celebi ;16/64;;;
+Entei;17/64;;;
+Ho-Oh;18/64;;;
+Kingdra;19/64;;;
+Lugia;20/64;;;
+Raichu ;21/64;;;
+Raikou ;22/64;;;
+Skarmory ;23/64;;;
+Sneasel;24/64;;Inglês;NM
+Starmie;25/64;;;
+Sudowoodo;26/64;;;
+Suicune;27/64;;Inglês;SP
+Flaaffy;28/64;;Inglês;SP
+Flaaffy;28/64;;Inglês;SP
+Golbat ;29/64;;Inglês;MP
+Graveler ;30/64;;Inglês;NM
+Graveler ;30/64;;Inglês;SP
+Jynx ;31/64;;;
+Lanturn;32/64;;;
+Magcargo ;33/64;;Inglês;NM
+Octillery;34/64;;;
+Parasect ;35/64;;;
+Piloswine;36/64;;Inglês;D
+Seaking;37/64;;Inglês;D
+Stantler ;38/64;;Inglês;SP
+Unown B;39/64;;;
+Unown Y;40/64;;;
+Aipom;41/64;;Inglês;SP
+Chinchou ;42/64;;Inglês;NM
+Chinchou ;42/64;;Inglês;D
+Farfetch'd ;43/64;;Inglês;NM
+Farfetch'd ;43/64;;Inglês;SP
+Geodude;44/64;;Inglês;SP
+Goldeen;45/64;;Inglês;SP
+Murkrow;46/64;;Inglês;D
+Paras;47/64;;Inglês;NM
+Quagsire ;48/64;;Inglês;SP
+Qwilfish ;49/64;;Inglês;NM
+Qwilfish ;49/64;;Inglês;SP
+Qwilfish ;49/64;;Inglês;SP
+Remoraid ;50/64;;Inglês;SP
+Remoraid ;50/64;;Inglês;SP
+Shuckle;51/64;;Inglês;SP
+Skiploom ;52/64;;Inglês;SP
+Slugma ;53/64;;Inglês;D
+Slugma ;53/64;;Inglês;SP
+Smoochum ;54/64;;Inglês;NM
+Snubbull ;55/64;;Inglês;SP
+Staryu ;56/64;;Inglês;MP
+Swinub ;57/64;;Inglês;NM
+Swinub ;57/64;;Inglês;SP
+Unown K;58/64;;Inglês;MP
+Zubat;59/64;;;
+Balloon Berry;60/64;;Inglês;SP
+Healing Field;61/64;;Inglês;D
+Pokémon Breeder Fields ;62/64;;Inglês;SP
+Rocket's Hideout ;63/64;;Inglês;NM
+Rocket's Hideout ;63/64;;Inglês;SP
+Old Rod;64/64;;Inglês;NM
+Shining Gyarados ;65/64;;;
+Shining Magikarp;66/64;;;
+Alakazam;1/165;Foil;Inglês;NM
+Ampharos;2/165;;;
+Arbok ;3/165;;;
+Blastoise ;4/165;;;
+Butterfree;5/165;;;
+Charizard ;6/165;;;
+Clefable;7/165;;;
+Cloyster;8/165;;;
+Dragonite ;9/165;;;
+Dugtrio ;10/165;;;
+Fearow;11/165;;;
+Feraligatr;12/165;;;
+Gengar;13/165;;;
+Golem ;14/165;;;
+Kingler ;15/165;;;
+Machamp ;16/165;;;
+Magby ;17/165;Foil;Inglês;NM
+Meganium;18/165;;;
+Mew ;19/165;Foil;Inglês;NM
+Mewtwo;20/165;;;
+Ninetales ;21/165;Foil;Inglês;NM
+Pichu ;22/165;;;
+Pidgeot ;23/165;;;
+Poliwrath ;24/165;;;
+Raichu;25/165;;;
+Rapidash;26/165;;;
+Skarmory;27/165;;;
+Typhlosion;28/165;;;
+Tyranitar ;29/165;Reverse Foil;Inglês;NM
+Venusaur;30/165;;;
+Vileplume ;31/165;;;
+Weezing ;32/165;;;
+Alakazam;33/165;;Inglês;M
+Alakazam;33/165;;Inglês;NM
+Ampharos;34/165;;;
+Arbok ;35/165;;Inglês;NM
+Blastoise ;36/165;;;
+Blastoise ;37/165;;;
+Butterfree;38/165;;;
+Charizard ;39/165;;;
+Charizard ;40/165;;;
+Clefable;41/165;Reverse Foil;Inglês;NM
+Clefable;41/165;;Inglês;M
+Cloyster;42/165;;;
+Dragonite ;43/165;;;
+Dugtrio ;44/165;;;
+Fearow;45/165;;Inglês;NM
+Feraligatr;46/165;;;
+Feraligatr;47/165;;Inglês;NM
+Gengar;48/165;;;
+Golem ;49/165;;;
+Kingler ;50/165;;;
+Machamp ;51/165;;Inglês;NM
+Magby ;52/165;;;
+Meganium;53/165;;;
+Meganium;54/165;;;
+Mew ;55/165;;Inglês;NM
+Mewtwo;56/165;;;
+Ninetales ;57/165;;;
+Pichu ;58/165;;;
+Pidgeot ;59/165;;;
+Poliwrath ;60/165;;;
+Raichu;61/165;;;
+Rapidash;62/165;;Inglês;D
+Skarmory;63/165;;;
+Typhlosion;64/165;;;
+Typhlosion;65/165;;Inglês;SP
+Tyranitar ;66/165;;;
+Venusaur;67/165;;;
+Venusaur;68/165;;;
+Vileplume ;69/165;;;
+Weezing ;70/165;;;
+Bayleef ;71/165;;Inglês;SP
+Chansey ;72/165;;Inglês;M
+Chansey ;72/165;;Inglês;M
+Charmeleon;73/165;;;
+Croconaw;74/165;;Inglês;NM
+Dragonair ;75/165;Reverse Foil;Inglês;NM
+Electabuzz;76/165;;;
+Flaaffy ;77/165;;;
+Gloom ;78/165;;;
+Graveler;79/165;;;
+Haunter ;80/165;;Inglês;NM
+Haunter ;80/165;;Inglês;NM
+Hitmonlee ;81/165;;;
+Ivysaur ;82/165;;Inglês;NM
+Jynx;83/165;;;
+Kadabra ;84/165;;Inglês;M
+Kadabra ;84/165;;Inglês;NM
+Machoke ;85/165;;Inglês;NM
+Magmar;86/165;;Inglês;SP
+Magmar;86/165;;Inglês;SP
+Metapod ;87/165;;Inglês;NM
+Metapod ;87/165;;Inglês;SP
+Pidgeotto ;88/165;;;
+Poliwhirl ;89/165;;Inglês;SP
+Pupitar ;90/165;;;
+Quilava ;91/165;;;
+Wartortle ;92/165;Reverse Foil;Inglês;NM
+Abra;93/165;;Inglês;NM
+Abra;93/165;;Inglês;NM
+Abra;93/165;;Inglês;NM
+Abra;93/165;;Inglês;NM
+Bulbasaur ;94/165;;Inglês;NM
+Bulbasaur ;95/165;;;
+Caterpie;96/165;;;
+Charmander;97/165;;;
+Charmander;98/165;;;
+Chikorita ;99/165;;Inglês;NM
+Chikorita ;100/165;;Inglês;D
+Clefairy;101/165;;Inglês;M
+Clefairy;101/165;;Inglês;M
+Clefairy;101/165;;Inglês;NM
+Corsola ;102/165;;Inglês;NM
+Corsola ;102/165;;Inglês;NM
+Cubone;103/165;;;
+Cyndaquil ;104/165;;Inglês;NM
+Cyndaquil ;105/165;Reverse Foil;Inglês;NM
+Cyndaquil ;105/165;;Inglês;NM
+Diglett ;106/165;;;
+Dratini ;107/165;;;
+Ekans ;108/165;;Inglês;NM
+Gastly;109/165;;Inglês;NM
+Gastly;109/165;;Inglês;NM
+Gastly;109/165;;Inglês;NM
+Gastly;109/165;;Inglês;NM
+Geodude ;110/165;;Inglês;NM
+Geodude ;110/165;;Inglês;SP
+Geodude ;110/165;;Inglês;SP
+Goldeen ;111/165;;;
+Hoppip;112/165;;;
+Houndour;113/165;;;
+Koffing ;114/165;;;
+Krabby;115/165;;Inglês;NM
+Krabby;115/165;;Inglês;D
+Larvitar;116/165;;;
+Machop;117/165;;Inglês;NM
+Magikarp;118/165;;;
+Mareep;119/165;;;
+Marill;120/165;;Inglês;NM
+Marill;120/165;;Inglês;NM
+Marill;120/165;;Inglês;SP
+Meowth;121/165;;Inglês;NM
+Meowth;121/165;;Inglês;NM
+Oddish;122/165;;;
+Pidgey;123/165;;Inglês;NM
+Pikachu ;124/165;;;
+Poliwag ;125/165;;;
+Ponyta;126/165;;Inglês;SP
+Qwilfish;127/165;;;
+Rattata ;128/165;;;
+Shellder;129/165;;Inglês;NM
+Spearow ;130/165;;Inglês;MP
+Squirtle;131/165;;;
+Squirtle;132/165;;Inglês;NM
+Tauros;133/165;;Inglês;D
+Totodile;134/165;;;
+Totodile;135/165;Reverse Foil;Inglês;NM
+Totodile;135/165;;Inglês;NM
+Vulpix;136/165;;Inglês;NM
+Vulpix;136/165;;Inglês;SP
+Bill's Maintenance;137/165;;;
+Copycat ;138/165;Reverse Foil;Inglês;NM
+Copycat ;138/165;;Inglês;NM
+Copycat ;138/165;;Inglês;NM
+Dual Ball ;139/165;;;
+Energy Removal 2;140/165;;;
+Energy Restore;141/165;;;
+Mary's Impulse;142/165;;;
+Master Ball ;143/165;;;
+Multi Technical Machine 01;144/165;;;
+Pokémon Nurse ;145/165;;Inglês;NM
+Pokémon Reversal;146/165;;Inglês;NM
+Power Charge;147/165;;;
+Professor Elm's Training Method ;148/165;;Inglês;NM
+Professor Elm's Training Method ;148/165;;Inglês;NM
+Professor Elm's Training Method ;148/165;;Inglês;D
+Professor Oak's Research;149/165;;;
+Strength Charm;150/165;Reverse Foil;Inglês;MP
+Strength Charm;150/165;;Inglês;MP
+Super Scoop Up;151/165;;Inglês;SP
+Warp Point;152/165;;Inglês;NM
+Energy Search ;153/165;;Inglês;NM
+Energy Search ;153/165;;Inglês;NM
+Energy Search ;153/165;;Inglês;NM
+Full Heal ;154/165;;Inglês;NM
+Full Heal ;154/165;;Inglês;NM
+Full Heal ;154/165;;Inglês;NM
+Moo-Moo Milk;155/165;;Inglês;NM
+Moo-Moo Milk;155/165;;Inglês;NM
+Moo-Moo Milk;155/165;;Inglês;NM
+Moo-Moo Milk;155/165;;Inglês;NM
+Moo-Moo Milk;155/165;;Inglês;MP
+Potion;156/165;;Inglês;NM
+Potion;156/165;;Inglês;D
+Switch;157/165;;;
+Darkness Energy ;158/165;;;
+Metal Energy;159/165;;Inglês;SP
+Fighting Energy ;160/165;;Inglês;NM
+Fighting Energy ;160/165;;Inglês;NM
+Fire Energy ;161/165;;Inglês;NM
+Fire Energy ;161/165;;Inglês;SP
+Grass Energy;162/165;;Inglês;NM
+Grass Energy;162/165;;Inglês;NM
+Lightning Energy;163/165;;Inglês;NM
+Lightning Energy;163/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;M
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Psychic Energy;164/165;;Inglês;NM
+Water Energy;165/165;;Inglês;NM
+Water Energy;165/165;;Inglês;NM
+Team Aqua's Cacturne ;1/95;;;
+Team Aqua's Crawdaunt;2/95;Foil;Inglês;NM
+Team Aqua's Kyogre ;3/95;Foil;Inglês;M
+Team Aqua's Manectric;4/95;;;
+Team Aqua's Sharpedo ;5/95;;;
+Team Aqua's Walrein;6/95;;;
+Team Magma's Aggron;7/95;;;
+Team Magma's Claydol ;8/95;Reverse Foil;Inglês;NM
+Team Magma's Groudon ;9/95;;;
+Team Magma's Houndoom;10/95;;;
+Team Magma's Rhydon;11/95;;;
+Team Magma's Torkoal ;12/95;;;
+Raichu ;13/95;;;
+Team Aqua's Crawdaunt;14/95;;;
+Team Aqua's Mightyena;15/95;;Inglês;NM
+Team Aqua's Sealeo ;16/95;;;
+Team Aqua's Seviper;17/95;;Inglês;D
+Team Aqua's Sharpedo ;18/95;;;
+Team Magma's Camerupt;19/95;;;
+Team Magma's Lairon;20/95;;;
+Team Magma's Mightyena ;21/95;;;
+Team Magma's Rhydon;22/95;;;
+Team Magma's Zangoose;23/95;;;
+Team Aqua's Cacnea ;24/95;;;
+Team Aqua's Carvanha ;25/95;;;
+Team Aqua's Corphish ;26/95;;;
+Team Aqua's Electrike;27/95;;;
+Team Aqua's Lanturn;28/95;;Inglês;NM
+Team Aqua's Manectric;29/95;;;
+Team Aqua's Mightyena;30/95;;Inglês;M
+Team Aqua's Sealeo ;31/95;;Inglês;NM
+Team Magma's Baltoy;32/95;;;
+Team Magma's Claydol ;33/95;;;
+Team Magma's Houndoom;34/95;;Inglês;M
+Team Magma's Houndoom;34/95;;Inglês;NM
+Team Magma's Houndour;35/95;;Inglês;NM
+Team Magma's Lairon;36/95;;;
+Team Magma's Mightyena ;37/95;;;
+Team Magma's Rhyhorn ;38/95;;Inglês;NM
+Bulbasaur;39/95;;Inglês;NM
+Cubone ;40/95;;Inglês;NM
+Cubone ;40/95;;Inglês;SP
+Jigglypuff ;41/95;;Inglês;NM
+Jigglypuff ;41/95;;Inglês;NM
+Meowth ;42/95;;;
+Pikachu;43/95;;Inglês;M
+Psyduck;44/95;;;
+Slowpoke ;45/95;;Inglês;M
+Squirtle ;46/95;;;
+Team Aqua's Carvanha ;47/95;;;
+Team Aqua's Carvanha ;48/95;;Inglês;NM
+Team Aqua's Chinchou ;49/95;;;
+Team Aqua's Corphish ;50/95;;;
+Team Aqua's Corphish ;51/95;;;
+Team Aqua's Electrike;52/95;;;
+Team Aqua's Electrike;53/95;;Inglês;NM
+Team Aqua's Electrike;53/95;;Inglês;NM
+Team Aqua's Poochyena;54/95;;;
+Team Aqua's Poochyena;55/95;;Inglês;NM
+Team Aqua's Spheal ;56/95;;Inglês;NM
+Team Aqua's Spheal ;57/95;;;
+Team Magma's Aron;58/95;;;
+Team Magma's Aron;59/95;;;
+Team Magma's Baltoy;60/95;;Inglês;M
+Team Magma's Baltoy;60/95;;Inglês;NM
+Team Magma's Baltoy;61/95;;;
+Team Magma's Houndour;62/95;Reverse Foil;Inglês;NM
+Team Magma's Houndour;62/95;Reverse Foil;Inglês;NM
+Team Magma's Houndour;63/95;;;
+Team Magma's Numel ;64/95;;Inglês;SP
+Team Magma's Poochyena ;65/95;;Inglês;M
+Team Magma's Poochyena ;66/95;;Inglês;NM
+Team Magma's Rhyhorn ;67/95;;;
+Team Magma's Rhyhorn ;68/95;;;
+Team Aqua Schemer;69/95;;Inglês;NM
+Team Aqua Schemer;69/95;;Inglês;NM
+Team Magma Schemer ;70/95;;;
+Archie ;71/95;;;
+Dual Ball;72/95;;;
+Maxie;73/95;;;
+Strength Charm ;74/95;;;
+Team Aqua Ball ;75/95;;;
+Team Aqua Belt ;76/95;;;
+Team Aqua Conspirator;77/95;;;
+Team Aqua Hideout;78/95;;;
+Team Aqua Technical Machine 01 ;79/95;;;
+Team Magma Ball;80/95;;;
+Team Magma Belt;81/95;Reverse Foil;Inglês;NM
+Team Magma Conspirator ;82/95;;;
+Team Magma Hideout ;83/95;;Inglês;NM
+Team Magma Technical Machine 01;84/95;;;
+Warp Point ;85/95;;;
+Aqua Energy;86/95;;;
+Magma Energy ;87/95;;;
+Double Rainbow Energy;88/95;;;
+Blaziken ex;89/95;;;
+Cradily ex ;90/95;;;
+Entei ex ;91/95;;;
+Raikou ex;92/95;;;
+Sceptile ex;93/95;;;
+Suicune ex ;94/95;;;
+Swampert ex;95/95;;;
+Absol;96/95;;;
+Jirachi;97/95;;;
+Ampharos;H1/H32;;;
+Arcanine;H2/H32;;;
+Ariados ;H3/H32;;;
+Azumarill ;H4/H32;;;
+Bellossom ;H5/H32;;;
+Blissey ;H6/H32;;;
+Electrode ;H7/H32;;;
+Entei ;H8/H32;;;
+Espeon;H9/H32;;;
+Exeggutor ;H10/H32;;;
+Houndoom;H11/H32;;;
+Hypno ;H12/H32;;;
+Jumpluff;H13/H32;;;
+Kingdra ;H14/H32;;;
+Lanturn ;H15/H32;;;
+Magneton;H16/H32;;;
+Muk ;H17/H32;;;
+Nidoking;H18/H32;;;
+Ninetales ;H19/H32;;;
+Octillery ;H20/H32;;;
+Scizor;H21/H32;;;
+Slowking;H22/H32;;;
+Steelix ;H23/H32;;;
+Sudowoodo ;H24/H32;;;
+Suicune ;H25/H32;;;
+Tentacruel;H26/H32;Foil;Inglês;M
+Togetic ;H27/H32;;;
+Tyranitar ;H28/H32;;;
+Umbreon ;H29/H32;;;
+Victreebel;H30/H32;;;
+Vileplume ;H31/H32;;;
+Zapdos;H32/H32;;;
+Ampharos;1/147;;;
+Arcanine;2/147;;;
+Ariados ;3/147;;;
+Azumarill ;4/147;;;
+Bellossom ;5/147;;;
+Blissey ;6/147;;;
+Donphan ;7/147;;;
+Electrode ;8/147;;;
+Elekid;9/147;;;
+Entei ;10/147;;;
+Espeon;11/147;;;
+Exeggutor ;12/147;;;
+Exeggutor ;13/147;;;
+Houndoom;14/147;;;
+Houndoom;15/147;;;
+Hypno ;16/147;;;
+Jumpluff;17/147;;;
+Jynx;18/147;;;
+Kingdra ;19/147;;;
+Lanturn ;20/147;;;
+Lanturn ;21/147;;;
+Magneton;22/147;;;
+Muk ;23/147;;;
+Nidoking;24/147;;;
+Ninetales ;25/147;;;
+Octillery ;26/147;;;
+Parasect;27/147;;;
+Porygon2;28/147;;;
+Primeape;29/147;;;
+Quagsire;30/147;;;
+Rapidash;31/147;;;
+Scizor;32/147;;Inglês;NM
+Slowbro ;33/147;;;
+Slowking;34/147;;;
+Steelix ;35/147;;;
+Sudowoodo ;36/147;;;
+Suicune ;37/147;;;
+Tentacruel;38/147;;;
+Togetic ;39/147;;;
+Tyranitar ;40/147;;;
+Umbreon ;41/147;;;
+Victreebel;42/147;;;
+Vileplume ;43/147;;;
+Zapdos;44/147;;;
+Bellsprout;45/147;;;
+Dodrio;46/147;;;
+Flaaffy ;47/147;;;
+Furret;48/147;;;
+Gloom ;49/147;;;
+Golduck ;50/147;;;
+Growlithe ;51/147;;;
+Magnemite ;52/147;Reverse Foil;Inglês;NM
+Marill;53/147;;;
+Marowak ;54/147;;;
+Nidorino;55/147;;;
+Pupitar ;56/147;;;
+Scyther ;57/147;;;
+Seadra;58/147;;;
+Seaking ;59/147;;;
+Skiploom;60/147;;;
+Smoochum;61/147;;;
+Spinarak;62/147;;;
+Tyrogue ;63/147;;;
+Voltorb ;64/147;;;
+Weepinbell;65/147;;;
+Wooper;66/147;;;
+Aipom ;67/147;;;
+Bellsprout;68/147;;;
+Chansey ;69/147;;;
+Chinchou;70/147;;;
+Chinchou;71/147;;;
+Cubone;72/147;;;
+Doduo ;73/147;;Inglês;SP
+Drowzee ;74/147;;;
+Eevee ;75/147;;;
+Exeggcute ;76/147;;;
+Exeggcute ;77/147;;Inglês;NM
+Goldeen ;78/147;;;
+Grimer;79/147;;;
+Growlithe ;80/147;;;
+Hitmonchan;81/147;;;
+Hitmontop ;82/147;;;
+Hoppip;83/147;;;
+Horsea;84/147;;;
+Horsea;85/147;;;
+Houndour;86/147;;;
+Houndour;87/147;;;
+Kangaskhan;88/147;;;
+Larvitar;89/147;;;
+Lickitung ;90/147;;;
+Magnemite ;91/147;;;
+Mankey;92/147;;;
+Mareep;93/147;;;
+Miltank ;94/147;;Inglês;NM
+Mr. Mime;95/147;;;
+Nidoran♂;96/147;;;
+Oddish;97/147;;;
+Onix;98/147;;;
+Paras ;99/147;;;
+Phanpy;100/147;;;
+Pinsir;101/147;;;
+Ponyta;102/147;;;
+Porygon ;103/147;;;
+Psyduck ;104/147;;;
+Remoraid;105/147;;;
+Scyther ;106/147;;;
+Sentret ;107/147;;Inglês;NM
+Slowpoke;108/147;;;
+Smeargle;109/147;;;
+Sneasel ;110/147;;;
+Spinarak;111/147;;;
+Tangela ;112/147;;;
+Tentacool ;113/147;;;
+Togepi;114/147;;;
+Voltorb ;115/147;;;
+Vulpix;116/147;;;
+Wooper;117/147;;;
+Apricorn Forest ;118/147;;;
+Darkness Cube 01;119/147;;;
+Energy Switch ;120/147;;;
+Fighting Cube 01;121/147;;;
+Fire Cube 01;122/147;;;
+Forest Guardian ;123/147;;;
+Grass Cube 01 ;124/147;;;
+Healing Berry ;125/147;;;
+Juggler ;126/147;;;
+Lightning Cube 01 ;127/147;;;
+Memory Berry;128/147;;;
+Metal Cube 01 ;129/147;;;
+Pokémon Fan Club;130/147;;;
+Pokémon Park;131/147;;;
+Psychic Cube 01 ;132/147;;;
+Seer;133/147;;;
+Super Energy Removal 2;134/147;;;
+Time Shard;135/147;;Inglês;NM
+Town Volunteers ;136/147;;;
+Traveling Salesman;137/147;;;
+Undersea Ruins;138/147;;;
+Power Plant ;139/147;;;
+Water Cube 01 ;140/147;;;
+Weakness Guard;141/147;;;
+Darkness Energy ;142/147;;;
+Metal Energy;143/147;;;
+Rainbow Energy;144/147;;;
+Boost Energy;145/147;;;
+Crystal Energy;146/147;;;
+Warp Energy ;147/147;;Inglês;SP
+Kingdra ;148/147;;;
+Lugia ;149/147;;;
+Nidoking;150/147;;;
+Altaria;1/107;;;
+Beautifly;2/107;;;
+Breloom;3/107;;;
+Camerupt ;4/107;Reverse Foil;Português;D
+Camerupt ;4/107;Foil;Português;NM
+Camerupt ;4/107;Foil;Português;NM
+Claydol;5/107;;;
+Crawdaunt;6/107;;;
+Dusclops ;7/107;;;
+Gyarados ;8/107;;;
+Jirachi;9/107;;;
+Ludicolo ;10/107;Foil;Português;NM
+Metagross;11/107;;;
+Mightyena;12/107;;;
+Ninjask;13/107;Reverse Foil;Português;NM
+Shedinja ;14/107;Foil;Português;M
+Slaking;15/107;Reverse Foil;Português;M
+Deoxys ;16/107;;Português;M
+Deoxys ;17/107;;Português;NM
+Deoxys ;18/107;;Português;NM
+Ludicolo ;19/107;Reverse Foil;Português;NM
+Ludicolo ;19/107;;Português;NM
+Magcargo ;20/107;;Português;NM
+Pelipper ;21/107;Reverse Foil;Português;M
+Pelipper ;21/107;;Português;NM
+Rayquaza ;22/107;;Português;D
+Sableye;23/107;;Português;NM
+Seaking;24/107;;Português;M
+Shiftry;25/107;;Português;NM
+Skarmory ;26/107;;;
+Tropius;27/107;;Português;NM
+Tropius;27/107;;Português;NM
+Whiscash ;28/107;;;
+Xatu ;29/107;;;
+Donphan;30/107;;;
+Golbat ;31/107;;Português;NM
+Grumpig;32/107;;;
+Lombre ;33/107;;Português;NM
+Lombre ;34/107;;;
+Lotad;35/107;;;
+Lunatone ;36/107;;;
+Magcargo ;37/107;;;
+Manectric;38/107;;Português;NM
+Manectric;38/107;;Português;NM
+Masquerain ;39/107;;Português;M
+Masquerain ;39/107;;Português;NM
+Metang ;40/107;;;
+Minun;41/107;;Português;NM
+Minun;41/107;;Português;NM
+Nosepass ;42/107;;;
+Nuzleaf;43/107;;;
+Plusle ;44/107;;;
+Shelgon;45/107;;;
+Silcoon;46/107;;Português;M
+Silcoon;46/107;;Português;NM
+Solrock;47/107;;Português;SP
+Starmie;48/107;;Português;M
+Swellow;49/107;Reverse Foil;Português;M
+Vigoroth ;50/107;;;
+Weezing;51/107;;;
+Bagon;52/107;;Português;NM
+Bagon;52/107;;Português;NM
+Bagon;52/107;Reverse Foil;Português;M
+Baltoy ;53/107;;Português;NM
+Baltoy ;53/107;;Português;SP
+Barboach ;54/107;;;
+Beldum ;55/107;;Português;NM
+Beldum ;55/107;;Português;NM
+Beldum ;55/107;;Português;NM
+Beldum ;55/107;;Português;NM
+Carvanha ;56/107;;Português;NM
+Carvanha ;56/107;;Português;NM
+Carvanha ;56/107;;Português;NM
+Carvanha ;56/107;;Português;NM
+Corphish ;57/107;;Português;NM
+Duskull;58/107;;Português;NM
+Duskull;58/107;;Português;NM
+Duskull;58/107;;Português;NM
+Electrike;59/107;;;
+Electrike;60/107;;;
+Goldeen;61/107;;Português;NM
+Goldeen;61/107;;Português;NM
+Goldeen;61/107;;Português;NM
+Goldeen;61/107;;Português;NM
+Koffing;62/107;Reverse Foil;Português;NM
+Lotad;63/107;;Português;NM
+Lotad;63/107;;Português;NM
+Lotad;63/107;;Português;NM
+Lotad;63/107;;Português;NM
+Magikarp ;64/107;;Português;NM
+Magikarp ;64/107;;Português;NM
+Makuhita ;65/107;;Português;NM
+Natu ;66/107;;Português;NM
+Natu ;66/107;;Português;NM
+Nincada;67/107;;;
+Numel;68/107;;Português;NM
+Numel;68/107;;Português;NM
+Numel;68/107;;Português;NM
+Numel;68/107;;Português;NM
+Phanpy ;69/107;;Português;NM
+Phanpy ;69/107;;Português;NM
+Poochyena;70/107;;Português;NM
+Poochyena;70/107;;Português;NM
+Seedot ;71/107;;Português;NM
+Seedot ;71/107;;Português;NM
+Seedot ;71/107;;Português;NM
+Seedot ;71/107;;Português;NM
+Shroomish;72/107;;Português;NM
+Shroomish;72/107;;Português;NM
+Shroomish;72/107;;Português;NM
+Slakoth;73/107;;Português;NM
+Slugma ;74/107;;Português;NM
+Slugma ;74/107;;Português;NM
+Slugma ;75/107;;Português;NM
+Spoink ;76/107;;Português;NM
+Staryu ;77/107;Reverse Foil;Português;M
+Surskit;78/107;;Português;NM
+Swablu ;79/107;;Português;NM
+Taillow;80/107;;Português;SP
+Wingull;81/107;;;
+Wurmple;82/107;;Português;NM
+Wurmple;82/107;;Português;NM
+Zubat;83/107;;Português;NM
+Zubat;83/107;;Português;NM
+Zubat;83/107;;Português;NM
+Zubat;83/107;;Português;SP
+Balloon Berry;84/107;;Português;SP
+Crystal Shard;85/107;;;
+Energy Charge;86/107;;;
+Lady Outing;87/107;;Português;NM
+Master Ball;88/107;;Português;D
+Meteor Falls ;89/107;;Português;NM
+Meteor Falls ;89/107;;Português;NM
+Meteor Falls ;89/107;;Português;SP
+Professor Cozmo's Discovery;90/107;;Português;NM
+Space Center ;91/107;;;
+Strength Charm ;92/107;;;
+Boost Energy ;93/107;;;
+Heal Energy;94/107;;Português;NM
+Scramble Energy;95/107;;Português;M
+Crobat ex;96/107;;;
+Deoxys ex;97/107;Foil;Português;NM
+Deoxys ex;98/107;;;
+Deoxys ex;99/107;;;
+Hariyama ex;100/107;;;
+Manectric ex ;101/107;;;
+Rayquaza ex;102/107;;;
+Salamence ex ;103/107;;;
+Sharpedo ex;104/107;;;
+Latias Star;105/107;;;
+Latios Star;106/107;;;
+Rayquaza Star;107/107;;;
+Rocket's Raikou ex ;108/107;;;
+Aggron ;1/109;;;
+Beautifly;2/109;;;
+Blaziken ;3/109;;;
+Camerupt ;4/109;Foil;Inglês;NM
+Delcatty ;5/109;;;
+Dustox ;6/109;;;
+Gardevoir;7/109;;;
+Hariyama ;8/109;;;
+Manectric;9/109;Foil;Inglês;SP
+Mightyena;10/109;;;
+Sceptile ;11/109;;;
+Slaking;12/109;;;
+Swampert ;13/109;;;
+Wailord;14/109;Foil;Inglês;NM
+Wailord;14/109;Foil;Inglês;NM
+Blaziken ;15/109;;Inglês;M
+Blaziken ;15/109;;Inglês;NM
+Breloom;16/109;;;
+Donphan;17/109;;Inglês;SP
+Nosepass ;18/109;;Português;NM
+Pelipper ;19/109;;Inglês;NM
+Sceptile ;20/109;;Português;NM
+Seaking;21/109;;;
+Sharpedo ;22/109;;;
+Swampert ;23/109;Reverse Foil;Inglês;SP
+Swampert ;23/109;;Inglês;NM
+Weezing;24/109;;Inglês;NM
+Aron ;25/109;;;
+Cascoon;26/109;;;
+Combusken;27/109;;Inglês;NM
+Combusken;28/109;;Inglês;NM
+Delcatty ;29/109;;Inglês;NM
+Delcatty ;29/109;;Inglês;NM
+Electrike;30/109;;Inglês;SP
+Grovyle;31/109;;Inglês;NM
+Grovyle;31/109;;Inglês;NM
+Grovyle;32/109;;;
+Hariyama ;33/109;;Inglês;NM
+Hariyama ;33/109;;Inglês;NM
+Hariyama ;33/109;Reverse Foil;Português;D
+Kirlia ;34/109;;;
+Kirlia ;35/109;;;
+Lairon ;36/109;;;
+Lairon ;37/109;;;
+Linoone;38/109;;;
+Manectric;39/109;;;
+Marshtomp;40/109;;Inglês;NM
+Marshtomp;40/109;;Inglês;NM
+Marshtomp;40/109;Reverse Foil;Inglês;D
+Marshtomp;41/109;;;
+Mightyena;42/109;;;
+Silcoon;43/109;;Inglês;NM
+Skitty ;44/109;;Inglês;SP
+Slakoth;45/109;;;
+Swellow;46/109;;Inglês;NM
+Swellow;46/109;;Inglês;NM
+Swellow;46/109;;Inglês;NM
+Vigoroth ;47/109;;;
+Wailmer;48/109;;Inglês;NM
+Wailmer;48/109;;Inglês;NM
+Aron ;49/109;;Inglês;NM
+Aron ;49/109;;Inglês;NM
+Aron ;49/109;;Inglês;SP
+Aron ;50/109;;Inglês;SP
+Carvanha ;51/109;;;
+Electrike;52/109;;;
+Electrike;53/109;;Português;NM
+Koffing;54/109;;Inglês;NM
+Koffing;54/109;;Inglês;NM
+Koffing;54/109;;Inglês;NM
+Koffing;54/109;;Inglês;NM
+Goldeen;55/109;;Inglês;NM
+Makuhita ;56/109;Reverse Foil;Inglês;NM
+Makuhita ;56/109;;Inglês;NM
+Makuhita ;56/109;;Inglês;NM
+Makuhita ;56/109;;Inglês;SP
+Makuhita ;56/109;;Inglês;MP
+Makuhita ;57/109;;Inglês;NM
+Makuhita ;58/109;;;
+Mudkip ;59/109;;Inglês;NM
+Mudkip ;60/109;;Inglês;NM
+Mudkip ;60/109;;Inglês;NM
+Mudkip ;60/109;;Inglês;NM
+Mudkip ;60/109;;Inglês;NM
+Mudkip ;60/109;;Inglês;NM
+Numel;61/109;;;
+Phanpy ;62/109;;Inglês;NM
+Poochyena;63/109;;Inglês;NM
+Poochyena;63/109;;Inglês;NM
+Poochyena;64/109;;;
+Poochyena;65/109;;;
+Ralts;66/109;;;
+Ralts;67/109;;;
+Ralts;68/109;;;
+Shroomish;69/109;;Inglês;NM
+Shroomish;69/109;;Inglês;NM
+Shroomish;69/109;;Inglês;NM
+Skitty ;70/109;;Inglês;NM
+Skitty ;70/109;;Inglês;NM
+Skitty ;70/109;;Inglês;NM
+Skitty ;70/109;;Inglês;NM
+Skitty ;71/109;;;
+Taillow;72/109;;Inglês;NM
+Taillow;72/109;;Inglês;NM
+Taillow;72/109;;Inglês;NM
+Torchic;73/109;;Inglês;NM
+Torchic;73/109;;Inglês;NM
+Torchic;73/109;;Inglês;NM
+Torchic;73/109;;Inglês;NM
+Torchic;73/109;;Inglês;NM
+Torchic;74/109;;Inglês;NM
+Torchic;74/109;;Português;NM
+Torchic;74/109;;Português;SP
+Treecko;75/109;;Inglês;NM
+Treecko;75/109;;Inglês;NM
+Treecko;75/109;;Inglês;NM
+Treecko;75/109;;Inglês;NM
+Treecko;76/109;;Inglês;NM
+Treecko;76/109;;Inglês;NM
+Wingull;77/109;;Inglês;NM
+Wingull;77/109;;Inglês;NM
+Wingull;77/109;;Inglês;SP
+Wingull;77/109;;Inglês;SP
+Wurmple;78/109;;;
+Zigzagoon;79/109;;Inglês;NM
+Energy Removal 2 ;80/109;;Inglês;NM
+Energy Removal 2 ;80/109;;Inglês;NM
+Energy Removal 2 ;80/109;;Inglês;NM
+Energy Restore ;81/109;;;
+Energy Switch;82/109;;Português;NM
+Lady Outing;83/109;;;
+Lum Berry;84/109;;Inglês;NM
+Oran Berry ;85/109;;;
+Poké Ball;86/109;;Inglês;NM
+Poké Ball;86/109;;Inglês;NM
+Pokémon Reversal ;87/109;;Inglês;NM
+Pokémon Reversal ;87/109;;Inglês;NM
+PokéNav;88/109;;Inglês;NM
+PokéNav;88/109;;Inglês;NM
+Professor Birch;89/109;;Inglês;NM
+Professor Birch;89/109;;Inglês;D
+Energy Search;90/109;;Inglês;NM
+Energy Search;90/109;;Inglês;NM
+Energy Search;90/109;;Inglês;NM
+Energy Search;90/109;;Inglês;NM
+Energy Search;90/109;;Inglês;NM
+Energy Search;90/109;;Inglês;NM
+Energy Search;90/109;;Inglês;NM
+Energy Search;90/109;;Inglês;NM
+Energy Search;90/109;;Inglês;NM
+Potion ;91/109;;Inglês;NM
+Potion ;91/109;;Inglês;NM
+Potion ;91/109;;Inglês;NM
+Potion ;91/109;;Inglês;NM
+Potion ;91/109;;Inglês;NM
+Potion ;91/109;;Inglês;NM
+Potion ;91/109;;Inglês;NM
+Potion ;91/109;;Inglês;NM
+Potion ;91/109;;Inglês;NM
+Switch ;92/109;;;
+Darkness Energy;93/109;Reverse Foil;Inglês;NM
+Metal Energy ;94/109;;Inglês;SP
+Rainbow Energy ;95/109;;Inglês;NM
+Rainbow Energy ;95/109;;Inglês;NM
+Chansey ex ;96/109;;;
+Electabuzz ex;97/109;;;
+Hitmonchan ex;98/109;;;
+Lapras ex;99/109;;;
+Magmar ex;100/109;;;
+Mewtwo ex;101/109;;;
+Scyther ex ;102/109;;;
+Sneasel ex ;103/109;;;
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;NM
+Grass Energy ;104/109;;Inglês;SP
+Grass Energy ;104/109;;Inglês;SP
+Grass Energy ;104/109;;Inglês;SP
+Grass Energy ;104/109;;Inglês;SP
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;NM
+Fighting Energy;105/109;;Inglês;SP
+Fighting Energy;105/109;;Inglês;SP
+Fighting Energy;105/109;;Inglês;SP
+Fighting Energy;105/109;;Inglês;SP
+Fighting Energy;105/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;NM
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;SP
+Water Energy ;106/109;;Inglês;MP
+Water Energy ;106/109;;Inglês;MP
+Water Energy ;106/109;;Inglês;MP
+Water Energy ;106/109;;Inglês;MP
+Water Energy ;106/109;;Inglês;MP
+Water Energy ;106/109;;Inglês;MP
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;NM
+Psychic Energy ;107/109;;Inglês;SP
+Psychic Energy ;107/109;;Inglês;SP
+Psychic Energy ;107/109;;Inglês;SP
+Psychic Energy ;107/109;;Inglês;SP
+Psychic Energy ;107/109;;Inglês;SP
+Psychic Energy ;107/109;;Inglês;D
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;NM
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;SP
+Fire Energy;108/109;;Inglês;D
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;NM
+Lightning Energy ;109/109;;Inglês;SP
+Lightning Energy ;109/109;;Inglês;SP
+Lightning Energy ;109/109;;Inglês;SP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;MP
+Lightning Energy ;109/109;;Inglês;D
+Lightning Energy ;109/109;;Inglês;D
+Azumarill ;1/109;;;
+Dark Ampharos ;2/109;;;
+Dark Crobat ;3/109;;;
+Dark Electrode;4/109;;;
+Dark Houndoom ;5/109;;;
+Dark Hypno;6/109;;;
+Dark Marowak;7/109;;;
+Dark Octillery;8/109;;;
+Dark Slowking ;9/109;;;
+Dark Steelix;10/109;;;
+Jumpluff;11/109;;;
+Kingdra ;12/109;;;
+Piloswine ;13/109;Foil;Português;NM
+Togetic ;14/109;;;
+Dark Dragonite;15/109;;Português;M
+Dark Dragonite;15/109;;Português;NM
+Dark Muk;16/109;;;
+Dark Raticate ;17/109;;Português;NM
+Dark Sandslash;18/109;;;
+Dark Tyranitar;19/109;;;
+Dark Tyranitar;20/109;;Português;NM
+Delibird;21/109;;Português;M
+Furret;22/109;;Português;NM
+Ledian;23/109;;Português;NM
+Ledian;23/109;;Português;NM
+Magby ;24/109;;Português;NM
+Misdreavus;25/109;;;
+Quagsire;26/109;;Português;NM
+Qwilfish;27/109;;Português;NM
+Yanma ;28/109;;Português;NM
+Yanma ;28/109;;Português;SP
+Dark Arbok;29/109;;Português;NM
+Dark Ariados;30/109;;;
+Dark Dragonair;31/109;;;
+Dark Dragonair;32/109;;Português;NM
+Dark Flaaffy;33/109;;Português;NM
+Dark Flaaffy;33/109;;Português;SP
+Dark Golbat ;34/109;Reverse Foil;Português;NM
+Dark Golduck;35/109;;;
+Dark Gyarados ;36/109;;;
+Dark Houndoom ;37/109;;Português;NM
+Dark Magcargo ;38/109;;;
+Dark Magneton ;39/109;;Português;NM
+Dark Pupitar;40/109;;;
+Dark Pupitar;41/109;;Português;NM
+Dark Weezing;42/109;;;
+Heracross ;43/109;;Português;NM
+Heracross ;43/109;;Português;NM
+Magmar;44/109;;Português;NM
+Mantine ;45/109;;;
+Rocket's Meowth ;46/109;;;
+Rocket's Wobbuffet;47/109;;Português;NM
+Seadra;48/109;;;
+Skiploom;49/109;;;
+Togepi;50/109;;;
+Cubone;51/109;;Português;NM
+Cubone;51/109;;Português;NM
+Cubone;51/109;;Português;NM
+Cubone;51/109;Reverse Foil;Português;NM
+Dratini ;52/109;;;
+Dratini ;53/109;;Português;NM
+Dratini ;53/109;;Português;NM
+Dratini ;53/109;Reverse Foil;Português;NM
+Drowzee ;54/109;;;
+Ekans ;55/109;;Português;NM
+Ekans ;55/109;;Português;NM
+Ekans ;55/109;;Português;NM
+Grimer;56/109;;Português;NM
+Grimer;56/109;;Português;NM
+Grimer;56/109;;Português;NM
+Hoppip;57/109;;Português;NM
+Horsea;58/109;;;
+Houndour;59/109;;;
+Houndour;60/109;;;
+Koffing ;61/109;;Português;NM
+Larvitar;62/109;;Português;NM
+Larvitar;63/109;;Português;NM
+Ledyba;64/109;;Português;NM
+Ledyba;64/109;;Português;NM
+Magikarp;65/109;;Português;NM
+Magikarp;65/109;;Português;NM
+Magnemite ;66/109;;Português;NM
+Magnemite ;66/109;;Português;NM
+Mareep;67/109;;Português;SP
+Marill;68/109;;Português;NM
+Onix;69/109;;Português;NM
+Onix;69/109;;Português;NM
+Onix;69/109;;Português;NM
+Psyduck ;70/109;;Português;NM
+Psyduck ;70/109;;Português;NM
+Psyduck ;70/109;;Português;NM
+Rattata ;71/109;;;
+Rattata ;72/109;;;
+Remoraid;73/109;;Português;SP
+Sandshrew ;74/109;;Português;NM
+Sandshrew ;74/109;;Português;NM
+Sandshrew ;74/109;;Português;NM
+Sentret ;75/109;;;
+Slowpoke;76/109;;Português;NM
+Slowpoke;76/109;;Português;NM
+Slowpoke;76/109;;Português;SP
+Slowpoke;76/109;Reverse Foil;Português;NM
+Slugma;77/109;;;
+Spinarak;78/109;;Português;NM
+Spinarak;78/109;;Português;SP
+Swinub;79/109;;Português;NM
+Swinub;79/109;;Português;NM
+Swinub;79/109;;Português;SP
+Voltorb ;80/109;;Português;NM
+Voltorb ;80/109;;Português;NM
+Voltorb ;80/109;;Português;NM
+Wooper;81/109;;Português;NM
+Zubat ;82/109;;Português;NM
+Zubat ;82/109;;Português;NM
+Zubat ;82/109;;Português;SP
+Copycat ;83/109;;;
+Pokémon Retriever ;84/109;;;
+Pow! Hand Extension ;85/109;;;
+Rocket's Admin. ;86/109;;Português;NM
+Rocket's Hideout;87/109;;;
+Rocket's Mission;88/109;;;
+Rocket's Poké Ball;89/109;;;
+Rocket's Tricky Gym ;90/109;;Português;NM
+Surprise! Time Machine;91/109;;Português;NM
+Surprise! Time Machine;91/109;;Português;NM
+Swoop! Teleporter ;92/109;;;
+Venture Bomb;93/109;;;
+Dark Metal Energy ;94/109;Reverse Foil;Português;M
+R Energy;95/109;;Português;SP
+Rocket's Articuno ex;96/109;;;
+Rocket's Entei ex ;97/109;Foil;Português;M
+Rocket's Entei ex ;97/109;Foil;Português;NM
+Rocket's Hitmonchan ex;98/109;;;
+Rocket's Mewtwo ex;99/109;;;
+Rocket's Moltres ex ;100/109;;;
+Rocket's Scizor ex;101/109;;;
+Rocket's Scyther ex ;102/109;;;
+Rocket's Sneasel ex ;103/109;;;
+Rocket's Snorlax ex ;104/109;;;
+Rocket's Suicune ex ;105/109;;;
+Rocket's Zapdos ex;106/109;;;
+Mudkip Star ;107/109;;;
+Torchic Star;108/109;;;
+Treecko Star;109/109;;;
+Charmeleon;110/109;;;
+Here Comes Team Rocket! ;111/109;;;
+Blaziken ;1/106;Foil;Português;NM
+Deoxys ;2/106;;;
+Exploud;3/106;Foil;Português;MP
+Gardevoir;4/106;;;
+Groudon;5/106;;;
+Kyogre ;6/106;;;
+Manectric;7/106;Foil;Português;NM
+Manectric;7/106;Foil;Português;SP
+Milotic;8/106;;;
+Rayquaza ;9/106;;;
+Sceptile ;10/106;;;
+Swampert ;11/106;;;
+Chimecho ;12/106;;;
+Glalie ;13/106;;;
+Groudon;14/106;;;
+Kyogre ;15/106;;Português;NM
+Manectric;16/106;;Português;SP
+Nosepass ;17/106;;Português;NM
+Nosepass ;17/106;;Inglês;NM
+Relicanth;18/106;;Português;SP
+Rhydon ;19/106;;;
+Seviper;20/106;;Português;NM
+Seviper;20/106;;Português;NM
+Zangoose ;21/106;;;
+Breloom;22/106;;;
+Camerupt ;23/106;;Português;NM
+Camerupt ;23/106;;Português;SP
+Camerupt ;23/106;;Inglês;NM
+Camerupt ;23/106;Reverse Foil;Português;NM
+Claydol;24/106;;;
+Combusken;25/106;;Inglês;NM
+Combusken;25/106;Reverse Foil;Português;NM
+Dodrio ;26/106;;Português;NM
+Electrode;27/106;;Português;NM
+Electrode;27/106;;Português;NM
+Grovyle;28/106;;Português;NM
+Grovyle;28/106;;Português;SP
+Grumpig;29/106;;Português;NM
+Grumpig;30/106;;Inglês;NM
+Hariyama ;31/106;;;
+Illumise ;32/106;;;
+Kirlia ;33/106;;Português;NM
+Kirlia ;33/106;;Português;NM
+Linoone;34/106;;;
+Loudred;35/106;;Português;SP
+Marshtomp;36/106;;;
+Minun;37/106;;Português;NM
+Ninetales;38/106;;;
+Plusle ;39/106;;;
+Swalot ;40/106;;Português;NM
+Swellow;41/106;;Português;NM
+Volbeat;42/106;Reverse Foil;Português;NM
+Baltoy ;43/106;;Português;NM
+Cacnea ;44/106;;Português;NM
+Doduo;45/106;;Português;NM
+Doduo;45/106;;Português;NM
+Doduo;45/106;;Português;NM
+Duskull;46/106;;Português;NM
+Electrike;47/106;;Inglês;NM
+Electrike;47/106;;Inglês;MP
+Electrike;48/106;;Português;NM
+Electrike;48/106;;Português;NM
+Electrike;48/106;;Português;MP
+Feebas ;49/106;;Inglês;NM
+Feebas ;50/106;;Inglês;NM
+Gulpin ;51/106;;Português;NM
+Gulpin ;51/106;;Português;NM
+Gulpin ;51/106;;Português;NM
+Gulpin ;51/106;Reverse Foil;Português;NM
+Larvitar ;52/106;;Português;NM
+Larvitar ;52/106;;Inglês;NM
+Luvdisc;53/106;;Português;NM
+Luvdisc;53/106;;Português;NM
+Makuhita ;54/106;;Português;NM
+Makuhita ;54/106;Reverse Foil;Português;NM
+Meditite ;55/106;;Português;NM
+Meditite ;55/106;;Português;NM
+Meditite ;55/106;;Português;SP
+Mudkip ;56/106;;Português;NM
+Mudkip ;56/106;;Português;NM
+Numel;57/106;;Português;NM
+Numel;57/106;;Português;SP
+Numel;57/106;;Português;SP
+Numel;57/106;;Português;MP
+Numel;58/106;;Inglês;NM
+Numel;58/106;Reverse Foil;Português;SP
+Pichu;59/106;;Português;NM
+Pichu;59/106;;Português;NM
+Pikachu;60/106;;;
+Ralts;61/106;;Português;NM
+Ralts;61/106;;Português;SP
+Rhyhorn;62/106;;;
+Shroomish;63/106;;Português;NM
+Shroomish;63/106;;Português;NM
+Snorunt;64/106;;Português;NM
+Snorunt;64/106;;Português;NM
+Spoink ;65/106;;;
+Spoink ;66/106;;Português;NM
+Swablu ;67/106;;;
+Taillow;68/106;;Português;NM
+Torchic;69/106;;Inglês;NM
+Treecko;70/106;;Português;NM
+Treecko;70/106;;Português;NM
+Treecko;70/106;;Português;NM
+Voltorb;71/106;Reverse Foil;Português;NM
+Vulpix ;72/106;;Português;NM
+Vulpix ;72/106;;Português;NM
+Vulpix ;72/106;;Português;NM
+Vulpix ;72/106;;Português;NM
+Whismur;73/106;;Português;NM
+Whismur;73/106;;Português;SP
+Whismur;73/106;;Português;SP
+Zigzagoon;74/106;;Português;NM
+Zigzagoon;74/106;;Português;D
+Battle Frontier;75/106;;;
+Double Full Heal ;76/106;;Português;NM
+Lanette's Net Search ;77/106;;;
+Lum Berry;78/106;;;
+Mr. Stone's Project;79/106;;;
+Oran Berry ;80/106;;Português;D
+PokéNav;81/106;;;
+Professor Birch;82/106;;Português;NM
+Rare Candy ;83/106;;;
+Scott;84/106;;Inglês;NM
+Wally's Training ;85/106;;;
+Darkness Energy;86/106;Reverse Foil;Inglês;NM
+Double Rainbow Energy;87/106;;Português;NM
+Metal Energy ;88/106;;Português;NM
+Multi Energy ;89/106;;Português;NM
+Altaria ex ;90/106;;;
+Cacturne ex;91/106;;;
+Camerupt ex;92/106;;;
+Deoxys ex;93/106;;;
+Dusclops ex;94/106;;;
+Medicham ex;95/106;;;
+Milotic ex ;96/106;Foil;Português;M
+Raichu ex;97/106;;;
+Regice ex;98/106;;;
+Regirock ex;99/106;;;
+Registeel ex ;100/106;;;
+Grass Energy ;101/106;;;
+Fire Energy;102/106;;;
+Water Energy ;103/106;Foil;Inglês;NM
+Lightning Energy ;104/106;;;
+Psychic Energy ;105/106;;;
+Fighting Energy;106/106;Foil;Inglês;NM
+Farfetch'd ;107/106;;;
+Absol ;1/97;;;
+Altaria ;2/97;;;
+Crawdaunt ;3/97;Foil;Inglês;D
+Flygon;4/97;;;
+Golem ;5/97;;;
+Grumpig ;6/97;;;
+Minun ;7/97;;;
+Plusle;8/97;;;
+Roselia ;9/97;Foil;Inglês;NM
+Salamence ;10/97;;;
+Shedinja;11/97;;;
+Torkoal ;12/97;;;
+Crawdaunt ;13/97;;;
+Dragonair ;14/97;;;
+Flygon;15/97;;Inglês;NM
+Flygon;15/97;;Inglês;NM
+Girafarig ;16/97;;;
+Magneton;17/97;;;
+Ninjask ;18/97;;;
+Salamence ;19/97;;Inglês;NM
+Salamence ;19/97;;Inglês;NM
+Shelgon ;20/97;;;
+Skarmory;21/97;;;
+Vibrava ;22/97;;;
+Bagon ;23/97;;;
+Camerupt;24/97;;Inglês;NM
+Camerupt;24/97;;Inglês;MP
+Combusken ;25/97;;;
+Dratini ;26/97;;;
+Flaaffy ;27/97;;;
+Forretress;28/97;;;
+Graveler;29/97;;;
+Graveler;30/97;;;
+Grovyle ;31/97;;;
+Gyarados;32/97;;;
+Horsea;33/97;;;
+Houndoom;34/97;;;
+Magneton;35/97;;Inglês;NM
+Magneton;35/97;;Inglês;NM
+Marshtomp ;36/97;;;
+Meditite;37/97;;;
+Ninjask ;38/97;;Inglês;NM
+Ninjask ;38/97;;Inglês;NM
+Seadra;39/97;;;
+Seadra;40/97;;Inglês;NM
+Seadra;40/97;;Inglês;NM
+Shelgon ;41/97;;Inglês;NM
+Shelgon ;41/97;;Inglês;NM
+Shelgon ;42/97;;;
+Shuppet ;43/97;;;
+Snorunt ;44/97;;;
+Swellow ;45/97;;;
+Vibrava ;46/97;;;
+Vibrava ;47/97;;Inglês;NM
+Vibrava ;47/97;;Inglês;NM
+Whiscash;48/97;;;
+Bagon ;49/97;;Inglês;NM
+Bagon ;49/97;;Inglês;NM
+Bagon ;49/97;;Inglês;NM
+Bagon ;49/97;;Inglês;NM
+Bagon ;50/97;;;
+Barboach;51/97;;;
+Corphish;52/97;;Inglês;NM
+Corphish;52/97;;Inglês;NM
+Corphish;52/97;;Inglês;NM
+Corphish;52/97;;Inglês;NM
+Corphish;53/97;;;
+Corphish;54/97;;;
+Geodude ;55/97;;;
+Geodude ;56/97;;;
+Grimer;57/97;;Inglês;NM
+Grimer;57/97;;Inglês;NM
+Grimer;57/97;;Inglês;NM
+Horsea;58/97;;Inglês;NM
+Horsea;58/97;;Inglês;NM
+Horsea;58/97;;Inglês;NM
+Horsea;58/97;;Inglês;NM
+Houndour;59/97;;;
+Magikarp;60/97;;;
+Magnemite ;61/97;;Inglês;NM
+Magnemite ;61/97;;Inglês;NM
+Magnemite ;61/97;;Inglês;NM
+Magnemite ;61/97;;Inglês;NM
+Magnemite ;62/97;;;
+Magnemite ;63/97;;;
+Mareep;64/97;;;
+Mudkip;65/97;;;
+Nincada ;66/97;;Inglês;NM
+Nincada ;66/97;;Inglês;NM
+Nincada ;66/97;;Inglês;NM
+Nincada ;66/97;;Inglês;NM
+Nincada ;67/97;;;
+Nincada ;68/97;;;
+Numel ;69/97;;Inglês;NM
+Numel ;69/97;;Inglês;NM
+Numel ;69/97;;Inglês;NM
+Numel ;69/97;;Inglês;SP
+Numel ;70/97;;;
+Pineco;71/97;;;
+Slugma;72/97;;Inglês;NM
+Slugma;72/97;;Inglês;NM
+Slugma;72/97;;Inglês;SP
+Spoink;73/97;;Inglês;NM
+Spoink;73/97;;Inglês;NM
+Spoink;73/97;;Inglês;NM
+Spoink;73/97;;Inglês;NM
+Spoink;74/97;;;
+Swablu;75/97;;;
+Taillow ;76/97;;;
+Torchic ;77/97;;;
+Trapinch;78/97;;Inglês;NM
+Trapinch;78/97;;Inglês;NM
+Trapinch;78/97;;Inglês;NM
+Trapinch;78/97;;Inglês;NM
+Trapinch;79/97;;;
+Treecko ;80/97;;;
+Wurmple ;81/97;;;
+Balloon Berry ;82/97;;Inglês;NM
+Balloon Berry ;82/97;;Inglês;NM
+Buffer Piece;83/97;;;
+Energy Recycle System ;84/97;;Inglês;NM
+Energy Recycle System ;84/97;;Inglês;SP
+High Pressure System;85/97;;Inglês;NM
+Low Pressure System ;86/97;;Inglês;NM
+Mr. Briney's Compassion ;87/97;;;
+TV Reporter ;88/97;;Inglês;NM
+TV Reporter ;88/97;;Inglês;NM
+TV Reporter ;88/97;;Inglês;NM
+TV Reporter ;88/97;;Inglês;NM
+Ampharos ex ;89/97;;;
+Dragonite ex;90/97;;;
+Golem ex;91/97;;;
+Kingdra ex;92/97;;;
+Latias ex ;93/97;;;
+Latios ex ;94/97;;;
+Magcargo ex ;95/97;;;
+Muk ex;96/97;;;
+Rayquaza ex ;97/97;;;
+Charmander;98/97;;;
+Charmeleon;99/97;;;
+Charizard ;100/97;;;
+Dark Alakazam;1/82;;;
+Dark Arbok ;2/82;;;
+Dark Blastoise ;3/82;;;
+Dark Charizard ;4/82;;;
+Dark Dragonite ;5/82;;;
+Dark Dugtrio ;6/82;;;
+Dark Golbat;7/82;;;
+Dark Gyarados;8/82;;;
+Dark Hypno ;9/82;;;
+Dark Machamp ;10/82;;;
+Dark Magneton;11/82;;;
+Dark Slowbro ;12/82;;;
+Dark Vileplume ;13/82;;;
+Dark Weezing ;14/82;;;
+Here Comes Team Rocket!;15/82;;;
+Rocket's Sneak Attack;16/82;;;
+Rainbow Energy ;17/82;;;
+Dark Alakazam;18/82;;;
+Dark Arbok ;19/82;;;
+Dark Blastoise ;20/82;;;
+Dark Charizard ;21/82;;;
+Dark Dragonite ;22/82;;;
+Dark Dugtrio ;23/82;;;
+Dark Golbat;24/82;;;
+Dark Gyarados;25/82;;Inglês;MP
+Dark Hypno ;26/82;;;
+Dark Machamp ;27/82;;;
+Dark Magneton;28/82;;;
+Dark Slowbro ;29/82;;;
+Dark Vileplume ;30/82;;;
+Dark Weezing ;31/82;;;
+Dark Charmeleon;32/82;;;
+Dark Dragonair ;33/82;;;
+Dark Electrode ;34/82;;;
+Dark Flareon ;35/82;;;
+Dark Gloom ;36/82;;;
+Dark Golduck ;37/82;;;
+Dark Jolteon ;38/82;;;
+Dark Kadabra ;39/82;;;
+Dark Machoke ;40/82;;;
+Dark Muk ;41/82;;Inglês;HP
+Dark Persian ;42/82;;;
+Dark Primeape;43/82;;;
+Dark Rapidash;44/82;;;
+Dark Vaporeon;45/82;;Inglês;MP
+Dark Wartortle ;46/82;;;
+Magikarp ;47/82;;;
+Porygon;48/82;;Inglês;HP
+Abra ;49/82;;Inglês;MP
+Charmander ;50/82;;;
+Dark Raticate;51/82;;;
+Diglett;52/82;;;
+Dratini;53/82;;;
+Drowzee;54/82;;;
+Eevee;55/82;;Inglês;D
+Ekans;56/82;;Inglês;MP
+Grimer ;57/82;;Inglês;D
+Koffing;58/82;;;
+Machop ;59/82;;;
+Magnemite;60/82;;;
+Mankey ;61/82;;;
+Meowth ;62/82;;Inglês;HP
+Oddish ;63/82;;Inglês;D
+Ponyta ;64/82;;;
+Psyduck;65/82;;;
+Rattata;66/82;;;
+Slowpoke ;67/82;;;
+Squirtle ;68/82;;;
+Voltorb;69/82;;;
+Zubat;70/82;;Inglês;D
+Here Comes Team Rocket!;71/82;;;
+Rocket's Sneak Attack;72/82;;;
+The Boss's Way ;73/82;;;
+Challenge! ;74/82;;;
+Digger ;75/82;;;
+Imposter Oak's Revenge ;76/82;;;
+Nightly Garbage Run;77/82;;;
+Goop Gas Attack;78/82;;;
+Sleep! ;79/82;;;
+Rainbow Energy ;80/82;;;
+Full Heal Energy ;81/82;;Inglês;HP
+Potion Energy;82/82;;;
+Dark Raichu;83/82;;;
+Alakazam ;1/110;;;
+Articuno ;2/110;;;
+Charizard;3/110;;;
+Dark Blastoise ;4/110;;;
+Dark Dragonite ;5/110;;;
+Dark Persian ;6/110;;;
+Dark Raichu;7/110;;;
+Dark Slowbro ;8/110;;;
+Dark Vaporeon;9/110;;;
+Flareon;10/110;;;
+Gengar ;11/110;;;
+Gyarados ;12/110;;;
+Hitmonlee;13/110;;;
+Jolteon;14/110;;;
+Machamp;15/110;Reverse Foil;Inglês;D
+Muk;16/110;;;
+Ninetales;17/110;;;
+Venusaur ;18/110;;;
+Zapdos ;19/110;;;
+Beedrill ;20/110;;;
+Butterfree ;21/110;;;
+Electrode;22/110;;;
+Exeggutor;23/110;;;
+Golem;24/110;;;
+Hypno;25/110;;;
+Jynx ;26/110;;;
+Kabutops ;27/110;;Inglês;D
+Magneton ;28/110;;;
+Mewtwo ;29/110;;;
+Moltres;30/110;;;
+Nidoking ;31/110;;;
+Nidoqueen;32/110;;;
+Pidgeot;33/110;;;
+Pidgeotto;34/110;;;
+Rhydon ;35/110;;;
+Arcanine ;36/110;;;
+Charmeleon ;37/110;;;
+Dark Dragonair ;38/110;;;
+Dark Wartortle ;39/110;;;
+Dewgong;40/110;;;
+Dodrio ;41/110;;;
+Fearow ;42/110;;;
+Golduck;43/110;;;
+Graveler ;44/110;;;
+Growlithe;45/110;;;
+Haunter;46/110;;;
+Ivysaur;47/110;;Inglês;D
+Kabuto ;48/110;;;
+Kadabra;49/110;;;
+Kakuna ;50/110;;;
+Machoke;51/110;;;
+Magikarp ;52/110;;;
+Meowth ;53/110;;;
+Metapod;54/110;;Inglês;D
+Nidorina ;55/110;;;
+Nidorino ;56/110;;;
+Omanyte;57/110;;;
+Omastar;58/110;;;
+Primeape ;59/110;;;
+Rapidash ;60/110;;;
+Raticate ;61/110;;Inglês;D
+Sandslash;62/110;;;
+Seadra ;63/110;;;
+Snorlax;64/110;;;
+Tauros ;65/110;;;
+Tentacruel ;66/110;;;
+Abra ;67/110;;;
+Bulbasaur;68/110;;Inglês;MP
+Bulbasaur;68/110;;Inglês;MP
+Caterpie ;69/110;;Inglês;SP
+Caterpie ;69/110;;Inglês;SP
+Charmander ;70/110;;;
+Doduo;71/110;;;
+Dratini;72/110;;;
+Drowzee;73/110;;;
+Eevee;74/110;;;
+Exeggcute;75/110;;;
+Gastly ;76/110;;;
+Geodude;77/110;;;
+Grimer ;78/110;;;
+Machop ;79/110;;;
+Magnemite;80/110;;;
+Mankey ;81/110;;;
+Nidoran♀ ;82/110;;;
+Nidoran♂ ;83/110;;;
+Onix ;84/110;;Inglês;D
+Onix ;84/110;;Inglês;D
+Pidgey ;85/110;;;
+Pikachu;86/110;;;
+Ponyta ;87/110;;;
+Psyduck;88/110;;;
+Rattata;89/110;;Inglês;MP
+Rattata;89/110;;Inglês;MP
+Rhyhorn;90/110;;;
+Sandshrew;91/110;;;
+Seel ;92/110;;;
+Slowpoke ;93/110;;;
+Spearow;94/110;;;
+Squirtle ;95/110;;;
+Tentacool;96/110;;;
+Voltorb;97/110;;;
+Vulpix ;98/110;;;
+Weedle ;99/110;;;
+Full Heal Energy ;100/110;;;
+Potion Energy;101/110;;;
+Pokémon Breeder;102/110;;;
+Pokémon Trader ;103/110;;;
+Scoop Up ;104/110;;;
+The Boss's Way ;105/110;;;
+Challenge! ;106/110;;;
+Energy Retrieval ;107/110;;;
+Bill ;108/110;;;
+Mysterious Fossil;109/110;;;
+Potion ;110/110;;;
+Alakazam;1/130;;;
+Blastoise ;2/130;;;
+Chansey ;3/130;;;
+Charizard ;4/130;;;
+Clefable;5/130;;;
+Clefairy;6/130;;;
+Gyarados;7/130;;;
+Hitmonchan;8/130;;;
+Magneton;9/130;;;
+Mewtwo;10/130;;;
+Nidoking;11/130;;;
+Nidoqueen ;12/130;;;
+Ninetales ;13/130;;;
+Pidgeot ;14/130;;;
+Poliwrath ;15/130;;;
+Raichu;16/130;;;
+Scyther ;17/130;;;
+Venusaur;18/130;;;
+Wigglytuff;19/130;;;
+Zapdos;20/130;;;
+Beedrill;21/130;;;
+Dragonair ;22/130;;;
+Dugtrio ;23/130;;;
+Electabuzz;24/130;;;
+Electrode ;25/130;;;
+Kangaskhan;26/130;;;
+Mr. Mime;27/130;;;
+Pidgeotto ;28/130;;;
+Pinsir;29/130;;;
+Snorlax ;30/130;;;
+Venomoth;31/130;;;
+Victreebel;32/130;;;
+Arcanine;33/130;;;
+Butterfree;34/130;;;
+Charmeleon;35/130;;;
+Dewgong ;36/130;;;
+Dodrio;37/130;;;
+Dratini ;38/130;;;
+Exeggutor ;39/130;;;
+Farfetch'd;40/130;;;
+Fearow;41/130;;;
+Growlithe ;42/130;;;
+Haunter ;43/130;;;
+Ivysaur ;44/130;;;
+Jynx;45/130;;;
+Kadabra ;46/130;;;
+Kakuna;47/130;;;
+Lickitung ;48/130;;;
+Machoke ;49/130;;;
+Magikarp;50/130;;;
+Magmar;51/130;;;
+Marowak ;52/130;;;
+Nidorina;53/130;;;
+Nidorino;54/130;;;
+Parasect;55/130;;;
+Persian ;56/130;;;
+Poliwhirl ;57/130;;;
+Raticate;58/130;;;
+Rhydon;59/130;;;
+Seaking ;60/130;;;
+Seel;61/130;;;
+Tauros;62/130;;;
+Wartortle ;63/130;;;
+Weepinbell;64/130;;;
+Abra;65/130;;;
+Bellsprout;66/130;;;
+Bulbasaur ;67/130;;;
+Caterpie;68/130;;;
+Charmander;69/130;;;
+Cubone;70/130;;;
+Diglett ;71/130;;;
+Doduo ;72/130;;;
+Drowzee ;73/130;;;
+Exeggcute ;74/130;;;
+Gastly;75/130;;;
+Goldeen ;76/130;;;
+Jigglypuff;77/130;;;
+Machop;78/130;;;
+Magnemite ;79/130;;;
+Meowth;80/130;;;
+Metapod ;81/130;;;
+Nidoran♀;82/130;;;
+Nidoran♂;83/130;;;
+Onix;84/130;;;
+Paras ;85/130;;;
+Pidgey;86/130;;;
+Pikachu ;87/130;;;
+Poliwag ;88/130;;;
+Rattata ;89/130;;;
+Rhyhorn ;90/130;;;
+Sandshrew ;91/130;;;
+Spearow ;92/130;;;
+Squirtle;93/130;;;
+Starmie ;94/130;;;
+Staryu;95/130;;;
+Tangela ;96/130;;;
+Venonat ;97/130;;;
+Voltorb ;98/130;;;
+Vulpix;99/130;;;
+Weedle;100/130;;;
+Computer Search ;101/130;;;
+Imposter Professor Oak;102/130;;;
+Item Finder ;103/130;;;
+Lass;104/130;;;
+Pokémon Breeder ;105/130;;;
+Pokémon Trader;106/130;;;
+Scoop Up;107/130;;;
+Super Energy Removal;108/130;;;
+Defender;109/130;;;
+Energy Retrieval;110/130;;;
+Full Heal ;111/130;;Inglês;HP
+Maintenance ;112/130;;;
+PlusPower ;113/130;;Inglês;SP
+PlusPower ;113/130;;Inglês;MP
+Pokémon Center;114/130;;;
+Pokédex ;115/130;;;
+Professor Oak ;116/130;;;
+Super Potion;117/130;;;
+Bill;118/130;;Inglês;MP
+Bill;118/130;;Inglês;MP
+Energy Removal;119/130;;Inglês;SP
+Energy Removal;119/130;;Inglês;MP
+Gust of Wind;120/130;;Inglês;SP
+Gust of Wind;120/130;;Inglês;SP
+Gust of Wind;120/130;;Inglês;D
+Gust of Wind;120/130;;Inglês;D
+Poké Ball ;121/130;;;
+Potion;122/130;;Inglês;SP
+Potion;122/130;;Inglês;SP
+Potion;122/130;;Inglês;MP
+Potion;122/130;;Inglês;MP
+Potion;122/130;;Inglês;MP
+Switch;123/130;;;
+Double Colorless Energy ;124/130;;;
+Fighting Energy ;125/130;;;
+Fire Energy ;126/130;;;
+Grass Energy;127/130;;;
+Lightning Energy;128/130;;;
+Psychic Energy;129/130;;;
+Water Energy;130/130;;;
+Dark Persian;17/53;Foil;Inglês;NM
+Dark Persian;17/53;Foil;Inglês;NM
+Misdreavus;39/53;;Inglês;NM
+Misdreavus;39/53;;Inglês;SP
+Pikachu;4/53;;Inglês;D
+Zapdos;23/53;;Português;HP
+Zapdos;23/53;;Português;HP
+Zapdos;23/53;;Português;D
+Zapdos;23/53;;Português;D
+Pignite;4/12;Foil;Português;NM
+Spheal;65/92;Reverse Foil;Inglês;NM
+Floatzel;37/106;;Inglês;MP
+Felicity's Drawing;98/106;;Inglês;NM
+Felicity's Drawing;98/106;;Inglês;NM
+Chikorita;44/101;;Inglês;NM
+Taillow;66/101;;Inglês;NM
+Trapinch;68/101;;Inglês;NM
+Trapinch;69/101;;Inglês;NM
+Charizard;1/99;;;
+Froslass ;2/99;;;
+Heatran;3/99;;;
+Kabutops ;4/99;;;
+Luxray ;5/99;Foil;Inglês;NM
+Mothim ;6/99;Foil;Inglês;MP
+Probopass;7/99;;;
+Salamence;8/99;Reverse Foil;Inglês;NM
+Swalot ;9/99;;;
+Tangrowth;10/99;;;
+Toxicroak;11/99;;;
+Zapdos G ;12/99;Foil;Inglês;NM
+Aerodactyl ;13/99;;Inglês;NM
+Bronzong ;14/99;;;
+Cherrim;15/99;;;
+Gengar ;16/99;;;
+Gengar ;17/99;;;
+Glalie ;18/99;;;
+Golem;19/99;;;
+Hariyama ;20/99;;;
+Lopunny;21/99;;;
+Manectric;22/99;;;
+Omastar;23/99;;;
+Pelipper ;24/99;;;
+Pichu;25/99;;;
+Porygon-Z Pokémon G;26/99;;;
+Raichu ;27/99;;;
+Rapidash ;28/99;;;
+Raticate ;29/99;;;
+Sceptile ;30/99;;;
+Sceptile ;31/99;;;
+Spiritomb;32/99;;;
+Bronzong ;33/99;;;
+Bronzor;34/99;;Inglês;NM
+Charmeleon ;35/99;;Inglês;NM
+Gastly ;36/99;;;
+Graveler ;37/99;;Inglês;NM
+Graveler ;37/99;;Inglês;NM
+Grovyle;38/99;;;
+Grovyle;39/99;;;
+Gulpin ;40/99;;;
+Haunter;41/99;;Inglês;NM
+Haunter;42/99;;Inglês;NM
+Luxio;43/99;;;
+Manectric;44/99;;;
+Pelipper ;45/99;;Inglês;NM
+Pelipper ;45/99;;Inglês;NM
+Ponyta ;46/99;;Inglês;NM
+Rapidash ;47/99;;;
+Shelgon;48/99;;Inglês;HP
+Wormadam Plant Cloak ;49/99;;Inglês;HP
+Wormadam Sandy Cloak ;50/99;;;
+Wormadam Trash Cloak ;51/99;;Inglês;NM
+Wormadam Trash Cloak ;51/99;;Inglês;NM
+Bagon;52/99;;;
+Beedrill Pokémon G ;53/99;;;
+Bronzor;54/99;Reverse Foil;Inglês;NM
+Buneary;55/99;;;
+Burmy Plant Cloak;56/99;;Inglês;D
+Burmy Sandy Cloak;57/99;;Inglês;NM
+Burmy Trash Cloak;58/99;;Inglês;NM
+Burmy Trash Cloak;58/99;;Inglês;D
+Charmander ;59/99;;Inglês;NM
+Cherubi;60/99;;;
+Croagunk ;61/99;;Inglês;D
+Electrike;62/99;;;
+Electrike;63/99;;Inglês;NM
+Electrike;63/99;;Inglês;NM
+Gastly ;64/99;;Inglês;NM
+Gastly ;64/99;;Inglês;NM
+Geodude;65/99;;Inglês;SP
+Geodude;65/99;;Inglês;MP
+Geodude;65/99;;Inglês;D
+Gulpin ;66/99;;;
+Kabuto ;67/99;;Inglês;NM
+Kabuto ;67/99;;Inglês;D
+Makuhita ;68/99;;Inglês;NM
+Nosepass ;69/99;;Inglês;NM
+Omanyte;70/99;;;
+Pikachu;71/99;;Inglês;NM
+Ponyta ;72/99;;;
+Rattata;73/99;Reverse Foil;Inglês;NM
+Rattata;73/99;;Inglês;NM
+Shinx;74/99;;Inglês;NM
+Snorunt;75/99;;;
+Tangela;76/99;;;
+Tangela;77/99;;Inglês;NM
+Tangela;77/99;;Inglês;NM
+Treecko;78/99;;;
+Treecko;79/99;;;
+Wingull;80/99;;Inglês;NM
+Wingull;80/99;;Inglês;SP
+Wingull;81/99;;Inglês;NM
+Beginning Door ;82/99;;;
+Bench Shield ;83/99;;;
+Buffer Piece ;84/99;;;
+Department Store Girl;85/99;;;
+Energy Restore ;86/99;;Inglês;NM
+Expert Belt;87/99;;Inglês;NM
+Lucky Egg;88/99;Reverse Foil;Inglês;NM
+Lucky Egg;88/99;;Inglês;MP
+Old Amber;89/99;;;
+Professor Oak's Visit;90/99;;;
+Ultimate Zone;91/99;;;
+Dome Fossil;92/99;;;
+Helix Fossil ;93/99;;;
+Arceus LV.X;94/99;;;
+Arceus LV.X;95/99;;;
+Arceus LV.X;96/99;;;
+Gengar LV.X;97/99;;;
+Salamence LV.X ;98/99;Foil;Inglês;NM
+Tangrowth LV.X ;99/99;;;
+Bagon;SH10;;;
+Ponyta ;SH11;;;
+Shinx;SH12;;;
+Arceus;AR1;;;
+Arceus;AR2;;;
+Arceus;AR3;;;
+Arceus;AR4;;;
+Arceus;AR5;Foil;Inglês;NM
+Arceus;AR6;;;
+Arceus;AR7;;;
+Arceus;AR8;Foil;Inglês;NM
+Arceus;AR9;;;
+Beedrill;1/113;Foil;Inglês;NM
+Crobat;2/113;;;
+Dragonite;3/113;;;
+Espeon;4/113;;;
+Flareon;5/113;;;
+Gardevoir;6/113;;;
+Jolteon;7/113;;;
+Latias;8/113;;;
+Latios;9/113;;;
+Marowak;10/113;;;
+Metagross;11/113;;;
+Mewtwo;12/113;;;
+Rayquaza;13/113;;;
+Salamence;14/113;;;
+Starmie;15/113;;;
+Tyranitar;16/113;;;
+Umbreon;17/113;;;
+Vaporeon;18/113;;;
+Azumarill;19/113;;;
+Azurill ;20/113;;;
+Holon's Electrode ;21/113;;;
+Holon's Magneton;22/113;;;
+Hypno ;23/113;;;
+Mightyena;24/113;;;
+Porygon2;25/113;;;
+Rain Castform ;26/113;Reverse Foil;Inglês;D
+Sandslash;27/113;;;
+Slowking;28/113;;;
+Snow-cloud Castform ;29/113;;;
+Starmie;30/113;;;
+Sunny Castform;31/113;;;
+Swellow ;32/113;;;
+Weezing ;33/113;;;
+Castform;34/113;;;
+Ditto ;35/113;;;
+Ditto ;36/113;;;
+Ditto ;37/113;;;
+Ditto ;38/113;;;
+Ditto ;39/113;;;
+Ditto ;40/113;;;
+Dragonair;41/113;;;
+Dragonair;42/113;;;
+Golbat;43/113;;;
+Hariyama;44/113;;Inglês;NM
+Illumise;45/113;Reverse Foil;Inglês;NM
+Kakuna;46/113;;;
+Kirlia;47/113;;;
+Magneton;48/113;;;
+Metang;49/113;;Inglês;NM
+Persian ;50/113;;;
+Pupitar;51/113;;;
+Rapidash;52/113;;;
+Shelgon;53/113;;;
+Shelgon;54/113;;;
+Skarmory;55/113;;;
+Volbeat ;56/113;;;
+Bagon;57/113;;;
+Bagon;58/113;;Inglês;NM
+Beldum;59/113;;;
+Cubone;60/113;;;
+Ditto ;61/113;;;
+Ditto ;62/113;;;
+Ditto ;63/113;;;
+Ditto ;64/113;;;
+Dratini;65/113;;;
+Dratini;66/113;;;
+Drowzee ;67/113;;;
+Eevee;68/113;;;
+Eevee ;69/113;;;
+Holon's Magnemite ;70/113;;Inglês;NM
+Holon's Voltorb ;71/113;;;
+Koffing ;72/113;;;
+Larvitar;73/113;;;
+Magnemite ;74/113;;Inglês;NM
+Makuhita;75/113;;;
+Marill;76/113;;;
+Meowth;77/113;;Inglês;NM
+Ponyta;78/113;;;
+Poochyena ;79/113;;;
+Porygon ;80/113;;;
+Ralts ;81/113;;Inglês;NM
+Sandshrew ;82/113;;;
+Slowpoke;83/113;;;
+Staryu;84/113;;;
+Staryu;85/113;;;
+Taillow ;86/113;;;
+Weedle;87/113;;;
+Zubat ;88/113;;;
+Dual Ball ;89/113;Reverse Foil;Inglês;NM
+Great Ball;90/113;;;
+Holon Farmer;91/113;;;
+Holon Lass;92/113;;Inglês;NM
+Holon Mentor;93/113;;;
+Holon Research Tower;94/113;;;
+Holon Researcher;95/113;;;
+Holon Ruins ;96/113;;;
+Holon Scientist ;97/113;;;
+Holon Transceiver ;98/113;;;
+Master Ball ;99/113;;;
+Super Scoop Up;100/113;;;
+Potion;101/113;;;
+Switch;102/113;;;
+Darkness Energy ;103/113;;;
+Holon Energy FF ;104/113;;;
+Holon Energy GL ;105/113;;;
+Holon Energy WP ;106/113;;;
+Metal Energy;107/113;;;
+Flareon ex;108/113;;;
+Jolteon ex;109/113;;;
+Vaporeon ex ;110/113;;;
+Groudon Star;111/113;;;
+Kyogre Star ;112/113;;;
+Metagross Star;113/113;;;
+Azumarill ;114/113;;;
+Ampharos ;1/127;Foil;Inglês;NM
+Blastoise;2/127;;;
+Blaziken ;3/127;Reverse Foil;Inglês;NM
+Delcatty ;4/127;;;
+Dialga ;5/127;;;
+Dialga ;6/127;Reverse Foil;Inglês;NM
+Dialga G ;7/127;;;
+Gardevoir;8/127;;;
+Giratina ;9/127;;;
+Giratina ;10/127;;;
+Manectric;11/127;;;
+Palkia G ;12/127;Reverse Foil;Inglês;NM
+Rampardos;13/127;;;
+Shaymin;14/127;;;
+Shaymin;15/127;Reverse Foil;Inglês;NM
+Slaking;16/127;;;
+Weavile G;17/127;;;
+Altaria;18/127;;;
+Banette;19/127;;Inglês;NM
+Bastiodon;20/127;;;
+Beautifly;21/127;;;
+Blissey;22/127;;;
+Dialga ;23/127;;;
+Dugtrio;24/127;;;
+Dustox ;25/127;;;
+Empoleon ;26/127;;Inglês;SP
+Giratina ;27/127;;Inglês;NM
+Giratina ;28/127;;;
+Golduck;29/127;;;
+Gyarados G ;30/127;;;
+Infernape;31/127;;;
+Kricketune ;32/127;;;
+Lickilicky ;33/127;;;
+Ludicolo ;34/127;;;
+Luvdisc;35/127;;Inglês;NM
+Ninetales;36/127;;;
+Palkia ;37/127;;;
+Shaymin;38/127;;;
+Torterra ;39/127;;Inglês;NM
+Toxicroak G;40/127;;;
+Bronzong G ;41/127;;;
+Cacturne ;42/127;;Inglês;NM
+Cacturne ;42/127;;Inglês;NM
+Carnivine;43/127;;Inglês;NM
+Cascoon;44/127;;Inglês;NM
+Combusken;45/127;;Inglês;NM
+Cranidos ;46/127;;;
+Crobat G ;47/127;;Inglês;NM
+Flaaffy;48/127;;;
+Grotle ;49/127;;Inglês;NM
+Grotle ;49/127;;Inglês;NM
+Houndoom G ;50/127;;;
+Kirlia ;51/127;;Inglês;NM
+Lombre ;52/127;;;
+Lucario;53/127;;Inglês;NM
+Mightyena;54/127;;Inglês;SP
+Mismagius;55/127;;;
+Monferno ;56/127;;;
+Muk;57/127;;;
+Octillery;58/127;;;
+Prinplup ;59/127;;Inglês;NM
+Probopass;60/127;;;
+Seviper;61/127;;;
+Shieldon ;62/127;;;
+Silcoon;63/127;;Inglês;SP
+Vigoroth ;64/127;;Inglês;NM
+Vigoroth ;64/127;;Inglês;NM
+Wartortle;65/127;;;
+Zangoose ;66/127;;;
+Cacnea ;67/127;;;
+Carnivine;68/127;;Inglês;NM
+Chansey;69/127;;Inglês;NM
+Chansey;69/127;;Inglês;SP
+Chimchar ;70/127;;Inglês;NM
+Combee ;71/127;;Inglês;NM
+Diglett;72/127;;Inglês;NM
+Dunsparce;73/127;;Inglês;NM
+Electrike;74/127;;Inglês;NM
+Grimer ;75/127;;;
+Happiny;76/127;;Inglês;NM
+Happiny;76/127;;Inglês;NM
+Honchkrow G;77/127;;Inglês;NM
+Kricketot;78/127;;;
+Lapras ;79/127;;Inglês;NM
+Lapras ;79/127;;Inglês;NM
+Lickitung;80/127;;Inglês;NM
+Lickitung;80/127;;Inglês;NM
+Lickitung;80/127;;Inglês;NM
+Lotad;81/127;;Inglês;NM
+Mareep ;82/127;;;
+Misdreavus ;83/127;;;
+Nosepass ;84/127;;Inglês;NM
+Nosepass ;84/127;;Inglês;NM
+Piplup ;85/127;;Inglês;NM
+Piplup ;85/127;;Inglês;SP
+Poochyena;86/127;;Inglês;NM
+Poochyena;86/127;;Inglês;D
+Psyduck;87/127;;Inglês;NM
+Purugly G;88/127;;Inglês;NM
+Ralts;89/127;;Inglês;NM
+Remoraid ;90/127;;;
+Riolu;91/127;;Inglês;NM
+Shuppet;92/127;;;
+Skitty ;93/127;;;
+Skuntank G ;94/127;;;
+Slakoth;95/127;;;
+Squirtle ;96/127;;Inglês;NM
+Swablu ;97/127;;;
+Tauros ;98/127;;;
+Torchic;99/127;;Inglês;NM
+Torchic;99/127;;Inglês;SP
+Torkoal;100/127;;Inglês;NM
+Turtwig;101/127;;Inglês;NM
+Turtwig;101/127;;Inglês;NM
+Vulpix ;102/127;;Inglês;NM
+Wurmple;103/127;;;
+Broken Time-Space;104/127;;;
+Cyrus's Conspiracy ;105/127;;;
+Galactic HQ;106/127;;Inglês;NM
+Level Max;107/127;;;
+Life Herb;108/127;;Inglês;NM
+Life Herb;108/127;;Inglês;NM
+Looker's Investigation ;109/127;;;
+Memory Berry ;110/127;;Inglês;NM
+Miasma Valley;111/127;;;
+PlusPower;112/127;;;
+Poké Ball;113/127;;;
+Pokédex HANDY910is ;114/127;;Inglês;SP
+Pokémon Rescue ;115/127;;;
+Team Galactic's Invention G-101 Energy Gain;116/127;;;
+Team Galactic's Invention G-103 Power Spray;117/127;;;
+Team Galactic's Invention G-105 Poké Turn;118/127;;;
+Armor Fossil ;119/127;;Inglês;NM
+Skull Fossil ;120/127;;;
+Rainbow Energy ;121/127;;;
+Dialga G LV.X;122/127;;;
+Drapion LV.X ;123/127;;;
+Giratina LV.X;124/127;;;
+Palkia G LV.X;125/127;;;
+Shaymin LV.X ;126/127;;;
+Shaymin LV.X ;127/127;;;
+Electabuzz ;128/127;;;
+Hitmonchan ;129/127;;;
+Scyther;130/127;;;
+Lotad;SH4;Reverse Foil;Inglês;NM
+Swablu ;SH5;Reverse Foil;Inglês;NM
+Vulpix;SH6;;;
+Banette ;1/101;;;
+Claydol ;2/101;;;
+Crobat;3/101;;;
+Dark Celebi ;4/101;;;
+Electrode ;5/101;;;
+Exploud ;6/101;;;
+Heracross ;7/101;Foil;Inglês;NM
+Jirachi ;8/101;;;
+Machamp ;9/101;;;
+Medicham;10/101;;;
+Metagross ;11/101;;;
+Milotic ;12/101;;;
+Pinsir;13/101;;;
+Shiftry ;14/101;Foil;Inglês;M
+Walrein ;15/101;;;
+Bellossom ;16/101;;;
+Chimecho;17/101;;;
+Gorebyss;18/101;;;
+Huntail ;19/101;;;
+Masquerain;20/101;;;
+Metang;21/101;;;
+Ninetales ;22/101;;;
+Rain Castform ;23/101;;;
+Relicanth ;24/101;;;
+Snow-cloud Castform ;25/101;;;
+Sunny Castform;26/101;;;
+Tropius ;27/101;;Inglês;NM
+Beldum;28/101;;;
+Beldum;29/101;;;
+Castform;30/101;;;
+Claydol ;31/101;;;
+Corsola ;32/101;;;
+Dodrio;33/101;;Inglês;NM
+Glalie;34/101;;;
+Gloom ;35/101;;Inglês;NM
+Golbat;36/101;;;
+Igglybuff ;37/101;;Inglês;NM
+Lanturn ;38/101;;;
+Loudred ;39/101;;;
+Luvdisc ;40/101;;;
+Machoke ;41/101;;Inglês;NM
+Medicham;42/101;Reverse Foil;Inglês;M
+Metang;43/101;;;
+Metang;44/101;;;
+Nuzleaf ;45/101;;;
+Rhydon;46/101;;;
+Sealeo;47/101;;;
+Spinda;48/101;;;
+Starmie ;49/101;;;
+Swalot;50/101;;;
+Tentacruel;51/101;;;
+Baltoy;52/101;;Inglês;NM
+Baltoy;52/101;;Inglês;SP
+Baltoy;53/101;;;
+Beldum;54/101;;;
+Chikorita ;55/101;;;
+Chinchou;56/101;;;
+Chinchou;57/101;;;
+Clamperl;58/101;;;
+Cyndaquil ;59/101;;;
+Doduo ;60/101;;;
+Feebas;61/101;;Inglês;NM
+Gulpin;62/101;;;
+Jigglypuff;63/101;;;
+Machop;64/101;;;
+Meditite;65/101;;;
+Meditite;66/101;;;
+Minun ;67/101;;;
+Oddish;68/101;;Inglês;NM
+Oddish;68/101;;Inglês;NM
+Plusle;69/101;;;
+Rhyhorn ;70/101;;;
+Seedot;71/101;;;
+Shuppet ;72/101;;Inglês;SP
+Snorunt ;73/101;;;
+Spheal;74/101;;;
+Staryu;75/101;;;
+Surskit ;76/101;;;
+Tentacool ;77/101;;;
+Togepi;78/101;;;
+Totodile;79/101;;Inglês;NM
+Voltorb ;80/101;;;
+Vulpix;81/101;;;
+Whismur ;82/101;;Inglês;NM
+Zubat ;83/101;;Inglês;NM
+Zubat ;83/101;;Inglês;NM
+Ancient Technical Machine [Ice] ;84/101;;;
+Ancient Technical Machine [Rock];85/101;;;
+Ancient Technical Machine [Steel] ;86/101;;;
+Ancient Tomb;87/101;;;
+Desert Ruins;88/101;;;
+Island Cave ;89/101;;;
+Life Herb ;90/101;;;
+Magnetic Storm;91/101;;;
+Steven's Advice ;92/101;;;
+Groudon ex;93/101;;;
+Kyogre ex ;94/101;;;
+Metagross ex;95/101;;;
+Ninetales ex;96/101;;;
+Regice ex ;97/101;;;
+Regirock ex ;98/101;;;
+Registeel ex;99/101;;;
+Vileplume ex;100/101;;;
+Wigglytuff ex ;101/101;;;
+Groudon;102/101;;;
+Articuno ;1/100;;;
+Cresselia;2/100;;;
+Darkrai;3/100;Reverse Foil;Inglês;NM
+Dialga ;4/100;;;
+Glaceon;5/100;;;
+Kabutops ;6/100;;;
+Leafeon;7/100;;;
+Manaphy;8/100;;;
+Mewtwo ;9/100;;;
+Moltres;10/100;;;
+Palkia ;11/100;;;
+Phione ;12/100;;;
+Rotom;13/100;;;
+Zapdos ;14/100;;;
+Aerodactyl ;15/100;;;
+Bronzong ;16/100;;;
+Empoleon ;17/100;;;
+Espeon ;18/100;;;
+Flareon;19/100;;;
+Glaceon;20/100;;;
+Hippowdon;21/100;;;
+Infernape;22/100;;;
+Jolteon;23/100;;;
+Leafeon;24/100;;;
+Minun;25/100;;Inglês;NM
+Omastar;26/100;;;
+Phione ;27/100;;;
+Plusle ;28/100;;;
+Scizor ;29/100;;;
+Torterra ;30/100;;;
+Toxicroak;31/100;;;
+Umbreon;32/100;;;
+Unown P;33/100;;;
+Vaporeon ;34/100;;;
+Ambipom;35/100;;Inglês;NM
+Fearow ;36/100;;;
+Grotle ;37/100;;;
+Kangaskhan ;38/100;;;
+Lickitung;39/100;;;
+Manectric;40/100;;;
+Monferno ;41/100;;Inglês;SP
+Mothim ;42/100;;;
+Pachirisu;43/100;;;
+Prinplup ;44/100;;;
+Raichu ;45/100;;;
+Scyther;46/100;;;
+Staravia ;47/100;;;
+Sudowoodo;48/100;;;
+Unown Q;49/100;;;
+Aipom;50/100;;;
+Aipom;51/100;;;
+Bronzor;52/100;;;
+Buneary;53/100;;;
+Burmy Sandy Cloak;54/100;;;
+Chatot ;55/100;;;
+Chimchar ;56/100;;;
+Chimchar ;57/100;;Inglês;SP
+Chingling;58/100;;;
+Combee ;59/100;;;
+Croagunk ;60/100;;Inglês;NM
+Drifloon ;61/100;;;
+Eevee;62/100;;;
+Eevee;63/100;;Inglês;NM
+Electrike;64/100;;;
+Glameow;65/100;;Inglês;NM
+Hippopotas ;66/100;;;
+Kabuto ;67/100;;;
+Munchlax ;68/100;;;
+Omanyte;69/100;;;
+Pikachu;70/100;;;
+Piplup ;71/100;;;
+Piplup ;72/100;;;
+Shellos East Sea ;73/100;;;
+Spearow;74/100;;;
+Starly ;75/100;;;
+Stunky ;76/100;;;
+Turtwig;77/100;;;
+Turtwig;78/100;;Inglês;NM
+Dawn Stadium ;79/100;;;
+Dusk Ball;80/100;;;
+Energy Restore ;81/100;;;
+Fossil Excavator ;82/100;;;
+Mom's Kindness ;83/100;;;
+Old Amber;84/100;;Inglês;NM
+Poké Ball;85/100;;;
+Quick Ball ;86/100;;;
+Super Scoop Up ;87/100;;;
+Warp Point ;88/100;;;
+Dome Fossil;89/100;;;
+Energy Search;90/100;;Inglês;NM
+Energy Search;90/100;;Inglês;NM
+Helix Fossil ;91/100;;;
+Call Energy;92/100;;;
+Darkness Energy;93/100;;;
+Health Energy;94/100;;;
+Metal Energy ;95/100;;;
+Recover Energy ;96/100;;;
+Garchomp LV.X;97/100;;;
+Glaceon LV.X ;98/100;;;
+Leafeon LV.X ;99/100;;;
+Porygon-Z LV.X ;100/100;;;
+Arcanine ;1/111;;;
+Bastiodon Pokémon GL ;2/111;;;
+Darkrai Pokémon G;3/111;;;
+Floatzel Pokémon GL;4/111;;;
+Flygon ;5/111;;Inglês;NM
+Froslass Pokémon GL;6/111;;;
+Jirachi;7/111;;;
+Lucario Pokémon GL ;8/111;;;
+Luxray GL;9/111;Foil;Inglês;NM
+Mismagius Pokémon GL ;10/111;;;
+Rampardos Pokémon GL ;11/111;;;
+Roserade Pokémon GL;12/111;;;
+Shiftry;13/111;Foil;Inglês;NM
+Aggron ;14/111;;;
+Beedrill ;15/111;;;
+Bronzong Pokémon 4 ;16/111;;;
+Drapion Pokémon 4;17/111;;;
+Espeon Pokémon 4 ;18/111;;;
+Flareon;19/111;;;
+Gallade Pokémon 4;20/111;;;
+Gastrodon East Sea ;21/111;Reverse Foil;Inglês;NM
+Gastrodon West Sea ;22/111;;;
+Golem Pokémon 4;23/111;;;
+Heracross Pokémon 4;24/111;;;
+Hippowdon;25/111;Foil;Inglês;NM
+Jolteon;26/111;;;
+Mamoswine Pokémon GL ;27/111;;;
+Mr. Mime Pokémon 4 ;28/111;;;
+Nidoking ;29/111;;;
+Nidoqueen;30/111;;;
+Raichu Pokémon GL;31/111;;;
+Rhyperior 4;32/111;Foil;Inglês;M
+Snorlax;33/111;;;
+Vaporeon ;34/111;;;
+Vespiquen Pokémon 4;35/111;;;
+Walrein;36/111;;;
+Yanmega Pokémon 4;37/111;;;
+Alakazam Pokémon 4 ;38/111;;;
+Electrode Pokémon G;39/111;;;
+Gengar Pokémon GL;40/111;;;
+Glaceon;41/111;Reverse Foil;Inglês;NM
+Hippowdon 4;42/111;;Inglês;NM
+Hippowdon 4;42/111;;Inglês;NM
+Infernape Pokémon 4;43/111;;;
+Lairon ;44/111;;;
+Leafeon;45/111;;;
+Machamp GL ;46/111;;Inglês;NM
+Rapidash Pokémon 4 ;47/111;;;
+Scizor 4 ;48/111;;Inglês;NM
+Sharpedo ;49/111;;;
+Starmie;50/111;;Inglês;NM
+Starmie;50/111;;Inglês;NM
+Steelix Pokémon GL ;51/111;;;
+Tropius;52/111;;;
+Vibrava;53/111;;Inglês;NM
+Vibrava;53/111;;Inglês;NM
+Whiscash 4 ;54/111;;Inglês;SP
+Aerodactyl GL;55/111;;Inglês;NM
+Aerodactyl GL;55/111;;Inglês;NM
+Aerodactyl GL;55/111;;Inglês;NM
+Aerodactyl GL;55/111;;Inglês;NM
+Ambipom Pokémon G;56/111;;;
+Aron ;57/111;;;
+Carvanha ;58/111;;;
+Eevee;59/111;;;
+Flareon 4;60/111;;Inglês;NM
+Flareon 4;60/111;;Inglês;NM
+Forretress Pokémon G ;61/111;;;
+Gliscor Pokémon 4;62/111;;;
+Growlithe;63/111;;;
+Hippopotas ;64/111;;Inglês;NM
+Hippopotas ;64/111;;Inglês;NM
+Hippopotas ;64/111;;Inglês;NM
+Hippopotas ;64/111;;Inglês;NM
+Houndoom 4 ;65/111;;Inglês;NM
+Houndoom 4 ;65/111;;Inglês;NM
+Kakuna ;66/111;;;
+Kecleon;67/111;;Inglês;D
+Koffing;68/111;;;
+Munchlax ;69/111;;;
+Munchlax ;70/111;;;
+Nidoran Fêmea;71/111;Reverse Foil;Inglês;NM
+Nidoran Fêmea;71/111;;Inglês;NM
+Nidoran Macho;72/111;;Inglês;NM
+Nidorina ;73/111;;;
+Nidorino ;74/111;;Inglês;NM
+Nidorino ;74/111;;Inglês;NM
+Nuzleaf;75/111;;;
+Quagsire Pokémon GL;76/111;;;
+Sealeo ;77/111;;;
+Seedot ;78/111;;;
+Shellos East Sea ;79/111;;;
+Shellos West Sea ;80/111;;;
+Snorlax;81/111;;;
+Spheal ;82/111;;Inglês;NM
+Staryu ;83/111;;Inglês;NM
+Staryu ;83/111;;Inglês;NM
+Staryu ;83/111;;Inglês;NM
+Staryu ;83/111;;Inglês;NM
+Trapinch ;84/111;;Inglês;NM
+Trapinch ;84/111;;Inglês;NM
+Trapinch ;84/111;;Inglês;NM
+Trapinch ;84/111;;Inglês;NM
+Turtwig GL ;85/111;;Inglês;NM
+Weedle ;86/111;;;
+Weezing;87/111;;;
+Aaron's Collection ;88/111;;Inglês;NM
+Aaron's Collection ;88/111;;Inglês;NM
+Bebe's Search;89/111;;Inglês;NM
+Bebe's Search;89/111;;Inglês;NM
+Bertha's Warmth;90/111;;;
+Flint's Willpower;91/111;;;
+Lucian's Assignment;92/111;;;
+Pokémon Contest Hall ;93/111;;;
+Sunyshore City Gym ;94/111;;Inglês;NM
+Team Galactic's Invention G-107 Technical Machine Pokémon G;95/111;;;
+Team Galactic's Invention G-109 SP Radar ;96/111;;;
+Underground Expedition ;97/111;;;
+Volkner's Philosophy ;98/111;;Inglês;NM
+Volkner's Philosophy ;98/111;;Inglês;SP
+Darkness Energy;99/111;;;
+Metal Energy ;100/111;;;
+SP Energy;101/111;;Inglês;NM
+Upper Energy ;102/111;;;
+Alakazam Pokémon 4 LV.X;103/111;;;
+Floatzel Pokémon GL LV.X ;104/111;;;
+Flygon LV.X;105/111;;;
+Gallade Pokémon 4 LV.X ;106/111;;;
+Hippowdon LV.X ;107/111;;;
+Infernape Pokémon 4 LV.X ;108/111;;;
+Luxray Pokémon GL LV.X ;109/111;;;
+Mismagius Pokémon GL LV.X;110/111;;;
+Snorlax LV.X ;111/111;;;
+Pikachu;112/111;;;
+Flying Pikachu ;113/111;;;
+Surfing Pikachu;114/111;;;
+Dusknoir;1/100;;;
+Empoleon;2/100;;;
+Infernape ;3/100;;;
+Lumineon;4/100;;;
+Magnezone ;5/100;;;
+Magnezone ;6/100;;;
+Mismagius ;7/100;;;
+Raichu;8/100;;;
+Regigigas ;9/100;;;
+Sceptile;10/100;;;
+Torterra;11/100;;;
+Abomasnow ;12/100;;;
+Bronzong;13/100;;;
+Cherrim ;14/100;;Inglês;NM
+Drapion ;15/100;;;
+Drifblim;16/100;;Inglês;NM
+Dusknoir;17/100;;;
+Gengar;18/100;;;
+Gyarados;19/100;;;
+Machamp ;20/100;;;
+Mamoswine ;21/100;;;
+Rapidash;22/100;;;
+Roserade;23/100;;;
+Salamence ;24/100;;;
+Scizor;25/100;;;
+Skuntank;26/100;;Inglês;NM
+Staraptor ;27/100;;Inglês;NM
+Steelix ;28/100;;;
+Tangrowth ;29/100;;;
+Tyranitar ;30/100;Foil;Inglês;NM
+Vespiquen ;31/100;;;
+Bibarel ;32/100;;;
+Budew ;33/100;;;
+Dusclops;34/100;;Inglês;NM
+Dusclops;35/100;;;
+Electrode ;36/100;;;
+Electrode ;37/100;;;
+Farfetch'd;38/100;;Inglês;NM
+Grovyle ;39/100;;;
+Haunter ;40/100;;Inglês;NM
+Machoke ;41/100;;;
+Magneton;42/100;;;
+Magneton;43/100;;;
+Miltank ;44/100;;Inglês;NM
+Pichu ;45/100;;;
+Piloswine ;46/100;;;
+Pupitar ;47/100;;Inglês;NM
+Pupitar ;47/100;;Inglês;NM
+Sableye ;48/100;;;
+Scyther ;49/100;;;
+Shelgon ;50/100;Reverse Foil;Inglês;HP
+Skarmory;51/100;;;
+Staravia;52/100;;Inglês;NM
+Staravia;52/100;;Inglês;NM
+Bagon ;53/100;;Inglês;NM
+Bagon ;53/100;;Inglês;SP
+Bagon ;53/100;;Inglês;MP
+Bidoof;54/100;Reverse Foil;Inglês;MP
+Bronzor ;55/100;;Inglês;SP
+Cherubi ;56/100;;;
+Combee;57/100;;;
+Drifloon;58/100;;;
+Duskull ;59/100;;;
+Duskull ;60/100;;;
+Finneon ;61/100;;;
+Gastly;62/100;;Inglês;NM
+Larvitar;63/100;;Inglês;NM
+Larvitar;63/100;;Inglês;NM
+Larvitar;63/100;;Inglês;NM
+Larvitar;63/100;;Inglês;NM
+Machop;64/100;;Inglês;NM
+Machop;64/100;;Inglês;NM
+Machop;64/100;;Inglês;NM
+Machop;64/100;;Inglês;NM
+Magikarp;65/100;;;
+Magnemite ;66/100;;;
+Magnemite ;67/100;;Inglês;NM
+Misdreavus;68/100;;;
+Onix;69/100;;;
+Pikachu ;70/100;Reverse Foil;Inglês;SP
+Ponyta;71/100;;;
+Roselia ;72/100;;;
+Skorupi ;73/100;;;
+Snover;74/100;;Inglês;NM
+Starly;75/100;;Inglês;NM
+Starly;75/100;;Inglês;NM
+Starly;75/100;;Inglês;NM
+Starly;75/100;;Inglês;NM
+Stunky;76/100;;Inglês;NM
+Stunky;76/100;;Inglês;NM
+Stunky;76/100;;Inglês;NM
+Stunky;76/100;;Inglês;NM
+Swinub;77/100;;;
+Tangela ;78/100;;;
+Treecko ;79/100;;Inglês;NM
+Treecko ;79/100;;Inglês;MP
+Voltorb ;80/100;;;
+Voltorb ;81/100;;Inglês;NM
+Conductive Quarry ;82/100;;;
+Energy Link ;83/100;;;
+Energy Switch ;84/100;;Inglês;NM
+Energy Switch ;84/100;;Inglês;SP
+Great Ball;85/100;;Inglês;NM
+Great Ball;85/100;;Inglês;NM
+Luxury Ball ;86/100;;Inglês;NM
+Marley's Request;87/100;;;
+Poké Blower + ;88/100;;Inglês;NM
+Poké Drawer + ;89/100;;Inglês;NM
+Poké Healer + ;90/100;;;
+Premier Ball;91/100;;;
+Potion;92/100;;Inglês;NM
+Potion;92/100;;Inglês;NM
+Potion;92/100;;Inglês;NM
+Potion;92/100;;Inglês;NM
+Potion;92/100;;Inglês;SP
+Switch;93/100;;Inglês;NM
+Switch;93/100;;Inglês;NM
+Cyclone Energy;94/100;;;
+Warp Energy ;95/100;;;
+Dusknoir LV.X ;96/100;;;
+Heatran LV.X;97/100;;;
+Machamp LV.X;98/100;;;
+Raichu LV.X ;99/100;;;
+Regigigas LV.X;100/100;;;
+Charmander;101/100;;;
+Charmeleon;102/100;;;
+Charizard ;103/100;;;
+Drifloon;SH1;;;
+Duskull ;SH2;;;
+Voltorb ;SH3;;;
+Deoxys Normal Forme;1/146;;;
+Dragonite;2/146;;;
+Froslass ;3/146;;;
+Giratina ;4/146;;;
+Gliscor;5/146;;;
+Heatran;6/146;;;
+Kingdra;7/146;;;
+Luxray ;8/146;;;
+Mamoswine;9/146;;;
+Metagross;10/146;;;
+Mewtwo ;11/146;;;
+Politoed ;12/146;;;
+Probopass;13/146;;;
+Rayquaza ;14/146;;;
+Regigigas;15/146;;;
+Spiritomb;16/146;;;
+Yanmega;17/146;;;
+Armaldo;18/146;;;
+Azelf;19/146;;;
+Bellossom;20/146;;;
+Cradily;21/146;;;
+Crawdaunt;22/146;;;
+Delcatty ;23/146;;;
+Deoxys Attack Forme;24/146;;;
+Deoxys Defense Forme ;25/146;;;
+Deoxys Speed Forme ;26/146;;Inglês;NM
+Ditto;27/146;;;
+Forretress ;28/146;;;
+Groudon;29/146;;;
+Heatran;30/146;;;
+Jirachi;31/146;;;
+Kyogre ;32/146;;;
+Lopunny;33/146;;;
+Mesprit;34/146;;;
+Poliwrath;35/146;;;
+Regice ;36/146;;;
+Regigigas;37/146;;;
+Regirock ;38/146;;;
+Registeel;39/146;;;
+Shedinja ;40/146;;;
+Torkoal;41/146;;;
+Unown !;42/146;;;
+Uxie ;43/146;;;
+Victreebel ;44/146;;;
+Vileplume;45/146;;;
+Anorith;46/146;;;
+Camerupt ;47/146;;;
+Castform ;48/146;;;
+Castform Rain Form ;49/146;;;
+Castform Snow-cloud Form ;50/146;;;
+Castform Sunny Form;51/146;;;
+Dragonair;52/146;;;
+Drifblim ;53/146;;;
+Exeggutor;54/146;;;
+Gliscor;55/146;;;
+Grumpig;56/146;;;
+Houndoom ;57/146;;;
+Lanturn;58/146;;;
+Lanturn;59/146;;;
+Ledian ;60/146;;;
+Lucario;61/146;;Inglês;NM
+Luxio;62/146;;;
+Marowak;63/146;;;
+Metang ;64/146;;Inglês;NM
+Metang ;65/146;;;
+Mightyena;66/146;;;
+Ninjask;67/146;;;
+Persian;68/146;;;
+Piloswine;69/146;;;
+Seadra ;70/146;;;
+Starmie;71/146;;;
+Swalot ;72/146;;;
+Swellow;73/146;;;
+Tauros ;74/146;;;
+Tentacruel ;75/146;;;
+Unown J;76/146;;;
+Unown R;77/146;;Inglês;NM
+Unown U;78/146;;;
+Unown V;79/146;;;
+Unown W;80/146;;;
+Unown Y;81/146;;;
+Unown ?;82/146;;;
+Beldum ;83/146;;;
+Beldum ;84/146;;;
+Bellsprout ;85/146;;;
+Buneary;86/146;;;
+Chinchou ;87/146;;;
+Chinchou ;88/146;;Inglês;NM
+Corphish ;89/146;;;
+Cubone ;90/146;;;
+Dratini;91/146;;;
+Drifloon ;92/146;;;
+Exeggcute;93/146;;;
+Gligar ;94/146;;;
+Gligar ;95/146;;;
+Gloom;96/146;;;
+Gloom;97/146;;Inglês;NM
+Gulpin ;98/146;;;
+Hitmonchan ;99/146;Reverse Foil;Inglês;NM
+Hitmonchan ;99/146;;Inglês;NM
+Hitmonlee;100/146;;;
+Hitmontop;101/146;;;
+Horsea ;102/146;;;
+Houndour ;103/146;;;
+Ledyba ;104/146;;;
+Lileep ;105/146;;Inglês;NM
+Meowth ;106/146;;;
+Misdreavus ;107/146;;;
+Nincada;108/146;;;
+Nosepass ;109/146;;;
+Numel;110/146;;;
+Oddish ;111/146;;;
+Oddish ;112/146;;;
+Pineco ;113/146;;;
+Poliwag;114/146;;Inglês;NM
+Poliwhirl;115/146;;;
+Poochyena;116/146;;;
+Riolu;117/146;;;
+Shinx;118/146;;;
+Skitty ;119/146;;;
+Sneasel;120/146;;;
+Spoink ;121/146;;;
+Staryu ;122/146;;;
+Swinub ;123/146;;;
+Taillow;124/146;;;
+Tentacool;125/146;;;
+Tyrogue;126/146;;;
+Weepinbell ;127/146;;;
+Yanma;128/146;;;
+Bubble Coat;129/146;;;
+Buck's Training;130/146;;;
+Cynthia's Feelings ;131/146;;Inglês;NM
+Cynthia's Feelings ;131/146;;Inglês;NM
+Energy Pickup;132/146;;;
+Poké Radar ;133/146;;;
+Snowpoint Temple ;134/146;;;
+Stark Mountain ;135/146;;;
+Technical Machine TS-1 ;136/146;;;
+Technical Machine TS-2 ;137/146;;;
+Claw Fossil;138/146;;;
+Root Fossil;139/146;;;
+Azelf LV.X ;140/146;;;
+Gliscor LV.X ;141/146;;;
+Magnezone LV.X ;142/146;;;
+Mesprit LV.X ;143/146;;;
+Mewtwo LV.X;144/146;;;
+Rhyperior LV.X ;145/146;;;
+Uxie LV.X;146/146;;;
+Absol Pokémon G;1/147;;;
+Blaziken Pokémon FB;2/147;;;
+Drifblim Pokémon FB;3/147;;;
+Electivire Pokémon FB;4/147;;;
+Garchomp ;5/147;;;
+Magmortar;6/147;;;
+Metagross;7/147;;;
+Rayquaza Pokémon C ;8/147;;;
+Regigigas Pokémon FB ;9/147;;;
+Rhyperior;10/147;;;
+Staraptor Pokémon FB ;11/147;;;
+Swampert ;12/147;;;
+Venusaur ;13/147;;;
+Yanmega;14/147;;;
+Arcanine G ;15/147;;Inglês;NM
+Articuno ;16/147;;;
+Butterfree Pokémon FB;17/147;;;
+Camerupt ;18/147;;;
+Camerupt Pokémon G ;19/147;;;
+Charizard Pokémon G;20/147;;;
+Chimecho ;21/147;;;
+Claydol;22/147;;;
+Crawdaunt Pokémon G;23/147;;;
+Dewgong;24/147;;;
+Dodrio ;25/147;;;
+Dusknoir Pokémon FB;26/147;;;
+Empoleon Pokémon FB;27/147;;;
+Exploud;28/147;;;
+Honchkrow;29/147;;;
+Lickilicky Pokémon C ;30/147;;;
+Lucario Pokémon C;31/147;;;
+Lunatone ;32/147;;;
+Mawile ;33/147;;;
+Medicham ;34/147;;;
+Milotic Pokémon C;35/147;;;
+Moltres;36/147;;;
+Mr. Mime ;37/147;;;
+Parasect ;38/147;;;
+Primeape ;39/147;;;
+Roserade Pokémon C ;40/147;;;
+Sableye Pokémon G;41/147;;;
+Sandslash;42/147;;;
+Seaking;43/147;;;
+Shedinja ;44/147;;;
+Solrock;45/147;;;
+Spinda ;46/147;;;
+Wailord;47/147;;;
+Zapdos ;48/147;;;
+Altaria Pokémon C;49/147;;;
+Arcanine ;50/147;;;
+Bibarel;51/147;;;
+Breloom;52/147;;;
+Carnivine;53/147;;;
+Chatot Pokémon G ;54/147;;;
+Cherrim;55/147;;;
+Dragonite Pokémon FB ;56/147;;;
+Drifblim ;57/147;;;
+Floatzel ;58/147;;;
+Gabite ;59/147;;;
+Garchomp Pokémon C ;60/147;;;
+Hippopotas ;61/147;;;
+Ivysaur;62/147;;;
+Lopunny;63/147;;Inglês;NM
+Loudred;64/147;;;
+Magmar ;65/147;;;
+Manectric Pokémon G;66/147;;;
+Marshtomp;67/147;Reverse Foil;Inglês;NM
+Masquerain ;68/147;;;
+Metang ;69/147;;;
+Milotic;70/147;;;
+Minun;71/147;;;
+Murkrow;72/147;;;
+Ninjask;73/147;;Inglês;NM
+Numel;74/147;;;
+Pinsir ;75/147;;;
+Plusle ;76/147;;;
+Raichu ;77/147;;;
+Raticate Pokémon G ;78/147;;;
+Relicanth;79/147;;;
+Rhydon ;80/147;;;
+Roserade ;81/147;;;
+Rotom;82/147;;;
+Skarmory Pokémon FB;83/147;;;
+Spiritomb Pokémon C;84/147;;;
+Staravia ;85/147;;;
+Togekiss Pokémon C ;86/147;;;
+Wailmer;87/147;;;
+Yanma;88/147;;;
+Baltoy ;89/147;;;
+Beldum ;90/147;;;
+Bidoof ;91/147;;;
+Buizel ;92/147;;;
+Bulbasaur;93/147;;Inglês;SP
+Buneary;94/147;;;
+Chatot ;95/147;;;
+Cherubi;96/147;;;
+Chimchar ;97/147;;;
+Chingling;98/147;;Inglês;NM
+Combee ;99/147;;;
+Corphish ;100/147;;;
+Croagunk ;101/147;;;
+Doduo;102/147;;;
+Drifloon ;103/147;;;
+Feebas ;104/147;;;
+Geodude;105/147;;;
+Gible;106/147;;Inglês;NM
+Goldeen;107/147;;;
+Growlithe;108/147;;;
+Kricketot;109/147;;;
+Magikarp ;110/147;;;
+Magnemite;111/147;;;
+Mankey ;112/147;;;
+Meditite ;113/147;;Inglês;NM
+Meowth ;114/147;;;
+Mime Jr. ;115/147;;;
+Mudkip ;116/147;;;
+Nincada;117/147;;;
+Pachirisu;118/147;;;
+Paras;119/147;;;
+Pikachu;120/147;;;
+Piplup ;121/147;;;
+Rhyhorn;122/147;;;
+Roselia;123/147;;;
+Sandshrew;124/147;;;
+Seel ;125/147;;;
+Shinx;126/147;;;
+Shroomish;127/147;;;
+Skorupi;128/147;;;
+Starly ;129/147;;Inglês;NM
+Surskit;130/147;;;
+Turtwig;131/147;;;
+Whismur;132/147;;;
+Zubat;133/147;;;
+Battle Tower ;134/147;;Inglês;NM
+Champion's Room;135/147;;;
+Cynthia's Guidance ;136/147;;;
+Cyrus's Initiative ;137/147;;;
+Night Teleporter ;138/147;;;
+Palmer's Contribution;139/147;;;
+VS Seeker;140/147;;;
+Absol Pokémon G LV.X ;141/147;;;
+Blaziken Pokémon FB LV.X ;142/147;;;
+Charizard Pokémon G LV.X ;143/147;;;
+Electivire Pokémon FB LV.X ;144/147;;;
+Garchomp Pokémon C LV.X;145/147;;;
+Rayquaza Pokémon C LV.X;146/147;;;
+Staraptor Pokémon FB LV.X;147/147;;;
+Articuno ;148/147;;;
+Moltres;149/147;;;
+Zapdos ;150/147;;;
+Milotic;SH7;;;
+Relicanth;SH8;;;
+Yanma;SH9;;;
+Dialga;1/130;;;
+Dusknoir;2/130;;;
+Electivire;3/130;Reverse Foil;Inglês;NM
+Empoleon;4/130;;;
+Infernape ;5/130;;;
+Lucario ;6/130;;;
+Luxray;7/130;;;
+Magnezone ;8/130;;;
+Manaphy ;9/130;;;
+Mismagius ;10/130;;;
+Palkia;11/130;;;
+Rhyperior ;12/130;;;
+Roserade;13/130;;;
+Shiftry ;14/130;;;
+Skuntank;15/130;;;
+Staraptor ;16/130;;;
+Torterra;17/130;;;
+Azumarill ;18/130;;;
+Beautifly ;19/130;;;
+Bibarel ;20/130;;;
+Carnivine ;21/130;;Inglês;NM
+Clefable;22/130;;;
+Drapion ;23/130;;;
+Drifblim;24/130;;;
+Dustox;25/130;;;
+Floatzel;26/130;;;
+Gengar;27/130;;;
+Heracross ;28/130;;;
+Hippowdon ;29/130;;;
+Lopunny ;30/130;;Inglês;NM
+Machamp ;31/130;;;
+Medicham;32/130;;;
+Munchlax;33/130;;;
+Noctowl ;34/130;;;
+Pachirisu ;35/130;;;
+Purugly ;36/130;;;
+Snorlax ;37/130;;;
+Steelix ;38/130;;;
+Vespiquen ;39/130;;;
+Weavile ;40/130;;;
+Wobbuffet ;41/130;;;
+Wynaut;42/130;;Inglês;NM
+Budew ;43/130;;;
+Cascoon ;44/130;;;
+Cherrim ;45/130;;;
+Drifloon;46/130;;;
+Dusclops;47/130;;Inglês;SP
+Elekid;48/130;;;
+Grotle;49/130;;Inglês;NM
+Haunter ;50/130;;;
+Hippopotas;51/130;;;
+Luxio ;52/130;;;
+Machoke ;53/130;;;
+Magneton;54/130;;;
+Mantyke ;55/130;;;
+Monferno;56/130;;;
+Nuzleaf ;57/130;;;
+Prinplup;58/130;;Inglês;SP
+Rapidash;59/130;;Inglês;NM
+Rapidash;59/130;;Inglês;SP
+Rhydon;60/130;;;
+Riolu ;61/130;;Inglês;SP
+Seaking ;62/130;;;
+Silcoon ;63/130;;;
+Staravia;64/130;;;
+Unown A ;65/130;;;
+Unown B ;66/130;;;
+Unown C ;67/130;;Inglês;SP
+Unown D ;68/130;;;
+Azurill ;69/130;;;
+Bidoof;70/130;;Inglês;NM
+Bonsly;71/130;;Inglês;NM
+Buizel;72/130;;;
+Buneary ;73/130;;;
+Chatot;74/130;;Inglês;NM
+Cherubi ;75/130;;;
+Chimchar;76/130;;Inglês;NM
+Clefairy;77/130;;;
+Cleffa;78/130;;;
+Combee;79/130;;Inglês;NM
+Duskull ;80/130;;;
+Electabuzz;81/130;;;
+Gastly;82/130;;Inglês;NM
+Glameow ;83/130;Reverse Foil;Inglês;NM
+Goldeen ;84/130;;;
+Hoothoot;85/130;;;
+Machop;86/130;;;
+Magnemite ;87/130;;;
+Marill;88/130;;;
+Meditite;89/130;;;
+Mime Jr.;90/130;;;
+Misdreavus;91/130;;;
+Onix;92/130;;Inglês;NM
+Piplup;93/130;Reverse Foil;Inglês;NM
+Ponyta;94/130;;;
+Rhyhorn ;95/130;;;
+Roselia ;96/130;;;
+Seedot;97/130;;;
+Shinx ;98/130;;Inglês;SP
+Skorupi ;99/130;;;
+Sneasel ;100/130;;;
+Starly;101/130;;Inglês;NM
+Stunky;102/130;;Inglês;NM
+Turtwig ;103/130;;Inglês;NM
+Turtwig ;103/130;;Inglês;NM
+Wurmple ;104/130;;;
+Double Full Heal;105/130;;;
+Energy Restore;106/130;;Inglês;NM
+Energy Restore;106/130;;Inglês;SP
+Energy Switch ;107/130;;;
+Night Pokémon Center;108/130;;Inglês;NM
+PlusPower ;109/130;;;
+Poké Ball ;110/130;;;
+Pokédex HANDY910is;111/130;;;
+Professor Rowan ;112/130;;;
+Rival ;113/130;;;
+Speed Stadium ;114/130;;;
+Super Scoop Up;115/130;;;
+Warp Point;116/130;;;
+Energy Search ;117/130;;;
+Potion;118/130;;;
+Switch;119/130;;;
+Empoleon LV.X ;120/130;;;
+Infernape LV.X;121/130;;;
+Torterra LV.X ;122/130;;;
+Grass Energy;123/130;;;
+Fire Energy ;124/130;;;
+Water Energy;125/130;;;
+Lightning Energy;126/130;;;
+Psychic Energy;127/130;;;
+Fighting Energy ;128/130;;;
+Darkness Energy ;129/130;;;
+Metal Energy;130/130;;;
