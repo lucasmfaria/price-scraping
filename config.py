@@ -37,8 +37,8 @@ Platinum /127 -> /133
 Hidden Legends /101 -> /102
 Rising Rivals /111 -> /120
 Supreme Victors /147 -> 153
-
 Rocket returns /109 -> /111
+Misterious Treasures /123 -> 124
 '''
 CORRECOES_NUMERO_COLECAO = {
     95:97,
@@ -51,6 +51,7 @@ CORRECOES_NUMERO_COLECAO = {
     111:120,
     147:153,
     109:111,
+    123:124,
 }
 
 WEBSITE_2 = 'https://www.ebay.com/'
