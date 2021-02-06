@@ -39,6 +39,14 @@ def checa_colecao(codigo_colecao, codigo_colecao_df):
     else:
         return False
 
+def carrega_cards_ja_buscados(df_precos_parcial):
+    cards_ja_buscados = set()  # rastreia os cards das coleções já buscadas para não duplicar
+    if df_precos_parcial is not None:
+        cards_ja_buscados = set(
+            df_precos_parcial[['nome', 'num_colecao']].apply(lambda x: (x.nome, x.num_colecao),
+                                                                  axis=1))  # inicializa caso va reutilizar um resultado anterior
+    return cards_ja_buscados
+
 def extrai_preco_string(string):
     return float(string.split(' ')[-1].replace('.', '').replace(',', '.'))
 

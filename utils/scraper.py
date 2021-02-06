@@ -1,4 +1,6 @@
 import time
+import numpy as np
+from pathlib import Path
 from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
@@ -6,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import ElementNotInteractableException, NoSuchElementException, StaleElementReferenceException, TimeoutException
-from utils.dados import checa_colecao, extrai_preco_string
+from utils.dados import checa_colecao, extrai_preco_string, constroi_resultados
 
 class LigaPokemonScraper:
     def __init__(self, correcoes_num_colecao, website='https://www.ligapokemon.com.br/', timeout_busca_principal=10,
@@ -82,7 +84,7 @@ class LigaPokemonScraper:
                             idx_colecao = idx
                             break
                     except KeyError:
-                        print('AQUI----------------------------')
+                        pass
 
         if idx_colecao != None:
             colecao_encontrada = colecoes[idx_colecao]
@@ -99,6 +101,40 @@ class LigaPokemonScraper:
             colecao, codigo_colecao = self.procura_colecao(num_colecao)
             n_tentativas_colecao = n_tentativas_colecao + 1
         return colecao, codigo_colecao
+
+    def busca(self, nome, num_colecao, precos_list, preco_acumulado, df_precos_parcial, df_cards, estatistica, csv_input_path):
+        precos_list_copy = precos_list.copy()
+        preco_acumulado_novo = preco_acumulado
+        colecao, codigo_colecao = self.busca_card(nome, num_colecao)
+        if colecao:
+            self.seleciona_colecao(colecao)
+            self.clica_exibir_mais()
+            linhas = self.encontra_linhas()
+            for linha in linhas:
+                qualidade_card = self.encontra_qualidade(linha)
+                lingua_card = self.encontra_lingua(linha)
+                extras = self.encontra_extras(linha)
+                self.aperta_comprar(linha)
+                preco_unitario = self.encontra_preco(preco_acumulado_novo)
+
+                if preco_unitario == 0:
+                    preco_unitario = np.nan
+                else:
+                    preco_acumulado_novo = preco_acumulado_novo + preco_unitario
+
+                card_info = (
+                    nome, codigo_colecao, extras, lingua_card, qualidade_card,
+                    preco_unitario)
+                print((card_info[:-1]) + (
+                    round(card_info[-1],
+                          2),))  # print na tela arredondando o último valor ("preco_unitario")
+                precos_list_copy.append(card_info)
+            constroi_resultados(precos_list_copy, df_precos_parcial, df_cards, estatistica,
+                                Path(csv_input_path))
+        else:
+            print('Não foi encontrada esta coleção')
+
+        return precos_list_copy, preco_acumulado_novo
 
     def seleciona_colecao(self, colecao):
         try:
