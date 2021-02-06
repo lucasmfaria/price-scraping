@@ -2,7 +2,7 @@
 Este projeto visa facilitar a busca de preços nos sites referência de cards de Pokémon TCG (Trading Card Game) utilizando Python, Selenium e Pandas.
 Atualmente o usuário precisa buscar o preço de cada item manualmente de cada vez e preencher seu controle interno de preços de seus cards. Tendo em vista esta dificuldade, desenvolvi este utilitário.
 
-Forma de usar: preencher o arquivo "cartas_pokemon.csv" com os cards. Cada "nome/num_colecao" será uma busca.
+Forma de usar: preencher o arquivo "cartas_pokemon.csv" com os cards. Cada "nome/num_colecao" será uma busca. Construir um ambiente virtual python e instalar libs em "requirements.txt". Rodar "app.py".
 
 Testado apenas com Python 3.7.9. Versões das bibliotecas no "requirements.txt". Foi utilizado o chromedriver para rodar o Selenium. Para instalação deste driver, verificar https://selenium-python.readthedocs.io/installation.html#drivers.
 

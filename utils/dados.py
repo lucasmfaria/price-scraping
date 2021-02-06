@@ -27,8 +27,8 @@ def carrega_lista_precos(path, config):
     df = pd.read_csv(path, sep=';', dtype=config.DTYPES_DICT, index_col=0)
     df.num_colecao = df.num_colecao.map(lambda x: formata_num_colecao(x, com_parenteses=True))
     df = df.fillna({'extras': '', 'lingua': ''})
-    chave = (df.nome + df.num_colecao.map(lambda x: str(x)))
-    df = df[chave != chave.iloc[-1]]  # remove último card procurado (pois pode ter parado no meio da busca e não ter completado aquele card
+    #chave = (df.nome + df.num_colecao.map(lambda x: str(x)))
+    #df = df[chave != chave.iloc[-1]]  # remove último card procurado (pois pode ter parado no meio da busca e não ter completado aquele card
     return df
 
 def checa_colecao(codigo_colecao, codigo_colecao_df):
