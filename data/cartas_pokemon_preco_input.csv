@@ -1,0 +1,1340 @@
+;nome;num_colecao;extras;lingua;condicao;size;preco_unitario;preco_total
+0;gyarados;(6, 102);foil;português;sp;1;54.0;54.0
+1;machamp;(8, 102);foil, edition one;português;sp;1;;
+2;mewtwo;(10, 102);foil;português;sp;1;219.99;219.99
+3;beedrill;(17, 102);;português;sp;1;12.99;12.99
+4;beedrill;(17, 102);;português;hp;1;2.99;2.99
+5;dragonair;(18, 102);;português;mp;1;14.95;14.95
+6;electabuzz;(20, 102);;inglês;mp;1;12.9;12.9
+7;pidgeotto;(22, 102);;português;mp;1;14.9;14.9
+8;arcanine;(23, 102);;português;mp;1;7.98;7.98
+9;arcanine;(23, 102);;português;d;1;1.99;1.99
+10;charmeleon;(24, 102);;português;sp;3;9.81;29.43
+11;charmeleon;(24, 102);;português;hp;1;0.49;0.49
+12;charmeleon;(24, 102);;português;d;2;0.49;0.98
+13;charmeleon;(24, 102);;inglês;sp;1;1.99;1.99
+14;dratini;(26, 102);;português;sp;1;5.99;5.99
+15;dratini;(26, 102);;português;mp;1;1.26;1.26
+16;dratini;(26, 102);;português;hp;2;0.72;1.44
+17;growlithe;(28, 102);;português;sp;2;2.7;5.4
+18;growlithe;(28, 102);;português;mp;1;0.72;0.72
+19;growlithe;(28, 102);;português;hp;1;0.2;0.2
+20;haunter;(29, 102);;português;sp;2;9.99;19.98
+21;ivysaur;(30, 102);;português;sp;2;4.9;9.8
+22;ivysaur;(30, 102);;português;mp;1;1.99;1.99
+23;ivysaur;(30, 102);;inglês;hp;1;0.53;0.53
+24;jynx;(31, 102);;português;nm;1;13.5;13.5
+25;jynx;(31, 102);;português;sp;3;6.29;18.87
+26;jynx;(31, 102);;português;mp;1;0.18;0.18
+27;kadabra;(32, 102);;português;nm;2;19.98;39.96
+28;kadabra;(32, 102);;português;sp;4;9.99;39.96
+29;kakuna;(33, 102);;português;sp;2;2.98;5.96
+30;machoke;(34, 102);;português;nm;2;;
+31;machoke;(34, 102);;português;d;2;0.1;0.2
+32;magikarp;(35, 102);;português;sp;2;14.31;28.62
+33;magikarp;(35, 102);;português;mp;3;1.9;5.7
+34;magikarp;(35, 102);;português;d;1;1.9;1.9
+35;magmar;(36, 102);;português;sp;2;4.49;8.98
+36;magmar;(36, 102);;português;hp;1;1.9;1.9
+37;nidorino;(37, 102);;português;hp;1;2.99;2.99
+38;poliwhirl;(38, 102);;português;nm;3;17.91;53.73
+39;poliwhirl;(38, 102);;português;sp;1;2.0;2.0
+40;poliwhirl;(38, 102);;português;d;1;1.9;1.9
+41;seel;(41, 102);;português;nm;1;;
+42;seel;(41, 102);;português;sp;1;0.99;0.99
+43;abra;(43, 102);;português;nm;6;;
+44;abra;(43, 102);;português;sp;3;1.2;3.6
+45;abra;(43, 102);;português;mp;3;0.5;1.5
+46;abra;(43, 102);;português;hp;1;0.1;0.1
+47;bulbasaur;(44, 102);;português;nm;7;25.2;176.4
+48;bulbasaur;(44, 102);;português;sp;1;2.5;2.5
+49;caterpie;(45, 102);;português;nm;1;11.9;11.9
+50;charmander;(46, 102);;português;nm;2;8.9;17.8
+51;charmander;(46, 102);;português;sp;5;2.3;11.5
+52;charmander;(46, 102);;português;mp;4;0.5;2.0
+53;charmander;(46, 102);;português;hp;1;0.4;0.4
+54;charmander;(46, 102);;português;d;1;0.25;0.25
+55;diglett;(47, 102);;português;sp;2;0.99;1.98
+56;diglett;(47, 102);;português;mp;1;0.2;0.2
+57;diglett;(47, 102);;português;hp;3;0.18;0.54
+58;drowzee;(49, 102);;português;mp;2;0.3;0.6
+59;gastly;(50, 102);;português;nm;1;9.98;9.98
+60;gastly;(50, 102);;português;sp;3;2.49;7.47
+61;koffing;(51, 102);;português;nm;4;5.98;23.92
+62;koffing;(51, 102);;português;sp;2;0.99;1.98
+63;koffing;(51, 102);;português;mp;2;1.5;3.0
+64;machop;(52, 102);;português;nm;3;9.9;29.7
+65;machop;(52, 102);;português;sp;4;1.25;5.0
+66;machop;(52, 102);;português;mp;5;0.2;1.0
+67;machop;(52, 102);;português;hp;1;0.1;0.1
+68;magnemite;(53, 102);;português;nm;1;9.89;9.89
+69;magnemite;(53, 102);;português;sp;1;0.5;0.5
+70;metapod;(54, 102);;português;sp;1;2.49;2.49
+71;nidoran macho;(55, 102);;português;nm;1;7.98;7.98
+72;nidoran macho;(55, 102);;português;sp;1;0.5;0.5
+73;nidoran macho;(55, 102);;inglês;mp;1;0.3;0.3
+74;onix;(56, 102);;português;nm;1;6.99;6.99
+75;onix;(56, 102);;português;sp;1;1.7;1.7
+76;pidgey;(57, 102);;português;d;1;0.49;0.49
+77;pikachu;(58, 102);;português;nm;3;14.95;44.85
+78;pikachu;(58, 102);;português;sp;1;2.69;2.69
+79;pikachu;(58, 102);;português;mp;1;2.29;2.29
+80;poliwag;(59, 102);;português;nm;4;1.0;4.0
+81;poliwag;(59, 102);;português;sp;2;1.49;2.98
+82;poliwag;(59, 102);;português;mp;3;0.5;1.5
+83;poliwag;(59, 102);;português;d;1;0.16;0.16
+84;ponyta;(60, 102);;português;nm;3;1.0;3.0
+85;ponyta;(60, 102);;português;sp;1;1.7;1.7
+86;ponyta;(60, 102);;português;hp;5;0.1;0.5
+87;rattata;(61, 102);;português;nm;2;8.09;16.18
+88;rattata;(61, 102);;português;sp;1;1.98;1.98
+89;rattata;(61, 102);;português;mp;1;0.63;0.63
+90;sandshrew;(62, 102);;português;sp;1;0.71;0.71
+91;squirtle;(63, 102);;português;nm;1;11.69;11.69
+92;squirtle;(63, 102);;português;sp;1;7.99;7.99
+93;starmie;(64, 102);;português;sp;2;1.7;3.4
+94;starmie;(64, 102);;português;mp;1;1.5;1.5
+95;staryu;(65, 102);;português;nm;1;1.49;1.49
+96;staryu;(65, 102);;português;sp;3;0.5;1.5
+97;staryu;(65, 102);;português;mp;3;0.19;0.57
+98;tangela;(66, 102);;português;sp;2;1.49;2.98
+99;voltorb;(67, 102);;português;nm;1;17.91;17.91
+100;vulpix;(68, 102);;português;nm;2;1.0;2.0
+101;vulpix;(68, 102);;português;sp;1;1.99;1.99
+102;vulpix;(68, 102);;português;d;1;0.25;0.25
+103;vulpix;(68, 102);;inglês;mp;1;0.26;0.26
+104;weedle;(69, 102);;português;sp;1;0.2;0.2
+105;weedle;(69, 102);;português;mp;3;0.25;0.75
+106;computer search;(71, 102);;português;sp;1;19.5;19.5
+107;lass;(75, 102);;português;sp;1;3.49;3.49
+108;lass;(75, 102);;português;d;1;8.5;8.5
+109;scoop up;(78, 102);;português;sp;1;39.99;39.99
+110;defender;(80, 102);;português;sp;1;2.7;2.7
+111;energy retrieval;(81, 102);;português;mp;3;1.99;5.97
+112;maintenance;(83, 102);;português;sp;1;13.95;13.95
+113;pluspower;(84, 102);;português;mp;1;2.5;2.5
+114;pokémon center;(85, 102);;português;nm;2;;
+115;pokémon center;(85, 102);;português;mp;1;19.9;19.9
+116;pokédex;(87, 102);;português;nm;1;5.5;5.5
+117;pokédex;(87, 102);;português;sp;2;0.99;1.98
+118;pokédex;(87, 102);;português;mp;1;0.4;0.4
+119;pokédex;(87, 102);;português;hp;1;0.25;0.25
+120;professor oak;(88, 102);;português;nm;3;;
+121;professor oak;(88, 102);;português;sp;1;3.51;3.51
+122;professor oak;(88, 102);;português;mp;1;3.9;3.9
+123;professor oak;(88, 102);;português;hp;1;2.49;2.49
+124;super potion;(90, 102);;português;nm;2;0.91;1.82
+125;super potion;(90, 102);;português;sp;6;0.4;2.4
+126;super potion;(90, 102);;português;mp;3;0.19;0.57
+127;super potion;(90, 102);;português;d;2;0.09;0.18
+128;bill;(91, 102);;português;sp;5;0.99;4.95
+129;bill;(91, 102);;português;mp;4;0.4;1.6
+130;bill;(91, 102);;português;hp;1;0.19;0.19
+131;bill;(91, 102);;português;d;1;0.09;0.09
+132;energy removal;(92, 102);;português;d;1;0.08;0.08
+133;gust of wind;(93, 102);;português;nm;1;1.38;1.38
+134;gust of wind;(93, 102);;português;sp;9;0.49;4.41
+135;gust of wind;(93, 102);;português;mp;4;0.39;1.56
+136;gust of wind;(93, 102);;português;d;2;0.09;0.18
+137;potion;(94, 102);;português;nm;7;1.5;10.5
+138;potion;(94, 102);;português;sp;14;0.2;2.8
+139;potion;(94, 102);;português;mp;3;0.27;0.81
+140;potion;(94, 102);;português;d;3;0.09;0.27
+141;switch;(95, 102);;português;nm;2;1.3;2.6
+142;switch;(95, 102);;português;sp;5;0.49;2.45
+143;switch;(95, 102);;português;mp;1;0.39;0.39
+144;switch;(95, 102);;português;d;2;0.15;0.3
+145;fighting energy;(97, 102);;português;sp;28;0.75;21.0
+146;fighting energy;(97, 102);;português;mp;13;0.49;6.37
+147;fighting energy;(97, 102);;português;hp;8;0.18;1.44
+148;fighting energy;(97, 102);;português;d;6;0.19;1.14
+149;fighting energy;(97, 102);;português;nm;21;1.0;21.0
+150;fire energy;(98, 102);;português;mp;33;0.89;29.37
+151;fire energy;(98, 102);;português;sp;13;0.81;10.53
+152;grass energy;(99, 102);;português;sp;63;0.49;30.87
+153;grass energy;(99, 102);;português;mp;31;0.29;8.99
+154;grass energy;(99, 102);;português;hp;3;0.14;0.42
+155;grass energy;(99, 102);;português;d;4;0.09;0.36
+156;grass energy;(99, 102);;português;nm;8;0.99;7.92
+157;lightning energy;(100, 102);;português;sp;6;2.0;12.0
+158;lightning energy;(100, 102);;português;mp;1;0.36;0.36
+159;psychic energy;(101, 102);;português;sp;33;0.45;14.85
+160;psychic energy;(101, 102);;português;mp;6;0.32;1.92
+161;psychic energy;(101, 102);;português;d;4;0.09;0.36
+162;psychic energy;(101, 102);;português;nm;7;5.9;41.3
+163;water energy;(102, 102);;português;sp;41;0.69;28.29
+164;water energy;(102, 102);;português;nm;3;;
+165;articuno;(2, 62);foil;português;sp;1;170.0;170.0
+166;haunter;(6, 62);foil, edition one;português;nm;1;120.0;120.0
+167;hitmonlee;(7, 62);foil;português;sp;1;;
+168;hypno;(8, 62);foil;português;sp;1;;
+169;kabutops;(9, 62);foil;português;sp;1;;
+170;lapras;(10, 62);foil;português;sp;1;29.5;29.5
+171;magneton;(11, 62);foil;inglês;mp;1;79.9;79.9
+172;muk;(13, 62);foil;português;nm;1;29.95;29.95
+173;muk;(13, 62);foil;português;sp;1;30.0;30.0
+174;ditto;(18, 62);;português;sp;1;;
+175;ditto;(18, 62);;português;mp;1;35.0;35.0
+176;dragonite;(19, 62);;português;sp;1;;
+177;gengar;(20, 62);;português;d;1;;
+178;kabutops;(24, 62);;português;mp;1;25.0;25.0
+179;arbok;(31, 62);;português;sp;1;;
+180;cloyster;(32, 62);;português;sp;1;;
+181;gastly;(33, 62);;português;sp;2;;
+182;gastly;(33, 62);;português;nm;1;25.2;25.2
+183;golbat;(34, 62);;português;nm;2;18.0;36.0
+184;golbat;(34, 62);;português;sp;2;3.3;6.6
+185;golbat;(34, 62);;português;mp;1;0.26;0.26
+186;golbat;(34, 62);;português;d;1;;
+187;golduck;(35, 62);;português;nm;1;;
+188;golduck;(35, 62);edition one;português;d;1;;
+189;graveler;(37, 62);;português;nm;3;;
+190;graveler;(37, 62);;português;sp;2;6.29;12.58
+191;graveler;(37, 62);edition one;português;d;1;3.15;3.15
+192;kingler;(38, 62);;português;nm;1;17.91;17.91
+193;kingler;(38, 62);;português;sp;1;1.0;1.0
+194;magmar;(39, 62);;português;sp;1;2.7;2.7
+195;omastar;(40, 62);;português;nm;2;;
+196;sandslash;(41, 62);;português;mp;1;;
+197;sandslash;(41, 62);;português;d;1;;
+198;seadra;(42, 62);;português;nm;3;17.91;53.73
+199;seadra;(42, 62);;português;mp;1;1.35;1.35
+200;slowbro;(43, 62);;português;sp;1;;
+201;tentacruel;(44, 62);;português;nm;3;;
+202;tentacruel;(44, 62);;português;sp;1;;
+203;tentacruel;(44, 62);edition one;português;hp;1;;
+204;weezing;(45, 62);edition one;português;hp;1;1.49;1.49
+205;ekans;(46, 62);;português;nm;3;12.0;36.0
+206;geodude;(47, 62);;português;nm;4;0.3;1.2
+207;geodude;(47, 62);;português;sp;2;0.49;0.98
+208;geodude;(47, 62);;português;mp;3;0.4;1.2
+209;geodude;(47, 62);edition one;português;d;1;0.29;0.29
+210;grimer;(48, 62);;português;nm;6;14.39;86.34
+211;grimer;(48, 62);;português;sp;4;1.7;6.8
+212;grimer;(48, 62);;português;mp;1;0.29;0.29
+213;horsea;(49, 62);;português;nm;2;2.9;5.8
+214;horsea;(49, 62);;português;sp;1;0.2;0.2
+215;horsea;(49, 62);edition one;português;hp;1;1.49;1.49
+216;kabuto;(50, 62);;português;nm;3;;
+217;kabuto;(50, 62);;português;sp;1;1.7;1.7
+218;kabuto;(50, 62);edition one;português;hp;1;1.15;1.15
+219;kabuto;(50, 62);edition one;português;d;1;1.0;1.0
+220;krabby;(51, 62);;português;nm;2;6.21;12.42
+221;krabby;(51, 62);;português;sp;3;0.5;1.5
+222;omanyte;(52, 62);;português;nm;1;;
+223;omanyte;(52, 62);;português;sp;3;;
+224;psyduck;(53, 62);;português;nm;2;17.91;35.82
+225;psyduck;(53, 62);;inglês;sp;1;2.0;2.0
+226;psyduck;(53, 62);;português;sp;2;;
+227;shellder;(54, 62);;português;nm;1;3.59;3.59
+228;shellder;(54, 62);;português;sp;4;1.0;4.0
+229;shellder;(54, 62);edition one;português;d;1;0.29;0.29
+230;shellder;(54, 62);;português;d;1;0.9;0.9
+231;slowpoke;(55, 62);;português;sp;4;1.7;6.8
+232;slowpoke;(55, 62);edition one;inglês;sp;1;22.5;22.5
+233;tentacool;(56, 62);;português;sp;2;;
+234;tentacool;(56, 62);;português;mp;2;;
+235;tentacool;(56, 62);edition one;português;hp;1;1.02;1.02
+236;zubat;(57, 62);;português;nm;3;6.29;18.87
+237;zubat;(57, 62);;português;sp;3;1.5;4.5
+238;zubat;(57, 62);;português;mp;3;0.4;1.2
+239;zubat;(57, 62);;português;d;1;0.9;0.9
+240;zubat;(57, 62);edition one;português;d;1;1.5;1.5
+241;mr. fuji;(58, 62);;português;nm;1;9.9;9.9
+242;mr. fuji;(58, 62);;português;sp;1;;
+243;mr. fuji;(58, 62);;português;d;1;;
+244;energy search;(59, 62);;português;sp;4;0.49;1.96
+245;gambler;(60, 62);;português;sp;2;0.8;1.6
+246;gambler;(60, 62);;inglês;d;1;1.9;1.9
+247;recycle;(61, 62);;português;sp;5;0.5;2.5
+248;recycle;(61, 62);;português;mp;1;0.8;0.8
+249;mysterious fossil;(62, 62);;português;nm;1;;
+250;mysterious fossil;(62, 62);;português;sp;3;1.7;5.1
+251;mysterious fossil;(62, 62);;português;d;1;;
+252;jolteon;(4, 64);foil;inglês;mp;1;;
+253;kangaskhan;(5, 64);foil;português;sp;2;35.91;71.82
+254;kangaskhan;(5, 64);foil;português;mp;1;11.99;11.99
+255;mr. mime;(6, 64);foil;inglês;d;1;29.0;29.0
+256;snorlax;(11, 64);foil;português;d;1;80.91;80.91
+257;vaporeon;(12, 64);foil;português;d;1;14.49;14.49
+258;vaporeon;(12, 64);foil;português;sp;1;34.5;34.5
+259;vaporeon;(12, 64);foil;português;mp;1;24.5;24.5
+260;venomoth;(29, 64);;português;mp;1;5.0;5.0
+261;butterfree;(33, 64);;inglês;hp;1;2.0;2.0
+262;dodrio;(34, 64);;português;sp;1;3.7;3.7
+263;gloom;(37, 64);;português;nm;1;2.9;2.9
+264;gloom;(37, 64);;português;sp;2;0.4;0.8
+265;nidorina;(40, 64);;português;nm;2;12.9;25.8
+266;nidorina;(40, 64);;português;sp;3;0.36;1.08
+267;nidorina;(40, 64);;português;d;1;0.18;0.18
+268;persian;(42, 64);;português;nm;3;18.0;54.0
+269;persian;(42, 64);;português;sp;1;0.69;0.69
+270;persian;(42, 64);;inglês;hp;1;0.49;0.49
+271;rhydon;(45, 64);;português;sp;2;1.4;2.8
+272;rhydon;(45, 64);;inglês;hp;1;3.6;3.6
+273;tauros;(47, 64);;português;hp;1;1.49;1.49
+274;weepinbell;(48, 64);;português;nm;3;25.0;75.0
+275;weepinbell;(48, 64);;português;sp;3;0.99;2.97
+276;bellsprout;(49, 64);;português;nm;9;12.0;108.0
+277;bellsprout;(49, 64);;português;d;2;0.15;0.3
+278;bellsprout;(49, 64);;português;sp;1;0.27;0.27
+279;cubone;(50, 64);;inglês;d;1;0.16;0.16
+280;eevee;(51, 64);;português;nm;4;;
+281;eevee;(51, 64);;português;sp;3;0.36;1.08
+282;eevee;(51, 64);;português;mp;1;0.3;0.3
+283;eevee;(51, 64);;inglês;mp;1;0.77;0.77
+284;jigglypuff;(54, 64);;português;nm;1;0.73;0.73
+285;jigglypuff;(54, 64);;inglês;mp;1;0.49;0.49
+286;mankey;(55, 64);;português;d;1;0.09;0.09
+287;meowth;(56, 64);;português;nm;6;12.9;77.4
+288;meowth;(56, 64);;português;sp;3;0.41;1.23
+289;nidoran fêmea;(57, 64);;português;nm;4;12.0;48.0
+290;nidoran fêmea;(57, 64);;português;sp;7;0.27;1.89
+291;nidoran fêmea;(57, 64);;inglês;mp;1;0.4;0.4
+292;nidoran fêmea;(57, 64);;português;d;1;0.4;0.4
+293;oddish;(58, 64);;português;nm;2;8.01;16.02
+294;oddish;(58, 64);;português;sp;3;0.5;1.5
+295;oddish;(58, 64);;português;d;1;0.08;0.08
+296;rhyhorn;(61, 64);;português;nm;5;1.0;5.0
+297;rhyhorn;(61, 64);;português;sp;3;0.5;1.5
+298;spearow;(62, 64);;inglês;hp;1;0.39;0.39
+299;venonat;(63, 64);;inglês;d;1;;
+300;pokéball;(64, 64);;português;sp;1;;
+301;lt. surge's magneton;(8, 132);foil;inglês;nm;1;;
+302;lt. surge's raticate;(51, 132);;inglês;nm;1;;
+303;lt. surge's raticate;(51, 132);;inglês;sp;1;;
+304;lt. surge's spearow;(52, 132);;inglês;nm;2;14.39;28.78
+305;sabrina's slowbro;(60, 132);;inglês;d;1;;
+306;lt. surge's magnemite;(80, 132);;inglês;nm;3;22.5;67.5
+307;lt. surge's magnemite;(80, 132);;inglês;sp;1;1.35;1.35
+308;lt. surge's pikachu;(81, 132);;inglês;nm;3;30.0;90.0
+309;lt. surge's pikachu;(81, 132);;inglês;sp;1;5.89;5.89
+310;lt. surge's pikachu;(81, 132);;inglês;d;1;2.5;2.5
+311;lt. surge's rattata;(82, 132);;inglês;nm;2;35.1;70.2
+312;lt. surge's rattata;(82, 132);;inglês;sp;2;0.95;1.9
+313;lt. surge's spearow;(83, 132);;inglês;nm;2;23.39;46.78
+314;lt. surge's voltorb;(84, 132);;inglês;nm;2;;
+315;lt. surge's voltorb;(84, 132);;inglês;sp;1;0.77;0.77
+316;lt. surge;(101, 132);;inglês;sp;1;11.9;11.9
+317;secret mission;(118, 132);;inglês;sp;2;2.49;4.98
+318;vermilion city gym;(120, 132);;inglês;nm;1;;
+319;sabrina's gaze;(125, 132);;inglês;sp;1;2.75;2.75
+320;sabrina's gaze;(125, 132);;inglês;mp;1;2.49;2.49
+321;lightning energy;(130, 132);;inglês;nm;24;1.79;42.96
+322;lightning energy;(130, 132);;inglês;sp;4;1.0;4.0
+323;koga's beedrill;(9, 132);foil;inglês;d;1;19.5;19.5
+324;sabrina's alakazam;(16, 132);foil;inglês;d;1;29.9;29.9
+325;blaine's charmeleon;(31, 132);;inglês;d;1;4.49;4.49
+326;koga's kakuna;(47, 132);;inglês;sp;1;3.69;3.69
+327;koga's koffing;(48, 132);;inglês;sp;1;1.49;1.49
+328;koga's weezing;(50, 132);;inglês;sp;3;13.0;39.0
+329;sabrina's haunter;(55, 132);;inglês;sp;1;7.5;7.5
+330;sabrina's jynx;(57, 132);;inglês;sp;2;3.0;6.0
+331;sabrina's kadabra;(58, 132);;inglês;sp;1;9.19;9.19
+332;blaine's charmander;(60, 132);;inglês;d;2;1.49;2.98
+333;blaine's mankey;(63, 132);;inglês;d;1;;
+334;giovanni's machop;(72, 132);;inglês;mp;1;2.5;2.5
+335;koga's ekans;(77, 132);;inglês;sp;3;0.49;1.47
+336;koga's grimer;(78, 132);;inglês;sp;3;1.25;3.75
+337;koga's grimer;(78, 132);edition one;inglês;hp;1;;
+338;koga's koffing;(79, 132);;inglês;sp;3;0.49;1.47
+339;koga's koffing;(79, 132);;inglês;mp;1;1.5;1.5
+340;koga's pidgey;(80, 132);;inglês;sp;3;1.0;3.0
+341;koga's weedle;(82, 132);;inglês;sp;2;0.99;1.98
+342;koga's weedle;(82, 132);;inglês;d;2;0.09;0.18
+343;misty's poliwag;(89, 132);;inglês;mp;1;2.49;2.49
+344;sabrina's abra;(93, 132);;inglês;sp;2;1.0;2.0
+345;sabrina's abra;(94, 132);;inglês;sp;1;3.0;3.0
+346;sabrina's drowzee;(95, 132);;inglês;sp;2;0.91;1.82
+347;sabrina's gastly;(96, 132);;inglês;sp;2;2.3;4.6
+348;sabrina's porygon;(98, 132);;inglês;sp;4;1.99;7.96
+349;koga;(106, 132);;inglês;sp;1;7.82;7.82
+350;sabrina;(110, 132);;inglês;sp;1;9.5;9.5
+351;fuchsia city gym;(114, 132);;inglês;sp;1;2.69;2.69
+352;sabrina's psychic control;(121, 132);;inglês;sp;1;2.99;2.99
+353;viridian city gym;(123, 132);;inglês;mp;1;0.49;0.49
+354;grass energy;(129, 132);;inglês;sp;20;0.99;19.8
+355;grass energy;(129, 132);;inglês;mp;6;0.5;3.0
+356;grass energy;(129, 132);;inglês;d;2;;
+357;psychic energy;(131, 132);;inglês;sp;15;1.0;15.0
+358;psychic energy;(131, 132);;inglês;mp;7;0.49;3.43
+359;psychic energy;(131, 132);;inglês;d;2;;
+360;dark crobat;(2, 105);foil;inglês;nm;1;;
+361;dark espeon;(4, 105);foil;inglês;nm;1;1500.0;1500.0
+362;dark typhlosion;(10, 105);foil;inglês;nm;1;;
+363;dark magcargo;(18, 105);;inglês;nm;1;14.9;14.9
+364;dark magcargo;(18, 105);;inglês;sp;1;5.4;5.4
+365;dark omastar;(19, 105);;inglês;m;1;;
+366;dark ursaring;(21, 105);;inglês;nm;1;;
+367;unown h;(28, 105);;inglês;nm;1;;
+368;unown w;(29, 105);;inglês;nm;1;;
+369;dark croconaw;(32, 105);;inglês;sp;1;9.49;9.49
+370;dark exeggutor;(33, 105);;inglês;nm;1;;
+371;dark flaaffy;(34, 105);;inglês;sp;1;6.49;6.49
+372;dark forretress;(35, 105);;inglês;nm;2;;
+373;dark haunter;(36, 105);;inglês;m;1;;
+374;dark haunter;(36, 105);;inglês;nm;1;14.9;14.9
+375;dark omanyte;(37, 105);;inglês;nm;1;2.0;2.0
+376;dark pupitar;(38, 105);;inglês;nm;1;;
+377;dark quilava;(39, 105);;inglês;nm;4;1.99;7.96
+378;dark quilava;(39, 105);;inglês;sp;1;0.99;0.99
+379;dark wigglytuff;(40, 105);;inglês;m;1;;
+380;dark wigglytuff;(40, 105);;inglês;nm;1;14.5;14.5
+381;heracross;(41, 105);;inglês;nm;1;;
+382;houndour;(43, 105);;inglês;nm;2;3.8;7.6
+383;jigglypuff;(44, 105);;inglês;m;1;;
+384;jigglypuff;(44, 105);;inglês;d;1;0.7;0.7
+385;light flareon;(46, 105);;inglês;nm;1;;
+386;light jolteon;(48, 105);;inglês;nm;1;;
+387;light ninetales;(50, 105);;inglês;nm;1;;
+388;light slowbro;(51, 105);;inglês;nm;2;10.0;20.0
+389;light vaporeon;(52, 105);;inglês;nm;1;54.99;54.99
+390;togepi;(56, 105);;inglês;nm;1;10.0;10.0
+391;unown p;(58, 105);;inglês;m;1;;
+392;unown z;(60, 105);;inglês;nm;1;;
+393;cyndaquil;(61, 105);;inglês;nm;6;1.08;6.48
+394;dark octillery;(62, 105);;inglês;nm;1;3.59;3.59
+395;dark octillery;(62, 105);;inglês;sp;1;2.0;2.0
+396;dratini;(63, 105);;inglês;m;2;;
+397;dratini;(63, 105);;inglês;nm;1;;
+398;exeggcute;(64, 105);;inglês;m;1;;
+399;exeggcute;(64, 105);;inglês;nm;2;1.1;2.2
+400;exeggcute;(64, 105);;inglês;d;1;;
+401;gastly;(65, 105);;inglês;m;1;;
+402;gastly;(65, 105);;inglês;nm;2;1.0;2.0
+403;girafarig;(66, 105);;inglês;nm;1;1.0;1.0
+404;gligar;(67, 105);;inglês;m;1;;
+405;gligar;(67, 105);;inglês;nm;2;0.74;1.48
+406;growlithe;(68, 105);;inglês;m;1;5.39;5.39
+407;growlithe;(68, 105);;inglês;nm;2;0.99;1.98
+408;growlithe;(68, 105);;inglês;sp;1;0.74;0.74
+409;hitmonchan;(69, 105);;inglês;sp;1;3.99;3.99
+410;larvitar;(70, 105);;inglês;m;2;;
+411;ledyba;(71, 105);;inglês;m;1;;
+412;ledyba;(71, 105);;inglês;sp;1;0.37;0.37
+413;light sunflora;(72, 105);;inglês;nm;1;1.99;1.99
+414;machop;(73, 105);;inglês;nm;2;0.99;1.98
+415;mantine;(74, 105);;inglês;nm;1;1.0;1.0
+416;mantine;(74, 105);;inglês;mp;1;2.5;2.5
+417;mareep;(75, 105);;inglês;sp;1;0.74;0.74
+418;mareep;(75, 105);;inglês;mp;1;0.28;0.28
+419;phanpy;(76, 105);;inglês;m;1;;
+420;pineco;(77, 105);;inglês;d;1;0.09;0.09
+421;porygon;(78, 105);;inglês;m;1;;
+422;porygon;(78, 105);;inglês;sp;1;0.49;0.49
+423;psyduck;(79, 105);;inglês;sp;1;0.9;0.9
+424;psyduck;(79, 105);;inglês;mp;1;0.62;0.62
+425;remoraid;(80, 105);;inglês;m;1;;
+426;remoraid;(80, 105);;inglês;sp;3;0.69;2.07
+427;seel;(81, 105);;inglês;m;1;;
+428;seel;(81, 105);;inglês;nm;3;2.5;7.5
+429;seel;(81, 105);;inglês;sp;1;0.49;0.49
+430;slugma;(82, 105);;inglês;nm;5;2.5;12.5
+431;slugma;(82, 105);;inglês;sp;1;0.5;0.5
+432;sunkern;(83, 105);;inglês;nm;2;1.29;2.58
+433;swinub;(84, 105);;inglês;nm;1;1.1;1.1
+434;swinub;(84, 105);;inglês;mp;1;0.63;0.63
+435;totodile;(85, 105);;inglês;nm;1;0.99;0.99
+436;unown l;(86, 105);;inglês;nm;3;1.7;5.1
+437;unown s;(87, 105);;inglês;m;1;;
+438;unown s;(87, 105);;inglês;nm;2;3.1;6.2
+439;unown t;(88, 105);;inglês;m;1;;
+440;unown t;(88, 105);;inglês;nm;2;2.1;4.2
+441;venonat;(90, 105);;inglês;nm;4;2.9;11.6
+442;venonat;(90, 105);;inglês;mp;1;0.7;0.7
+443;vulpix;(91, 105);;inglês;m;2;8.91;17.82
+444;vulpix;(91, 105);;inglês;nm;2;1.39;2.78
+445;impostor professor oak's invention;(94, 105);;inglês;m;1;;
+446;impostor professor oak's invention;(94, 105);;inglês;nm;1;19.5;19.5
+447;counterattack claws;(97, 105);;inglês;nm;1;3.0;3.0
+448;energy amplifier;(98, 105);;inglês;nm;1;2.69;2.69
+449;energy stadium;(99, 105);;inglês;nm;2;5.92;11.84
+450;magnifier;(101, 105);;inglês;nm;1;3.99;3.99
+451;team rocket's evil deeds;(103, 105);;inglês;sp;2;3.99;7.98
+452;heal powder;(104, 105);;inglês;nm;2;1.79;3.58
+453;heal powder;(104, 105);;inglês;mp;1;0.6;0.6
+454;mail from bill;(105, 105);;inglês;nm;2;2.5;5.0
+455;shining kabutops;(108, 105);foil;inglês;nm;1;;
+456;shining steelix;(112, 105);foil;inglês;nm;1;28000.0;28000.0
+457;meganium;(10, 111);foil;inglês;d;1;44.9;44.9
+458;donphan;(21, 111);edition one;inglês;m;1;;
+459;magby;(23, 111);;inglês;sp;1;8.5;8.5
+460;murkrow;(24, 111);;inglês;nm;1;;
+461;aipom;(26, 111);;inglês;nm;1;;
+462;bayleef;(28, 111);;inglês;sp;1;5.0;5.0
+463;clefairy;(30, 111);edition one;inglês;nm;1;;
+464;electabuzz;(33, 111);;inglês;sp;1;1.0;1.0
+465;ledian;(39, 111);edition one;inglês;m;1;;
+466;magmar;(40, 111);;inglês;nm;1;2.5;2.5
+467;piloswine;(44, 111);;inglês;sp;2;3.0;6.0
+468;quilava;(46, 111);;inglês;nm;1;;
+469;xatu;(52, 111);edition one;inglês;nm;1;;
+470;chikorita;(53, 111);;inglês;nm;1;;
+471;chikorita;(54, 111);;inglês;sp;1;0.4;0.4
+472;chinchou;(55, 111);;inglês;nm;1;0.49;0.49
+473;cyndaquil;(56, 111);;inglês;nm;1;6.29;6.29
+474;cyndaquil;(56, 111);;inglês;d;1;0.6;0.6
+475;cyndaquil;(57, 111);;inglês;nm;3;2.25;6.75
+476;girafarig;(58, 111);;inglês;sp;2;0.25;0.5
+477;girafarig;(58, 111);;inglês;d;2;0.2;0.4
+478;gligar;(59, 111);edition one;inglês;nm;1;13.49;13.49
+479;hoothoot;(60, 111);;inglês;sp;1;0.49;0.49
+480;ledyba;(63, 111);;inglês;sp;1;0.45;0.45
+481;mantine;(64, 111);;inglês;sp;2;0.19;0.38
+482;marill;(66, 111);;inglês;nm;1;0.49;0.49
+483;marill;(66, 111);;inglês;sp;1;0.5;0.5
+484;onix;(69, 111);;inglês;sp;1;0.49;0.49
+485;pikachu;(70, 111);edition one;inglês;nm;1;;
+486;pikachu;(70, 111);;inglês;sp;1;0.9;0.9
+487;slowpoke;(73, 111);edition one;inglês;m;1;;
+488;sudowoodo;(77, 111);edition one;inglês;nm;1;;
+489;totodile;(81, 111);;inglês;nm;1;;
+490;wooper;(82, 111);edition one;inglês;nm;1;;
+491;gold berry;(93, 111);;inglês;nm;1;;
+492;professor elm;(96, 111);;inglês;sp;1;11.9;11.9
+493;professor elm;(96, 111);;inglês;mp;1;10.9;10.9
+494;berry;(99, 111);;inglês;nm;2;0.49;0.98
+495;berry;(99, 111);;inglês;sp;1;0.18;0.18
+496;double gust;(100, 111);;inglês;sp;1;0.92;0.92
+497;moo-moo milk;(101, 111);;inglês;sp;1;0.09;0.09
+498;moo-moo milk;(101, 111);;inglês;mp;2;0.27;0.54
+499;moo-moo milk;(101, 111);;inglês;d;2;0.31;0.62
+500;super rod;(103, 111);;inglês;m;1;;
+501;super rod;(103, 111);;inglês;nm;2;0.54;1.08
+502;super rod;(103, 111);;inglês;sp;3;0.21;0.63
+503;fighting energy;(106, 111);;inglês;sp;12;0.23;2.76
+504;fighting energy;(106, 111);;inglês;mp;1;0.75;0.75
+505;fire energy;(107, 111);;inglês;nm;17;0.9;15.3
+506;fire energy;(107, 111);;inglês;sp;2;1.0;2.0
+507;fire energy;(107, 111);;inglês;mp;1;0.14;0.14
+508;grass energy;(108, 111);edition one;inglês;nm;1;9.49;9.49
+509;grass energy;(108, 111);;inglês;sp;12;0.5;6.0
+510;grass energy;(108, 111);;inglês;d;4;;
+511;lightning energy;(109, 111);;inglês;nm;1;1.5;1.5
+512;lightning energy;(109, 111);;inglês;mp;1;0.54;0.54
+513;psychic energy;(110, 111);;inglês;m;3;;
+514;psychic energy;(110, 111);;inglês;nm;5;0.9;4.5
+515;psychic energy;(110, 111);;inglês;sp;8;0.63;5.04
+516;psychic energy;(110, 111);;inglês;mp;3;0.59;1.77
+517;psychic energy;(110, 111);;inglês;d;5;;
+518;water energy;(111, 111);;inglês;sp;7;0.5;3.5
+519;water energy;(111, 111);;inglês;mp;2;0.45;0.9
+520;water energy;(111, 111);;inglês;d;2;0.35;0.7
+521;hitmontop;(3, 75);foil;inglês;d;1;24.5;24.5
+522;unown a;(14, 75);foil;inglês;d;1;4.5;4.5
+523;butterfree;(19, 75);;inglês;sp;1;12.5;12.5
+524;espeon;(20, 75);;inglês;hp;1;30.0;30.0
+525;eevee;(38, 75);;inglês;d;1;5.9;5.9
+526;metapod;(42, 75);;inglês;sp;2;0.43;0.86
+527;omastar;(43, 75);;inglês;d;2;3.9;7.8
+528;pupitar;(45, 75);;inglês;sp;2;4.7;9.4
+529;scyther;(46, 75);;inglês;sp;2;3.59;7.18
+530;scyther;(46, 75);;inglês;mp;1;4.5;4.5
+531;unown n;(50, 75);;inglês;mp;1;2.0;2.0
+532;xatu;(52, 75);;inglês;d;1;0.18;0.18
+533;caterpie;(53, 75);;inglês;sp;4;0.25;1.0
+534;larvitar;(57, 75);;inglês;sp;3;0.4;1.2
+535;natu;(59, 75);;inglês;sp;1;0.25;0.25
+536;natu;(59, 75);;inglês;mp;1;0.3;0.3
+537;omanyte;(60, 75);;inglês;sp;2;0.49;0.98
+538;omanyte;(60, 75);;inglês;mp;1;0.5;0.5
+539;sentret;(63, 75);;inglês;sp;4;0.2;0.8
+540;teddiursa;(65, 75);;inglês;d;2;;
+541;tyrogue;(66, 75);;inglês;sp;2;0.5;1.0
+542;tyrogue;(66, 75);;inglês;mp;2;0.23;0.46
+543;unown e;(67, 75);;inglês;nm;1;0.7;0.7
+544;unown i;(68, 75);;inglês;sp;2;0.7;1.4
+545;fossil egg;(72, 75);;inglês;sp;1;0.7;0.7
+546;fossil egg;(72, 75);;inglês;mp;1;0.49;0.49
+547;hyper devolution spray;(73, 75);;inglês;sp;1;0.98;0.98
+548;energy ark;(75, 75);;inglês;sp;1;0.14;0.14
+549;energy ark;(75, 75);;inglês;mp;2;1.5;3.0
+550;energy ark;(75, 75);;inglês;d;1;0.5;0.5
+551;sneasel;(24, 64);;inglês;nm;1;;
+552;suicune;(27, 64);;inglês;sp;1;49.9;49.9
+553;flaaffy;(28, 64);;inglês;sp;2;0.99;1.98
+554;golbat;(29, 64);;inglês;mp;1;0.7;0.7
+555;graveler;(30, 64);;inglês;nm;1;0.49;0.49
+556;graveler;(30, 64);;inglês;sp;1;1.0;1.0
+557;magcargo;(33, 64);;inglês;nm;1;5.5;5.5
+558;piloswine;(36, 64);;inglês;d;1;3.9;3.9
+559;seaking;(37, 64);;inglês;d;1;;
+560;stantler;(38, 64);;inglês;sp;1;0.49;0.49
+561;aipom;(41, 64);;inglês;sp;1;0.39;0.39
+562;chinchou;(42, 64);;inglês;nm;1;0.25;0.25
+563;chinchou;(42, 64);;inglês;d;1;;
+564;farfetch'd;(43, 64);;inglês;nm;1;0.49;0.49
+565;farfetch'd;(43, 64);;inglês;sp;1;0.19;0.19
+566;geodude;(44, 64);;inglês;sp;1;0.29;0.29
+567;goldeen;(45, 64);;inglês;sp;1;0.19;0.19
+568;murkrow;(46, 64);;inglês;d;1;1.9;1.9
+569;paras;(47, 64);;inglês;nm;1;0.5;0.5
+570;quagsire;(48, 64);;inglês;sp;1;0.39;0.39
+571;qwilfish;(49, 64);;inglês;nm;1;0.49;0.49
+572;qwilfish;(49, 64);;inglês;sp;2;0.39;0.78
+573;remoraid;(50, 64);;inglês;sp;2;0.5;1.0
+574;shuckle;(51, 64);;inglês;sp;1;0.2;0.2
+575;skiploom;(52, 64);;inglês;sp;1;0.44;0.44
+576;slugma;(53, 64);;inglês;d;1;1.9;1.9
+577;slugma;(53, 64);;inglês;sp;1;0.2;0.2
+578;smoochum;(54, 64);;inglês;nm;1;1.0;1.0
+579;snubbull;(55, 64);;inglês;sp;1;0.49;0.49
+580;staryu;(56, 64);;inglês;mp;1;2.5;2.5
+581;swinub;(57, 64);;inglês;nm;1;0.49;0.49
+582;swinub;(57, 64);;inglês;sp;1;0.39;0.39
+583;unown k;(58, 64);;inglês;mp;1;0.39;0.39
+584;balloon berry;(60, 64);;inglês;sp;1;1.49;1.49
+585;healing field;(61, 64);;inglês;d;1;0.49;0.49
+586;pokémon breeder fields;(62, 64);;inglês;sp;1;2.49;2.49
+587;rocket's hideout;(63, 64);;inglês;nm;1;3.15;3.15
+588;rocket's hideout;(63, 64);;inglês;sp;1;1.5;1.5
+589;old rod;(64, 64);;inglês;nm;1;0.23;0.23
+590;alakazam;(1, 165);foil;inglês;nm;1;;
+591;magby;(17, 165);foil;inglês;nm;1;;
+592;mew;(19, 165);foil;inglês;nm;1;;
+593;ninetales;(21, 165);foil;inglês;nm;1;;
+594;tyranitar;(29, 165);reverse foil;inglês;nm;1;;
+595;alakazam;(33, 165);;inglês;m;1;;
+596;alakazam;(33, 165);;inglês;nm;1;24.5;24.5
+597;arbok;(35, 165);;inglês;nm;1;;
+598;clefable;(41, 165);reverse foil;inglês;nm;1;;
+599;clefable;(41, 165);;inglês;m;1;;
+600;fearow;(45, 165);;inglês;nm;1;8.99;8.99
+601;feraligatr;(47, 165);;inglês;nm;1;;
+602;machamp;(51, 165);;inglês;nm;1;15.0;15.0
+603;mew;(55, 165);;inglês;nm;1;;
+604;rapidash;(62, 165);;inglês;d;1;;
+605;typhlosion;(65, 165);;inglês;sp;1;;
+606;bayleef;(71, 165);;inglês;sp;1;;
+607;chansey;(72, 165);;inglês;m;2;;
+608;croconaw;(74, 165);;inglês;nm;1;8.5;8.5
+609;dragonair;(75, 165);reverse foil;inglês;nm;1;;
+610;haunter;(80, 165);;inglês;nm;2;2.49;4.98
+611;ivysaur;(82, 165);;inglês;nm;1;;
+612;kadabra;(84, 165);;inglês;m;1;;
+613;kadabra;(84, 165);;inglês;nm;1;;
+614;machoke;(85, 165);;inglês;nm;1;2.99;2.99
+615;magmar;(86, 165);;inglês;sp;2;4.94;9.88
+616;metapod;(87, 165);;inglês;nm;1;9.9;9.9
+617;metapod;(87, 165);;inglês;sp;1;1.99;1.99
+618;poliwhirl;(89, 165);;inglês;sp;1;;
+619;wartortle;(92, 165);reverse foil;inglês;nm;1;;
+620;abra;(93, 165);;inglês;nm;4;1.0;4.0
+621;bulbasaur;(94, 165);;inglês;nm;1;13.5;13.5
+622;chikorita;(99, 165);;inglês;nm;1;1.99;1.99
+623;chikorita;(100, 165);;inglês;d;1;;
+624;clefairy;(101, 165);;inglês;m;2;;
+625;clefairy;(101, 165);;inglês;nm;1;0.99;0.99
+626;corsola;(102, 165);;inglês;nm;2;1.0;2.0
+627;cyndaquil;(104, 165);;inglês;nm;1;7.0;7.0
+628;cyndaquil;(105, 165);reverse foil;inglês;nm;1;;
+629;cyndaquil;(105, 165);;inglês;nm;1;1.99;1.99
+630;ekans;(108, 165);;inglês;nm;1;2.0;2.0
+631;gastly;(109, 165);;inglês;nm;4;1.5;6.0
+632;geodude;(110, 165);;inglês;nm;1;1.0;1.0
+633;geodude;(110, 165);;inglês;sp;2;1.0;2.0
+634;krabby;(115, 165);;inglês;nm;1;1.49;1.49
+635;krabby;(115, 165);;inglês;d;1;0.49;0.49
+636;machop;(117, 165);;inglês;nm;1;3.0;3.0
+637;marill;(120, 165);;inglês;nm;2;1.99;3.98
+638;marill;(120, 165);;inglês;sp;1;4.5;4.5
+639;meowth;(121, 165);;inglês;nm;2;1.0;2.0
+640;pidgey;(123, 165);;inglês;nm;1;5.49;5.49
+641;ponyta;(126, 165);;inglês;sp;1;0.8;0.8
+642;shellder;(129, 165);;inglês;nm;1;2.5;2.5
+643;spearow;(130, 165);;inglês;mp;1;;
+644;squirtle;(132, 165);;inglês;nm;1;;
+645;tauros;(133, 165);;inglês;d;1;;
+646;totodile;(135, 165);reverse foil;inglês;nm;1;69.95;69.95
+647;totodile;(135, 165);;inglês;nm;1;;
+648;vulpix;(136, 165);;inglês;nm;1;2.49;2.49
+649;vulpix;(136, 165);;inglês;sp;1;8.9;8.9
+650;copycat;(138, 165);reverse foil;inglês;nm;1;;
+651;copycat;(138, 165);;inglês;nm;2;4.5;9.0
+652;pokémon nurse;(145, 165);;inglês;nm;1;7.99;7.99
+653;pokémon reversal;(146, 165);;inglês;nm;1;;
+654;professor elm's training method;(148, 165);;inglês;nm;2;9.9;19.8
+655;professor elm's training method;(148, 165);;inglês;d;1;5.9;5.9
+656;strength charm;(150, 165);reverse foil;inglês;mp;1;;
+657;strength charm;(150, 165);;inglês;mp;1;3.99;3.99
+658;super scoop up;(151, 165);;inglês;sp;1;;
+659;warp point;(152, 165);;inglês;nm;1;10.0;10.0
+660;energy search;(153, 165);;inglês;nm;3;1.25;3.75
+661;full heal;(154, 165);;inglês;nm;3;1.0;3.0
+662;moo-moo milk;(155, 165);;inglês;nm;4;1.0;4.0
+663;moo-moo milk;(155, 165);;inglês;mp;1;0.5;0.5
+664;potion;(156, 165);;inglês;nm;1;0.8;0.8
+665;potion;(156, 165);;inglês;d;1;;
+666;metal energy;(159, 165);;inglês;sp;1;39.9;39.9
+667;fighting energy;(160, 165);;inglês;nm;2;2.5;5.0
+668;fire energy;(161, 165);;inglês;nm;1;25.9;25.9
+669;fire energy;(161, 165);;inglês;sp;1;1.71;1.71
+670;grass energy;(162, 165);;inglês;nm;2;7.65;15.3
+671;lightning energy;(163, 165);;inglês;nm;2;4.05;8.1
+672;psychic energy;(164, 165);;inglês;m;1;;
+673;psychic energy;(164, 165);;inglês;nm;15;4.9;73.5
+674;water energy;(165, 165);;inglês;nm;2;25.9;51.8
+675;team aqua's crawdaunt;(2, 95);foil;inglês;nm;1;59.9;59.9
+676;team aqua's kyogre;(3, 95);foil;inglês;m;1;;
+677;team magma's claydol;(8, 95);reverse foil;inglês;nm;1;;
+678;team aqua's mightyena;(15, 95);;inglês;nm;1;5.0;5.0
+679;team aqua's seviper;(17, 95);;inglês;d;1;;
+680;team aqua's lanturn;(28, 95);;inglês;nm;1;1.5;1.5
+681;team aqua's mightyena;(30, 95);;inglês;m;1;;
+682;team aqua's sealeo;(31, 95);;inglês;nm;1;1.5;1.5
+683;team magma's houndoom;(34, 95);;inglês;m;1;;
+684;team magma's houndoom;(34, 95);;inglês;nm;1;0.99;0.99
+685;team magma's houndour;(35, 95);;inglês;nm;1;2.5;2.5
+686;team magma's rhyhorn;(38, 95);;inglês;nm;1;2.5;2.5
+687;bulbasaur;(39, 95);;inglês;nm;1;39.9;39.9
+688;cubone;(40, 95);;inglês;nm;1;0.9;0.9
+689;cubone;(40, 95);;inglês;sp;1;;
+690;jigglypuff;(41, 95);;inglês;nm;2;0.9;1.8
+691;pikachu;(43, 95);;inglês;m;1;;
+692;slowpoke;(45, 95);;inglês;m;1;;
+693;team aqua's carvanha;(48, 95);;inglês;nm;1;0.9;0.9
+694;team aqua's electrike;(53, 95);;inglês;nm;2;2.5;5.0
+695;team aqua's poochyena;(55, 95);;inglês;nm;1;0.9;0.9
+696;team aqua's spheal;(56, 95);;inglês;nm;1;0.49;0.49
+697;team magma's baltoy;(60, 95);;inglês;m;1;;
+698;team magma's baltoy;(60, 95);;inglês;nm;1;0.49;0.49
+699;team magma's houndour;(62, 95);reverse foil;inglês;nm;2;;
+700;team magma's numel;(64, 95);;inglês;sp;1;;
+701;team magma's poochyena;(65, 95);;inglês;m;1;;
+702;team magma's poochyena;(66, 95);;inglês;nm;1;0.5;0.5
+703;team aqua schemer;(69, 95);;inglês;nm;2;1.5;3.0
+704;team magma belt;(81, 95);reverse foil;inglês;nm;1;;
+705;team magma hideout;(83, 95);;inglês;nm;1;13.9;13.9
+706;tentacruel;('H26', 'H32');foil;inglês;m;1;;
+707;scizor;(32, 147);;inglês;nm;1;;
+708;magnemite;(52, 147);reverse foil;inglês;nm;1;190.0;190.0
+709;doduo;(73, 147);;inglês;sp;1;2.5;2.5
+710;exeggcute;(77, 147);;inglês;nm;1;2.9;2.9
+711;miltank;(94, 147);;inglês;nm;1;19.9;19.9
+712;sentret;(107, 147);;inglês;nm;1;7.9;7.9
+713;time shard;(135, 147);;inglês;nm;1;5.9;5.9
+714;warp energy;(147, 147);;inglês;sp;1;20.0;20.0
+715;camerupt;(4, 107);reverse foil;português;d;1;7.5;7.5
+716;camerupt;(4, 107);foil;português;nm;2;9.5;19.0
+717;ludicolo;(10, 107);foil;português;nm;1;24.95;24.95
+718;ninjask;(13, 107);reverse foil;português;nm;1;29.5;29.5
+719;shedinja;(14, 107);foil;português;m;1;;
+720;slaking;(15, 107);reverse foil;português;m;1;;
+721;deoxys;(16, 107);;português;m;1;;
+722;deoxys;(17, 107);;português;nm;1;4.49;4.49
+723;deoxys;(18, 107);;português;nm;1;4.0;4.0
+724;ludicolo;(19, 107);reverse foil;português;nm;1;34.5;34.5
+725;ludicolo;(19, 107);;português;nm;1;2.49;2.49
+726;magcargo;(20, 107);;português;nm;1;6.49;6.49
+727;pelipper;(21, 107);reverse foil;português;m;1;;
+728;pelipper;(21, 107);;português;nm;1;0.99;0.99
+729;rayquaza;(22, 107);;português;d;1;1.0;1.0
+730;sableye;(23, 107);;português;nm;1;2.0;2.0
+731;seaking;(24, 107);;português;m;1;;
+732;shiftry;(25, 107);;português;nm;1;1.99;1.99
+733;tropius;(27, 107);;português;nm;2;1.0;2.0
+734;golbat;(31, 107);;português;nm;1;2.0;2.0
+735;lombre;(33, 107);;português;nm;1;2.0;2.0
+736;manectric;(38, 107);;português;nm;2;1.79;3.58
+737;masquerain;(39, 107);;português;m;1;;
+738;masquerain;(39, 107);;português;nm;1;3.5;3.5
+739;minun;(41, 107);;português;nm;2;2.0;4.0
+740;silcoon;(46, 107);;português;m;1;;
+741;silcoon;(46, 107);;português;nm;1;2.0;2.0
+742;solrock;(47, 107);;português;sp;1;1.7;1.7
+743;starmie;(48, 107);;português;m;1;;
+744;swellow;(49, 107);reverse foil;português;m;1;;
+745;bagon;(52, 107);;português;nm;2;0.32;0.64
+746;bagon;(52, 107);reverse foil;português;m;1;;
+747;baltoy;(53, 107);;português;nm;1;1.25;1.25
+748;baltoy;(53, 107);;português;sp;1;1.0;1.0
+749;beldum;(55, 107);;português;nm;4;1.0;4.0
+750;carvanha;(56, 107);;português;nm;4;1.25;5.0
+751;corphish;(57, 107);;português;nm;1;0.99;0.99
+752;duskull;(58, 107);;português;nm;3;1.25;3.75
+753;goldeen;(61, 107);;português;nm;4;0.72;2.88
+754;koffing;(62, 107);reverse foil;português;nm;1;9.5;9.5
+755;lotad;(63, 107);;português;nm;4;0.23;0.92
+756;magikarp;(64, 107);;português;nm;2;1.0;2.0
+757;makuhita;(65, 107);;português;nm;1;0.89;0.89
+758;natu;(66, 107);;português;nm;2;0.99;1.98
+759;numel;(68, 107);;português;nm;4;1.0;4.0
+760;phanpy;(69, 107);;português;nm;2;1.5;3.0
+761;poochyena;(70, 107);;português;nm;2;1.13;2.26
+762;seedot;(71, 107);;português;nm;4;0.29;1.16
+763;shroomish;(72, 107);;português;nm;3;1.5;4.5
+764;slakoth;(73, 107);;português;nm;1;1.25;1.25
+765;slugma;(74, 107);;português;nm;2;1.25;2.5
+766;slugma;(75, 107);;português;nm;1;;
+767;spoink;(76, 107);;português;nm;1;0.44;0.44
+768;staryu;(77, 107);reverse foil;português;m;1;;
+769;surskit;(78, 107);;português;nm;1;1.25;1.25
+770;swablu;(79, 107);;português;nm;1;0.89;0.89
+771;taillow;(80, 107);;português;sp;1;0.24;0.24
+772;wurmple;(82, 107);;português;nm;2;0.99;1.98
+773;zubat;(83, 107);;português;nm;3;1.25;3.75
+774;zubat;(83, 107);;português;sp;1;1.0;1.0
+775;balloon berry;(84, 107);;português;sp;1;;
+776;lady outing;(87, 107);;português;nm;1;3.0;3.0
+777;master ball;(88, 107);;português;d;1;;
+778;meteor falls;(89, 107);;português;nm;2;2.9;5.8
+779;meteor falls;(89, 107);;português;sp;1;2.7;2.7
+780;professor cozmo's discovery;(90, 107);;português;nm;1;2.0;2.0
+781;heal energy;(94, 107);;português;nm;1;;
+782;scramble energy;(95, 107);;português;m;1;;
+783;deoxys ex;(97, 107);foil;português;nm;1;;
+784;camerupt;(4, 109);foil;inglês;nm;1;24.95;24.95
+785;manectric;(9, 109);foil;inglês;sp;1;2.9;2.9
+786;wailord;(14, 109);foil;inglês;nm;2;;
+787;blaziken;(15, 109);;inglês;m;1;;
+788;blaziken;(15, 109);;inglês;nm;1;2.0;2.0
+789;donphan;(17, 109);;inglês;sp;1;1.0;1.0
+790;nosepass;(18, 109);;português;nm;1;0.49;0.49
+791;pelipper;(19, 109);;inglês;nm;1;3.99;3.99
+792;sceptile;(20, 109);;português;nm;1;3.15;3.15
+793;swampert;(23, 109);reverse foil;inglês;sp;1;;
+794;swampert;(23, 109);;inglês;nm;1;2.45;2.45
+795;weezing;(24, 109);;inglês;nm;1;1.75;1.75
+796;combusken;(27, 109);;inglês;nm;1;0.99;0.99
+797;combusken;(28, 109);;inglês;nm;1;;
+798;delcatty;(29, 109);;inglês;nm;2;1.99;3.98
+799;electrike;(30, 109);;inglês;sp;1;;
+800;grovyle;(31, 109);;inglês;nm;2;5.0;10.0
+801;hariyama;(33, 109);;inglês;nm;2;1.99;3.98
+802;hariyama;(33, 109);reverse foil;português;d;1;5.9;5.9
+803;marshtomp;(40, 109);;inglês;nm;2;;
+804;marshtomp;(40, 109);reverse foil;inglês;d;1;;
+805;silcoon;(43, 109);;inglês;nm;1;;
+806;skitty;(44, 109);;inglês;sp;1;;
+807;swellow;(46, 109);;inglês;nm;3;1.99;5.97
+808;wailmer;(48, 109);;inglês;nm;2;1.99;3.98
+809;aron;(49, 109);;inglês;nm;2;2.45;4.9
+810;aron;(49, 109);;inglês;sp;1;;
+811;aron;(50, 109);;inglês;sp;1;;
+812;electrike;(53, 109);;português;nm;1;0.72;0.72
+813;koffing;(54, 109);;inglês;nm;4;0.2;0.8
+814;goldeen;(55, 109);;inglês;nm;1;0.99;0.99
+815;makuhita;(56, 109);reverse foil;inglês;nm;1;;
+816;makuhita;(56, 109);;inglês;nm;2;0.99;1.98
+817;makuhita;(56, 109);;inglês;sp;1;2.0;2.0
+818;makuhita;(56, 109);;inglês;mp;1;;
+819;makuhita;(57, 109);;inglês;nm;1;0.4;0.4
+820;mudkip;(59, 109);;inglês;nm;1;;
+821;mudkip;(60, 109);;inglês;nm;5;7.9;39.5
+822;phanpy;(62, 109);;inglês;nm;1;;
+823;poochyena;(63, 109);;inglês;nm;2;0.99;1.98
+824;shroomish;(69, 109);;inglês;nm;3;2.0;6.0
+825;skitty;(70, 109);;inglês;nm;4;0.2;0.8
+826;taillow;(72, 109);;inglês;nm;3;0.2;0.6
+827;torchic;(73, 109);;inglês;nm;5;;
+828;torchic;(74, 109);;inglês;nm;1;2.45;2.45
+829;torchic;(74, 109);;português;nm;1;1.0;1.0
+830;torchic;(74, 109);;português;sp;1;0.3;0.3
+831;treecko;(75, 109);;inglês;nm;4;0.4;1.6
+832;treecko;(76, 109);;inglês;nm;2;0.99;1.98
+833;wingull;(77, 109);;inglês;nm;2;1.7;3.4
+834;wingull;(77, 109);;inglês;sp;2;0.4;0.8
+835;zigzagoon;(79, 109);;inglês;nm;1;5.0;5.0
+836;energy removal 2;(80, 109);;inglês;nm;3;1.99;5.97
+837;energy switch;(82, 109);;português;nm;1;;
+838;lum berry;(84, 109);;inglês;nm;1;0.49;0.49
+839;poké ball;(86, 109);;inglês;nm;2;0.1;0.2
+840;pokémon reversal;(87, 109);;inglês;nm;2;2.95;5.9
+841;pokénav;(88, 109);;inglês;nm;2;0.49;0.98
+842;professor birch;(89, 109);;inglês;nm;1;2.88;2.88
+843;professor birch;(89, 109);;inglês;d;1;;
+844;energy search;(90, 109);;inglês;nm;9;0.2;1.8
+845;potion;(91, 109);;inglês;nm;9;0.1;0.9
+846;darkness energy;(93, 109);reverse foil;inglês;nm;1;;
+847;metal energy;(94, 109);;inglês;sp;1;2.0;2.0
+848;rainbow energy;(95, 109);;inglês;nm;2;12.9;25.8
+849;grass energy;(104, 109);;inglês;nm;58;2.03;117.74
+850;grass energy;(104, 109);;inglês;sp;4;0.4;1.6
+851;fighting energy;(105, 109);;inglês;nm;31;1.13;35.03
+852;fighting energy;(105, 109);;inglês;sp;5;0.77;3.85
+853;water energy;(106, 109);;inglês;nm;43;0.5;21.5
+854;water energy;(106, 109);;inglês;sp;11;0.36;3.96
+855;water energy;(106, 109);;inglês;mp;6;0.23;1.38
+856;psychic energy;(107, 109);;inglês;nm;30;1.79;53.7
+857;psychic energy;(107, 109);;inglês;sp;5;;
+858;psychic energy;(107, 109);;inglês;d;1;;
+859;fire energy;(108, 109);;inglês;nm;35;0.89;31.15
+860;fire energy;(108, 109);;inglês;sp;13;0.4;5.2
+861;fire energy;(108, 109);;inglês;d;1;;
+862;lightning energy;(109, 109);;inglês;nm;30;1.43;42.9
+863;lightning energy;(109, 109);;inglês;sp;3;0.5;1.5
+864;lightning energy;(109, 109);;inglês;mp;11;;
+865;lightning energy;(109, 109);;inglês;d;2;;
+866;piloswine;(13, 109);foil;português;nm;1;29.5;29.5
+867;dark dragonite;(15, 109);;português;m;1;;
+868;dark dragonite;(15, 109);;português;nm;1;;
+869;dark raticate;(17, 109);;português;nm;1;3.49;3.49
+870;dark tyranitar;(20, 109);;português;nm;1;;
+871;delibird;(21, 109);;português;m;1;;
+872;furret;(22, 109);;português;nm;1;4.0;4.0
+873;ledian;(23, 109);;português;nm;2;3.0;6.0
+874;magby;(24, 109);;português;nm;1;3.9;3.9
+875;quagsire;(26, 109);;português;nm;1;1.99;1.99
+876;qwilfish;(27, 109);;português;nm;1;2.66;2.66
+877;yanma;(28, 109);;português;nm;1;3.0;3.0
+878;yanma;(28, 109);;português;sp;1;2.7;2.7
+879;dark arbok;(29, 109);;português;nm;1;2.89;2.89
+880;dark dragonair;(32, 109);;português;nm;1;;
+881;dark flaaffy;(33, 109);;português;nm;1;5.39;5.39
+882;dark flaaffy;(33, 109);;português;sp;1;5.7;5.7
+883;dark golbat;(34, 109);reverse foil;português;nm;1;;
+884;dark houndoom;(37, 109);;português;nm;1;5.0;5.0
+885;dark magneton;(39, 109);;português;nm;1;3.99;3.99
+886;dark pupitar;(41, 109);;português;nm;1;;
+887;heracross;(43, 109);;português;nm;2;;
+888;magmar;(44, 109);;português;nm;1;5.7;5.7
+889;rocket's wobbuffet;(47, 109);;português;nm;1;2.69;2.69
+890;cubone;(51, 109);;português;nm;3;0.6;1.8
+891;cubone;(51, 109);reverse foil;português;nm;1;;
+892;dratini;(53, 109);;português;nm;2;1.0;2.0
+893;dratini;(53, 109);reverse foil;português;nm;1;;
+894;ekans;(55, 109);;português;nm;3;1.79;5.37
+895;grimer;(56, 109);;português;nm;3;0.49;1.47
+896;hoppip;(57, 109);;português;nm;1;0.4;0.4
+897;koffing;(61, 109);;português;nm;1;1.62;1.62
+898;larvitar;(62, 109);;português;nm;1;0.8;0.8
+899;larvitar;(63, 109);;português;nm;1;0.49;0.49
+900;ledyba;(64, 109);;português;nm;2;0.6;1.2
+901;magikarp;(65, 109);;português;nm;2;0.99;1.98
+902;magnemite;(66, 109);;português;nm;2;0.6;1.2
+903;mareep;(67, 109);;português;sp;1;0.49;0.49
+904;marill;(68, 109);;português;nm;1;1.0;1.0
+905;onix;(69, 109);;português;nm;3;;
+906;psyduck;(70, 109);;português;nm;3;0.49;1.47
+907;remoraid;(73, 109);;português;sp;1;0.39;0.39
+908;sandshrew;(74, 109);;português;nm;3;0.6;1.8
+909;slowpoke;(76, 109);;português;nm;2;0.6;1.2
+910;slowpoke;(76, 109);;português;sp;1;0.35;0.35
+911;slowpoke;(76, 109);reverse foil;português;nm;1;;
+912;spinarak;(78, 109);;português;nm;1;0.6;0.6
+913;spinarak;(78, 109);;português;sp;1;0.45;0.45
+914;swinub;(79, 109);;português;nm;2;;
+915;swinub;(79, 109);;português;sp;1;;
+916;voltorb;(80, 109);;português;nm;3;0.6;1.8
+917;wooper;(81, 109);;português;nm;1;0.49;0.49
+918;zubat;(82, 109);;português;nm;2;3.15;6.3
+919;zubat;(82, 109);;português;sp;1;0.45;0.45
+920;rocket's admin.;(86, 109);;português;nm;1;;
+921;rocket's tricky gym;(90, 109);;português;nm;1;4.0;4.0
+922;surprise! time machine;(91, 109);;português;nm;2;;
+923;dark metal energy;(94, 109);reverse foil;português;m;1;;
+924;r energy;(95, 109);;português;sp;1;;
+925;rocket's entei ex;(97, 109);foil;português;m;1;;
+926;rocket's entei ex;(97, 109);foil;português;nm;1;799.95;799.95
+927;blaziken;(1, 106);foil;português;nm;1;;
+928;exploud;(3, 106);foil;português;mp;1;4.0;4.0
+929;manectric;(7, 106);foil;português;nm;1;17.91;17.91
+930;manectric;(7, 106);foil;português;sp;1;2.7;2.7
+931;kyogre;(15, 106);;português;nm;1;4.49;4.49
+932;manectric;(16, 106);;português;sp;1;0.99;0.99
+933;nosepass;(17, 106);;português;nm;1;0.7;0.7
+934;nosepass;(17, 106);;inglês;nm;1;2.0;2.0
+935;relicanth;(18, 106);;português;sp;1;1.0;1.0
+936;seviper;(20, 106);;português;nm;2;1.67;3.34
+937;camerupt;(23, 106);;português;nm;1;1.0;1.0
+938;camerupt;(23, 106);;português;sp;1;0.7;0.7
+939;camerupt;(23, 106);;inglês;nm;1;1.0;1.0
+940;camerupt;(23, 106);reverse foil;português;nm;1;;
+941;combusken;(25, 106);;inglês;nm;1;1.3;1.3
+942;combusken;(25, 106);reverse foil;português;nm;1;24.95;24.95
+943;dodrio;(26, 106);;português;nm;1;1.5;1.5
+944;electrode;(27, 106);;português;nm;2;0.75;1.5
+945;grovyle;(28, 106);;português;nm;1;1.5;1.5
+946;grovyle;(28, 106);;português;sp;1;1.0;1.0
+947;grumpig;(29, 106);;português;nm;1;0.72;0.72
+948;grumpig;(30, 106);;inglês;nm;1;1.0;1.0
+949;kirlia;(33, 106);;português;nm;2;;
+950;loudred;(35, 106);;português;sp;1;0.49;0.49
+951;minun;(37, 106);;português;nm;1;1.5;1.5
+952;swalot;(40, 106);;português;nm;1;;
+953;swellow;(41, 106);;português;nm;1;0.86;0.86
+954;volbeat;(42, 106);reverse foil;português;nm;1;9.5;9.5
+955;baltoy;(43, 106);;português;nm;1;0.26;0.26
+956;cacnea;(44, 106);;português;nm;1;1.0;1.0
+957;doduo;(45, 106);;português;nm;3;0.5;1.5
+958;duskull;(46, 106);;português;nm;1;0.7;0.7
+959;electrike;(47, 106);;inglês;nm;1;0.5;0.5
+960;electrike;(47, 106);;inglês;mp;1;0.2;0.2
+961;electrike;(48, 106);;português;nm;2;1.0;2.0
+962;electrike;(48, 106);;português;mp;1;0.7;0.7
+963;feebas;(49, 106);;inglês;nm;1;0.5;0.5
+964;feebas;(50, 106);;inglês;nm;1;0.49;0.49
+965;gulpin;(51, 106);;português;nm;3;0.23;0.69
+966;gulpin;(51, 106);reverse foil;português;nm;1;;
+967;larvitar;(52, 106);;português;nm;1;0.44;0.44
+968;larvitar;(52, 106);;inglês;nm;1;0.9;0.9
+969;luvdisc;(53, 106);;português;nm;2;0.9;1.8
+970;makuhita;(54, 106);;português;nm;1;0.5;0.5
+971;makuhita;(54, 106);reverse foil;português;nm;1;24.5;24.5
+972;meditite;(55, 106);;português;nm;2;0.23;0.46
+973;meditite;(55, 106);;português;sp;1;0.71;0.71
+974;mudkip;(56, 106);;português;nm;2;0.5;1.0
+975;numel;(57, 106);;português;nm;1;0.5;0.5
+976;numel;(57, 106);;português;sp;2;0.45;0.9
+977;numel;(57, 106);;português;mp;1;0.3;0.3
+978;numel;(58, 106);;inglês;nm;1;0.5;0.5
+979;numel;(58, 106);reverse foil;português;sp;1;;
+980;pichu;(59, 106);;português;nm;2;;
+981;ralts;(61, 106);;português;nm;1;0.7;0.7
+982;ralts;(61, 106);;português;sp;1;0.5;0.5
+983;shroomish;(63, 106);;português;nm;2;0.9;1.8
+984;snorunt;(64, 106);;português;nm;2;0.17;0.34
+985;spoink;(66, 106);;português;nm;1;0.8;0.8
+986;taillow;(68, 106);;português;nm;1;0.5;0.5
+987;torchic;(69, 106);;inglês;nm;1;0.44;0.44
+988;treecko;(70, 106);;português;nm;3;0.86;2.58
+989;voltorb;(71, 106);reverse foil;português;nm;1;;
+990;vulpix;(72, 106);;português;nm;4;0.25;1.0
+991;whismur;(73, 106);;português;nm;1;0.49;0.49
+992;whismur;(73, 106);;português;sp;2;0.3;0.6
+993;zigzagoon;(74, 106);;português;nm;1;0.23;0.23
+994;zigzagoon;(74, 106);;português;d;1;;
+995;double full heal;(76, 106);;português;nm;1;5.0;5.0
+996;oran berry;(80, 106);;português;d;1;;
+997;professor birch;(82, 106);;português;nm;1;;
+998;scott;(84, 106);;inglês;nm;1;10.0;10.0
+999;darkness energy;(86, 106);reverse foil;inglês;nm;1;;
+1000;double rainbow energy;(87, 106);;português;nm;1;25.0;25.0
+1001;metal energy;(88, 106);;português;nm;1;8.0;8.0
+1002;multi energy;(89, 106);;português;nm;1;8.0;8.0
+1003;milotic ex;(96, 106);foil;português;m;1;;
+1004;water energy;(103, 106);foil;inglês;nm;1;49.95;49.95
+1005;fighting energy;(106, 106);foil;inglês;nm;1;49.95;49.95
+1006;crawdaunt;(3, 97);foil;inglês;d;1;1.5;1.5
+1007;roselia;(9, 97);foil;inglês;nm;1;10.0;10.0
+1008;flygon;(15, 97);;inglês;nm;2;2.39;4.78
+1009;salamence;(19, 97);;inglês;nm;2;3.9;7.8
+1010;camerupt;(24, 97);;inglês;nm;1;0.49;0.49
+1011;camerupt;(24, 97);;inglês;mp;1;0.5;0.5
+1012;magneton;(35, 97);;inglês;nm;2;1.0;2.0
+1013;ninjask;(38, 97);;inglês;nm;2;1.5;3.0
+1014;seadra;(40, 97);;inglês;nm;2;1.5;3.0
+1015;shelgon;(41, 97);;inglês;nm;2;1.0;2.0
+1016;vibrava;(47, 97);;inglês;nm;2;1.5;3.0
+1017;bagon;(49, 97);;inglês;nm;4;1.0;4.0
+1018;corphish;(52, 97);;inglês;nm;4;1.0;4.0
+1019;grimer;(57, 97);;inglês;nm;3;0.5;1.5
+1020;horsea;(58, 97);;inglês;nm;4;0.5;2.0
+1021;magnemite;(61, 97);;inglês;nm;4;1.0;4.0
+1022;nincada;(66, 97);;inglês;nm;4;0.75;3.0
+1023;numel;(69, 97);;inglês;nm;3;0.53;1.59
+1024;numel;(69, 97);;inglês;sp;1;0.49;0.49
+1025;slugma;(72, 97);;inglês;nm;2;0.49;0.98
+1026;slugma;(72, 97);;inglês;sp;1;0.49;0.49
+1027;spoink;(73, 97);;inglês;nm;4;0.49;1.96
+1028;trapinch;(78, 97);;inglês;nm;4;1.0;4.0
+1029;balloon berry;(82, 97);;inglês;nm;2;0.49;0.98
+1030;energy recycle system;(84, 97);;inglês;nm;1;1.6;1.6
+1031;energy recycle system;(84, 97);;inglês;sp;1;1.49;1.49
+1032;high pressure system;(85, 97);;inglês;nm;1;2.0;2.0
+1033;low pressure system;(86, 97);;inglês;nm;1;2.9;2.9
+1034;tv reporter;(88, 97);;inglês;nm;4;2.8;11.2
+1035;dark gyarados;(25, 82);;inglês;mp;1;;
+1036;dark muk;(41, 82);;inglês;hp;1;2.49;2.49
+1037;dark vaporeon;(45, 82);;inglês;mp;1;9.5;9.5
+1038;porygon;(48, 82);;inglês;hp;1;;
+1039;abra;(49, 82);;inglês;mp;1;0.89;0.89
+1040;eevee;(55, 82);;inglês;d;1;1.0;1.0
+1041;ekans;(56, 82);;inglês;mp;1;0.74;0.74
+1042;grimer;(57, 82);;inglês;d;1;1.9;1.9
+1043;meowth;(62, 82);;inglês;hp;1;0.75;0.75
+1044;oddish;(63, 82);;inglês;d;1;0.19;0.19
+1045;zubat;(70, 82);;inglês;d;1;0.19;0.19
+1046;full heal energy;(81, 82);;inglês;hp;1;;
+1047;machamp;(15, 110);reverse foil;inglês;d;1;79.9;79.9
+1048;kabutops;(27, 110);;inglês;d;1;;
+1049;ivysaur;(47, 110);;inglês;d;1;;
+1050;metapod;(54, 110);;inglês;d;1;;
+1051;raticate;(61, 110);;inglês;d;1;;
+1052;bulbasaur;(68, 110);;inglês;mp;2;;
+1053;caterpie;(69, 110);;inglês;sp;2;2.7;5.4
+1054;onix;(84, 110);;inglês;d;2;0.5;1.0
+1055;rattata;(89, 110);;inglês;mp;2;0.4;0.8
+1056;full heal;(111, 130);;inglês;hp;1;0.5;0.5
+1057;pluspower;(113, 130);;inglês;sp;1;2.7;2.7
+1058;pluspower;(113, 130);;inglês;mp;1;3.5;3.5
+1059;bill;(118, 130);;inglês;mp;2;0.7;1.4
+1060;energy removal;(119, 130);;inglês;sp;1;1.4;1.4
+1061;energy removal;(119, 130);;inglês;mp;1;0.94;0.94
+1062;gust of wind;(120, 130);;inglês;sp;2;0.49;0.98
+1063;gust of wind;(120, 130);;inglês;d;2;0.27;0.54
+1064;potion;(122, 130);;inglês;sp;2;0.2;0.4
+1065;potion;(122, 130);;inglês;mp;3;0.05;0.15
+1066;dark persian;(17, 53);foil;inglês;nm;2;59.95;119.9
+1067;misdreavus;(39, 53);;inglês;nm;1;9.5;9.5
+1068;misdreavus;(39, 53);;inglês;sp;1;8.5;8.5
+1069;pikachu;(4, 53);;inglês;d;1;7.75;7.75
+1070;zapdos;(23, 53);;português;hp;2;2.25;4.5
+1071;zapdos;(23, 53);;português;d;2;0.5;1.0
+1072;pignite;(4, 12);foil;português;nm;1;9.9;9.9
+1073;spheal;(65, 92);reverse foil;inglês;nm;1;19.5;19.5
+1074;floatzel;(37, 106);;inglês;mp;1;;
+1075;felicity's drawing;(98, 106);;inglês;nm;2;2.0;4.0
+1076;chikorita;(44, 101);;inglês;nm;1;1.0;1.0
+1077;taillow;(66, 101);;inglês;nm;1;1.0;1.0
+1078;trapinch;(68, 101);;inglês;nm;1;0.5;0.5
+1079;trapinch;(69, 101);;inglês;nm;1;0.99;0.99
+1080;luxray;(5, 99);foil;inglês;nm;1;;
+1081;mothim;(6, 99);foil;inglês;mp;1;;
+1082;salamence;(8, 99);reverse foil;inglês;nm;1;;
+1083;zapdos g;(12, 99);foil;inglês;nm;1;;
+1084;aerodactyl;(13, 99);;inglês;nm;1;15.0;15.0
+1085;bronzor;(34, 99);;inglês;nm;1;1.0;1.0
+1086;charmeleon;(35, 99);;inglês;nm;1;;
+1087;graveler;(37, 99);;inglês;nm;2;1.0;2.0
+1088;haunter;(41, 99);;inglês;nm;1;;
+1089;haunter;(42, 99);;inglês;nm;1;1.0;1.0
+1090;pelipper;(45, 99);;inglês;nm;2;1.0;2.0
+1091;ponyta;(46, 99);;inglês;nm;1;2.25;2.25
+1092;shelgon;(48, 99);;inglês;hp;1;;
+1093;wormadam plant cloak;(49, 99);;inglês;hp;1;;
+1094;wormadam trash cloak;(51, 99);;inglês;nm;2;0.9;1.8
+1095;bronzor;(54, 99);reverse foil;inglês;nm;1;;
+1096;burmy plant cloak;(56, 99);;inglês;d;1;;
+1097;burmy sandy cloak;(57, 99);;inglês;nm;1;0.5;0.5
+1098;burmy trash cloak;(58, 99);;inglês;nm;1;0.49;0.49
+1099;burmy trash cloak;(58, 99);;inglês;d;1;;
+1100;charmander;(59, 99);;inglês;nm;1;;
+1101;croagunk;(61, 99);;inglês;d;1;;
+1102;electrike;(63, 99);;inglês;nm;2;0.5;1.0
+1103;gastly;(64, 99);;inglês;nm;2;0.5;1.0
+1104;geodude;(65, 99);;inglês;sp;1;1.7;1.7
+1105;geodude;(65, 99);;inglês;mp;1;1.5;1.5
+1106;geodude;(65, 99);;inglês;d;1;;
+1107;kabuto;(67, 99);;inglês;nm;1;1.0;1.0
+1108;kabuto;(67, 99);;inglês;d;1;;
+1109;makuhita;(68, 99);;inglês;nm;1;0.4;0.4
+1110;nosepass;(69, 99);;inglês;nm;1;0.5;0.5
+1111;pikachu;(71, 99);;inglês;nm;1;;
+1112;rattata;(73, 99);reverse foil;inglês;nm;1;;
+1113;rattata;(73, 99);;inglês;nm;1;0.5;0.5
+1114;shinx;(74, 99);;inglês;nm;1;0.5;0.5
+1115;tangela;(77, 99);;inglês;nm;2;0.4;0.8
+1116;wingull;(80, 99);;inglês;nm;1;0.5;0.5
+1117;wingull;(80, 99);;inglês;sp;1;0.45;0.45
+1118;wingull;(81, 99);;inglês;nm;1;0.5;0.5
+1119;energy restore;(86, 99);;inglês;nm;1;0.5;0.5
+1120;expert belt;(87, 99);;inglês;nm;1;3.0;3.0
+1121;lucky egg;(88, 99);reverse foil;inglês;nm;1;;
+1122;lucky egg;(88, 99);;inglês;mp;1;0.49;0.49
+1123;salamence lv.x;(98, 99);foil;inglês;nm;1;;
+1124;arceus;ar5;foil;inglês;nm;1;;
+1125;arceus;ar8;foil;inglês;nm;1;;
+1126;beedrill;(1, 113);foil;inglês;nm;1;;
+1127;rain castform;(26, 113);reverse foil;inglês;d;1;;
+1128;hariyama;(44, 113);;inglês;nm;1;2.5;2.5
+1129;illumise;(45, 113);reverse foil;inglês;nm;1;54.5;54.5
+1130;metang;(49, 113);;inglês;nm;1;8.0;8.0
+1131;bagon;(58, 113);;inglês;nm;1;2.0;2.0
+1132;holon's magnemite;(70, 113);;inglês;nm;1;6.0;6.0
+1133;magnemite;(74, 113);;inglês;nm;1;0.54;0.54
+1134;meowth;(77, 113);;inglês;nm;1;1.0;1.0
+1135;ralts;(81, 113);;inglês;nm;1;0.9;0.9
+1136;dual ball;(89, 113);reverse foil;inglês;nm;1;;
+1137;holon lass;(92, 113);;inglês;nm;1;4.0;4.0
+1138;ampharos;(1, 127);foil;inglês;nm;1;;
+1139;blaziken;(3, 127);reverse foil;inglês;nm;1;20.0;20.0
+1140;dialga;(6, 127);reverse foil;inglês;nm;1;9.5;9.5
+1141;palkia g;(12, 127);reverse foil;inglês;nm;1;;
+1142;shaymin;(15, 127);reverse foil;inglês;nm;1;;
+1143;banette;(19, 127);;inglês;nm;1;1.99;1.99
+1144;empoleon;(26, 127);;inglês;sp;1;;
+1145;giratina;(27, 127);;inglês;nm;1;25.9;25.9
+1146;luvdisc;(35, 127);;inglês;nm;1;2.0;2.0
+1147;torterra;(39, 127);;inglês;nm;1;;
+1148;cacturne;(42, 127);;inglês;nm;2;1.0;2.0
+1149;carnivine;(43, 127);;inglês;nm;1;1.0;1.0
+1150;cascoon;(44, 127);;inglês;nm;1;;
+1151;combusken;(45, 127);;inglês;nm;1;1.0;1.0
+1152;crobat g;(47, 127);;inglês;nm;1;;
+1153;grotle;(49, 127);;inglês;nm;2;0.5;1.0
+1154;kirlia;(51, 127);;inglês;nm;1;;
+1155;lucario;(53, 127);;inglês;nm;1;;
+1156;mightyena;(54, 127);;inglês;sp;1;1.99;1.99
+1157;prinplup;(59, 127);;inglês;nm;1;0.75;0.75
+1158;silcoon;(63, 127);;inglês;sp;1;1.49;1.49
+1159;vigoroth;(64, 127);;inglês;nm;2;1.5;3.0
+1160;carnivine;(68, 127);;inglês;nm;1;0.49;0.49
+1161;chansey;(69, 127);;inglês;nm;1;1.9;1.9
+1162;chansey;(69, 127);;inglês;sp;1;1.7;1.7
+1163;chimchar;(70, 127);;inglês;nm;1;0.5;0.5
+1164;combee;(71, 127);;inglês;nm;1;0.49;0.49
+1165;diglett;(72, 127);;inglês;nm;1;0.49;0.49
+1166;dunsparce;(73, 127);;inglês;nm;1;0.49;0.49
+1167;electrike;(74, 127);;inglês;nm;1;0.49;0.49
+1168;happiny;(76, 127);;inglês;nm;2;0.5;1.0
+1169;honchkrow g;(77, 127);;inglês;nm;1;1.49;1.49
+1170;lapras;(79, 127);;inglês;nm;2;0.9;1.8
+1171;lickitung;(80, 127);;inglês;nm;3;0.5;1.5
+1172;lotad;(81, 127);;inglês;nm;1;0.5;0.5
+1173;nosepass;(84, 127);;inglês;nm;2;0.48;0.96
+1174;piplup;(85, 127);;inglês;nm;1;1.9;1.9
+1175;piplup;(85, 127);;inglês;sp;1;1.7;1.7
+1176;poochyena;(86, 127);;inglês;nm;1;0.49;0.49
+1177;poochyena;(86, 127);;inglês;d;1;;
+1178;psyduck;(87, 127);;inglês;nm;1;0.49;0.49
+1179;purugly g;(88, 127);;inglês;nm;1;0.5;0.5
+1180;ralts;(89, 127);;inglês;nm;1;1.13;1.13
+1181;riolu;(91, 127);;inglês;nm;1;0.4;0.4
+1182;squirtle;(96, 127);;inglês;nm;1;;
+1183;torchic;(99, 127);;inglês;nm;1;0.49;0.49
+1184;torchic;(99, 127);;inglês;sp;1;0.45;0.45
+1185;torkoal;(100, 127);;inglês;nm;1;1.9;1.9
+1186;turtwig;(101, 127);;inglês;nm;2;0.48;0.96
+1187;vulpix;(102, 127);;inglês;nm;1;2.25;2.25
+1188;galactic hq;(106, 127);;inglês;nm;1;1.5;1.5
+1189;life herb;(108, 127);;inglês;nm;2;1.0;2.0
+1190;memory berry;(110, 127);;inglês;nm;1;1.5;1.5
+1191;pokédex handy910is;(114, 127);;inglês;sp;1;0.99;0.99
+1192;armor fossil;(119, 127);;inglês;nm;1;1.49;1.49
+1193;lotad;sh4;reverse foil;inglês;nm;1;;
+1194;swablu;sh5;reverse foil;inglês;nm;1;;
+1195;heracross;(7, 101);foil;inglês;nm;1;125.0;125.0
+1196;shiftry;(14, 101);foil;inglês;m;1;;
+1197;tropius;(27, 101);;inglês;nm;1;;
+1198;dodrio;(33, 101);;inglês;nm;1;1.5;1.5
+1199;gloom;(35, 101);;inglês;nm;1;0.99;0.99
+1200;igglybuff;(37, 101);;inglês;nm;1;;
+1201;machoke;(41, 101);;inglês;nm;1;;
+1202;medicham;(42, 101);reverse foil;inglês;m;1;;
+1203;baltoy;(52, 101);;inglês;nm;1;0.5;0.5
+1204;baltoy;(52, 101);;inglês;sp;1;0.49;0.49
+1205;feebas;(61, 101);;inglês;nm;1;0.32;0.32
+1206;oddish;(68, 101);;inglês;nm;2;0.49;0.98
+1207;shuppet;(72, 101);;inglês;sp;1;0.45;0.45
+1208;totodile;(79, 101);;inglês;nm;1;0.49;0.49
+1209;whismur;(82, 101);;inglês;nm;1;0.49;0.49
+1210;zubat;(83, 101);;inglês;nm;2;0.5;1.0
+1211;darkrai;(3, 100);reverse foil;inglês;nm;1;;
+1212;minun;(25, 100);;inglês;nm;1;2.5;2.5
+1213;ambipom;(35, 100);;inglês;nm;1;0.99;0.99
+1214;monferno;(41, 100);;inglês;sp;1;0.99;0.99
+1215;chimchar;(57, 100);;inglês;sp;1;;
+1216;croagunk;(60, 100);;inglês;nm;1;0.39;0.39
+1217;eevee;(63, 100);;inglês;nm;1;2.5;2.5
+1218;glameow;(65, 100);;inglês;nm;1;0.48;0.48
+1219;turtwig;(78, 100);;inglês;nm;1;0.45;0.45
+1220;old amber;(84, 100);;inglês;nm;1;1.45;1.45
+1221;energy search;(90, 100);;inglês;nm;2;0.49;0.98
+1222;flygon;(5, 111);;inglês;nm;1;;
+1223;luxray gl;(9, 111);foil;inglês;nm;1;;
+1224;shiftry;(13, 111);foil;inglês;nm;1;14.5;14.5
+1225;gastrodon east sea;(21, 111);reverse foil;inglês;nm;1;;
+1226;hippowdon;(25, 111);foil;inglês;nm;1;;
+1227;rhyperior 4;(32, 111);foil;inglês;m;1;;
+1228;glaceon;(41, 111);reverse foil;inglês;nm;1;;
+1229;hippowdon 4;(42, 111);;inglês;nm;2;1.5;3.0
+1230;machamp gl;(46, 111);;inglês;nm;1;1.5;1.5
+1231;scizor 4;(48, 111);;inglês;nm;1;;
+1232;starmie;(50, 111);;inglês;nm;2;1.0;2.0
+1233;vibrava;(53, 111);;inglês;nm;2;2.5;5.0
+1234;whiscash 4;(54, 111);;inglês;sp;1;1.0;1.0
+1235;aerodactyl gl;(55, 111);;inglês;nm;4;5.0;20.0
+1236;flareon 4;(60, 111);;inglês;nm;2;2.0;4.0
+1237;hippopotas;(64, 111);;inglês;nm;4;0.49;1.96
+1238;houndoom 4;(65, 111);;inglês;nm;2;1.5;3.0
+1239;kecleon;(67, 111);;inglês;d;1;;
+1240;nidoran fêmea;(71, 111);reverse foil;inglês;nm;1;5.5;5.5
+1241;nidoran fêmea;(71, 111);;inglês;nm;1;0.49;0.49
+1242;nidoran macho;(72, 111);;inglês;nm;1;0.48;0.48
+1243;nidorino;(74, 111);;inglês;nm;2;0.99;1.98
+1244;spheal;(82, 111);;inglês;nm;1;0.49;0.49
+1245;staryu;(83, 111);;inglês;nm;4;0.49;1.96
+1246;trapinch;(84, 111);;inglês;nm;4;0.48;1.92
+1247;turtwig gl;(85, 111);;inglês;nm;1;0.49;0.49
+1248;aaron's collection;(88, 111);;inglês;nm;2;1.5;3.0
+1249;bebe's search;(89, 111);;inglês;nm;2;1.45;2.9
+1250;sunyshore city gym;(94, 111);;inglês;nm;1;0.99;0.99
+1251;volkner's philosophy;(98, 111);;inglês;nm;1;3.0;3.0
+1252;volkner's philosophy;(98, 111);;inglês;sp;1;2.5;2.5
+1253;sp energy;(101, 111);;inglês;nm;1;4.0;4.0
+1254;cherrim;(14, 100);;inglês;nm;1;1.9;1.9
+1255;drifblim;(16, 100);;inglês;nm;1;;
+1256;skuntank;(26, 100);;inglês;nm;1;1.9;1.9
+1257;staraptor;(27, 100);;inglês;nm;1;0.49;0.49
+1258;tyranitar;(30, 100);foil;inglês;nm;1;;
+1259;dusclops;(34, 100);;inglês;nm;1;1.9;1.9
+1260;farfetch'd;(38, 100);;inglês;nm;1;1.45;1.45
+1261;haunter;(40, 100);;inglês;nm;1;1.5;1.5
+1262;miltank;(44, 100);;inglês;nm;1;0.95;0.95
+1263;pupitar;(47, 100);;inglês;nm;2;0.7;1.4
+1264;shelgon;(50, 100);reverse foil;inglês;hp;1;;
+1265;staravia;(52, 100);;inglês;nm;2;0.65;1.3
+1266;bagon;(53, 100);;inglês;nm;1;0.49;0.49
+1267;bagon;(53, 100);;inglês;sp;1;0.49;0.49
+1268;bagon;(53, 100);;inglês;mp;1;0.4;0.4
+1269;bidoof;(54, 100);reverse foil;inglês;mp;1;;
+1270;bronzor;(55, 100);;inglês;sp;1;0.3;0.3
+1271;gastly;(62, 100);;inglês;nm;1;;
+1272;larvitar;(63, 100);;inglês;nm;4;0.5;2.0
+1273;machop;(64, 100);;inglês;nm;4;0.48;1.92
+1274;magnemite;(67, 100);;inglês;nm;1;0.49;0.49
+1275;pikachu;(70, 100);reverse foil;inglês;sp;1;79.9;79.9
+1276;snover;(74, 100);;inglês;nm;1;0.49;0.49
+1277;starly;(75, 100);;inglês;nm;4;0.5;2.0
+1278;stunky;(76, 100);;inglês;nm;4;0.49;1.96
+1279;treecko;(79, 100);;inglês;nm;1;1.49;1.49
+1280;treecko;(79, 100);;inglês;mp;1;1.5;1.5
+1281;voltorb;(81, 100);;inglês;nm;1;0.49;0.49
+1282;energy switch;(84, 100);;inglês;nm;1;1.9;1.9
+1283;energy switch;(84, 100);;inglês;sp;1;0.49;0.49
+1284;great ball;(85, 100);;inglês;nm;2;1.9;3.8
+1285;luxury ball;(86, 100);;inglês;nm;1;9.9;9.9
+1286;poké blower +;(88, 100);;inglês;nm;1;;
+1287;poké drawer +;(89, 100);;inglês;nm;1;;
+1288;potion;(92, 100);;inglês;nm;4;0.49;1.96
+1289;potion;(92, 100);;inglês;sp;1;0.45;0.45
+1290;switch;(93, 100);;inglês;nm;2;0.5;1.0
+1291;deoxys speed forme;(26, 146);;inglês;nm;1;;
+1292;lucario;(61, 146);;inglês;nm;1;;
+1293;metang;(64, 146);;inglês;nm;1;1.0;1.0
+1294;unown r;(77, 146);;inglês;nm;1;35.9;35.9
+1295;chinchou;(88, 146);;inglês;nm;1;0.5;0.5
+1296;gloom;(97, 146);;inglês;nm;1;1.9;1.9
+1297;hitmonchan;(99, 146);reverse foil;inglês;nm;1;;
+1298;hitmonchan;(99, 146);;inglês;nm;1;1.9;1.9
+1299;lileep;(105, 146);;inglês;nm;1;1.9;1.9
+1300;poliwag;(114, 146);;inglês;nm;1;0.5;0.5
+1301;cynthia's feelings;(131, 146);;inglês;nm;2;3.9;7.8
+1302;arcanine g;(15, 147);;inglês;nm;1;;
+1303;lopunny;(63, 147);;inglês;nm;1;0.75;0.75
+1304;marshtomp;(67, 147);reverse foil;inglês;nm;1;;
+1305;ninjask;(73, 147);;inglês;nm;1;1.0;1.0
+1306;bulbasaur;(93, 147);;inglês;sp;1;2.7;2.7
+1307;chingling;(98, 147);;inglês;nm;1;;
+1308;gible;(106, 147);;inglês;nm;1;0.49;0.49
+1309;meditite;(113, 147);;inglês;nm;1;0.49;0.49
+1310;starly;(129, 147);;inglês;nm;1;0.49;0.49
+1311;battle tower;(134, 147);;inglês;nm;1;1.5;1.5
+1312;electivire;(3, 130);reverse foil;inglês;nm;1;;
+1313;carnivine;(21, 130);;inglês;nm;1;1.9;1.9
+1314;lopunny;(30, 130);;inglês;nm;1;2.5;2.5
+1315;wynaut;(42, 130);;inglês;nm;1;;
+1316;dusclops;(47, 130);;inglês;sp;1;0.95;0.95
+1317;grotle;(49, 130);;inglês;nm;1;0.49;0.49
+1318;prinplup;(58, 130);;inglês;sp;1;0.39;0.39
+1319;rapidash;(59, 130);;inglês;nm;1;0.7;0.7
+1320;rapidash;(59, 130);;inglês;sp;1;0.65;0.65
+1321;riolu;(61, 130);;inglês;sp;1;2.7;2.7
+1322;unown c;(67, 130);;inglês;sp;1;2.7;2.7
+1323;bidoof;(70, 130);;inglês;nm;1;0.23;0.23
+1324;bonsly;(71, 130);;inglês;nm;1;29.9;29.9
+1325;chatot;(74, 130);;inglês;nm;1;0.5;0.5
+1326;chimchar;(76, 130);;inglês;nm;1;0.49;0.49
+1327;combee;(79, 130);;inglês;nm;1;0.5;0.5
+1328;gastly;(82, 130);;inglês;nm;1;0.5;0.5
+1329;glameow;(83, 130);reverse foil;inglês;nm;1;5.5;5.5
+1330;onix;(92, 130);;inglês;nm;1;1.9;1.9
+1331;piplup;(93, 130);reverse foil;inglês;nm;1;5.5;5.5
+1332;shinx;(98, 130);;inglês;sp;1;;
+1333;starly;(101, 130);;inglês;nm;1;0.5;0.5
+1334;stunky;(102, 130);;inglês;nm;1;0.35;0.35
+1335;turtwig;(103, 130);;inglês;nm;2;0.5;1.0
+1336;energy restore;(106, 130);;inglês;nm;1;1.0;1.0
+1337;energy restore;(106, 130);;inglês;sp;1;0.5;0.5
+1338;night pokémon center;(108, 130);;inglês;nm;1;1.5;1.5

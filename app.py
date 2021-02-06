@@ -117,6 +117,7 @@ class App:
                             precos_website_1, preco_acumulado = scraper.busca(row['nome'], row['num_colecao'],
                                                                 precos_website_1, preco_acumulado, self.df_precos_parcial,
                                                                               self.df_cards, estatistica, csv_input_path)
+                    self.window.close()
                     self.reset()
                 except Exception as e:
                     print(e)
