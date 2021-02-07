@@ -61,6 +61,7 @@ class App:
         self.window = sg.Window("Card Scraper", layout)
         self.df_precos_parcial = None
         self.df_cards = None
+        self.cards_ja_buscados = set()
         self.progress_bar = self.window.FindElement('-PROGRESS-')
 
     def run(self):
